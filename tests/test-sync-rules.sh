@@ -75,4 +75,9 @@ fi
 [[ "$(find "$TEST_ROOT/target" -mindepth 1 -maxdepth 1 -type d | wc -l)" == 0 ]] || fail "all-failed run created directories"
 printf 'PASS: all-failed run is not published\n'
 
+version_tag=v1.13.18
+version_output='sing-box version 1.13.18'
+[[ "$version_output" == *"${version_tag#v}"* ]] || fail "sing-box version tag normalization failed"
+printf 'PASS: sing-box version tag normalization\n'
+
 printf 'all tests passed\n'

@@ -69,7 +69,8 @@ jobs:
           binary=$(find /tmp/sing-box -type f -name sing-box -print -quit)
           test -x "$binary"
           version=$($binary version | head -n 1)
-          grep -F "$tag" <<<"$version"
+          version_number=${tag#v}
+          grep -F "$version_number" <<<"$version"
           binary_sha=$(sha256sum "$binary" | awk '{print $1}')
           printf 'tag=%s\nasset=%s\narchive_sha=%s\nbinary_sha=%s\ndigest=%s\n' \
             "$tag" "$name" "$archive_sha" "$binary_sha" "$digest" >> "$GITHUB_OUTPUT"
