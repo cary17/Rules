@@ -12,11 +12,18 @@ LOG=$(mktemp)
 trap 'rm -rf "$TARGET" "$LOG"' EXIT
 
 origin="${GITHUB_SERVER_URL:-https://github.com}/${GITHUB_REPOSITORY:?GITHUB_REPOSITORY is required}.git"
-if ! git -C "$ROOT" fetch --no-tags --quiet origin "$TARGET_BRANCH"; then
-  echo "$SOURCE: unable to fetch artifact branch" >&2
+remote_ref=
+if ! remote_ref=$(git -C "$ROOT" ls-remote --heads origin "refs/heads/$TARGET_BRANCH"); then
+  echo "$SOURCE: unable to inspect artifact branch" >&2
   exit 1
 fi
-if git -C "$ROOT" show-ref --verify --quiet "refs/remotes/origin/$TARGET_BRANCH"; then
+if [[ -n "$remote_ref" ]]; then
+  if ! git -C "$ROOT" fetch --no-tags --quiet origin "$TARGET_BRANCH"; then
+    echo "$SOURCE: unable to fetch artifact branch" >&2
+    exit 1
+  fi
+fi
+if [[ -n "$remote_ref" ]] && git -C "$ROOT" show-ref --verify --quiet "refs/remotes/origin/$TARGET_BRANCH"; then
   if ! git clone --quiet --no-checkout "$ROOT" "$TARGET"; then
     echo "$SOURCE: unable to clone current checkout" >&2
     exit 1
