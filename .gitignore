@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.pyc
+.tmp/
+artifacts/
+coverage/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Generated release branches are managed by GitHub Actions.
+# Keep local generated artifacts out of main.
+FAILED.tsv
+*.srs
+*.db
+*.tar.gz
+**/sing-box
+**/roundtrip.srs
+**/roundtrip.json
+
+# Never commit credentials or local account data.
+.account/
+.ssh/
+*token*
+*secret*
+*password*

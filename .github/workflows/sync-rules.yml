@@ -1,0 +1,116 @@
+name: Sync Rules
+
+on:
+  schedule:
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rules-daily-sync
+  cancel-in-progress: false
+
+env:
+  SING_BOX_RELEASE_API: https://api.github.com/repos/SagerNet/sing-box/releases/latest
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Install tools
+        run: |
+          set -euo pipefail
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends jq
+
+      - name: Download and verify sing-box
+        id: sing-box
+        run: |
+          set -euo pipefail
+          api=/tmp/sing-box-release.json
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-all-errors --connect-timeout 15 --max-time 60 \
+            -H "Accept: application/vnd.github+json" \
+            "$SING_BOX_RELEASE_API" > "$api"
+          tag=$(jq -r '.tag_name' "$api")
+          asset=$(jq -r '[.assets[] | select(.name | test("linux-amd64\\.tar\\.gz$"))][0]' "$api")
+          name=$(jq -r '.name' <<<"$asset")
+          url=$(jq -r '.browser_download_url' <<<"$asset")
+          digest=$(jq -r '.digest // empty' <<<"$asset")
+          test -n "$tag" -a "$tag" != null
+          test -n "$name" -a "$name" != null
+          test -n "$url" -a "$url" != null
+          case "$tag" in v[0-9]*.[0-9]*.[0-9]*) ;; *) echo "invalid release tag: $tag" >&2; exit 1 ;; esac
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-all-errors --connect-timeout 15 --max-time 120 \
+            "$url" -o /tmp/sing-box.tar.gz
+          archive_sha=$(sha256sum /tmp/sing-box.tar.gz | awk '{print $1}')
+          if [[ "$digest" == sha256:* && "${digest#sha256:}" != "$archive_sha" ]]; then
+            echo "sing-box archive digest mismatch" >&2
+            exit 1
+          fi
+          mkdir -p /tmp/sing-box
+          tar -xzf /tmp/sing-box.tar.gz -C /tmp/sing-box
+          binary=$(find /tmp/sing-box -type f -name sing-box -print -quit)
+          test -x "$binary"
+          version=$($binary version | head -n 1)
+          grep -F "$tag" <<<"$version"
+          binary_sha=$(sha256sum "$binary" | awk '{print $1}')
+          printf 'tag=%s\nasset=%s\narchive_sha=%s\nbinary_sha=%s\ndigest=%s\n' \
+            "$tag" "$name" "$archive_sha" "$binary_sha" "$digest" >> "$GITHUB_OUTPUT"
+          printf '%s\n' "$binary" > /tmp/sing-box-path
+
+      - name: Sync sing-geoip
+        id: geoip
+        if: ${{ always() && steps.sing-box.outcome == 'success' }}
+        env:
+          SING_BOX_VERSION: ${{ steps.sing-box.outputs.tag }}
+          SING_BOX_ASSET: ${{ steps.sing-box.outputs.asset }}
+          SING_BOX_ARCHIVE_SHA256: ${{ steps.sing-box.outputs.archive_sha }}
+          SING_BOX_BINARY_SHA256: ${{ steps.sing-box.outputs.binary_sha }}
+        continue-on-error: true
+        run: .github/workflows/sync-one.sh sing-geoip
+
+      - name: Sync sing-geosite
+        id: geosite
+        if: ${{ always() && steps.sing-box.outcome == 'success' }}
+        env:
+          SING_BOX_VERSION: ${{ steps.sing-box.outputs.tag }}
+          SING_BOX_ASSET: ${{ steps.sing-box.outputs.asset }}
+          SING_BOX_ARCHIVE_SHA256: ${{ steps.sing-box.outputs.archive_sha }}
+          SING_BOX_BINARY_SHA256: ${{ steps.sing-box.outputs.binary_sha }}
+        continue-on-error: true
+        run: .github/workflows/sync-one.sh sing-geosite
+
+      - name: Fail on source errors
+        if: ${{ always() }}
+        run: |
+          set -euo pipefail
+          if [[ "${{ steps.geoip.outcome }}" != success || "${{ steps.geosite.outcome }}" != success ]]; then
+            echo "one or more source syncs failed" >&2
+            exit 1
+          fi
+
+      - name: Final summary
+        if: always()
+        run: |
+          set -u
+          {
+            echo "## Rules sync"
+            echo ""
+            echo "- sing-box: ${{ steps.sing-box.outputs.tag }}"
+            echo "- Archive SHA-256: ${{ steps.sing-box.outputs.archive_sha }}"
+            echo "- Binary SHA-256: ${{ steps.sing-box.outputs.binary_sha }}"
+            echo "- Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            echo ""
+            echo "Per-source detailed summaries were written by sync-one.sh."
+          } >> "$GITHUB_STEP_SUMMARY"
