@@ -62,15 +62,18 @@ jobs:
             echo "sing-box archive digest mismatch" >&2
             exit 1
           fi
-          tar -tzf /tmp/sing-box.tar.gz > /tmp/sing-box-members.txt
-          while IFS= read -r member; do
-            case "$member" in
-              /*|../*|*/../*|*/..|..)
-                echo "unsafe tar member: $member" >&2
-                exit 1
-                ;;
-            esac
-          done < /tmp/sing-box-members.txt
+          python3 - /tmp/sing-box.tar.gz <<'PY'
+          import posixpath
+          import sys
+          import tarfile
+
+          with tarfile.open(sys.argv[1], "r:gz") as archive:
+              for member in archive.getmembers():
+                  name = member.name
+                  normalized = posixpath.normpath(name)
+                  if name.startswith("/") or normalized == ".." or normalized.startswith("../"):
+                      raise SystemExit(f"unsafe tar member: {name}")
+          PY
           mkdir -p /tmp/sing-box
           tar -xzf /tmp/sing-box.tar.gz -C /tmp/sing-box
           binary=$(find /tmp/sing-box -type f -name sing-box -print -quit)
