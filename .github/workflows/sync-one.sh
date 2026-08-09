@@ -11,15 +11,17 @@ TARGET=$(mktemp -d)
 LOG=$(mktemp)
 trap 'rm -rf "$TARGET" "$LOG"' EXIT
 
-origin=$(git -C "$ROOT" remote get-url origin)
+origin="${GITHUB_SERVER_URL:-https://github.com}/${GITHUB_REPOSITORY:?GITHUB_REPOSITORY is required}.git"
 git -C "$ROOT" fetch --no-tags --quiet origin "$TARGET_BRANCH" 2>/dev/null || true
 if git -C "$ROOT" show-ref --verify --quiet "refs/remotes/origin/$TARGET_BRANCH"; then
   git clone --quiet --no-checkout "$ROOT" "$TARGET"
   git -C "$TARGET" remote set-url origin "$origin"
+  git -C "$TARGET" config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "${GITHUB_TOKEN:?GITHUB_TOKEN is required}" | base64 -w0)"
   git -C "$TARGET" checkout --quiet "origin/$TARGET_BRANCH"
 else
   git init --quiet -b "$TARGET_BRANCH" "$TARGET"
   git -C "$TARGET" remote add origin "$origin"
+  git -C "$TARGET" config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "${GITHUB_TOKEN:?GITHUB_TOKEN is required}" | base64 -w0)"
 fi
 
 export RULES_TEST_TARGET_DIR="$TARGET"
@@ -48,6 +50,11 @@ set -e
   fi
 } >> "$GITHUB_STEP_SUMMARY"
 cat "$LOG"
+
+if [[ $status -eq 1 ]]; then
+  echo "$SOURCE: no publishable result; artifact branch left unchanged" >&2
+  exit 1
+fi
 
 # Artifact branches contain only rule files. Provenance and failures are stored
 # in the commit body and GitHub Actions job summary.

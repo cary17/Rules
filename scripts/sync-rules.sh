@@ -129,13 +129,20 @@ for file in "${FILES[@]}"; do
     continue
   fi
 
-  if ! cp "$input" "$CURRENT/$file"; then
+  mkdir -p "$WORK/staged"
+  staged_srs="$WORK/staged/$file.srs"
+  staged_json="$WORK/staged/$base.json"
+  if ! cp "$input" "$staged_srs"; then
     record_failure "$file" output_copy "unable to copy source SRS" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
     continue
   fi
-  if ! cp "$output" "$CURRENT/$base.json"; then
-    rm -f "$CURRENT/$file"
+  if ! cp "$output" "$staged_json"; then
     record_failure "$file" output_copy "unable to copy generated JSON" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
+    continue
+  fi
+  if ! mv "$staged_srs" "$CURRENT/$file" || ! mv "$staged_json" "$CURRENT/$base.json"; then
+    rm -f "$CURRENT/$file" "$CURRENT/$base.json" "$staged_srs" "$staged_json"
+    record_failure "$file" output_copy "unable to install validated SRS and JSON pair" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
     continue
   fi
   printf '%s\t%s\t%s\n' "$file" "$input_sha" "$(sha256 "$output")" >>"$SUCCESS"

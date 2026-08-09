@@ -54,7 +54,11 @@ jobs:
             --retry 3 --retry-all-errors --connect-timeout 15 --max-time 120 \
             "$url" -o /tmp/sing-box.tar.gz
           archive_sha=$(sha256sum /tmp/sing-box.tar.gz | awk '{print $1}')
-          if [[ "$digest" == sha256:* && "${digest#sha256:}" != "$archive_sha" ]]; then
+          if [[ ! "$digest" =~ ^sha256:[0-9a-fA-F]{64}$ ]]; then
+            echo "sing-box archive has no valid SHA-256 digest" >&2
+            exit 1
+          fi
+          if [[ "${digest#sha256:}" != "$archive_sha" ]]; then
             echo "sing-box archive digest mismatch" >&2
             exit 1
           fi
@@ -73,6 +77,7 @@ jobs:
         id: geoip
         if: ${{ always() && steps.sing-box.outcome == 'success' }}
         env:
+          GITHUB_TOKEN: ${{ github.token }}
           SING_BOX_VERSION: ${{ steps.sing-box.outputs.tag }}
           SING_BOX_ASSET: ${{ steps.sing-box.outputs.asset }}
           SING_BOX_ARCHIVE_SHA256: ${{ steps.sing-box.outputs.archive_sha }}
@@ -84,6 +89,7 @@ jobs:
         id: geosite
         if: ${{ always() && steps.sing-box.outcome == 'success' }}
         env:
+          GITHUB_TOKEN: ${{ github.token }}
           SING_BOX_VERSION: ${{ steps.sing-box.outputs.tag }}
           SING_BOX_ASSET: ${{ steps.sing-box.outputs.asset }}
           SING_BOX_ARCHIVE_SHA256: ${{ steps.sing-box.outputs.archive_sha }}
