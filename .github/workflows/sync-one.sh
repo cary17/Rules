@@ -76,9 +76,16 @@ find "$TARGET" -mindepth 1 -maxdepth 1 ! -name .git -type f -delete
 find "$TARGET" -mindepth 1 -maxdepth 1 ! -name .git -type d -exec rm -rf {} +
 git -C "$TARGET" add -A
 summary_file=$(mktemp)
-trap 'rm -rf "$TARGET" "$LOG" "$summary_file"' EXIT
+commit_message=$(mktemp)
+trap 'rm -rf "$TARGET" "$LOG" "$summary_file" "$commit_message"' EXIT
 sed -n '/^tool /p; /^source=/p; /^SUCCESS /p; /^FAILED /p; /existing artifacts retained/p' "$LOG" >"$summary_file"
-if ! git -C "$TARGET" commit --allow-empty --quiet -F <(printf 'chore: sync %s %s\n\n' "$SOURCE" "$(date -u +%F)"; cat "$summary_file"); then
+{
+  printf 'chore: sync %s %s\n\n' "$SOURCE" "$(date -u +%F)"
+  cat "$summary_file"
+} >"$commit_message"
+git -C "$TARGET" config user.name 'github-actions[bot]'
+git -C "$TARGET" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+if ! git -C "$TARGET" commit --allow-empty --quiet -F "$commit_message"; then
   echo "$SOURCE: unable to create artifact commit; branch left unchanged" >&2
   exit 1
 fi
