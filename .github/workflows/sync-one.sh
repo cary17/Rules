@@ -30,7 +30,11 @@ if [[ -n "$remote_ref" ]] && git -C "$ROOT" show-ref --verify --quiet "refs/remo
   fi
   git -C "$TARGET" remote set-url origin "$origin"
   git -C "$TARGET" config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "${GITHUB_TOKEN:?GITHUB_TOKEN is required}" | base64 -w0)"
-  git -C "$TARGET" checkout --quiet "origin/$TARGET_BRANCH"
+  if ! git -C "$TARGET" fetch --no-tags --quiet origin "$TARGET_BRANCH"; then
+    echo "$SOURCE: unable to fetch existing artifact branch in temporary clone" >&2
+    exit 1
+  fi
+  git -C "$TARGET" checkout --quiet -B "$TARGET_BRANCH" FETCH_HEAD
 else
   git init --quiet -b "$TARGET_BRANCH" "$TARGET"
   git -C "$TARGET" remote add origin "$origin"
