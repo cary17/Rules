@@ -152,6 +152,11 @@ success_count=$(wc -l <"$SUCCESS")
 failed_count=$(wc -l <"$FAILED")
 retained_count=$(awk -F '\\t' '$5 != "" && $6 != "" {n++} END {print n+0}' "$FAILED")
 
+if ((success_count == 0)); then
+  printf 'no files succeeded for %s; existing artifacts retained\n' "$SOURCE" >&2
+  exit 1
+fi
+
 # Remove only files confirmed absent from the pinned upstream tree. Failed files
 # remain in CURRENT because they are still present in FILES.
 for old in "$CURRENT"/"${PREFIX}"*.srs; do
@@ -159,6 +164,14 @@ for old in "$CURRENT"/"${PREFIX}"*.srs; do
   old_name=$(basename "$old")
   if [[ -z "${UPSTREAM_FILES[$old_name]+x}" ]]; then
     rm -f "$CURRENT/$old_name" "$CURRENT/${old_name%.srs}.json"
+  fi
+done
+
+for old in "$CURRENT"/"${PREFIX}"*.json; do
+  [[ -e "$old" ]] || continue
+  old_name=$(basename "$old")
+  if [[ ! -e "$CURRENT/${old_name%.json}.srs" ]]; then
+    rm -f "$CURRENT/$old_name"
   fi
 done
 

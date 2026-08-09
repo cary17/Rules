@@ -64,4 +64,15 @@ fi
 
 printf 'PASS: successful and failed file handling\n'
 
+# A failed first run must not create metadata or partial output.
+mkdir -p "$TEST_ROOT/source-all-failed"
+printf 'SRS\001bad\n' >"$TEST_ROOT/source-all-failed/geoip-fail.srs"
+rm -rf "$TEST_ROOT/target" && mkdir -p "$TEST_ROOT/target"
+if PATH="$TEST_ROOT/bin:$PATH" RULES_TEST_SOURCE_DIR="$TEST_ROOT/source-all-failed" RULES_TEST_TARGET_DIR="$TEST_ROOT/target" "$SCRIPT" sing-geoip >/tmp/rules-empty-run.out 2>/tmp/rules-empty-run.err; then
+  fail "all-failed run was accepted"
+fi
+[[ "$(find "$TEST_ROOT/target" -mindepth 1 -maxdepth 1 -type f | wc -l)" == 0 ]] || fail "all-failed run published artifacts"
+[[ "$(find "$TEST_ROOT/target" -mindepth 1 -maxdepth 1 -type d | wc -l)" == 0 ]] || fail "all-failed run created directories"
+printf 'PASS: all-failed run is not published\n'
+
 printf 'all tests passed\n'

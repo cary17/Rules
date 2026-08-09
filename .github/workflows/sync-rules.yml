@@ -62,6 +62,15 @@ jobs:
             echo "sing-box archive digest mismatch" >&2
             exit 1
           fi
+          tar -tzf /tmp/sing-box.tar.gz > /tmp/sing-box-members.txt
+          while IFS= read -r member; do
+            case "$member" in
+              /*|../*|*/../*|*/..|..)
+                echo "unsafe tar member: $member" >&2
+                exit 1
+                ;;
+            esac
+          done < /tmp/sing-box-members.txt
           mkdir -p /tmp/sing-box
           tar -xzf /tmp/sing-box.tar.gz -C /tmp/sing-box
           binary=$(find /tmp/sing-box -type f -name sing-box -print -quit)
@@ -108,14 +117,18 @@ jobs:
 
       - name: Final summary
         if: always()
+        env:
+          SB_TAG: ${{ steps.sing-box.outputs.tag }}
+          SB_ARCHIVE_SHA: ${{ steps.sing-box.outputs.archive_sha }}
+          SB_BINARY_SHA: ${{ steps.sing-box.outputs.binary_sha }}
         run: |
           set -u
           {
             echo "## Rules sync"
             echo ""
-            echo "- sing-box: ${{ steps.sing-box.outputs.tag }}"
-            echo "- Archive SHA-256: ${{ steps.sing-box.outputs.archive_sha }}"
-            echo "- Binary SHA-256: ${{ steps.sing-box.outputs.binary_sha }}"
+            printf '%s\n' "- sing-box: ${SB_TAG}"
+            printf '%s\n' "- Archive SHA-256: ${SB_ARCHIVE_SHA}"
+            printf '%s\n' "- Binary SHA-256: ${SB_BINARY_SHA}"
             echo "- Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
             echo ""
             echo "Per-source detailed summaries were written by sync-one.sh."

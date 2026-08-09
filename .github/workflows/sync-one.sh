@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -u -o pipefail
+set -euo pipefail
 
 SOURCE=${1:-}
 ROOT=${GITHUB_WORKSPACE:-$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)}
@@ -12,9 +12,15 @@ LOG=$(mktemp)
 trap 'rm -rf "$TARGET" "$LOG"' EXIT
 
 origin="${GITHUB_SERVER_URL:-https://github.com}/${GITHUB_REPOSITORY:?GITHUB_REPOSITORY is required}.git"
-git -C "$ROOT" fetch --no-tags --quiet origin "$TARGET_BRANCH" 2>/dev/null || true
+if ! git -C "$ROOT" fetch --no-tags --quiet origin "$TARGET_BRANCH"; then
+  echo "$SOURCE: unable to fetch artifact branch" >&2
+  exit 1
+fi
 if git -C "$ROOT" show-ref --verify --quiet "refs/remotes/origin/$TARGET_BRANCH"; then
-  git clone --quiet --no-checkout "$ROOT" "$TARGET"
+  if ! git clone --quiet --no-checkout "$ROOT" "$TARGET"; then
+    echo "$SOURCE: unable to clone current checkout" >&2
+    exit 1
+  fi
   git -C "$TARGET" remote set-url origin "$origin"
   git -C "$TARGET" config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "${GITHUB_TOKEN:?GITHUB_TOKEN is required}" | base64 -w0)"
   git -C "$TARGET" checkout --quiet "origin/$TARGET_BRANCH"
@@ -29,10 +35,11 @@ SING_BOX_BIN=$(cat /tmp/sing-box-path)
 export SING_BOX_BIN
 printf 'tool sing_box_version=%s asset=%s archive_sha256=%s binary_sha256=%s\n' \
   "${SING_BOX_VERSION:-}" "${SING_BOX_ASSET:-}" "${SING_BOX_ARCHIVE_SHA256:-}" "${SING_BOX_BINARY_SHA256:-}" >"$LOG"
-set +e
-RULES_TEST_TARGET_DIR="$TARGET" "$ROOT/scripts/sync-rules.sh" "$SOURCE" >>"$LOG" 2>&1
-status=$?
-set -e
+if RULES_TEST_TARGET_DIR="$TARGET" "$ROOT/scripts/sync-rules.sh" "$SOURCE" >>"$LOG" 2>&1; then
+  status=0
+else
+  status=$?
+fi
 
 {
   echo "## $SOURCE"
@@ -51,9 +58,9 @@ set -e
 } >> "$GITHUB_STEP_SUMMARY"
 cat "$LOG"
 
-if [[ $status -eq 1 ]]; then
+if ((status != 0 && status != 3)); then
   echo "$SOURCE: no publishable result; artifact branch left unchanged" >&2
-  exit 1
+  exit "$status"
 fi
 
 # Artifact branches contain only rule files. Provenance and failures are stored
@@ -62,8 +69,14 @@ find "$TARGET" -mindepth 1 -maxdepth 1 ! -name .git -type f -delete
 find "$TARGET" -mindepth 1 -maxdepth 1 ! -name .git -type d -exec rm -rf {} +
 git -C "$TARGET" add -A
 summary=$(sed -n '/^tool /p; /^source=/p; /^SUCCESS /p; /^FAILED /p; /existing artifacts retained/p' "$LOG" | head -c 500000)
-git -C "$TARGET" commit --allow-empty --quiet -m "chore: sync $SOURCE $(date -u +%F)" -m "$summary"
-git -C "$TARGET" push --quiet origin "HEAD:$TARGET_BRANCH"
+if ! git -C "$TARGET" commit --allow-empty --quiet -m "chore: sync $SOURCE $(date -u +%F)" -m "$summary"; then
+  echo "$SOURCE: unable to create artifact commit; branch left unchanged" >&2
+  exit 1
+fi
+if ! git -C "$TARGET" push --quiet origin "HEAD:$TARGET_BRANCH"; then
+  echo "$SOURCE: unable to publish artifact branch" >&2
+  exit 1
+fi
 
 if [[ $status -ne 0 ]]; then
   echo "$SOURCE: published successful files; failures remain in summary" >&2
