@@ -50,10 +50,10 @@ def test_keyword_requires_exactly_three_or_more_distinct_safe_suffixes():
             }
         ],
     }
+    source["source"] = "example.json"
     optimized, changes = module.optimize(source)
-    assert optimized["rules"][0]["domain_keyword"] == ["google.co"]
-    assert optimized["rules"][0]["domain"] == []
-    assert changes == [{"keyword": "google.co", "replaced_domains": 8}]
+    assert "domain_keyword" not in optimized["rules"][0]
+    assert changes == []
 
 
 def test_large_domain_suffix_group_becomes_keyword():
@@ -67,10 +67,10 @@ def test_large_domain_suffix_group_becomes_keyword():
             ],
         }],
     }
+    source["source"] = "example.json"
     optimized, changes = module.optimize(source)
-    assert optimized["rules"][0]["domain_suffix"] == []
-    assert optimized["rules"][0]["domain_keyword"] == ["google.co"]
-    assert changes == [{"keyword": "google.co", "replaced_suffixes": 8}]
+    assert "domain_keyword" not in optimized["rules"][0]
+    assert changes == []
 
 
 def test_short_or_top_level_suffix_group_is_not_optimized():
@@ -97,29 +97,39 @@ def test_topic_boundary_comes_from_each_rule_set_filename():
         "source": "geosite-google.json",
     }
     optimized, changes = module.optimize(source)
-    assert optimized["rules"][0]["domain_keyword"] == ["google.co"]
-    assert changes == [{"keyword": "google.co", "replaced_suffixes": 8}]
+    assert optimized["rules"][0]["domain_keyword"] == ["google"]
+    assert optimized["rules"][0]["domain_suffix"] == []
+    assert changes == [{"keyword": ["google"], "removed_domains": 0, "removed_suffixes": 8}]
 
 
-def test_keyword_is_rejected_when_it_would_match_unrelated_domain():
+def test_topic_keyword_replaces_all_contained_domain_rules():
     source = {
         "version": 1,
-        "rules": [
-            {
-                "domain": [
-                    "google.co.ao",
-                    "google.co.bw",
-                    "google.co.ck",
-                    "google.co.cr",
-                    "notgoogle.co.example",
-                ],
-                "domain_suffix": [],
-            }
-        ],
+        "rules": [{
+            "domain": [
+                "google.com", "ggoogle.com", "withgoogle.com", "googleapis.com",
+                "googleusercontent.com", "adservice.google.com", "analytics.google.com", "other.net",
+            ],
+            "domain_suffix": ["google.co.jp", "google.co.uk", "youtube.com"],
+        }],
+        "source": "geosite-google.json",
     }
     optimized, changes = module.optimize(source)
-    assert "google.co" not in optimized["rules"][0].get("domain_keyword", [])
-    assert len(optimized["rules"][0]["domain"]) == 5
+    rule = optimized["rules"][0]
+    assert rule["domain_keyword"] == ["google"]
+    assert rule["domain"] == ["other.net"]
+    assert rule["domain_suffix"] == ["youtube.com"]
+    assert changes == [{"keyword": ["google"], "removed_domains": 7, "removed_suffixes": 2}]
+
+
+def test_regex_does_not_count_toward_topic_threshold():
+    source = {
+        "version": 1,
+        "rules": [{"domain_regex": "google" * 20}],
+        "source": "geosite-google@cn.json",
+    }
+    optimized, changes = module.optimize(source)
+    assert "domain_keyword" not in optimized["rules"][0]
     assert changes == []
 
 
@@ -134,6 +144,7 @@ def test_keyword_is_emitted_after_domain_and_domain_suffix_fields():
             "domain_suffix": ["google.com"],
         }],
     }
+    source["source"] = "geosite-google.json"
     optimized, _ = module.optimize(source)
     keys = list(optimized["rules"][0])
     assert keys.index("domain_keyword") > keys.index("domain")

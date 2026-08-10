@@ -5,18 +5,36 @@ from collections import defaultdict
 from pathlib import Path
 
 MIN_GROUP_SIZE = 8
-MIN_KEYWORD_LENGTH = 6
+MIN_KEYWORD_LENGTH = 5
 MIN_SCOPE_COUNT = 8
 COMMON_TLDS = {
     "com", "net", "org", "edu", "gov", "mil", "int", "io", "ai", "app",
     "dev", "co", "uk", "us", "cn", "jp", "de", "fr", "ru", "info", "biz",
 }
-GENERIC_ROOTS = {"www", "mail", "api", "cdn", "static", "img", "images", "assets"}
+GENERIC_ROOTS = {
+    "www", "mail", "api", "cdn", "static", "img", "images", "assets",
+    "redirector", "download", "content", "connect", "service", "services",
+}
 
 
 def _values(rule, key):
     value = rule.get(key, [])
-    return value if isinstance(value, list) else []
+    if isinstance(value, list):
+        return value
+    if isinstance(value, str):
+        return [value]
+    return []
+
+
+def _topic_name(source_name):
+    stem = Path(source_name).stem.lower()
+    if stem.startswith("geosite-"):
+        stem = stem.removeprefix("geosite-")
+    stem = stem.split("@", 1)[0]
+    for suffix in ("-cn", "-!cn", "-ads", "-!ads"):
+        if stem.endswith(suffix):
+            stem = stem[: -len(suffix)]
+    return stem
 
 
 def _candidate_groups(domains):
@@ -35,9 +53,13 @@ def _candidate_groups(domains):
 
 def _topic_roots(scope_values, source_name=""):
     roots = set()
-    stem = Path(source_name).stem.lower()
-    if stem.startswith("geosite-"):
-        roots.add(stem.removeprefix("geosite-").split("@", 1)[0])
+    raw_stem = Path(source_name).stem.lower()
+    if not raw_stem.startswith("geosite-"):
+        return roots
+    stem = _topic_name(source_name)
+    if not stem:
+        return roots
+    roots.add(stem)
     counts = defaultdict(int)
     for value in scope_values:
         labels = value.split(".")
@@ -73,78 +95,44 @@ def optimize(document):
     changes = []
     scope_values = []
     for source_rule in document["rules"]:
-        for key, values in source_rule.items():
-            if isinstance(values, list):
-                scope_values.extend(str(value) for value in values)
-    topic_roots = _topic_roots(scope_values, document.get("source", ""))
+        for key in ("domain", "domain_suffix"):
+            values = _values(source_rule, key)
+            scope_values.extend(str(value) for value in values)
+    topic_roots = sorted(_topic_roots(scope_values, document.get("source", "")))
+    active_topics = [
+        topic for topic in topic_roots
+        if len(topic) >= MIN_KEYWORD_LENGTH
+        and topic not in GENERIC_ROOTS
+        and topic not in COMMON_TLDS
+        and sum(topic in value.lower() for value in scope_values) >= MIN_SCOPE_COUNT
+    ]
+
     for source_rule in document["rules"]:
         rule = dict(source_rule)
-        domains = list(_values(rule, "domain"))
-        groups = _candidate_groups(domains)
-        consumed = set()
-        keywords = []
-        all_match_values = []
-        suffix_rules = set(_values(source_rule, "domain_suffix"))
-        exact_rules = set(domains)
-        for key, values in source_rule.items():
-            if key != "domain":
-                all_match_values.extend(str(value) for value in _values(source_rule, key))
-        for prefix, members in sorted(groups.items()):
-            target_domains = {domain for domain, _ in members}
-            if not _safe_keyword(prefix, members, domains + list(suffix_rules) + all_match_values, topic_roots):
-                continue
-            unsafe_known_match = False
-            for value in all_match_values:
-                if prefix not in value:
-                    continue
-                # A topic-scoped rule set may deliberately broaden matching
-                # within its own named topic. Values outside that topic remain
-                # a hard boundary.
-                if _in_topic(value, topic_roots):
-                    continue
-                if value == prefix or value in target_domains or value in exact_rules:
-                    continue
-                if value in suffix_rules:
-                    continue
-                unsafe_known_match = True
-                break
-            if unsafe_known_match or len(members) < MIN_GROUP_SIZE:
-                continue
-
-            suffixes = [suffix for _, suffix in members]
-            if len(set(suffixes)) != len(suffixes):
-                continue
-            keywords.append(prefix)
-            consumed.update(domain for domain, _ in members)
-            changes.append({"keyword": prefix, "replaced_domains": len(members)})
-        if consumed:
-            rule["domain"] = [domain for domain in domains if domain not in consumed]
-        suffix_values = list(_values(rule, "domain_suffix"))
-        suffix_groups = _candidate_groups(suffix_values)
-        suffix_consumed = set()
-        suffix_keywords = []
-        for prefix, members in sorted(suffix_groups.items()):
-            if not _safe_keyword(prefix, members, suffix_values + all_match_values, topic_roots):
-                continue
-            target_values = {value for value, _ in members}
-            if any(
-                prefix in value
-                and value != prefix
-                and value not in target_values
-                and not _in_topic(value, topic_roots)
-                for value in all_match_values
-            ):
-                continue
-            suffix_keywords.append(prefix)
-            suffix_consumed.update(target_values)
-            changes.append({"keyword": prefix, "replaced_suffixes": len(members)})
-        if suffix_consumed:
-            rule["domain_suffix"] = [value for value in suffix_values if value not in suffix_consumed]
-        if keywords:
-            rule["domain_keyword"] = list(_values(rule, "domain_keyword")) + keywords
-        if suffix_keywords:
-            rule["domain_keyword"] = list(_values(rule, "domain_keyword")) + suffix_keywords
-        # Explicit field order keeps keyword rules after exact and suffix rules.
+        original_domains = list(_values(rule, "domain"))
+        original_suffixes = list(_values(rule, "domain_suffix"))
+        removed_domains = [
+            value for value in original_domains
+            if any(topic in value.lower() for topic in active_topics)
+        ]
+        removed_suffixes = [
+            value for value in original_suffixes
+            if any(topic in value.lower() for topic in active_topics)
+        ]
+        if removed_domains:
+            rule["domain"] = [value for value in original_domains if value not in set(removed_domains)]
+        if removed_suffixes:
+            rule["domain_suffix"] = [value for value in original_suffixes if value not in set(removed_suffixes)]
+        existing_keywords = list(_values(rule, "domain_keyword"))
+        added_keywords = [topic for topic in active_topics if topic not in existing_keywords]
+        if added_keywords:
+            rule["domain_keyword"] = existing_keywords + added_keywords
+        if removed_domains or removed_suffixes:
+            changes.append({
+                "keyword": added_keywords or existing_keywords,
+                "removed_domains": len(removed_domains),
+                "removed_suffixes": len(removed_suffixes),
+            })
         ordered = {}
         for key in ("domain", "domain_suffix", "domain_keyword"):
             if key in rule:

@@ -40,20 +40,38 @@ def _rule_values(document):
     for rule in document.get("rules", []):
         for key, raw in rule.items():
             if isinstance(raw, list):
-                values.setdefault(key, []).extend(str(value) for value in raw)
+                items = raw
+            elif isinstance(raw, str):
+                items = [raw]
+            else:
+                items = []
+            values.setdefault(key, []).extend(str(value) for value in items)
     return values
 
 
-def _metadata(name, total, skipped):
-    text = [f"# 规则名称: {name}", f"# 更新时间: {date.today().isoformat()}"]
+def _metadata(name, counts, skipped):
+    text = [f"# NAME: {name}", f"# UPDATED: {date.today().isoformat()}"]
+    labels = {
+        "domain": "DOMAIN",
+        "domain_keyword": "DOMAIN-KEYWORD",
+        "domain_suffix": "DOMAIN-SUFFIX",
+        "ip_cidr": "IP-CIDR",
+        "ip_cidr6": "IP-CIDR6",
+        "geoip": "GEOIP",
+        "asn": "IP-ASN",
+        "domain_regex": "DOMAIN-REGEX",
+    }
+    total = sum(counts.values())
+    for key, label in labels.items():
+        if counts.get(key):
+            text.append(f"# {label}: {counts[key]}")
     skipped_total = sum(skipped.values())
-    detail = f"原生规则={total}; 可表达规则={total - skipped_total}"
-    if skipped:
-        detail += "; 跳过规则=" + ",".join(f"{key}={value}" for key, value in skipped.items())
-    else:
-        detail += "; 跳过规则=0"
-    text.append(f"# 规则数量统计: {detail}")
+    text.append(f"# TOTAL: {total - skipped_total}")
     return text
+
+
+def _counts(values):
+    return {key: len(items) for key, items in values.items()}
 
 
 def _plain(value):
@@ -67,7 +85,7 @@ def render_egern(document, name=None):
     values = _rule_values(document)
     name = name or document.get("name", "Rules")
     total = sum(len(items) for items in values.values())
-    lines = _metadata(name, total, {})
+    lines = _metadata(name, _counts(values), {})
     if any(values.get(key) for key in IP_TYPES):
         lines.append("no_resolve: true")
     for source_type, target_type in EGERN_TYPES.items():
@@ -88,7 +106,10 @@ def render_client(document, name=None):
         if key not in CLIENT_TYPES and values.get(key)
     }
     total = sum(len(items) for items in values.values())
-    lines = _metadata(name, total, skipped)
+    supported_total = sum(len(values.get(source_type, [])) for source_type in CLIENT_TYPES)
+    if supported_total == 0:
+        return "", list(skipped.items())
+    lines = _metadata(name, _counts(values), skipped)
     for source_type, target_type in CLIENT_TYPES.items():
         lines.extend(f"{target_type},{_plain(item)}" for item in values.get(source_type, []))
     return "\n".join(lines) + "\n", list(skipped.items())
@@ -122,11 +143,15 @@ def convert_directory(source_dir, output_dir, target):
         document = json.loads(source.read_text(encoding="utf-8"))
         display_name = source.stem.removeprefix("geosite-")
         rendered, details = render(document, target, display_name)
-        temporary = output_dir / f".{source.stem}{extension}.tmp"
-        destination = output_dir / f"{source.stem}{extension}"
-        temporary.write_text(rendered, encoding="utf-8")
-        temporary.replace(destination)
-        successful += 1
+        output_stem = source.stem.removeprefix("geosite-")
+        temporary = output_dir / f".{output_stem}{extension}.tmp"
+        destination = output_dir / f"{output_stem}{extension}"
+        if not rendered:
+            destination.unlink(missing_ok=True)
+        else:
+            temporary.write_text(rendered, encoding="utf-8")
+            temporary.replace(destination)
+            successful += 1
         for key, count in details:
             skipped += count
             skipped_types[key] = skipped_types.get(key, 0) + count
