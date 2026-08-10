@@ -4,7 +4,7 @@ import sys
 from pathlib import Path
 
 
-def load(path: str):
+def load(path: str) -> dict:
     with open(path, encoding="utf-8") as handle:
         value = json.load(handle)
     if not isinstance(value, dict):
@@ -20,13 +20,32 @@ def load(path: str):
     return value
 
 
+def _semantic(value):
+    if isinstance(value, dict):
+        return {key: _semantic(item) for key, item in value.items()}
+    if isinstance(value, list):
+        return [_semantic(item) for item in value]
+    return value
+
+
+def _normalize_rules(value):
+    normalized = _semantic(value)
+    for rule in normalized["rules"]:
+        for key, item in list(rule.items()):
+            if isinstance(item, str):
+                rule[key] = [item]
+            elif isinstance(item, list) and not item:
+                del rule[key]
+    return normalized
+
+
 def main(argv: list[str]) -> int:
     if len(argv) == 3 and argv[1] == "validate":
         load(argv[2])
         return 0
     if len(argv) == 4 and argv[1] == "compare":
-        left = load(argv[2])
-        right = load(argv[3])
+        left = _normalize_rules(load(argv[2]))
+        right = _normalize_rules(load(argv[3]))
         if left != right:
             print("JSON semantic mismatch", file=sys.stderr)
             return 1

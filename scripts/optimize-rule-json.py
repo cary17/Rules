@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import re
 import sys
 from collections import defaultdict
 from pathlib import Path
@@ -73,6 +74,8 @@ def _safe_keyword(prefix, members, scope_values, topic_roots):
     labels = prefix.split(".")
     if len(labels) < 2 or len(prefix) < MIN_KEYWORD_LENGTH:
         return False
+    if not re.match(r"^[a-z]", prefix, re.IGNORECASE):
+        return False
     if labels[0].lower() in GENERIC_ROOTS or labels[0].lower() not in topic_roots:
         return False
     if labels[0].lower() in COMMON_TLDS:
@@ -102,6 +105,7 @@ def optimize(document):
     active_topics = [
         topic for topic in topic_roots
         if len(topic) >= MIN_KEYWORD_LENGTH
+        and re.match(r"^[a-z]", topic, re.IGNORECASE)
         and topic not in GENERIC_ROOTS
         and topic not in COMMON_TLDS
         and sum(topic in value.lower() for value in scope_values) >= MIN_SCOPE_COUNT
