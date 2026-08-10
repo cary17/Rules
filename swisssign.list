@@ -1,0 +1,25 @@
+# NAME: swisssign
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 19
+# TOTAL: 20
+DOMAIN-SUFFIX,digital-id.ch
+DOMAIN-SUFFIX,digitalid.ch
+DOMAIN-SUFFIX,managed-pki.ch
+DOMAIN-SUFFIX,managed-pki.de
+DOMAIN-SUFFIX,pki-post.ch
+DOMAIN-SUFFIX,pki-posta.ch
+DOMAIN-SUFFIX,pki-poste.ch
+DOMAIN-SUFFIX,root-signing.ch
+DOMAIN-SUFFIX,rootsigning.com
+DOMAIN-SUFFIX,ssl-certificate.ch
+DOMAIN-SUFFIX,swissid.ch
+DOMAIN-SUFFIX,swissign.com
+DOMAIN-SUFFIX,swissign.li
+DOMAIN-SUFFIX,swissstick.com
+DOMAIN-SUFFIX,swisstsa.ch
+DOMAIN-SUFFIX,swisstsa.li
+DOMAIN-SUFFIX,trustdoc.ch
+DOMAIN-SUFFIX,trustsign.ch
+DOMAIN-SUFFIX,zert.ch
+DOMAIN-KEYWORD,swisssign

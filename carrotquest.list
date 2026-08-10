@@ -1,0 +1,19 @@
+# NAME: carrotquest
+# UPDATED: 2026-08-10
+# DOMAIN: 4
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 8
+# TOTAL: 13
+DOMAIN,api-secure.carrottrack.app
+DOMAIN,api.carrottrack.app
+DOMAIN,api.dashly.app
+DOMAIN,api.dashlytrack.app
+DOMAIN-SUFFIX,carrot-mail.io
+DOMAIN-SUFFIX,carrottrack.app
+DOMAIN-SUFFIX,dashly.app
+DOMAIN-SUFFIX,dashly.help
+DOMAIN-SUFFIX,dashly.io
+DOMAIN-SUFFIX,dashly.me
+DOMAIN-SUFFIX,dashlytrack.app
+DOMAIN-SUFFIX,pushgrow.io
+DOMAIN-KEYWORD,carrotquest

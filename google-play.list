@@ -1,0 +1,14 @@
+# NAME: google-play
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 7
+# DOMAIN-REGEX: 2
+# TOTAL: 8
+DOMAIN,redirector.c.play.google.com
+DOMAIN-SUFFIX,googleplay.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-games.googleusercontent.com
+DOMAIN-SUFFIX,play-lh.googleusercontent.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com

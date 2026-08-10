@@ -1,0 +1,8 @@
+# NAME: github@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,collector.github.com

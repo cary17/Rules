@@ -1,0 +1,30 @@
+# NAME: category-antivirus
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 20
+# TOTAL: 24
+DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,avast.com
+DOMAIN-SUFFIX,avg.com
+DOMAIN-SUFFIX,avira.com
+DOMAIN-SUFFIX,bitdefender.com
+DOMAIN-SUFFIX,clamwin.com
+DOMAIN-SUFFIX,cn.eset.com
+DOMAIN-SUFFIX,comodo.com
+DOMAIN-SUFFIX,comodo.net
+DOMAIN-SUFFIX,e5.sk
+DOMAIN-SUFFIX,eset.com
+DOMAIN-SUFFIX,eset.eu
+DOMAIN-SUFFIX,eset.sk
+DOMAIN-SUFFIX,eset.systems
+DOMAIN-SUFFIX,esetsoftware.com
+DOMAIN-SUFFIX,f-secure.com
+DOMAIN-SUFFIX,mcafee.com
+DOMAIN-SUFFIX,norton.com
+DOMAIN-SUFFIX,pandasecurity.com
+DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symantecliveupdate.com
+DOMAIN-KEYWORD,drweb
+DOMAIN-KEYWORD,kaspersky
