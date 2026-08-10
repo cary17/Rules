@@ -1,0 +1,8 @@
+# NAME: apple-podcasts
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN-SUFFIX,applepodcasts.com
+DOMAIN-SUFFIX,podcasts.apple.com

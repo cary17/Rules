@@ -1,0 +1,13 @@
+# NAME: hpe
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
+DOMAIN,hpefonts.s3.amazonaws.com
+DOMAIN-SUFFIX,greenlakeaas.com
+DOMAIN-SUFFIX,greenlakehybridcloud.com
+DOMAIN-SUFFIX,hewlettpackard.enterprises
+DOMAIN-SUFFIX,hpe.com
+DOMAIN-SUFFIX,hpecyber.com
+DOMAIN-KEYWORD,hewlett-packard

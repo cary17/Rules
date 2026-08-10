@@ -1,0 +1,14 @@
+# NAME: netflix
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 7
+# DOMAIN-REGEX: 4
+# TOTAL: 8
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-KEYWORD,netflix

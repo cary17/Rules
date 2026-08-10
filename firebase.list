@@ -1,0 +1,10 @@
+# NAME: firebase
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 1
+# TOTAL: 4
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,update.crashlytics.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-KEYWORD,firebase

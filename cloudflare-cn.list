@@ -1,0 +1,15 @@
+# NAME: cloudflare-cn
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 9
+# TOTAL: 10
+DOMAIN-SUFFIX,cf-china.info
+DOMAIN-SUFFIX,cf-ns.com
+DOMAIN-SUFFIX,cf-ns.net
+DOMAIN-SUFFIX,cf-ns.site
+DOMAIN-SUFFIX,cf-ns.tech
+DOMAIN-SUFFIX,cftest5.cn
+DOMAIN-SUFFIX,cftest6.cn
+DOMAIN-SUFFIX,cftest7.com
+DOMAIN-SUFFIX,cftest8.com
+DOMAIN-KEYWORD,cloudflare

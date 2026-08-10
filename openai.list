@@ -1,0 +1,21 @@
+# NAME: openai
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 11
+# DOMAIN-REGEX: 1
+# TOTAL: 14
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,chatgpt.site
+DOMAIN-SUFFIX,crixet.com
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-KEYWORD,openai
