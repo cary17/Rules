@@ -1,6 +1,5 @@
 # NAME: google-play@cn
 # UPDATED: 2026-08-10
 # DOMAIN: 1
-# DOMAIN-REGEX: 2
 # TOTAL: 1
 DOMAIN,redirector.c.play.google.com

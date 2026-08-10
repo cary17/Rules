@@ -1,7 +1,6 @@
 # NAME: hotstar
 # UPDATED: 2026-08-10
 # DOMAIN-SUFFIX: 5
-# DOMAIN-REGEX: 1
 # TOTAL: 5
 DOMAIN-SUFFIX,hotstar-cdn.net
 DOMAIN-SUFFIX,hotstar-labs.com

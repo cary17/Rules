@@ -3,7 +3,6 @@
 # DOMAIN: 2
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 11
-# DOMAIN-REGEX: 1
 # TOTAL: 14
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io

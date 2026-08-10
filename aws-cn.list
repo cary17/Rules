@@ -1,7 +1,6 @@
 # NAME: aws-cn
 # UPDATED: 2026-08-10
 # DOMAIN-SUFFIX: 26
-# DOMAIN-REGEX: 2
 # TOTAL: 26
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
