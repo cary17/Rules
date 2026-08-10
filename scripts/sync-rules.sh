@@ -3,6 +3,7 @@ set -u -o pipefail
 
 ROOT=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)
 VALIDATOR="$ROOT/scripts/validate-rule-json.py"
+OPTIMIZER="$ROOT/scripts/optimize-rule-json.py"
 SOURCE=${1:-}
 
 case "$SOURCE" in
@@ -111,6 +112,14 @@ for file in "${FILES[@]}"; do
   if ! "$SING_BOX" rule-set decompile "$input" --output "$output" >"$WORK/$base.stdout" 2>"$WORK/$base.stderr"; then
     record_failure "$file" srs_decompile "$(tr '\n' ' ' <"$WORK/$base.stderr" | cut -c1-1000)" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
     continue
+  fi
+  if [[ "$SOURCE" == "sing-geosite" ]]; then
+    optimized="$WORK/$base.optimized.json"
+    if ! python3 "$OPTIMIZER" "$output" "$optimized" "$file" >"$WORK/$base.optimize" 2>"$WORK/$base.optimize.stderr"; then
+      record_failure "$file" json_optimize "$(tr '\n' ' ' <"$WORK/$base.optimize.stderr" | cut -c1-1000)" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
+      continue
+    fi
+    mv "$optimized" "$output"
   fi
   if ! python3 "$VALIDATOR" validate "$output" 2>"$WORK/$base.validate"; then
     record_failure "$file" json_schema "$(tr '\n' ' ' <"$WORK/$base.validate" | cut -c1-1000)" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"

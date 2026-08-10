@@ -100,12 +100,36 @@ jobs:
         continue-on-error: true
         run: .github/workflows/sync-one.sh sing-geosite
 
-      - name: Fail on source errors
+      - name: Sync Egern rules
+        id: egern
+        if: ${{ always() && steps.geosite.outcome == 'success' }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        continue-on-error: true
+        run: .github/workflows/sync-platforms.sh egern
+
+      - name: Sync Loon rules
+        id: loon
+        if: ${{ always() && steps.geosite.outcome == 'success' }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        continue-on-error: true
+        run: .github/workflows/sync-platforms.sh loon
+
+      - name: Sync Surge rules
+        id: surge
+        if: ${{ always() && steps.geosite.outcome == 'success' }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        continue-on-error: true
+        run: .github/workflows/sync-platforms.sh surge
+
+      - name: Fail on sync errors
         if: ${{ always() }}
         run: |
           set -euo pipefail
-          if [[ "${{ steps.geoip.outcome }}" != success || "${{ steps.geosite.outcome }}" != success ]]; then
-            echo "one or more source syncs failed" >&2
+          if [[ "${{ steps.geoip.outcome }}" != success || "${{ steps.geosite.outcome }}" != success || "${{ steps.egern.outcome }}" != success || "${{ steps.loon.outcome }}" != success || "${{ steps.surge.outcome }}" != success ]]; then
+            echo "one or more rule syncs failed" >&2
             exit 1
           fi
 
