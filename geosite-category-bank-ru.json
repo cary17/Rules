@@ -117,17 +117,6 @@
         "jira-tcsbank.ru",
         "jivo.chat",
         "jivo.ru",
-        "jivochat.co.in",
-        "jivochat.co.za",
-        "jivochat.com",
-        "jivochat.com.br",
-        "jivochat.com.co",
-        "jivochat.com.pe",
-        "jivochat.com.tr",
-        "jivochat.de",
-        "jivochat.es",
-        "jivochat.ng",
-        "jivochat.ru",
         "jivosite.com",
         "jivosite.ru",
         "jpmorgan.ru",
@@ -316,6 +305,9 @@
         "ziraatbank.ru",
         "zvuk-b2b.com",
         "zvuk.com"
+      ],
+      "domain_keyword": [
+        "jivochat"
       ]
     }
   ]

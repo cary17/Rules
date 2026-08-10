@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": "qualcomm.sc.omtrdc.net",
+      "domain": [],
       "domain_suffix": [
         "airgonetworks.com",
         "berkanawireless.com",
@@ -23,26 +23,6 @@
         "qcomgeo2.com",
         "qctconnect.com",
         "qprize.com",
-        "qualcomm-email.com",
-        "qualcomm-inc.com",
-        "qualcomm.cn",
-        "qualcomm.cn.cdn.cloudflare.net",
-        "qualcomm.co.id",
-        "qualcomm.co.in",
-        "qualcomm.co.jp",
-        "qualcomm.co.kr",
-        "qualcomm.co.uk",
-        "qualcomm.com",
-        "qualcomm.com.br",
-        "qualcomm.com.tw",
-        "qualcomm.de",
-        "qualcomm.fr",
-        "qualcommhalo.com",
-        "qualcommlabs.com",
-        "qualcommmea.com",
-        "qualcommretail.com",
-        "qualcommventures.cn",
-        "qualcommventures.com",
         "qualphone.com",
         "quicinc.com",
         "snapdragon.cn",
@@ -52,6 +32,9 @@
         "wirelessreach.com",
         "xtracloud.cn",
         "xtracloud.net"
+      ],
+      "domain_keyword": [
+        "qualcomm"
       ]
     }
   ]

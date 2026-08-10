@@ -19,16 +19,6 @@
         "bili33.cn",
         "biliapi.com",
         "biliapi.net",
-        "bilibili.cc",
-        "bilibili.cn",
-        "bilibili.com",
-        "bilibili.net",
-        "bilibili.tv",
-        "bilibiligame.cn",
-        "bilibiligame.co",
-        "bilibiligame.net",
-        "bilibilipay.cn",
-        "bilibilipay.com",
         "bilicdn1.com",
         "bilicdn2.com",
         "bilicdn3.com",
@@ -56,6 +46,9 @@
         "missevan.com",
         "updream.cn",
         "yo9.com"
+      ],
+      "domain_keyword": [
+        "bilibili"
       ]
     }
   ]

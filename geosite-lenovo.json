@@ -22,28 +22,6 @@
         "juhuiwan.net",
         "lecoo.com",
         "lenauth.com",
-        "lenovo.cn",
-        "lenovo.com",
-        "lenovo.com.cdn.cloudflare.net",
-        "lenovo.com.cn",
-        "lenovo.net",
-        "lenovocare.com.cn",
-        "lenovocloudos.com",
-        "lenovocust.cn",
-        "lenovoeservice.com",
-        "lenovofile.com",
-        "lenovogame.com",
-        "lenovoimage.cn",
-        "lenovoimage.com",
-        "lenovomm.cn",
-        "lenovomm.com",
-        "lenovomobile.com",
-        "lenovonetapp.com",
-        "lenovopoc.com",
-        "lenovoprinter.com",
-        "lenovoprinter.com.cn",
-        "lenovoprinter.net",
-        "lenovovip.com.cn",
         "lx.pub",
         "lx.run",
         "lxzjjt.cn",
@@ -61,6 +39,9 @@
         "zuk.com",
         "zuk.com.cn",
         "zxsales.cn"
+      ],
+      "domain_keyword": [
+        "lenovo"
       ]
     }
   ]

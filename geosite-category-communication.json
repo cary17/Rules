@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "discord-attachments-uploads-prd.storage.googleapis.com",
         "hammerandchisel.ssl.zendesk.com"
       ],
       "domain_suffix": [
@@ -20,27 +19,6 @@
         "comments.app",
         "contest.com",
         "dis.gd",
-        "discord-activities.com",
-        "discord.co",
-        "discord.com",
-        "discord.design",
-        "discord.dev",
-        "discord.gg",
-        "discord.gift",
-        "discord.gifts",
-        "discord.media",
-        "discord.new",
-        "discord.store",
-        "discord.tools",
-        "discordactivities.com",
-        "discordapp.com",
-        "discordapp.io",
-        "discordapp.net",
-        "discordcdn.com",
-        "discordmerch.com",
-        "discordpartygames.com",
-        "discordsays.com",
-        "discordstatus.com",
         "element.io",
         "fbmessenger.com",
         "fluffychat.im",
@@ -156,6 +134,9 @@
         "whatsapp.tv",
         "whatsappbrand.com",
         "whispersystems.org"
+      ],
+      "domain_keyword": [
+        "discord"
       ]
     }
   ]

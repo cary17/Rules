@@ -71,15 +71,6 @@
         "reklama.mail.ru",
         "report.ap.yandex-net.ru",
         "rs.mail.ru",
-        "sentry-ng.g.smailru.net",
-        "sentry.dev-my.com",
-        "sentry.dev-my.games",
-        "sentry.hetzner.company",
-        "sentry.iptv.rt.ru",
-        "sentry.mindbox.ru",
-        "sentry.popmechanic.ru",
-        "sentry.rustore.ru",
-        "sentry.viqeo.tv",
         "srch-telemeter10.g.smailru.net",
         "stacks.vk-portal.net",
         "stats.dahlmessenger.com",
@@ -236,6 +227,9 @@
         "yandexmetrica.com",
         "yango-ads.com",
         "ysm.yahoo.com"
+      ],
+      "domain_keyword": [
+        "sentry"
       ]
     }
   ]

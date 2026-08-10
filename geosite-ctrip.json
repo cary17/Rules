@@ -10,23 +10,7 @@
         "aw-d.tripcdn.com",
         "aw-p.tripcdn.com",
         "aw-s.tripcdn.com",
-        "c-ctrip.com",
         "colinker.com",
-        "ctrip.cn",
-        "ctrip.co.id",
-        "ctrip.co.kr",
-        "ctrip.co.th",
-        "ctrip.com",
-        "ctrip.com.hk",
-        "ctrip.my",
-        "ctrip.sg",
-        "ctripbiz.com",
-        "ctripbuy.hk",
-        "ctripgslb.cn",
-        "ctripgslb.com",
-        "ctripgslb.com.cn",
-        "ctripgslb.net",
-        "ctripteam.com",
         "doticloud.com",
         "easytrip.com",
         "hhtravel.com",
@@ -47,6 +31,9 @@
         "tripcdn.cn",
         "tripcdn.com",
         "vipdlt.com"
+      ],
+      "domain_keyword": [
+        "ctrip"
       ]
     }
   ]

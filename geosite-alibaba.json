@@ -2,14 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "account-cn.alibabacloud.com",
-        "api.alibabacloud.com",
-        "cn.alibabacloud.com",
-        "status.alibabacloud.com"
-      ],
+      "domain": [],
       "domain_suffix": [
-        ".alibaba",
         ".alipay",
         ".taobao",
         ".tmall",
@@ -57,30 +51,6 @@
         "aestatic.net",
         "ali-health.com",
         "aliapp.org",
-        "alibaba-inc.com",
-        "alibaba.com",
-        "alibabacapital.com",
-        "alibabachengdun.com",
-        "alibabachengdun.net",
-        "alibabacloud.co.in",
-        "alibabacloud.com",
-        "alibabacloud.com.au",
-        "alibabacloud.com.hk",
-        "alibabacloud.com.my",
-        "alibabacloud.com.sg",
-        "alibabacloud.com.tw",
-        "alibabacorp.com",
-        "alibabadesign.com",
-        "alibabadns.com",
-        "alibabadoctor.com",
-        "alibabafonts.com",
-        "alibabafoundation.com",
-        "alibabafuturehotel.com",
-        "alibabagroup.com",
-        "alibabapictures.com",
-        "alibabaplanet.com",
-        "alibabaued.com",
-        "alibabausercontent.com",
         "alicdn.com",
         "alicloud.com",
         "alicloudapi.com",
@@ -311,7 +281,6 @@
         "m-now.cn",
         "maitix.com",
         "mappcloud.com",
-        "marketing.alibaba.com",
         "mashort.cn",
         "mdeer.com",
         "mei.com",
@@ -328,7 +297,6 @@
         "nbsdk-baichuan.alicdn.com",
         "nbsdk-baichuan.taobao.com",
         "new-aaid.umeng.com",
-        "new-aaid.umeng.com.gds.alibabadns.com",
         "newstjk.com",
         "nic.xin",
         "npmmirror.com",
@@ -467,6 +435,9 @@
         "zimgs.cn",
         "ztna-dingtalk.com",
         "zuodao.com"
+      ],
+      "domain_keyword": [
+        "alibaba"
       ]
     }
   ]

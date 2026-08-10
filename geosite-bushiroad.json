@@ -7,15 +7,6 @@
         "bang-dream.com",
         "bushi-navi.com",
         "bushimo.jp",
-        "bushiroad-creative.com",
-        "bushiroad-global-online-store.com",
-        "bushiroad-move.com",
-        "bushiroad-music.com",
-        "bushiroad-store.com",
-        "bushiroad-works.com",
-        "bushiroad.co.jp",
-        "bushiroad.com",
-        "bushiroadgames.com",
         "cf-vanguard.com",
         "comic-growl.com",
         "comicbushi-web.com",
@@ -35,6 +26,9 @@
         "ws-blau.com",
         "ws-tcg.com",
         "wwr-stardom.com"
+      ],
+      "domain_keyword": [
+        "bushiroad"
       ]
     }
   ]

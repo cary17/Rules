@@ -4,13 +4,11 @@
     {
       "domain": [
         "c.pki.goog",
-        "cdn.globalsigncdn.com.cdn.cloudflare.net",
         "certs-lb.apple.com.akadns.net",
         "certs.apple.com",
         "clients1.google.com",
         "crl-lb.apple.com.akadns.net",
         "crl.apple.com",
-        "crl.globalsign.net",
         "crl.microsoft.com",
         "crl.pki.goog",
         "crls.pki.goog",
@@ -108,23 +106,6 @@
         "freessl.com",
         "gandi.net",
         "geotrust.com",
-        "globalsign-media.com",
-        "globalsign.be",
-        "globalsign.ch",
-        "globalsign.cloud",
-        "globalsign.cn",
-        "globalsign.co.uk",
-        "globalsign.com",
-        "globalsign.com.au",
-        "globalsign.com.br",
-        "globalsign.com.hk",
-        "globalsign.com.sg",
-        "globalsign.es",
-        "globalsign.eu",
-        "globalsign.fr",
-        "globalsign.net",
-        "globalsign.nl",
-        "globalsigncdn.com",
         "godaddy.com",
         "godaddy.net",
         "gtlsca.nat.gov.tw",
@@ -262,6 +243,9 @@
         "wsimg.com",
         "x.co",
         "zert.ch"
+      ],
+      "domain_keyword": [
+        "globalsign"
       ]
     }
   ]

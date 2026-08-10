@@ -2,10 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "supercell.helpshift.com",
-        "supercell.zendesk.com"
-      ],
+      "domain": [],
       "domain_suffix": [
         "boombeach.com",
         "brawlstars.com",
@@ -21,13 +18,10 @@
         "mo.co",
         "seeurlpcl.com",
         "squadbusters.com",
-        "supercell.com",
-        "supercell.net",
-        "supercellcreators.com",
-        "supercellgames.com",
-        "supercellid.com",
-        "supercellstore.com",
         "supr.cl"
+      ],
+      "domain_keyword": [
+        "supercell"
       ]
     }
   ]

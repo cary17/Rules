@@ -17,23 +17,6 @@
         "duck.com",
         "duckduckco.com",
         "duckduckco.de",
-        "duckduckgo.ca",
-        "duckduckgo.co",
-        "duckduckgo.co.uk",
-        "duckduckgo.com",
-        "duckduckgo.com.mx",
-        "duckduckgo.com.tw",
-        "duckduckgo.de",
-        "duckduckgo.dk",
-        "duckduckgo.in",
-        "duckduckgo.jp",
-        "duckduckgo.ke",
-        "duckduckgo.mx",
-        "duckduckgo.nl",
-        "duckduckgo.org",
-        "duckduckgo.pl",
-        "duckduckgo.sg",
-        "duckduckgo.uk",
         "duckduckhack.com",
         "duckgo.com",
         "ducksear.ch",
@@ -47,6 +30,9 @@
         "privacysimplified.com",
         "privatebrowsingmyths.com",
         "spreadprivacy.com"
+      ],
+      "domain_keyword": [
+        "duckduckgo"
       ]
     }
   ]

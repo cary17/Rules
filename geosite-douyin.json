@@ -13,19 +13,7 @@
         "awemeugsoul.com",
         "awemeugwave.com",
         "betastar.cn",
-        "boxdouyin.com",
         "cookicut.com",
-        "douyin.com",
-        "douyinact.com",
-        "douyinact.net",
-        "douyincdn.com",
-        "douyinec.com",
-        "douyinfe.com",
-        "douyinliving.com",
-        "douyinpay.com",
-        "douyinpic.com",
-        "douyinstatic.com",
-        "douyinvod.com",
         "duoshan.com",
         "huoshan.com",
         "huoshancdn.com",
@@ -44,12 +32,6 @@
         "huoshanzhibo.com",
         "huoshanzhibo.net",
         "hypercachenode.com",
-        "idouyinliving.com",
-        "idouyinpic.com",
-        "idouyinstatic.com",
-        "idouyinvod.com",
-        "iesdouyin.com",
-        "iesdouyin.net",
         "ieshuodong.cn",
         "ieshuodong.net",
         "ihst8.com",
@@ -61,7 +43,6 @@
         "kolbuyer.cn",
         "lifexue.com",
         "nextvid.net",
-        "open-douyin.com",
         "ppkankan01.com",
         "qishui.cn",
         "qishui.com",
@@ -74,6 +55,9 @@
         "ultracachenode.com",
         "woaihuoshan.com",
         "wohst8.com"
+      ],
+      "domain_keyword": [
+        "douyin"
       ]
     }
   ]

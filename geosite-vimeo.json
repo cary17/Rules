@@ -9,16 +9,10 @@
         "vhxqa2.com",
         "vhxqa3.com",
         "vhxqa4.com",
-        "vhxqa6.com",
-        "vimeo-staging.com",
-        "vimeo-staging2.com",
-        "vimeo.com",
-        "vimeo.fr",
-        "vimeobusiness.com",
-        "vimeocdn.com",
-        "vimeogoods.com",
-        "vimeoondemand.com",
-        "vimeostatus.com"
+        "vhxqa6.com"
+      ],
+      "domain_keyword": [
+        "vimeo"
       ],
       "domain_regex": "^[0-9]+vod-adaptive\\.akamaized\\.net$"
     }

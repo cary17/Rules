@@ -8,16 +8,6 @@
         "acmvalidations.com",
         "acmvalidationsaws.com",
         "aesworkshops.com",
-        "amazonaws-china.com",
-        "amazonaws.biz",
-        "amazonaws.cn",
-        "amazonaws.co.uk",
-        "amazonaws.com",
-        "amazonaws.com.cn",
-        "amazonaws.info",
-        "amazonaws.net",
-        "amazonaws.org",
-        "amazonaws.tv",
         "amazoncognito.com",
         "amazonses.com",
         "amazonwebservices.cn",
@@ -77,6 +67,9 @@
         "route53.cn",
         "sagemaker.com.cn",
         "thinkboxsoftware.com"
+      ],
+      "domain_keyword": [
+        "amazonaws"
       ],
       "domain_regex": [
         ".+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$",

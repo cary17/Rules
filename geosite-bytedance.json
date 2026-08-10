@@ -7,7 +7,6 @@
         "ads3-normal.zijieapi.com",
         "ads5-normal-hl.zijieapi.com",
         "ads5-normal.zijieapi.com",
-        "bytedance.map.fastly.net",
         "log3-applog-hl.fqnovel.com",
         "log3-applog.fqnovel.com",
         "log5-applog-hl.fqnovel.com",
@@ -155,13 +154,6 @@
         "byted-static.com",
         "byted-ug.com",
         "byted.org",
-        "bytedance-boe.net",
-        "bytedance.cn",
-        "bytedance.com",
-        "bytedance.net",
-        "bytedance.org",
-        "bytedanceapi.com",
-        "bytedancehermestest.com",
         "bytedapm.com",
         "bytedcdn.com",
         "bytedeliver.com",
@@ -942,6 +934,9 @@
         "zlinkurl.cn",
         "zml81.cn",
         "zvip.cn"
+      ],
+      "domain_keyword": [
+        "bytedance"
       ]
     }
   ]

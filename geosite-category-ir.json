@@ -41,7 +41,6 @@
         "bourseiness.com",
         "bt-broker.com",
         "cafebazaar.org",
-        "cdnsnapptrip.com",
         "cinematicket.org",
         "dana-insurance.com",
         "danabroker.com",
@@ -151,19 +150,6 @@
         "sinainsurance.com",
         "skyroom.online",
         "smshooshmand.com",
-        "snapp-box.com",
-        "snapp.cab",
-        "snapp.doctor",
-        "snapp.express",
-        "snapp.ninja",
-        "snapp.site",
-        "snapp.supply",
-        "snapp.taxi",
-        "snapp.tech",
-        "snappcloud.io",
-        "snappfood.dev",
-        "snapproom.com",
-        "snapptrip.com",
         "sobhanehonline.com",
         "softgozar.com",
         "srttu.edu",
@@ -193,6 +179,9 @@
         "yektanet.com",
         "zarinpal.com",
         "zhaket.com"
+      ],
+      "domain_keyword": [
+        "snapp"
       ]
     }
   ]

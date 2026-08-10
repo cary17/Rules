@@ -12,17 +12,6 @@
         "static.fun",
         "title.sh",
         "turborepo.org",
-        "vercel-dns.com",
-        "vercel-status.com",
-        "vercel.app",
-        "vercel.blog",
-        "vercel.com",
-        "vercel.dev",
-        "vercel.events",
-        "vercel.live",
-        "vercel.pub",
-        "vercel.sh",
-        "vercel.store",
         "zeit-world.co.uk",
         "zeit-world.com",
         "zeit-world.net",
@@ -30,6 +19,9 @@
         "zeit.co",
         "zeit.sh",
         "zeitworld.com"
+      ],
+      "domain_keyword": [
+        "vercel"
       ]
     }
   ]

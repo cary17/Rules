@@ -75,7 +75,6 @@
         "log.strm.yandex.ru",
         "loyalnost-adv.ozon.ru",
         "marketing-info.wildberries.ru",
-        "marketplace-sentry.wb.ru",
         "mc.yandex.com",
         "mc.yandex.net",
         "mc.yango.com",
@@ -92,19 +91,6 @@
         "reklama.mail.ru",
         "report.ap.yandex-net.ru",
         "rs.mail.ru",
-        "sentry-ng.g.smailru.net",
-        "sentry.dev-my.com",
-        "sentry.dev-my.games",
-        "sentry.iptv.rt.ru",
-        "sentry.kontur.host",
-        "sentry.mindbox.ru",
-        "sentry.ozon.ru",
-        "sentry.popmechanic.ru",
-        "sentry.rustore.ru",
-        "sentry.sberauto.com",
-        "sentry.viqeo.tv",
-        "sentry.wb.ru",
-        "sentry.x5.ru",
         "srch-telemeter10.g.smailru.net",
         "stacks.vk-portal.net",
         "stats.avito.ru",
@@ -193,6 +179,9 @@
         "yandex-metrica.ru",
         "yandexmetrica.com",
         "yango-ads.com"
+      ],
+      "domain_keyword": [
+        "sentry"
       ]
     }
   ]

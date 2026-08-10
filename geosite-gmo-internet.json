@@ -2,10 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "cdn.globalsigncdn.com.cdn.cloudflare.net",
-        "crl.globalsign.net"
-      ],
+      "domain": [],
       "domain_suffix": [
         ".gmo",
         "1-account.com",
@@ -41,23 +38,6 @@
         "gaikaex.com",
         "gesoten.com",
         "get.shop",
-        "globalsign-media.com",
-        "globalsign.be",
-        "globalsign.ch",
-        "globalsign.cloud",
-        "globalsign.cn",
-        "globalsign.co.uk",
-        "globalsign.com",
-        "globalsign.com.au",
-        "globalsign.com.br",
-        "globalsign.com.hk",
-        "globalsign.com.sg",
-        "globalsign.es",
-        "globalsign.eu",
-        "globalsign.fr",
-        "globalsign.net",
-        "globalsign.nl",
-        "globalsigncdn.com",
         "gmo-aozora.com",
         "gmo-app.jp",
         "gmo-c.jp",
@@ -150,6 +130,9 @@
         "z.com",
         "zeibit.ai",
         "ztrendlab.com"
+      ],
+      "domain_keyword": [
+        "globalsign"
       ]
     }
   ]

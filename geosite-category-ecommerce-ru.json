@@ -4,24 +4,15 @@
     {
       "domain": [
         "ad.ozone.ru",
-        "ads-gate.wildberries.ru",
-        "ads-media.wildberries.ru",
-        "ads.wildberries.ru",
         "adv.ozon.ru",
         "advert-api-sandbox.wb.ru",
-        "advert-api-sandbox.wildberries.ru",
         "advert-api.wb.ru",
-        "advert-api.wildberries.ru",
         "advert-media-api.wb.ru",
-        "advert-media-api.wildberries.ru",
         "agency-adv.ozon.ru",
         "analytics-adv.ozon.ru",
-        "analytics-stage.wildberries.ru",
-        "analytics.wildberries.ru",
         "beginners-adv.ozon.ru",
         "google-analytics-suite.ozon.ru",
         "loyalnost-adv.ozon.ru",
-        "marketing-info.wildberries.ru",
         "marketplace-sentry.wb.ru",
         "new-adv.ozon.ru",
         "prodvizhenie-adv.ozon.ru",
@@ -29,7 +20,6 @@
         "sentry.ozon.ru",
         "sentry.wb.ru",
         "stats.avito.ru",
-        "web-analytics.wildberries.ru",
         "xapi.ozon.by",
         "xapi.ozon.com",
         "xapi.ozon.com.by",
@@ -169,20 +159,6 @@
         "wildberdes.ru",
         "wildberiss.ru",
         "wildberr.ru",
-        "wildberries.am",
-        "wildberries.by",
-        "wildberries.co.il",
-        "wildberries.es",
-        "wildberries.eu",
-        "wildberries.ge",
-        "wildberries.kg",
-        "wildberries.kz",
-        "wildberries.lt",
-        "wildberries.ru",
-        "wildberries.tj",
-        "wildberries.tm",
-        "wildberries.uz",
-        "wildberriess.ru",
         "wildberrise.ru",
         "wildbiries.ru",
         "wildbirris.ru",
@@ -204,6 +180,9 @@
         "xn--80acbjgsdq2cl.xn--p1ai",
         "xn--90ab.com",
         "xn--e1adjldbbpv.xn--90ais"
+      ],
+      "domain_keyword": [
+        "wildberries"
       ]
     }
   ]

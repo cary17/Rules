@@ -3,15 +3,12 @@
   "rules": [
     {
       "domain": [
-        "log-sdk.gifshow.com",
-        "wlog.kuaishou.com"
+        "log-sdk.gifshow.com"
       ],
       "domain_suffix": [
         "adbkwai.com",
         "adkwai.com",
         "adukwai.com",
-        "e.kuaishou.cn",
-        "e.kuaishou.com",
         "ecukwai.com",
         "gifshow.com",
         "inkuai.com",
@@ -19,11 +16,6 @@
         "ksapisrv.com",
         "kskwai.com",
         "kspkg.com",
-        "kuaishou.cn",
-        "kuaishou.com",
-        "kuaishouapps.com",
-        "kuaishoupay.com",
-        "kuaishouzt.com",
         "kwaicdn.com",
         "kwaizt.com",
         "kwimgs.com",
@@ -31,6 +23,9 @@
         "viviv.com",
         "wsukwai.com",
         "yximgs.com"
+      ],
+      "domain_keyword": [
+        "kuaishou"
       ]
     }
   ]

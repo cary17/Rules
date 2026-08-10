@@ -12,15 +12,6 @@
         "instituteofwar.org",
         "lcsmerch.com",
         "leaguehighschool.com",
-        "leagueoflegends.ca",
-        "leagueoflegends.cn",
-        "leagueoflegends.co.kr",
-        "leagueoflegends.com",
-        "leagueoflegends.info",
-        "leagueoflegends.kr",
-        "leagueoflegends.net",
-        "leagueoflegends.org",
-        "leagueoflegendsscripts.com",
         "leaguesharp.info",
         "leaguoflegends.com",
         "learnwithleague.com",
@@ -57,6 +48,9 @@
         "supremacy.com",
         "supremacy.net",
         "ulol.com"
+      ],
+      "domain_keyword": [
+        "leagueoflegends"
       ]
     }
   ]

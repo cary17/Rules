@@ -42,18 +42,6 @@
         "ctydoh.cn",
         "ctyecx.cn",
         "ctyiptv.cn",
-        "ctyun.cn",
-        "ctyun.com.cn",
-        "ctyuncdn.cn",
-        "ctyuncs.cn",
-        "ctyuninner.com",
-        "ctyunmds.cn",
-        "ctyunwaf.cn",
-        "ctyunwaf.com",
-        "ctyunwaf1.com",
-        "ctyunwaf3.cn",
-        "ctyunxs.cn",
-        "ctyunzos.cn",
         "ctzcdn.cn",
         "ctzcdn.com",
         "edgecloudx.cn",
@@ -70,6 +58,9 @@
         "snctyiptv.cn",
         "ynctyiptv.cn",
         "ynjtyiptv.cn"
+      ],
+      "domain_keyword": [
+        "ctyun"
       ]
     }
   ]

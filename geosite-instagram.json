@@ -3,16 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "achat-followers-instagram.com",
-        "acheter-followers-instagram.com",
-        "acheterdesfollowersinstagram.com",
-        "acheterfollowersinstagram.com",
         "bookstagram.com",
         "carstagram.com",
-        "cdninstagram.com",
         "chickstagram.com",
-        "graph-fallback.instagram.com",
-        "graph.instagram.com",
         "ig.me",
         "igcdn.com",
         "igsonar.com",
@@ -28,32 +21,6 @@
         "instagify.com",
         "instagmania.com",
         "instagor.com",
-        "instagram-brand.com",
-        "instagram-engineering.com",
-        "instagram-help.com",
-        "instagram-press.com",
-        "instagram-press.net",
-        "instagram.com",
-        "instagramci.com",
-        "instagramcn.com",
-        "instagramdi.com",
-        "instagramhashtags.net",
-        "instagramhilecim.com",
-        "instagramhilesi.org",
-        "instagramium.com",
-        "instagramizlenme.com",
-        "instagramkusu.com",
-        "instagramlogin.com",
-        "instagramm.com",
-        "instagramn.com",
-        "instagrampartners.com",
-        "instagramphoto.com",
-        "instagramq.com",
-        "instagramsepeti.com",
-        "instagramtakipcisatinal.net",
-        "instagramtakiphilesi.com",
-        "instagramtips.com",
-        "instagramtr.com",
         "instagran.com",
         "instagranm.com",
         "instagrem.com",
@@ -70,13 +37,10 @@
         "intagrm.com",
         "intgram.com",
         "kingstagram.com",
-        "lnstagram-help.com",
-        "oninstagram.com",
-        "online-instagram.com",
-        "onlineinstagram.com",
-        "theinstagramhack.com",
-        "web-instagram.net",
-        "wwwinstagram.com"
+        "lnstagram-help.com"
+      ],
+      "domain_keyword": [
+        "instagram"
       ]
     }
   ]
