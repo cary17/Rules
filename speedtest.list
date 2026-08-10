@@ -2,7 +2,6 @@
 # UPDATED: 2026-08-10
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 12
-# DOMAIN-REGEX: 1
 # TOTAL: 13
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
 DOMAIN-SUFFIX,cdnst.net

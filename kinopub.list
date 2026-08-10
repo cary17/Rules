@@ -1,7 +1,6 @@
 # NAME: kinopub
 # UPDATED: 2026-08-10
 # DOMAIN-SUFFIX: 16
-# DOMAIN-REGEX: 1
 # TOTAL: 16
 DOMAIN-SUFFIX,ahc.ovh
 DOMAIN-SUFFIX,api.alador.space

@@ -1,7 +1,6 @@
 # NAME: category-container
 # UPDATED: 2026-08-10
 # DOMAIN-SUFFIX: 9
-# DOMAIN-REGEX: 1
 # TOTAL: 9
 DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,docker.io

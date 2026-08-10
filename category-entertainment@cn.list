@@ -2,7 +2,6 @@
 # UPDATED: 2026-08-10
 # DOMAIN: 59
 # DOMAIN-SUFFIX: 40
-# DOMAIN-REGEX: 2
 # TOTAL: 99
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
