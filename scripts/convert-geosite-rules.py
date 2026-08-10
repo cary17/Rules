@@ -49,7 +49,7 @@ def _rule_values(document):
     return values
 
 
-def _metadata(name, counts, skipped):
+def _metadata(name, counts):
     text = [f"# NAME: {name}", f"# UPDATED: {date.today().isoformat()}"]
     labels = {
         "domain": "DOMAIN",
@@ -65,8 +65,7 @@ def _metadata(name, counts, skipped):
     for key, label in labels.items():
         if counts.get(key):
             text.append(f"# {label}: {counts[key]}")
-    skipped_total = sum(skipped.values())
-    text.append(f"# TOTAL: {total - skipped_total}")
+    text.append(f"# TOTAL: {total}")
     return text
 
 
@@ -85,7 +84,7 @@ def render_egern(document, name=None):
     values = _rule_values(document)
     name = name or document.get("name", "Rules")
     total = sum(len(items) for items in values.values())
-    lines = _metadata(name, _counts(values), {})
+    lines = _metadata(name, _counts(values))
     if any(values.get(key) for key in IP_TYPES):
         lines.append("no_resolve: true")
     for source_type, target_type in EGERN_TYPES.items():
@@ -109,7 +108,12 @@ def render_client(document, name=None):
     supported_total = sum(len(values.get(source_type, [])) for source_type in CLIENT_TYPES)
     if supported_total == 0:
         return "", list(skipped.items())
-    lines = _metadata(name, _counts(values), skipped)
+    output_values = {
+        source_type: values.get(source_type, [])
+        for source_type in CLIENT_TYPES
+        if values.get(source_type)
+    }
+    lines = _metadata(name, _counts(output_values))
     for source_type, target_type in CLIENT_TYPES.items():
         lines.extend(f"{target_type},{_plain(item)}" for item in values.get(source_type, []))
     return "\n".join(lines) + "\n", list(skipped.items())

@@ -44,7 +44,9 @@ def test_surge_and_loon_skip_unsupported_domain_regex():
         rendered, skipped = renderer(source)
         assert "DOMAIN,example.com" in rendered
         assert "DOMAIN-REGEX," not in rendered
-        assert "# DOMAIN-REGEX: 1" in rendered
+        assert "# DOMAIN-REGEX:" not in rendered
+        assert "# DOMAIN: 1" in rendered
+        assert "# TOTAL: 1" in rendered
         assert skipped == [("domain_regex", 1)]
         assert "policy" not in rendered.lower()
 
@@ -66,6 +68,28 @@ def test_client_with_only_unsupported_regex_has_no_publishable_output():
         rendered, skipped = renderer(source, "mihoyo@cn")
         assert rendered == ""
         assert skipped == [("domain_regex", 1)]
+
+
+def test_client_metadata_uses_output_types_and_output_order():
+    source = {
+        "version": 1,
+        "rules": [{
+            "domain": ["exact.example"],
+            "domain_suffix": ["example.com"],
+            "domain_keyword": ["example"],
+            "domain_regex": ["^example\\.net$"],
+        }],
+    }
+    rendered, skipped = module.render_surge(source, "example")
+    header = rendered.split("\\n\\n", 1)[0]
+    assert header.splitlines()[2:] == [
+        "# DOMAIN: 1",
+        "# DOMAIN-SUFFIX: 1",
+        "# DOMAIN-KEYWORD: 1",
+        "# TOTAL: 3",
+    ]
+    assert "DOMAIN-REGEX" not in header
+    assert skipped == [("domain_regex", 1)]
 
 
 def test_convert_directory_preserves_pairs_and_writes_summary():
