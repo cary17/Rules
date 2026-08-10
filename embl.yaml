@@ -1,0 +1,12 @@
+# NAME: embl
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+domain_suffix_set:
+  - ebi.ac.uk
+  - embl-hamburg.de
+  - embl.de
+  - embl.fr
+  - embl.it
+  - embl.org
+  - emblstatic.net

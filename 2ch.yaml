@@ -1,0 +1,9 @@
+# NAME: 2ch
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - 2ch.hk
+  - 2ch.life
+  - 2ch.org
+  - 2ch.su

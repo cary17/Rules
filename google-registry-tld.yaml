@@ -1,0 +1,25 @@
+# NAME: google-registry-tld
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
+domain_suffix_set:
+  - .app
+  - .boo
+  - .dad
+  - .day
+  - .dev
+  - .esq
+  - .foo
+  - .how
+  - .ing
+  - .meme
+  - .mov
+  - .new
+  - .nexus
+  - .page
+  - .phd
+  - .prof
+  - .rsvp
+  - .soy
+  - .xn--q9jyb4c
+  - .zip

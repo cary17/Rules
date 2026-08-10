@@ -1,0 +1,14 @@
+# NAME: openstreetmap
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+domain_suffix_set:
+  - openmaps.org
+  - openstreetmap.com
+  - openstreetmap.net
+  - openstreetmap.org
+  - openstreetmaps.org
+  - osm.org
+  - osmfoundation.org
+  - stateofthemap.com
+  - stateofthemap.org

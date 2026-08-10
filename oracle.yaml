@@ -1,0 +1,24 @@
+# NAME: oracle
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
+domain_suffix_set:
+  - .java
+  - .oracle
+  - addthis.com
+  - addthiscdn.com
+  - addthisedge.com
+  - ateam-oracle.com
+  - bronto.com
+  - covid19-rx.org
+  - covid19rx.org
+  - custhelp.com
+  - java.com
+  - java.net
+  - oracle.com
+  - oraclecloud.com
+  - oraclefoundation.org
+  - oracleimg.com
+  - oracleinfinity.io
+  - sun.com
+  - virtualbox.org

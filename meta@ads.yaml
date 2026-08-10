@@ -1,0 +1,12 @@
+# NAME: meta@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+domain_suffix_set:
+  - analytics.facebook.com
+  - facebookads.com
+  - graph-fallback.instagram.com
+  - graph.instagram.com
+  - graph.whatsapp.com
+  - graph.whatsapp.net
+  - pixel.facebook.com

@@ -1,0 +1,13 @@
+# NAME: category-scholar-ir
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+domain_suffix_set:
+  - ac.ir
+  - edu.ir
+  - iranlms.ir
+  - jtt.ir
+  - sanjesh.org
+  - sharif.edu
+  - sharif.ir
+  - srttu.edu

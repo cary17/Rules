@@ -1,0 +1,22 @@
+# NAME: hetzner
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 14
+# TOTAL: 15
+domain_set:
+  - sentry.hetzner.company
+domain_suffix_set:
+  - first-ns.de
+  - hetzner-cloud.de
+  - hetzner.cloud
+  - hetzner.com
+  - hetzner.company
+  - hetzner.de
+  - hetzner.social
+  - htznr.li
+  - second-ns.com
+  - second-ns.de
+  - your-objectstorage.com
+  - your-server.de
+  - your-storagebox.de
+  - your-storageshare.de

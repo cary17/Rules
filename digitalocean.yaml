@@ -1,0 +1,11 @@
+# NAME: digitalocean
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - digitalocean-ui.com
+  - digitalocean.com
+  - digitaloceanspaces.com
+  - do.co
+  - nginxconfig.io
+  - ondigitalocean.com

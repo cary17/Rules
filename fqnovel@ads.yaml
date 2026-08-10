@@ -1,0 +1,15 @@
+# NAME: fqnovel@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
+domain_set:
+  - ads3-normal-hl.zijieapi.com
+  - ads3-normal.zijieapi.com
+  - ads5-normal-hl.zijieapi.com
+  - ads5-normal.zijieapi.com
+  - p3-ad-sign.byteimg.com
+  - p6-ad-sign.byteimg.com
+  - p9-ad-sign.byteimg.com
+domain_keyword_set:
+  - fqnovel

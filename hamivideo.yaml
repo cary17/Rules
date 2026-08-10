@@ -1,0 +1,11 @@
+# NAME: hamivideo
+# UPDATED: 2026-08-10
+# DOMAIN: 3
+# DOMAIN-KEYWORD: 1
+# TOTAL: 4
+domain_set:
+  - efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
+  - scc.ott.hinet.net
+  - t.ssp.hinet.net
+domain_keyword_set:
+  - hamivideo

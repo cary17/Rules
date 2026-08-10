@@ -1,0 +1,16 @@
+# NAME: hpe
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
+domain_set:
+  - hpefonts.s3.amazonaws.com
+domain_suffix_set:
+  - greenlakeaas.com
+  - greenlakehybridcloud.com
+  - hewlettpackard.enterprises
+  - hpe.com
+  - hpecyber.com
+domain_keyword_set:
+  - hewlett-packard

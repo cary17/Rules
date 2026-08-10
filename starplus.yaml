@@ -1,0 +1,11 @@
+# NAME: starplus
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - star.api.edge.bamgrid.com
+  - star.connections.edge.bamgrid.com
+  - star.content.edge.bamgrid.com
+  - star.playback.edge.bamgrid.com
+  - starott.com
+  - starplus.com

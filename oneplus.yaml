@@ -1,0 +1,15 @@
+# NAME: oneplus
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 7
+# TOTAL: 8
+domain_set:
+  - community.oneplus.com
+domain_suffix_set:
+  - h2os.com
+  - oneplus.cn
+  - oneplus.com
+  - oneplus.net
+  - oneplusbbs.com
+  - oneplusmobile.com
+  - opstatics.com

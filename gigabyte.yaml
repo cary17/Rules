@@ -1,0 +1,14 @@
+# NAME: gigabyte
+# UPDATED: 2026-08-10
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 4
+# TOTAL: 7
+domain_set:
+  - gigabyte2.azureedge.net
+  - sa78gs.wpc.edgecastcdn.net
+  - sni1dcb6gl.wpc.edgecastcdn.net
+domain_suffix_set:
+  - aorus.com
+  - aoruszone.cn
+  - gigabyte.cn
+  - gigabyte.com

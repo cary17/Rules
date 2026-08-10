@@ -1,0 +1,20 @@
+# NAME: category-httpdns-cn
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 12
+# TOTAL: 13
+domain_suffix_set:
+  - apidns.kwd.inkuai.com
+  - dns.iqiyi.com
+  - dns.jd.com
+  - dns.qiyipic.iqiyi.com
+  - dns.weibo.cn
+  - dns.weixin.qq.com
+  - dns.weixin.qq.com.cn
+  - doh.iqiyi.com
+  - doh.ptqy.gitv.tv
+  - dotserver.douyucdn.cn
+  - hdns.ksyun.com
+  - httpsdns.baidu.com
+domain_keyword_set:
+  - httpdns

@@ -1,0 +1,10 @@
+# NAME: buypass
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - buypass-ssl.com
+  - buypass.com
+  - buypass.no
+  - buypass.se
+  - minid.no

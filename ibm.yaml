@@ -1,0 +1,25 @@
+# NAME: ibm
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
+domain_suffix_set:
+  - .ibm
+  - .weather
+  - .weatherchannel
+  - appdomain.cloud
+  - bluemix.com
+  - bluemix.net
+  - consul.io
+  - hashicorp.com
+  - ibm.com
+  - ibm.eu
+  - ibm.net
+  - ibm.us
+  - nomadproject.io
+  - packer.io
+  - s-bluemix.net
+  - s81c.com
+  - terraform.io
+  - vagrantcloud.com
+  - vagrantup.com
+  - vaultproject.io

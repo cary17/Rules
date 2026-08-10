@@ -1,0 +1,10 @@
+# NAME: category-ai-chat-!cn@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 5
+# TOTAL: 5
+domain_set:
+  - browser-intake-datadoghq.com
+  - copilot-telemetry-service.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com
+  - o33249.ingest.sentry.io
+  - openai.qualtrics.com

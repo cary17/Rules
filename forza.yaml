@@ -1,0 +1,12 @@
+# NAME: forza
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+domain_set:
+  - prodforza.blob.core.windows.net
+domain_suffix_set:
+  - forza.net
+  - forzamotorsport.net
+  - forzaracingchampionship.com
+  - forzarc.com

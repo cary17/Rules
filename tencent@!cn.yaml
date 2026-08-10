@@ -1,0 +1,37 @@
+# NAME: tencent@!cn
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 26
+# TOTAL: 28
+domain_set:
+  - wetv.qq.com
+domain_suffix_set:
+  - ap-bangkok.myqcloud.com
+  - ap-hongkong.myqcloud.com
+  - ap-jakarta.myqcloud.com
+  - ap-mumbai.myqcloud.com
+  - ap-seoul.myqcloud.com
+  - ap-singapore.myqcloud.com
+  - ap-tokyo.myqcloud.com
+  - ca.file.myqcloud.com
+  - cosca.myqcloud.com
+  - cosger.myqcloud.com
+  - coshk.myqcloud.com
+  - cossgp.myqcloud.com
+  - eu-frankfurt.myqcloud.com
+  - eu-moscow.myqcloud.com
+  - ger.file.myqcloud.com
+  - hk.file.myqcloud.com
+  - na-ashburn.myqcloud.com
+  - na-siliconvalley.myqcloud.com
+  - na-toronto.myqcloud.com
+  - rumt-sg.com
+  - rumt-us.com
+  - sa-saopaulo.myqcloud.com
+  - sgp.file.myqcloud.com
+  - webnovel.com
+  - wetv.vip
+  - wetvinfo.com
+domain_keyword_set:
+  - tencent

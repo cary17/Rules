@@ -1,0 +1,16 @@
+# NAME: viu
+# UPDATED: 2026-08-10
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 2
+# DOMAIN-REGEX: 1
+# TOTAL: 7
+domain_set:
+  - api.viu.now.com
+  - d1k2us671qcoau.cloudfront.net
+  - d2anahhhmp1ffz.cloudfront.net
+  - dfp6rglgjqszk.cloudfront.net
+domain_suffix_set:
+  - viu.com
+  - viu.tv
+domain_regex_set:
+  - ^ewcdn[0-9]+\.nowe\.com$

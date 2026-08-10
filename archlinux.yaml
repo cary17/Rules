@@ -1,0 +1,11 @@
+# NAME: archlinux
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - archlinux.de
+  - archlinux.org
+  - archlinux.page
+  - archlinuxarm.org
+  - archlinuxcn.org
+  - pkgbuild.com

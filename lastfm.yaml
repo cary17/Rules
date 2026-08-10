@@ -1,0 +1,10 @@
+# NAME: lastfm
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
+domain_set:
+  - lastfm.freetls.fastly.net
+  - ws.audioscrobbler.com
+domain_suffix_set:
+  - last.fm

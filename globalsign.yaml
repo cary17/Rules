@@ -1,0 +1,10 @@
+# NAME: globalsign
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+domain_suffix_set:
+  - alphassl.com
+  - easy-signing.com
+domain_keyword_set:
+  - globalsign

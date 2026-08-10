@@ -1,0 +1,12 @@
+# NAME: bahamut
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+domain_set:
+  - gamer-cds.cdn.hinet.net
+  - gamer2-cds.cdn.hinet.net
+domain_suffix_set:
+  - bahamut.akamaized.net
+  - bahamut.com.tw
+  - gamer.com.tw

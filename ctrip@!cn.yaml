@@ -1,0 +1,21 @@
+# NAME: ctrip@!cn
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
+domain_suffix_set:
+  - ak-p.tripcdn.com
+  - ak-s-cw.tripcdn.com
+  - ak-s.tripcdn.com
+  - akatest.tripcdn.com
+  - aw-d.tripcdn.com
+  - aw-p.tripcdn.com
+  - aw-s.tripcdn.com
+  - ctrip.co.id
+  - ctrip.co.kr
+  - ctrip.co.th
+  - ctrip.com.hk
+  - ctrip.my
+  - ctrip.sg
+  - ctripbuy.hk
+  - hhtravel.com.tw
+  - trip.com

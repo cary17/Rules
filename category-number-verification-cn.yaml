@@ -1,0 +1,16 @@
+# NAME: category-number-verification-cn
+# UPDATED: 2026-08-10
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 1
+# DOMAIN-REGEX: 1
+# TOTAL: 7
+domain_set:
+  - enrichgw.10010.com
+  - hap.10010.com
+  - hs.wosms.cn
+  - id6.me
+  - opencloud.wostore.cn
+domain_suffix_set:
+  - cmpassport.com
+domain_regex_set:
+  - ^nis.+\.10010\.com$

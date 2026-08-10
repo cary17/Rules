@@ -1,0 +1,12 @@
+# NAME: dropbox
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
+domain_set:
+  - paper-attachments.s3.amazonaws.com
+domain_suffix_set:
+  - db.tt
+domain_keyword_set:
+  - dropbox

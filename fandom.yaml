@@ -1,0 +1,19 @@
+# NAME: fandom
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 11
+# TOTAL: 12
+domain_set:
+  - fandom.zendesk.com
+domain_suffix_set:
+  - cortexrpg.com
+  - cursecdn.com
+  - dndbeyond.com
+  - fanatical.com
+  - fandom.com
+  - futhead.com
+  - gamepedia.com
+  - muthead.com
+  - wikia.com
+  - wikia.nocookie.net
+  - wikia.org

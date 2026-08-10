@@ -1,0 +1,12 @@
+# NAME: google-trust-services@cn
+# UPDATED: 2026-08-10
+# DOMAIN: 7
+# TOTAL: 7
+domain_set:
+  - c.pki.goog
+  - crl.pki.goog
+  - crls.pki.goog
+  - i.pki.goog
+  - o.pki.goog
+  - ocsp.pki.goog
+  - pki-goog.l.google.com

@@ -1,0 +1,14 @@
+# NAME: aliyun@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+domain_suffix_set:
+  - acjs.aliyun.com
+  - adash-emas.cn-hangzhou.aliyuncs.com
+  - adash.man.aliyuncs.com
+  - alimama.alicdn.com
+  - atanx.alicdn.com
+  - atanx2.alicdn.com
+  - baichuan-sdk.alicdn.com
+  - nbsdk-baichuan.alicdn.com
+  - tce.alicdn.com

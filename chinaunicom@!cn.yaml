@@ -1,0 +1,10 @@
+# NAME: chinaunicom@!cn
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - chinaunicom.com.hk
+  - chinaunicomglobal.com
+  - cuguplus.com
+  - cuniq.com
+  - cuniq.sg

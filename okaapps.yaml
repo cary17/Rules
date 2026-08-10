@@ -1,0 +1,9 @@
+# NAME: okaapps
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 1
+# DOMAIN-REGEX: 1
+# TOTAL: 2
+domain_suffix_set:
+  - okaapps.com
+domain_regex_set:
+  - ^(.+\.)*zh\.okaapps\.com$

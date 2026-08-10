@@ -1,0 +1,13 @@
+# NAME: github-copilot
+# UPDATED: 2026-08-10
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 1
+# TOTAL: 6
+domain_set:
+  - copilot-proxy.githubusercontent.com
+  - copilot-telemetry-service.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com
+  - copilot-workspace.githubnext.com
+  - copilotprodattachments.blob.core.windows.net
+domain_suffix_set:
+  - githubcopilot.com

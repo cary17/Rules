@@ -1,0 +1,10 @@
+# NAME: iqiyi@ads
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+domain_suffix_set:
+  - msg.video.qiyi.com
+  - msg2.video.qiyi.com
+domain_keyword_set:
+  - iqiyi

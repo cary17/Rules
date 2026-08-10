@@ -1,0 +1,9 @@
+# NAME: cisco@cn
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - cisco.cn
+  - cisco.com.cn
+  - network-auth.cn
+  - webex.com.cn

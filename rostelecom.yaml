@@ -1,0 +1,16 @@
+# NAME: rostelecom
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 8
+# TOTAL: 9
+domain_set:
+  - sentry.iptv.rt.ru
+domain_suffix_set:
+  - azbukainterneta.ru
+  - more.tv
+  - restream-media.net
+  - restream.ru
+  - rostelecom.ru
+  - rt.ru
+  - wink.am
+  - wink.ru

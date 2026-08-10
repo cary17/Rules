@@ -1,0 +1,20 @@
+# NAME: csdn
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
+domain_suffix_set:
+  - codechina.net
+  - csdn.com
+  - csdn.net
+  - csdn.net.cn
+  - csdnimg.cn
+  - csto.com
+  - datasea.cn
+  - gitbook.cn
+  - gitchat.cn
+  - gitcode.com
+  - gitcode.net
+  - iteye.com
+  - kaifayun.com
+  - programmer.com.cn
+  - programmer.net.cn

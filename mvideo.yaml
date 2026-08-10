@@ -1,0 +1,10 @@
+# NAME: mvideo
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+domain_set:
+  - mvideo.edna.io
+domain_suffix_set:
+  - acmvid.com
+  - mvideo.ru

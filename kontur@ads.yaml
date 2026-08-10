@@ -1,0 +1,7 @@
+# NAME: kontur@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# TOTAL: 2
+domain_set:
+  - metrika.kontur.ru
+  - sentry.kontur.host

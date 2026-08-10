@@ -1,0 +1,9 @@
+# NAME: tubi
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - tubi.io
+  - tubi.tv
+  - tubi.video
+  - tubitv.com

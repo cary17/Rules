@@ -1,0 +1,12 @@
+# NAME: gismeteo
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+domain_suffix_set:
+  - gismeteo.by
+  - gismeteo.com
+  - gismeteo.net
+  - gismeteo.ru
+  - gismeteo.st
+  - meteofor.com
+  - meteofor.st

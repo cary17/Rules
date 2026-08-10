@@ -1,0 +1,11 @@
+# NAME: test-ipv6
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+domain_suffix_set:
+  - sixte.st
+  - testipv6.cn
+  - testipv6.de
+domain_keyword_set:
+  - test-ipv6

@@ -1,0 +1,30 @@
+# NAME: group-ib
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 22
+# TOTAL: 23
+domain_suffix_set:
+  - antiphishing.nl
+  - antiphishing.ru
+  - cert-gib.com
+  - cert-gib.ru
+  - cybercrimecon.com
+  - f6.dev
+  - f6.ru
+  - f6.security
+  - facct.email
+  - facct.ru
+  - future-cs.ru
+  - g-ib.ae
+  - g-ib.ru
+  - g-ib.sg
+  - g-ib.us
+  - gib-global.com
+  - gib.sg
+  - gibdev.net
+  - gibtds.ru
+  - groupib.ae
+  - groupib.sg
+  - groupib.us
+domain_keyword_set:
+  - group-ib

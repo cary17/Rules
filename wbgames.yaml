@@ -1,0 +1,13 @@
+# NAME: wbgames
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 4
+# TOTAL: 6
+domain_set:
+  - datarouter.apps.netherrealm.com
+  - wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+domain_suffix_set:
+  - warnerbrosgames.com
+  - wbagora.com
+  - wbgames.com
+  - wbinsights.com

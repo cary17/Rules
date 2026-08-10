@@ -1,0 +1,17 @@
+# NAME: canonical
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+domain_suffix_set:
+  - canonical.com
+  - launchpad.net
+  - launchpadcontent.net
+  - launchpadlibrarian.com
+  - launchpadlibrarian.net
+  - launchpadlibrarian.org
+  - snapcraft.io
+  - snapstore.io
+  - ubuntu-touch.io
+  - ubuntu.com
+  - ubuntu.net
+  - ubuntuforums.org

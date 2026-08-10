@@ -1,0 +1,11 @@
+# NAME: blogspot
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+domain_suffix_set:
+  - blogblog.com
+  - blogger.com
+  - blogger.googleusercontent.com
+domain_keyword_set:
+  - blogspot

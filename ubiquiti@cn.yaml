@@ -1,0 +1,12 @@
+# NAME: ubiquiti@cn
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+domain_suffix_set:
+  - amplifi.com.cn
+  - frontrow.com.cn
+  - ubnt.com
+  - ubnt.com.cn
+  - ui.com.cn
+  - uum.com.cn
+  - uwn.com

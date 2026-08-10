@@ -1,0 +1,14 @@
+# NAME: hanyi
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
+domain_set:
+  - hellofontpreview.oss-cn-beijing.aliyuncs.com
+  - hellowebfonts.oss-cn-beijing.aliyuncs.com
+domain_suffix_set:
+  - fontstar.com.cn
+  - hanyi.com
+  - hanyi.com.cn
+  - hellofont.cn
+  - hellowebfont.com

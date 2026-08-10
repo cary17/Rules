@@ -1,0 +1,16 @@
+# NAME: category-entertainment@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 5
+# TOTAL: 9
+domain_set:
+  - adeventtracker.spotify.com
+  - adstudio-assets.scdn.co
+  - bloodhound.spotify.com
+  - disney.my.sentry.io
+domain_suffix_set:
+  - ads-pixiv.net
+  - ads.youtube.com
+  - analytics.tiktok.com
+  - insights-collector.gog.com
+  - log-upload-os.hoyoverse.com

@@ -1,0 +1,24 @@
+# NAME: netcup
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 16
+# TOTAL: 17
+domain_suffix_set:
+  - bestsrv.de
+  - customercontrolpanel.de
+  - dnsserver1.de
+  - dnsserver2.de
+  - goodsrv.de
+  - happysrv.de
+  - hotsrv.de
+  - luckysrv.de
+  - megasrv.de
+  - nicesrv.de
+  - powersrv.de
+  - quicksrv.de
+  - servercontrolpanel.de
+  - supersrv.de
+  - ultrasrv.de
+  - yourvserver.net
+domain_keyword_set:
+  - netcup

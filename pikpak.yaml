@@ -1,0 +1,14 @@
+# NAME: pikpak
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 7
+domain_set:
+  - o4504926511693824.ingest.sentry.io
+domain_suffix_set:
+  - mypikpak.com
+  - mypikpak.net
+  - pickpackapp.com
+  - pikpak.io
+  - pikpak.me
+  - pikpakdrive.com

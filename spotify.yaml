@@ -1,0 +1,14 @@
+# NAME: spotify
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+domain_set:
+  - adstudio-assets.scdn.co
+domain_suffix_set:
+  - pscdn.co
+  - scdn.co
+  - spoti.fi
+domain_keyword_set:
+  - spotify

@@ -1,0 +1,11 @@
+# NAME: category-dev-cn@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - ads.unitychina.cn
+  - badjs.weixinbridge.com
+  - splash-ads.cdn.unity.cn
+  - splash-ads.unitychina.cn
+  - unityads.unity.cn
+  - unityads.unitychina.cn

@@ -1,0 +1,8 @@
+# NAME: espressif@!cn
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+domain_suffix_set:
+  - esp32.com
+  - esp8266.com
+  - espressif.com

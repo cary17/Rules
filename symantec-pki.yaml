@@ -1,0 +1,10 @@
+# NAME: symantec-pki
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - pki.symantec.com
+  - symauth.com
+  - symcb.com
+  - symcd.com
+  - ws.symantec.com

@@ -1,0 +1,14 @@
+# NAME: kuaishou@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
+domain_set:
+  - log-sdk.gifshow.com
+  - wlog.kuaishou.com
+domain_suffix_set:
+  - adbkwai.com
+  - adkwai.com
+  - adukwai.com
+  - e.kuaishou.cn
+  - e.kuaishou.com

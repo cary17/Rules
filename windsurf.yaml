@@ -1,0 +1,9 @@
+# NAME: windsurf
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - codeium.com
+  - codeiumdata.com
+  - windsurf.build
+  - windsurf.com

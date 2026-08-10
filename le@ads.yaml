@@ -1,0 +1,9 @@
+# NAME: le@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - apple.www.letv.com
+  - ark.letv.com
+  - dc.letv.com
+  - g3.letv.com

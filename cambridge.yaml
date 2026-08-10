@@ -1,0 +1,11 @@
+# NAME: cambridge
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - cam.ac.uk
+  - cambridge.org
+  - cambridgedigital.net
+  - cambridgemaths.org
+  - cambridgeschoolshakespeare.com
+  - dlib.eastview.com

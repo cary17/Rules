@@ -1,0 +1,18 @@
+# NAME: litv
+# UPDATED: 2026-08-10
+# DOMAIN: 8
+# DOMAIN-SUFFIX: 3
+# TOTAL: 11
+domain_set:
+  - ntdfreemobile-tgc.cdn.hinet.net
+  - ntdfreepc-tgc.cdn.hinet.net
+  - ntdfreetv-tgc.cdn.hinet.net
+  - ntdfreevcpc-tgc.cdn.hinet.net
+  - ntdofifreemobile-tgc.cdn.hinet.net
+  - ntdofifreepc-tgc.cdn.hinet.net
+  - ntdofifreetv-tgc.cdn.hinet.net
+  - ntdofifreevcpc-tgc.cdn.hinet.net
+domain_suffix_set:
+  - litv.tv
+  - litvfreepc.akamaized.net
+  - ofiii.com

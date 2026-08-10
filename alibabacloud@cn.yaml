@@ -1,0 +1,9 @@
+# NAME: alibabacloud@cn
+# UPDATED: 2026-08-10
+# DOMAIN: 4
+# TOTAL: 4
+domain_set:
+  - account-cn.alibabacloud.com
+  - api.alibabacloud.com
+  - cn.alibabacloud.com
+  - status.alibabacloud.com

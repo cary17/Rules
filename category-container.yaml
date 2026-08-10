@@ -1,0 +1,17 @@
+# NAME: category-container
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 9
+# DOMAIN-REGEX: 1
+# TOTAL: 10
+domain_suffix_set:
+  - azurecr.io
+  - docker.io
+  - ecr.aws
+  - gcr.io
+  - ghcr.io
+  - mcr.microsoft.com
+  - quay.io
+  - registry.gitlab.com
+  - registry.k8s.io
+domain_regex_set:
+  - .+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$

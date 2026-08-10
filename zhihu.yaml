@@ -1,0 +1,11 @@
+# NAME: zhihu
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - crash2.zhihu.com
+  - laiyagushi.com
+  - vzuu.com
+  - zhihu-web-analytics.zhihu.com
+  - zhihu.com
+  - zhimg.com

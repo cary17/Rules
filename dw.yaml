@@ -1,0 +1,9 @@
+# NAME: dw
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 1
+# TOTAL: 2
+domain_set:
+  - deutschewelle.h-cdn.com
+domain_suffix_set:
+  - dw.com

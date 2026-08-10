@@ -1,0 +1,10 @@
+# NAME: launchpad
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - launchpad.net
+  - launchpadcontent.net
+  - launchpadlibrarian.com
+  - launchpadlibrarian.net
+  - launchpadlibrarian.org

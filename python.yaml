@@ -1,0 +1,11 @@
+# NAME: python
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - pycon.org
+  - pypa.io
+  - pypi.io
+  - pypi.org
+  - python.org
+  - pythonhosted.org

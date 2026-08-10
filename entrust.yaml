@@ -1,0 +1,17 @@
+# NAME: entrust
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 9
+# TOTAL: 10
+domain_set:
+  - www.entrust.cn
+domain_suffix_set:
+  - affirmtrust.com
+  - atos.net
+  - certificat2.com
+  - entrust.cn
+  - entrust.com
+  - entrust.net
+  - entrustdatacard.com
+  - myatos.net
+  - trendmicro.com

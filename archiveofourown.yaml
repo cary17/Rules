@@ -1,0 +1,9 @@
+# NAME: archiveofourown
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - ao3.org
+  - archiveofourown.com
+  - archiveofourown.net
+  - archiveofourown.org

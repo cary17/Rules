@@ -1,0 +1,14 @@
+# NAME: asahi
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 7
+domain_set:
+  - asahishimbun.sc.omtrdc.net
+domain_suffix_set:
+  - aiasahi.jp
+  - asagaku.com
+  - asahi.com
+  - asahicom.jp
+  - asakonet.co.jp
+  - nikkansports.com

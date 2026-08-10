@@ -1,0 +1,12 @@
+# NAME: pingcap
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+domain_suffix_set:
+  - asktug.com
+  - pingcap.cn
+  - pingcap.com
+  - tidb.ai
+  - tidb.net
+  - tidbcloud.com
+  - tikv.org

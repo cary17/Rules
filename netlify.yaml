@@ -1,0 +1,17 @@
+# NAME: netlify
+# UPDATED: 2026-08-10
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 7
+# TOTAL: 10
+domain_set:
+  - acd89244c803f7181.awsglobalaccelerator.com
+  - afa7f374f51cc8991.awsglobalaccelerator.com
+  - d33wubrfki0l68.cloudfront.net
+domain_suffix_set:
+  - bitballoon.com
+  - netlify.app
+  - netlify.com
+  - netlifydns.com
+  - netlifystatus.com
+  - netlifyusercontent.com
+  - ntl.fyi

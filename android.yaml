@@ -1,0 +1,11 @@
+# NAME: android
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+domain_set:
+  - android.googlesource.com
+domain_suffix_set:
+  - .android
+  - android.com
+  - androidify.com

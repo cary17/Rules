@@ -1,0 +1,12 @@
+# NAME: perplexity
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+domain_set:
+  - ppl-ai-file-upload.s3.amazonaws.com
+  - pplx-res.cloudinary.com
+domain_suffix_set:
+  - perplexity.ai
+  - perplexity.com
+  - pplx.ai

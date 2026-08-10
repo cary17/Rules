@@ -1,0 +1,9 @@
+# NAME: sourceforge
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - fsdn.com
+  - sf.net
+  - sourceforge.com
+  - sourceforge.net

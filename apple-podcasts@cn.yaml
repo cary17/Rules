@@ -1,0 +1,7 @@
+# NAME: apple-podcasts@cn
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# TOTAL: 2
+domain_set:
+  - amp-api.podcasts.apple.com
+  - podcasts.apple.com

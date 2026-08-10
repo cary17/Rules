@@ -1,0 +1,10 @@
+# NAME: sinopec
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - sinopec-usa.com
+  - sinopec.com
+  - sinopecgroup.com
+  - sinopecnews.com.cn
+  - sinopecsales.com

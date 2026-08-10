@@ -1,0 +1,19 @@
+# NAME: ibkr
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 11
+# TOTAL: 12
+domain_suffix_set:
+  - ibkr.ca
+  - ibkr.co.in
+  - ibkr.co.uk
+  - ibkr.com
+  - ibkr.com.au
+  - ibkr.com.hk
+  - ibkr.com.sg
+  - ibkr.eu
+  - ibkr.ie
+  - ibkrguides.com
+  - ibllc.com
+domain_keyword_set:
+  - interactivebrokers

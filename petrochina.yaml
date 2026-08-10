@@ -1,0 +1,9 @@
+# NAME: petrochina
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - 95504.net
+  - 95504test.com
+  - cnpc.com.cn
+  - petrochina.com.cn

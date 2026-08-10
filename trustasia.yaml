@@ -1,0 +1,16 @@
+# NAME: trustasia
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
+domain_suffix_set:
+  - 51ssl.cn
+  - 51ssl.com
+  - geossl.cn
+  - litessl.cn
+  - litessl.com
+  - myssl-uri.com
+  - myssl.com
+  - trustasia.cn
+  - trustasia.com
+  - trustasia.com.cn
+  - trustasia.net

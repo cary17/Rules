@@ -1,0 +1,12 @@
+# NAME: apple-music@cn
+# UPDATED: 2026-08-10
+# DOMAIN: 7
+# TOTAL: 7
+domain_set:
+  - amp-api-edge.music.apple.com
+  - amp-api.music.apple.com
+  - js-cdn.music.apple.com
+  - music.apple.com
+  - musicstatus.music.apple.com
+  - play.music.apple.com
+  - speedysub.music.apple.com

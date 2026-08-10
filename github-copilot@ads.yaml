@@ -1,0 +1,7 @@
+# NAME: github-copilot@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# TOTAL: 2
+domain_set:
+  - copilot-telemetry-service.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com

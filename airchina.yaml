@@ -1,0 +1,11 @@
+# NAME: airchina
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+domain_suffix_set:
+  - phoenixmiles.cn
+  - phoenixmiles.com
+  - phoenixmiles.com.cn
+domain_keyword_set:
+  - airchina

@@ -1,0 +1,13 @@
+# NAME: dazn
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+domain_suffix_set:
+  - dazn-api.com
+  - dazn.com
+  - dazndn.com
+  - daznfeeds.com
+  - daznplayer.com
+  - daznservices.com
+  - indazn.com
+  - indaznlab.com

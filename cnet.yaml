@@ -1,0 +1,10 @@
+# NAME: cnet
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - cnet.co.kr
+  - cnet.com
+  - cnet.de
+  - cnetfrance.fr
+  - download.com

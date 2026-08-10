@@ -1,0 +1,6 @@
+# NAME: mihoyo@cn
+# UPDATED: 2026-08-10
+# DOMAIN-REGEX: 1
+# TOTAL: 1
+domain_regex_set:
+  - ^.+-mihayo\.akamaized\.net$

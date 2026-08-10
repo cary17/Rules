@@ -1,0 +1,10 @@
+# NAME: bitwarden
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - bitwarden.com
+  - bitwarden.eu
+  - bitwarden.net
+  - btwrdn.co
+  - btwrdn.com

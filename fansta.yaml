@@ -1,0 +1,12 @@
+# NAME: fansta
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+domain_set:
+  - misa-prod.s3.ap-northeast-1.amazonaws.com
+domain_suffix_set:
+  - 2023aga.oen.tw
+  - aga-expo.com
+  - cosfans-tw.com
+  - fansta.me

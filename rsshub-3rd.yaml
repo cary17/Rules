@@ -1,0 +1,16 @@
+# NAME: rsshub-3rd
+# UPDATED: 2026-08-10
+# DOMAIN: 8
+# DOMAIN-KEYWORD: 1
+# TOTAL: 9
+domain_set:
+  - holoxx.f5.si
+  - hub.slarker.me
+  - rss.4040940.xyz
+  - rss.datuan.dev
+  - rss.littlebaby.life
+  - rss.owo.nz
+  - rss.wudifeixue.com
+  - yangzhi.app
+domain_keyword_set:
+  - rsshub

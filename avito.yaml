@@ -1,0 +1,10 @@
+# NAME: avito
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+domain_set:
+  - stats.avito.ru
+domain_suffix_set:
+  - avito.ru
+  - avito.st

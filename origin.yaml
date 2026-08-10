@@ -1,0 +1,16 @@
+# NAME: origin
+# UPDATED: 2026-08-10
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 5
+# TOTAL: 9
+domain_set:
+  - cloudsync-prod.s3.amazonaws.com
+  - origin-a.akamaihd.net
+  - rtm.tnt-ea.com
+  - ssl-lvlt.cdn.ea.com
+domain_suffix_set:
+  - dawngate.com
+  - eastore.com
+  - lordofultima.com
+  - origin.com
+  - origin.tv

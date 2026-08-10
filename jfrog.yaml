@@ -1,0 +1,11 @@
+# NAME: jfrog
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+domain_set:
+  - d29vzk4ow07wi7.cloudfront.net
+domain_suffix_set:
+  - bintray.com
+  - jfrog.com
+  - jfrog.org

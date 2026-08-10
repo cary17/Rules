@@ -1,0 +1,8 @@
+# NAME: firebase@cn
+# UPDATED: 2026-08-10
+# DOMAIN: 3
+# TOTAL: 3
+domain_set:
+  - crashlyticsreports-pa.googleapis.com
+  - firebase-settings.crashlytics.com
+  - update.crashlytics.com

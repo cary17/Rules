@@ -1,0 +1,9 @@
+# NAME: nic-ru
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - nic.ru
+  - nichost.ru
+  - r01.ru
+  - sweb.ru

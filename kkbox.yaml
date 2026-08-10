@@ -1,0 +1,10 @@
+# NAME: kkbox
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - kfs.io
+  - kk.stream
+  - kkbox.com
+  - kkbox.com.tw
+  - kktix.com

@@ -1,0 +1,9 @@
+# NAME: xda
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - xda-cdn.com
+  - xda-developers.com
+  - xdaforums.com
+  - xdaimages.com

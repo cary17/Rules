@@ -1,0 +1,9 @@
+# NAME: mindbox@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
+domain_set:
+  - sentry.popmechanic.ru
+domain_keyword_set:
+  - mindbox

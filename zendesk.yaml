@@ -1,0 +1,11 @@
+# NAME: zendesk
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - outbound.io
+  - zdassets.com
+  - zdusercontent.com
+  - zendesk.com
+  - zndsk.com
+  - zopim.com

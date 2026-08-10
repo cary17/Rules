@@ -1,0 +1,14 @@
+# NAME: firefox
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
+domain_set:
+  - mozilla-ohttp.fastly-edge.com
+  - mozilla.map.fastly.net
+domain_suffix_set:
+  - extendfirefox.com
+  - firefox.com
+  - firefox.hu
+  - firefoxtweetmachine.com
+  - firefoxusercontent.com

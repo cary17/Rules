@@ -1,0 +1,33 @@
+# NAME: category-speedtest
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 21
+# DOMAIN-REGEX: 1
+# TOTAL: 24
+domain_suffix_set:
+  - cdnst.net
+  - cellmaps.com
+  - ekahau.cloud
+  - ekahau.com
+  - fast.com
+  - linkmeter.net
+  - measurementlab.net
+  - meter.net
+  - nperf.com
+  - ookla.com
+  - ooklaserver.net
+  - open.cachefly.net
+  - pingtest.net
+  - test.nju.edu.cn
+  - test.ustc.edu.cn
+  - test6.nju.edu.cn
+  - test6.ustc.edu.cn
+  - testmy.net
+  - testskorosti.ru
+  - webtest.net
+  - xnfz.seu.edu.cn
+domain_keyword_set:
+  - speed
+  - speedtest
+domain_regex_set:
+  - ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

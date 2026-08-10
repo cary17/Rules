@@ -1,0 +1,11 @@
+# NAME: hunantv@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - click.hunantv.com
+  - da.hunantv.com
+  - da.mgtv.com
+  - log.hunantv.com
+  - log.v2.hunantv.com
+  - res.hunantv.com

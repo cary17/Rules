@@ -1,0 +1,9 @@
+# NAME: openrec
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 1
+# TOTAL: 2
+domain_set:
+  - dqd0jw5gvbchn.cloudfront.net
+domain_suffix_set:
+  - openrec.tv

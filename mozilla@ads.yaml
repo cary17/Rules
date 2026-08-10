@@ -1,0 +1,9 @@
+# NAME: mozilla@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 4
+# TOTAL: 4
+domain_set:
+  - ads-img.mozilla.org
+  - ads.mozilla.org
+  - incoming-telemetry.thunderbird.net
+  - incoming.telemetry.mozilla.org

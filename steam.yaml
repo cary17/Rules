@@ -1,0 +1,29 @@
+# NAME: steam
+# UPDATED: 2026-08-10
+# DOMAIN: 4
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 15
+# TOTAL: 20
+domain_set:
+  - a4e8s8k3.map2.ssl.hwcdn.net
+  - f3b7q2p3.ssl.hwcdn.net
+  - lv.queniujq.cn
+  - xz.pphimalayanrt.com
+domain_suffix_set:
+  - client-update.queniuqe.com
+  - csgo.com.cn
+  - csgo.wmsj.cn
+  - dota2.com
+  - dota2.com.cn
+  - dota2.wmsj.cn
+  - gstore.val.manlaxy.com
+  - playartifact.com
+  - s.team
+  - st.dl.bscstorage.net
+  - st.dl.eccdnx.com
+  - st.dl.pinyuncloud.com
+  - underlords.com
+  - valve.net
+  - valvesoftware.com
+domain_keyword_set:
+  - steam

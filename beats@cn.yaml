@@ -1,0 +1,12 @@
+# NAME: beats@cn
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+domain_suffix_set:
+  - beats1.cn
+  - beats1.com.cn
+  - beats2.com.cn
+  - beats4.cn
+  - beatsbydre.com
+  - beatsbydre.com.cn
+  - beatsep.cn

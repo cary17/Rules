@@ -1,0 +1,9 @@
+# NAME: category-food-cn@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - logger.qmai.cn
+  - tracking.mcdonalds.com.cn
+  - trackingprd.hwwt8.com
+  - trackserver.shuxinyc.com

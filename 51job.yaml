@@ -1,0 +1,10 @@
+# NAME: 51job
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - 51job.com
+  - 51jobcdn.com
+  - yingjiesheng.com
+  - yingjiesheng.net
+  - zhiding.com.cn

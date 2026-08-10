@@ -1,0 +1,10 @@
+# NAME: imdb
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - .imdb
+  - boxofficemojo.com
+  - imdb.com
+  - imdb.to
+  - media-imdb.com

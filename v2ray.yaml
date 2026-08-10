@@ -1,0 +1,8 @@
+# NAME: v2ray
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+domain_suffix_set:
+  - v2fly.org
+  - v2ray.com
+  - v2ray.cool

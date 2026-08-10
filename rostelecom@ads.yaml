@@ -1,0 +1,6 @@
+# NAME: rostelecom@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# TOTAL: 1
+domain_set:
+  - sentry.iptv.rt.ru

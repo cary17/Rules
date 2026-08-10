@@ -1,0 +1,10 @@
+# NAME: unitychina@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - ads.unitychina.cn
+  - splash-ads.cdn.unity.cn
+  - splash-ads.unitychina.cn
+  - unityads.unity.cn
+  - unityads.unitychina.cn

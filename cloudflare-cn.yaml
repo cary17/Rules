@@ -1,0 +1,17 @@
+# NAME: cloudflare-cn
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 9
+# TOTAL: 10
+domain_suffix_set:
+  - cf-china.info
+  - cf-ns.com
+  - cf-ns.net
+  - cf-ns.site
+  - cf-ns.tech
+  - cftest5.cn
+  - cftest6.cn
+  - cftest7.com
+  - cftest8.com
+domain_keyword_set:
+  - cloudflare

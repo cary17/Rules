@@ -1,0 +1,10 @@
+# NAME: google-play@cn
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-REGEX: 2
+# TOTAL: 3
+domain_set:
+  - redirector.c.play.google.com
+domain_regex_set:
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$

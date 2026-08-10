@@ -1,0 +1,18 @@
+# NAME: youku
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 7
+# TOTAL: 9
+domain_set:
+  - ykimg.alicdn.com
+domain_suffix_set:
+  - 9xsecndns.cn
+  - e.stat.ykimg.com
+  - kumiao.com
+  - p-log.ykimg.com
+  - soku.com
+  - tudou.com
+  - ykimg.com
+domain_keyword_set:
+  - youku

@@ -1,0 +1,15 @@
+# NAME: category-web-archive
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 7
+# TOTAL: 8
+domain_suffix_set:
+  - 4pcdn.org
+  - 4plebs.org
+  - megalodon.jp
+  - mementoweb.org
+  - openlibrary.org
+  - perma.cc
+  - webcitation.org
+domain_keyword_set:
+  - archive

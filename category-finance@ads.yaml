@@ -1,0 +1,16 @@
+# NAME: category-finance@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 4
+# TOTAL: 9
+domain_set:
+  - error-tracking.megamarket.tech
+  - metrics.21-school.ru
+  - sentry.sberauto.com
+  - tracing-http.megamarket.tech
+  - visor.sberbank.ru
+domain_suffix_set:
+  - ads.sber.ru
+  - clickstream.sberbank.ru
+  - neon.click
+  - sbermarketing.ru

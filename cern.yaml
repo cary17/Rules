@@ -1,0 +1,12 @@
+# NAME: cern
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+domain_suffix_set:
+  - .cern
+  - ams02.space
+  - cern.ch
+  - cixp.net
+  - dotcernpilot.info
+  - ippog.org
+  - linearcollider.org

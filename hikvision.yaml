@@ -1,0 +1,13 @@
+# NAME: hikvision
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+domain_suffix_set:
+  - eziot.com
+  - ezviz.com
+  - hik-cloud.com
+  - hik-express.com
+  - hikiot.com
+  - hikmall.com
+  - hikvision.com
+  - ys7.com

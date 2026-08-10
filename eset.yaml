@@ -1,0 +1,16 @@
+# NAME: eset
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 7
+# TOTAL: 9
+domain_set:
+  - epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+  - eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+domain_suffix_set:
+  - cn.eset.com
+  - e5.sk
+  - eset.com
+  - eset.eu
+  - eset.sk
+  - eset.systems
+  - esetsoftware.com

@@ -1,0 +1,8 @@
+# NAME: 4chan
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+domain_suffix_set:
+  - 4cdn.org
+  - 4chan.org
+  - 4channel.org

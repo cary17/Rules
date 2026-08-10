@@ -1,0 +1,23 @@
+# NAME: take-two
+# UPDATED: 2026-08-10
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 13
+# TOTAL: 16
+domain_set:
+  - gamedownloads-rockstargames-com.akamaized.net
+  - media-rockstargames-com.akamaized.net
+  - videos-rockstargames-com.akamaized.net
+domain_suffix_set:
+  - 2k.com
+  - 2kcoretech.online
+  - 2kct.onl
+  - 2kgames.com
+  - 2ksports.com
+  - 2kweb.online
+  - rockstargames.com
+  - rockstarnorth.com
+  - rsg.sc
+  - take2games.com
+  - zynga.com
+  - zyngaplayersupport.com
+  - zyngapoker.com

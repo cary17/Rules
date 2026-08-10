@@ -1,0 +1,10 @@
+# NAME: 8btc
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+domain_suffix_set:
+  - 8btc.com
+  - bystack.com
+  - chainnode.com
+  - matpool.com
+  - matpool.net

@@ -1,0 +1,21 @@
+# NAME: agilebits
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 13
+# TOTAL: 14
+domain_set:
+  - 1password.drift.click
+domain_suffix_set:
+  - 1infra.net
+  - 1password.ca
+  - 1password.co
+  - 1password.com
+  - 1password.community
+  - 1password.eu
+  - 1password.io
+  - 1passwordservices.com
+  - 1passwordusercontent.ca
+  - 1passwordusercontent.com
+  - 1passwordusercontent.eu
+  - agilebits.com
+  - passage.id

@@ -1,0 +1,15 @@
+# NAME: gog
+# UPDATED: 2026-08-10
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 5
+# TOTAL: 8
+domain_set:
+  - gog-cdn-lumen.secure2.footprint.net
+  - gog-cdn.akamaized.net
+  - gog.qtlglb.com
+domain_suffix_set:
+  - gog-services.com
+  - gog-statics.com
+  - gog.com
+  - gogalaxy.com
+  - insights-collector.gog.com

@@ -1,0 +1,14 @@
+# NAME: globalsign@cn
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
+domain_set:
+  - cdn.globalsigncdn.com.cdn.cloudflare.net
+  - crl.globalsign.net
+domain_suffix_set:
+  - alphassl.com
+  - easy-signing.com
+  - globalsign.cn
+  - globalsign.com
+  - globalsigncdn.com

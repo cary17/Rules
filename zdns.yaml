@@ -1,0 +1,12 @@
+# NAME: zdns
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+domain_suffix_set:
+  - zcmbc.com.cn
+  - zdns.cn
+  - zdns.net.cn
+  - zdns.org.cn
+domain_keyword_set:
+  - zdnscloud

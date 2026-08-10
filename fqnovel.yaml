@@ -1,0 +1,42 @@
+# NAME: fqnovel
+# UPDATED: 2026-08-10
+# DOMAIN: 9
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 23
+# TOTAL: 33
+domain_set:
+  - ads3-normal-hl.zijieapi.com
+  - ads3-normal.zijieapi.com
+  - ads5-normal-hl.zijieapi.com
+  - ads5-normal.zijieapi.com
+  - p3-ad-sign.byteimg.com
+  - p3-novel.byteimg.com
+  - p6-ad-sign.byteimg.com
+  - p6-novel.byteimg.com
+  - p9-ad-sign.byteimg.com
+domain_suffix_set:
+  - activity-zhendingtech.com
+  - changdunovel.com
+  - fanqiecopyright.com
+  - fanqienovel.com
+  - fanqieopen.com
+  - fanqieopenpic.com
+  - fanqieopenstatic.com
+  - fanqieopenvod.com
+  - fanqiesdk.com
+  - fanqiesdkpic.com
+  - fanqiesdkstatic.com
+  - fanqiesdkvod.com
+  - fqopenplatform.com
+  - ihaohaoxuexi.com
+  - muyewx.com
+  - novelfm.com
+  - novelfmpic.com
+  - novelfmstatic.com
+  - novelfmvod.com
+  - qznovel.com
+  - qznovelpic.com
+  - qznovelstatic.com
+  - qznovelvod.com
+domain_keyword_set:
+  - fqnovel

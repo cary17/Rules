@@ -1,0 +1,10 @@
+# NAME: apple-intelligence
+# UPDATED: 2026-08-10
+# DOMAIN: 5
+# TOTAL: 5
+domain_set:
+  - apple-relay.apple.com
+  - apple-relay.cloudflare.com
+  - apple-relay.fastly-edge.com
+  - apple-relay.mask.apple-dns.net
+  - gspe1-ssl.ls.apple.com

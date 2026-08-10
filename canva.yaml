@@ -1,0 +1,11 @@
+# NAME: canva
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - affinity-beta.s3.amazonaws.com
+  - affinity-lessons.s3.amazonaws.com
+  - affinity.api.serifservices.com
+  - affinity.studio
+  - canva.com
+  - canvastatus.com

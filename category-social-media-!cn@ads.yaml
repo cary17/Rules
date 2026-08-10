@@ -1,0 +1,28 @@
+# NAME: category-social-media-!cn@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 12
+# TOTAL: 21
+domain_set:
+  - adblogger.vk.com
+  - adblogger.vk.ru
+  - ads.vk.com
+  - ads.vk.ru
+  - adv.vk.ru
+  - advk.vk.ru
+  - analytics.vk.ru
+  - stats.vk-portal.net
+  - target.vk.com
+domain_suffix_set:
+  - ads-twitter.com
+  - adv.vk.com
+  - analytics.facebook.com
+  - analytics.vk.com
+  - facebookads.com
+  - graph-fallback.instagram.com
+  - graph.instagram.com
+  - ms.vk.com
+  - ms.vk.ru
+  - pixel.facebook.com
+  - target.vk.ru
+  - vk-analytics.ru

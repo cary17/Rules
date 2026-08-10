@@ -1,0 +1,17 @@
+# NAME: mindbox
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
+domain_set:
+  - sentry.popmechanic.ru
+domain_suffix_set:
+  - botmechanic.io
+  - ceosummit.ru
+  - mind-box.ru
+  - popmechanic.io
+  - popmechanic.ru
+  - summitceo.ru
+domain_keyword_set:
+  - mindbox

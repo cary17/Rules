@@ -1,0 +1,6 @@
+# NAME: speedtest@ads
+# UPDATED: 2026-08-10
+# DOMAIN-REGEX: 1
+# TOTAL: 1
+domain_regex_set:
+  - ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

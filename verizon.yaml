@@ -1,0 +1,31 @@
+# NAME: verizon
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 19
+# TOTAL: 22
+domain_set:
+  - cdn.js7k.com
+domain_suffix_set:
+  - .flickr
+  - flic.kr
+  - flickr.com
+  - flickr.net
+  - maktoob.com
+  - myguide.hk
+  - oath.cloud
+  - oath.com
+  - ouroath.com
+  - staticflickr.com
+  - techcrunch.com
+  - uplynk.com
+  - vzw.com
+  - xo.com
+  - yho.com
+  - yimg.com
+  - yimg.jp
+  - ymail.com
+  - yusercontent.com
+domain_keyword_set:
+  - verizon
+  - yahoo

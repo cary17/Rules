@@ -1,0 +1,22 @@
+# NAME: tiktok
+# UPDATED: 2026-08-10
+# DOMAIN: 4
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 8
+# TOTAL: 13
+domain_set:
+  - roovza-launches.appsflyersdk.com
+  - roovza.inapps.appsflyersdk.com
+  - roovza.launches.appsflyersdk.com
+  - roovza.skadsdk.appsflyersdk.com
+domain_suffix_set:
+  - bytedapm.com
+  - muscdn.com
+  - musical.ly
+  - tik-tokapi.com
+  - ttcdn-us.com
+  - ttlivecdn.com
+  - ttoverseaus.net
+  - ttwstatic.com
+domain_keyword_set:
+  - tiktok

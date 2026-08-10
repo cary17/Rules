@@ -1,0 +1,15 @@
+# NAME: anthropic
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 7
+# TOTAL: 8
+domain_set:
+  - servd-anthropic-website.b-cdn.net
+domain_suffix_set:
+  - anthropic.com
+  - clau.de
+  - claude.ai
+  - claude.com
+  - claudemcpclient.com
+  - claudemcpcontent.com
+  - claudeusercontent.com

@@ -1,0 +1,13 @@
+# NAME: amp
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 4
+# TOTAL: 6
+domain_set:
+  - amp.akamaized.net
+  - cdn.ampproject.org
+domain_suffix_set:
+  - amp.dev
+  - ampproject.com
+  - ampproject.net
+  - ampproject.org

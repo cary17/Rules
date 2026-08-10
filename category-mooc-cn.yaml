@@ -1,0 +1,18 @@
+# NAME: category-mooc-cn
+# UPDATED: 2026-08-10
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 8
+# TOTAL: 11
+domain_set:
+  - moocs.unipus.cn
+  - opencourse.pku.edu.cn
+  - study.163.com
+domain_suffix_set:
+  - chinesemooc.org
+  - cnmooc.org
+  - icourse163.org
+  - icourses.cn
+  - icve.com.cn
+  - mooc.cn
+  - openlearning.com
+  - pmphmooc.com

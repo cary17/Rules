@@ -1,0 +1,27 @@
+# NAME: binance
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 14
+# TOTAL: 18
+domain_set:
+  - zftksc.cdn-settings.appsflyersdk.com
+  - zftksc.launches.appsflyersdk.com
+domain_suffix_set:
+  - bmwweb.solutions
+  - bnappweb.black
+  - bnbchain.org
+  - bnbstatic.com
+  - bntrace.com
+  - bsappapi.cc
+  - bsappapi.com
+  - bscdnweb.com
+  - nftstatic.com
+  - saasexch.cc
+  - saasexch.co
+  - saasexch.com
+  - saasexch.info
+  - saasexch.io
+domain_keyword_set:
+  - binance
+  - binancezh

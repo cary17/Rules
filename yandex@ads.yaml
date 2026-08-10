@@ -1,0 +1,20 @@
+# NAME: yandex@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 3
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 7
+# TOTAL: 11
+domain_set:
+  - ads.yango.com
+  - clck.yango.com
+  - mc.yango.com
+domain_suffix_set:
+  - adfox.ru
+  - admetrica.ru
+  - appmetrica.yango.com
+  - webvisor.com
+  - webvisor.org
+  - yads.tech
+  - yango-ads.com
+domain_keyword_set:
+  - yandex

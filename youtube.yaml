@@ -1,0 +1,17 @@
+# NAME: youtube
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
+domain_set:
+  - yt3.googleusercontent.com
+domain_suffix_set:
+  - ggpht.cn
+  - ggpht.com
+  - googlevideo.com
+  - youtu.be
+  - yt.be
+  - ytimg.com
+domain_keyword_set:
+  - youtube

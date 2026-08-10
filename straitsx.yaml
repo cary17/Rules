@@ -1,0 +1,10 @@
+# NAME: straitsx
+# UPDATED: 2026-08-10
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
+domain_set:
+  - d3r7nsslvs6aaf.cloudfront.net
+  - straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+domain_suffix_set:
+  - straitsx.com

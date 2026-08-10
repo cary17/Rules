@@ -1,0 +1,22 @@
+# NAME: vk@ads
+# UPDATED: 2026-08-10
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 6
+# TOTAL: 15
+domain_set:
+  - adblogger.vk.com
+  - adblogger.vk.ru
+  - ads.vk.com
+  - ads.vk.ru
+  - adv.vk.ru
+  - advk.vk.ru
+  - analytics.vk.ru
+  - stats.vk-portal.net
+  - target.vk.com
+domain_suffix_set:
+  - adv.vk.com
+  - analytics.vk.com
+  - ms.vk.com
+  - ms.vk.ru
+  - target.vk.ru
+  - vk-analytics.ru

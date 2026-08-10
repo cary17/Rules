@@ -1,0 +1,13 @@
+# NAME: quora
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 6
+domain_set:
+  - www.quora.com.cdn.cloudflare.net
+domain_suffix_set:
+  - poe.com
+  - poecdn.net
+  - qr.ae
+  - quora.com
+  - quoracdn.net

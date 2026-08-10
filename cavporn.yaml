@@ -1,0 +1,10 @@
+# NAME: cavporn
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 2
+# DOMAIN-REGEX: 1
+# TOTAL: 3
+domain_suffix_set:
+  - cavporn.com
+  - cavporn.github.io
+domain_regex_set:
+  - (^|\.)cav1(0[2-9]|1[0-9])\.com$

@@ -1,0 +1,9 @@
+# NAME: supersonic@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - ssacdn.com
+  - supersonic.com
+  - supersonicads-a.akamaihd.net
+  - supersonicads.com

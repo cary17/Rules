@@ -1,0 +1,16 @@
+# NAME: mdn
+# UPDATED: 2026-08-10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 8
+# TOTAL: 9
+domain_set:
+  - mdn.mozillademos.org
+domain_suffix_set:
+  - developer.allizom.org
+  - developer.mozilla.org
+  - mdn.allizom.net
+  - mdn.dev
+  - mdn.mozilla.net
+  - mdn.mozit.cloud
+  - mdnplay.dev
+  - mdnyalp.dev

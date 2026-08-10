@@ -1,0 +1,11 @@
+# NAME: tcl@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - ads-uo.api.leiniao.com
+  - ads-ut.api.leiniao.com
+  - ads.api.my7v.com
+  - euads-o.api.leiniao.com
+  - hwads-t.api.my7v.com
+  - testads.api.my7v.com

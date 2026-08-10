@@ -1,0 +1,31 @@
+# NAME: google@ads
+# UPDATED: 2026-08-10
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 23
+# TOTAL: 24
+domain_suffix_set:
+  - 2mdn-cn.net
+  - 2mdn.net
+  - admob-cn.com
+  - admob.com
+  - ads.youtube.com
+  - adsense.com
+  - adsensecustomsearchads.com
+  - adsenseformobileapps.com
+  - advertisercommunity.com
+  - advertiserscommunity.com
+  - adwords-community.com
+  - adwords.com
+  - adwordsexpress.com
+  - app-ads-services.com
+  - app-analytics-services-att.com
+  - app-analytics-services.com
+  - app-measurement-cn.com
+  - app-measurement.com
+  - doubleclick-cn.net
+  - doubleclick.cn
+  - doubleclick.com
+  - doubleclick.net
+  - urchin.com
+domain_keyword_set:
+  - google

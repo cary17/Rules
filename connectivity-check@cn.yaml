@@ -1,0 +1,17 @@
+# NAME: connectivity-check@cn
+# UPDATED: 2026-08-10
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 1
+# TOTAL: 10
+domain_set:
+  - conn1.oppomobile.com
+  - conn2.oppomobile.com
+  - connect.rom.miui.com
+  - connectivity.samsung.com.cn
+  - connectivitycheck.platform.hicloud.com
+  - connectivitycheck.platform.hihonorcloud.com
+  - wifi.vivo.com.cn
+  - www.gstatic.com
+  - www.qualcomm.cn
+domain_suffix_set:
+  - captive.apple.com

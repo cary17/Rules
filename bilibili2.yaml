@@ -1,0 +1,11 @@
+# NAME: bilibili2
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 3
+# DOMAIN-REGEX: 1
+# TOTAL: 4
+domain_suffix_set:
+  - bili2.cc
+  - bili888.com
+  - bili999.com
+domain_regex_set:
+  - (^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$

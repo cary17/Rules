@@ -1,0 +1,12 @@
+# NAME: archivetoday
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+domain_suffix_set:
+  - archive.fo
+  - archive.is
+  - archive.li
+  - archive.md
+  - archive.ph
+  - archive.today
+  - archive.vn

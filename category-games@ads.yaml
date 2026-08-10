@@ -1,0 +1,9 @@
+# NAME: category-games@ads
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - insights-collector.gog.com
+  - kurogames-ads.com
+  - log-upload-os.hoyoverse.com
+  - log-upload.mihoyo.com
