@@ -7,35 +7,6 @@
         "zftksc.launches.appsflyersdk.com"
       ],
       "domain_suffix": [
-        "binance.cc",
-        "binance.charity",
-        "binance.cloud",
-        "binance.co",
-        "binance.com",
-        "binance.info",
-        "binance.me",
-        "binance.net",
-        "binance.org",
-        "binance.us",
-        "binance.vision",
-        "binanceapi.com",
-        "binancecnt.com",
-        "binanceru.net",
-        "binancezh.be",
-        "binancezh.biz",
-        "binancezh.cc",
-        "binancezh.co",
-        "binancezh.com",
-        "binancezh.info",
-        "binancezh.ink",
-        "binancezh.kim",
-        "binancezh.link",
-        "binancezh.live",
-        "binancezh.mobi",
-        "binancezh.net",
-        "binancezh.pro",
-        "binancezh.sh",
-        "binancezh.top",
         "bmwweb.solutions",
         "bnappweb.black",
         "bnbchain.org",
@@ -50,6 +21,10 @@
         "saasexch.com",
         "saasexch.info",
         "saasexch.io"
+      ],
+      "domain_keyword": [
+        "binance",
+        "binancezh"
       ]
     }
   ]

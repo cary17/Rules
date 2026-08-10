@@ -257,16 +257,6 @@
         "ifastps.com.cn",
         "ifasttv.com",
         "ikedashinsen.co.jp",
-        "interactivebrokers.ca",
-        "interactivebrokers.co.in",
-        "interactivebrokers.co.jp",
-        "interactivebrokers.co.uk",
-        "interactivebrokers.com",
-        "interactivebrokers.com.au",
-        "interactivebrokers.com.hk",
-        "interactivebrokers.com.sg",
-        "interactivebrokers.eu",
-        "interactivebrokers.ie",
         "it-katok.ru",
         "it-picnic.ru",
         "it-piknik.ru",
@@ -284,17 +274,6 @@
         "jivara.global",
         "jivo.chat",
         "jivo.ru",
-        "jivochat.co.in",
-        "jivochat.co.za",
-        "jivochat.com",
-        "jivochat.com.br",
-        "jivochat.com.co",
-        "jivochat.com.pe",
-        "jivochat.com.tr",
-        "jivochat.de",
-        "jivochat.es",
-        "jivochat.ng",
-        "jivochat.ru",
         "jivosite.com",
         "jivosite.ru",
         "joyobank.co.jp",
@@ -615,6 +594,10 @@
         "ziraatbank.ru",
         "zvuk-b2b.com",
         "zvuk.com"
+      ],
+      "domain_keyword": [
+        "interactivebrokers",
+        "jivochat"
       ]
     }
   ]
