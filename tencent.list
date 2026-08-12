@@ -1,9 +1,9 @@
 # NAME: tencent
-# UPDATED: 2026-08-11
+# UPDATED: 2026-08-12
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 571
-# TOTAL: 573
+# DOMAIN-SUFFIX: 573
+# TOTAL: 575
 DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,97ting.com
@@ -267,6 +267,7 @@ DOMAIN-SUFFIX,mahjongcup.net
 DOMAIN-SUFFIX,mdt.qq.com
 DOMAIN-SUFFIX,metalrevolution.com
 DOMAIN-SUFFIX,midasbuy.com
+DOMAIN-SUFFIX,mmbizurl.cn
 DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,mpush.qq.com
@@ -515,6 +516,7 @@ DOMAIN-SUFFIX,ultimatemusic.cn
 DOMAIN-SUFFIX,um.run
 DOMAIN-SUFFIX,uncnn.cn
 DOMAIN-SUFFIX,uranus.sogou.com
+DOMAIN-SUFFIX,url.cn
 DOMAIN-SUFFIX,vcloudstc.com
 DOMAIN-SUFFIX,vcloudstc.net
 DOMAIN-SUFFIX,vcloudvod.com

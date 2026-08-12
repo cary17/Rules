@@ -1,9 +1,9 @@
 # NAME: cn
-# UPDATED: 2026-08-11
+# UPDATED: 2026-08-12
 # DOMAIN: 621
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8408
-# TOTAL: 9031
+# DOMAIN-SUFFIX: 8410
+# TOTAL: 9033
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -5823,6 +5823,7 @@ DOMAIN-SUFFIX,mmarket.com
 DOMAIN-SUFFIX,mmarket6.com
 DOMAIN-SUFFIX,mmbang.com
 DOMAIN-SUFFIX,mmbang.info
+DOMAIN-SUFFIX,mmbizurl.cn
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mncmsidlab1.cn
 DOMAIN-SUFFIX,mndqlib.net
@@ -7823,6 +7824,7 @@ DOMAIN-SUFFIX,upfos.cn
 DOMAIN-SUFFIX,upfos.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,uranus.sogou.com
+DOMAIN-SUFFIX,url.cn
 DOMAIN-SUFFIX,urlqh.cn
 DOMAIN-SUFFIX,urselect.com
 DOMAIN-SUFFIX,urtc.com.cn
