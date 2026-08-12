@@ -1,10 +1,10 @@
 # NAME: cn
-# UPDATED: 2026-08-11
+# UPDATED: 2026-08-12
 # DOMAIN: 621
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8408
+# DOMAIN-SUFFIX: 8410
 # DOMAIN-REGEX: 8
-# TOTAL: 9039
+# TOTAL: 9041
 domain_set:
   - 2mdn-cn.net
   - 2mdn.net
@@ -5826,6 +5826,7 @@ domain_suffix_set:
   - mmarket6.com
   - mmbang.com
   - mmbang.info
+  - mmbizurl.cn
   - mmstat.com
   - mncmsidlab1.cn
   - mndqlib.net
@@ -7826,6 +7827,7 @@ domain_suffix_set:
   - upfos.com
   - upyun.com
   - uranus.sogou.com
+  - url.cn
   - urlqh.cn
   - urselect.com
   - urtc.com.cn
@@ -9040,11 +9042,11 @@ domain_keyword_set:
   - httpdns
   - zdnscloud
 domain_regex_set:
+  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
   - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-  - ^nis.+\.10010\.com$
-  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - ^.+-mihayo\.akamaized\.net$
   - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - ^.+-mihayo\.akamaized\.net$
-  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - ^nis.+\.10010\.com$

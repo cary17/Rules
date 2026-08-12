@@ -1,8 +1,8 @@
 # NAME: blizzard
-# UPDATED: 2026-08-11
+# UPDATED: 2026-08-12
 # DOMAIN: 9
-# DOMAIN-SUFFIX: 14
-# TOTAL: 23
+# DOMAIN-SUFFIX: 16
+# TOTAL: 25
 domain_set:
   - blizzard.nefficient.co.kr
   - blizzcon-a.akamaihd.net
@@ -18,7 +18,9 @@ domain_suffix_set:
   - blizzard.com
   - blizzardgearstore.com
   - blz-contentstack.com
+  - diablo.com
   - diablo3.com
+  - diablo4.com
   - diabloimmortal.com
   - firesidegatherings.com
   - heroesofthestorm.com
