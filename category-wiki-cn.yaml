@@ -1,7 +1,7 @@
 # NAME: category-wiki-cn
-# UPDATED: 2026-08-12
-# DOMAIN-SUFFIX: 15
-# TOTAL: 15
+# UPDATED: 2026-08-13
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
 domain_suffix_set:
   - allhistory.com
   - chaz.fun
@@ -18,3 +18,4 @@ domain_suffix_set:
   - qiuwenbaike.cn
   - sec-wiki.com
   - shidianbaike.com
+  - zdic.net

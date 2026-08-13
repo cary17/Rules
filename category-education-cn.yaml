@@ -1,8 +1,8 @@
 # NAME: category-education-cn
-# UPDATED: 2026-08-12
+# UPDATED: 2026-08-13
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 180
-# TOTAL: 181
+# DOMAIN-SUFFIX: 185
+# TOTAL: 186
 domain_set:
   - study.163.com
 domain_suffix_set:
@@ -78,6 +78,7 @@ domain_suffix_set:
   - guojibk.com
   - gzasc.com
   - haofenshu.com
+  - hep.com.cn
   - hjapi.com
   - hjfile.cn
   - huatu.com
@@ -111,6 +112,7 @@ domain_suffix_set:
   - modex.com.cn
   - mojidict.com
   - mooc.cn
+  - mypep.cn
   - nattest-china.com
   - ncss.cn
   - ncss.org.cn
@@ -120,6 +122,8 @@ domain_suffix_set:
   - offcn.com
   - oldboyedu.com
   - openlearning.com
+  - peeavp.com.cn
+  - pep.com.cn
   - pigai.org
   - pmphmooc.com
   - qgzb.com.cn
@@ -143,6 +147,7 @@ domain_suffix_set:
   - tesoon.com
   - tongxuepie.com
   - unipus.cn
+  - univs.cn
   - weilaiyunxiao.com
   - winyoungreading.com
   - wjwai.com

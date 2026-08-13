@@ -1,10 +1,10 @@
 # NAME: category-dev
-# UPDATED: 2026-08-12
+# UPDATED: 2026-08-13
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 550
+# DOMAIN-SUFFIX: 560
 # DOMAIN-REGEX: 1
-# TOTAL: 636
+# TOTAL: 646
 domain_set:
   - amp.akamaized.net
   - android.googlesource.com
@@ -142,6 +142,7 @@ domain_suffix_set:
   - buck.build
   - buckbuild.com
   - bugsnag.com
+  - builtwithnix.org
   - busybox.net
   - calendarserver.org
   - canonical.com
@@ -404,6 +405,7 @@ domain_suffix_set:
   - mspairlift.com
   - msropendata.com
   - msys2.org
+  - mynixos.com
   - myoctocat.com
   - mysql.com
   - mystrikingly.com
@@ -413,7 +415,15 @@ domain_suffix_set:
   - nftables.org
   - nginx.com
   - nginx.org
+  - nix-community.org
+  - nix.dev
+  - nix.store
+  - nixcon.org
+  - nixcon2017.org
+  - nixlang.com
   - nixos.org
+  - nixos.wiki
+  - nixpkgs.org
   - nodejs.org
   - nodesource.com
   - nomadproject.io

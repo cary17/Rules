@@ -1,0 +1,19 @@
+# NAME: nixos
+# UPDATED: 2026-08-13
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 11
+# TOTAL: 12
+domain_set:
+  - nix-community.github.io
+domain_suffix_set:
+  - builtwithnix.org
+  - mynixos.com
+  - nix-community.org
+  - nix.dev
+  - nix.store
+  - nixcon.org
+  - nixcon2017.org
+  - nixlang.com
+  - nixos.org
+  - nixos.wiki
+  - nixpkgs.org

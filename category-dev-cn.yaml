@@ -1,8 +1,8 @@
 # NAME: category-dev-cn
-# UPDATED: 2026-08-12
+# UPDATED: 2026-08-13
 # DOMAIN: 9
-# DOMAIN-SUFFIX: 136
-# TOTAL: 145
+# DOMAIN-SUFFIX: 137
+# TOTAL: 146
 domain_set:
   - p1-juejin.byteimg.com
   - p2-juejin.byteimg.com
@@ -25,6 +25,7 @@ domain_suffix_set:
   - apipost.cn
   - apipost.net
   - asktug.com
+  - atomgit.com
   - badjs.weixinbridge.com
   - baltamatica.cn
   - baltamatica.com

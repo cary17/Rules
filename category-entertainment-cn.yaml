@@ -1,9 +1,9 @@
 # NAME: category-entertainment-cn
-# UPDATED: 2026-08-12
+# UPDATED: 2026-08-13
 # DOMAIN: 23
-# DOMAIN-SUFFIX: 890
+# DOMAIN-SUFFIX: 893
 # DOMAIN-REGEX: 1
-# TOTAL: 914
+# TOTAL: 917
 domain_set:
   - ads3-normal-hl.zijieapi.com
   - ads3-normal.zijieapi.com
@@ -38,6 +38,7 @@ domain_suffix_set:
   - 17roco.com
   - 18183.com
   - 1905.com
+  - 1958xy.com
   - 1kkk.com
   - 1xhh.cn
   - 3304399.com
@@ -707,6 +708,7 @@ domain_suffix_set:
   - qq163.net
   - qqgameapp.com
   - qqmusic.com
+  - qqtf.com
   - qtfm.cn
   - quehu.com
   - qwapp.top
@@ -813,6 +815,7 @@ domain_suffix_set:
   - ultimatemusic.cn
   - ultracachenode.com
   - updream.cn
+  - v3mh.com
   - v6-adashx.ut.youku.com
   - vgtime.com
   - videoxiaoyouxi.com
