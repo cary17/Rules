@@ -1,8 +1,8 @@
 # NAME: category-entertainment-cn
-# UPDATED: 2026-08-12
+# UPDATED: 2026-08-13
 # DOMAIN: 23
-# DOMAIN-SUFFIX: 890
-# TOTAL: 913
+# DOMAIN-SUFFIX: 893
+# TOTAL: 916
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,17k.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,18183.com
 DOMAIN-SUFFIX,1905.com
+DOMAIN-SUFFIX,1958xy.com
 DOMAIN-SUFFIX,1kkk.com
 DOMAIN-SUFFIX,1xhh.cn
 DOMAIN-SUFFIX,3304399.com
@@ -704,6 +705,7 @@ DOMAIN-SUFFIX,qq163.com
 DOMAIN-SUFFIX,qq163.net
 DOMAIN-SUFFIX,qqgameapp.com
 DOMAIN-SUFFIX,qqmusic.com
+DOMAIN-SUFFIX,qqtf.com
 DOMAIN-SUFFIX,qtfm.cn
 DOMAIN-SUFFIX,quehu.com
 DOMAIN-SUFFIX,qwapp.top
@@ -810,6 +812,7 @@ DOMAIN-SUFFIX,ulpay.com
 DOMAIN-SUFFIX,ultimatemusic.cn
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,updream.cn
+DOMAIN-SUFFIX,v3mh.com
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com
 DOMAIN-SUFFIX,vgtime.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com

@@ -1,7 +1,7 @@
 # NAME: category-wiki-cn
-# UPDATED: 2026-08-12
-# DOMAIN-SUFFIX: 15
-# TOTAL: 15
+# UPDATED: 2026-08-13
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
 DOMAIN-SUFFIX,allhistory.com
 DOMAIN-SUFFIX,chaz.fun
 DOMAIN-SUFFIX,fgo.wiki
@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,qiuwen.wiki
 DOMAIN-SUFFIX,qiuwenbaike.cn
 DOMAIN-SUFFIX,sec-wiki.com
 DOMAIN-SUFFIX,shidianbaike.com
+DOMAIN-SUFFIX,zdic.net

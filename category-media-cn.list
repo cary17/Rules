@@ -1,8 +1,8 @@
 # NAME: category-media-cn
-# UPDATED: 2026-08-12
+# UPDATED: 2026-08-13
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 399
-# TOTAL: 400
+# DOMAIN-SUFFIX: 407
+# TOTAL: 408
 DOMAIN,ctdsb.clouddiffuse.xyz
 DOMAIN-SUFFIX,.sohu
 DOMAIN-SUFFIX,0033.cn
@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,36dianping.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36krcnd.com
+DOMAIN-SUFFIX,36linkr.com
 DOMAIN-SUFFIX,3conline.com
 DOMAIN-SUFFIX,3elife.net
 DOMAIN-SUFFIX,56.com
@@ -39,6 +40,7 @@ DOMAIN-SUFFIX,anhuiyun.com
 DOMAIN-SUFFIX,anzhuo.cn
 DOMAIN-SUFFIX,assp.sohu.com
 DOMAIN-SUFFIX,bandao.cn
+DOMAIN-SUFFIX,banyuetan.org
 DOMAIN-SUFFIX,bbtnews.com.cn
 DOMAIN-SUFFIX,bdu.focus.cn
 DOMAIN-SUFFIX,bianews.com
@@ -52,6 +54,7 @@ DOMAIN-SUFFIX,caixin.com
 DOMAIN-SUFFIX,cankaoxiaoxi.com
 DOMAIN-SUFFIX,cbinews.com
 DOMAIN-SUFFIX,ccidcom.com
+DOMAIN-SUFFIX,ccreports.com.cn
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctv4g.com
@@ -81,6 +84,7 @@ DOMAIN-SUFFIX,chinapp.com
 DOMAIN-SUFFIX,chinaqw.com
 DOMAIN-SUFFIX,chinastarmarket.cn
 DOMAIN-SUFFIX,chuanbaoguancha.cn
+DOMAIN-SUFFIX,cih-index.com
 DOMAIN-SUFFIX,citv.net.cn
 DOMAIN-SUFFIX,ckxx.net
 DOMAIN-SUFFIX,cls.cn
@@ -230,6 +234,7 @@ DOMAIN-SUFFIX,jxpp.com
 DOMAIN-SUFFIX,jztvnews.com
 DOMAIN-SUFFIX,kankanews.com
 DOMAIN-SUFFIX,kankannews.com
+DOMAIN-SUFFIX,kanshangjie.com
 DOMAIN-SUFFIX,kf.cn
 DOMAIN-SUFFIX,kjrb.com.cn
 DOMAIN-SUFFIX,kksmg.com
@@ -334,6 +339,7 @@ DOMAIN-SUFFIX,szpgm.com
 DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,techwalker.com
 DOMAIN-SUFFIX,techweb.com.cn
+DOMAIN-SUFFIX,tfcaijing.com
 DOMAIN-SUFFIX,thecover.cn
 DOMAIN-SUFFIX,thepaper.cn
 DOMAIN-SUFFIX,ths123.com
@@ -341,6 +347,8 @@ DOMAIN-SUFFIX,thsi.cn
 DOMAIN-SUFFIX,tianjimedia.com
 DOMAIN-SUFFIX,tidenews.com.cn
 DOMAIN-SUFFIX,tigeek.net.cn
+DOMAIN-SUFFIX,time-weekly.com
+DOMAIN-SUFFIX,timesmedia.com.cn
 DOMAIN-SUFFIX,tivitv.com
 DOMAIN-SUFFIX,tmtpost.com
 DOMAIN-SUFFIX,tmtsmartlife.com
