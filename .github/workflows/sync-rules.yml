@@ -115,7 +115,7 @@ jobs:
             "$MIHOMO_RELEASE_API" > "$api"
           tag=$(jq -r '.tag_name' "$api")
           # pick the plain linux-amd64-v1 build
-          asset=$(jq -r '[.assets[] | select(.name | test("^mihomo-linux-amd64-v1-v[0-9].*\\\\.gz$"))][0]' "$api")
+          asset=$(jq -r '[.assets[] | select(.name | test("^mihomo-linux-amd64-v1-v[0-9].*\\.gz$"))][0]' "$api")
           name=$(jq -r '.name' <<<"$asset")
           url=$(jq -r '.browser_download_url' <<<"$asset")
           digest=$(jq -r '.digest // empty' <<<"$asset")
