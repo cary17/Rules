@@ -1,9 +1,9 @@
 # NAME: category-games-!cn
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 68
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 633
-# TOTAL: 705
+# DOMAIN-SUFFIX: 634
+# TOTAL: 706
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,assets.ppy.sh
@@ -533,6 +533,7 @@ DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rockstarnorth.com
 DOMAIN-SUFFIX,rowblocks.com
 DOMAIN-SUFFIX,rowblox.com
+DOMAIN-SUFFIX,rsg.ms
 DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,rstatic.net
 DOMAIN-SUFFIX,ruinedking.com
