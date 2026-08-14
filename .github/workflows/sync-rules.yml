@@ -14,6 +14,7 @@ concurrency:
 
 env:
   SING_BOX_RELEASE_API: https://api.github.com/repos/SagerNet/sing-box/releases/latest
+  MIHOMO_RELEASE_API: https://api.github.com/repos/MetaCubeX/mihomo/releases/latest
 
 jobs:
   sync:
@@ -100,6 +101,66 @@ jobs:
         continue-on-error: true
         run: .github/workflows/sync-one.sh sing-geosite
 
+      - name: Download and verify mihomo
+        id: mihomo
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          api=/tmp/mihomo-release.json
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-all-errors --connect-timeout 15 --max-time 60 \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            "$MIHOMO_RELEASE_API" > "$api"
+          tag=$(jq -r '.tag_name' "$api")
+          # pick the plain linux-amd64-v1 build
+          asset=$(jq -r '[.assets[] | select(.name | test("^mihomo-linux-amd64-v1-v[0-9].*\\\\.gz$"))][0]' "$api")
+          name=$(jq -r '.name' <<<"$asset")
+          url=$(jq -r '.browser_download_url' <<<"$asset")
+          digest=$(jq -r '.digest // empty' <<<"$asset")
+          test -n "$tag" -a "$tag" != null
+          test -n "$name" -a "$name" != null
+          test -n "$url" -a "$url" != null
+          case "$tag" in v[0-9]*.[0-9]*.[0-9]*) ;; *) echo "invalid release tag: $tag" >&2; exit 1 ;; esac
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-all-errors --connect-timeout 15 --max-time 120 \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            "$url" -o /tmp/mihomo.gz
+          archive_sha=$(sha256sum /tmp/mihomo.gz | awk '{print $1}')
+          if [[ ! "$digest" =~ ^sha256:[0-9a-fA-F]{64}$ ]]; then
+            echo "mihomo archive has no valid SHA-256 digest" >&2
+            exit 1
+          fi
+          if [[ "${digest#sha256:}" != "$archive_sha" ]]; then
+            echo "mihomo archive digest mismatch" >&2
+            exit 1
+          fi
+          gunzip -f /tmp/mihomo.gz
+          chmod +x /tmp/mihomo
+          /tmp/mihomo -v | head -n 1 | grep -F "$tag"
+          binary_sha=$(sha256sum /tmp/mihomo | awk '{print $1}')
+          printf 'tag=%s\nasset=%s\narchive_sha=%s\nbinary_sha=%s\ndigest=%s\n' \
+            "$tag" "$name" "$archive_sha" "$binary_sha" "$digest" >> "$GITHUB_OUTPUT"
+
+      - name: Sync mihomo-geoip
+        id: mihomo-geoip
+        if: ${{ always() && steps.mihomo.outcome == 'success' }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          MIHOMO_BIN: /tmp/mihomo
+        continue-on-error: true
+        run: scripts/sync-mihomo.sh geoip
+
+      - name: Sync mihomo-geosite
+        id: mihomo-geosite
+        if: ${{ always() && steps.mihomo.outcome == 'success' }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          MIHOMO_BIN: /tmp/mihomo
+        continue-on-error: true
+        run: scripts/sync-mihomo.sh geosite
+
       - name: Sync Egern rules
         id: egern
         if: ${{ always() && steps.geosite.outcome == 'success' }}
@@ -128,7 +189,7 @@ jobs:
         if: ${{ always() }}
         run: |
           set -euo pipefail
-          if [[ "${{ steps.geoip.outcome }}" != success || "${{ steps.geosite.outcome }}" != success || "${{ steps.egern.outcome }}" != success || "${{ steps.loon.outcome }}" != success || "${{ steps.surge.outcome }}" != success ]]; then
+          if [[ "${{ steps.geoip.outcome }}" != success || "${{ steps.geosite.outcome }}" != success || "${{ steps.mihomo.outcome }}" != success || "${{ steps.mihomo-geoip.outcome }}" != success || "${{ steps.mihomo-geosite.outcome }}" != success || "${{ steps.egern.outcome }}" != success || "${{ steps.loon.outcome }}" != success || "${{ steps.surge.outcome }}" != success ]]; then
             echo "one or more rule syncs failed" >&2
             exit 1
           fi
@@ -139,6 +200,9 @@ jobs:
           SB_TAG: ${{ steps.sing-box.outputs.tag }}
           SB_ARCHIVE_SHA: ${{ steps.sing-box.outputs.archive_sha }}
           SB_BINARY_SHA: ${{ steps.sing-box.outputs.binary_sha }}
+          MH_TAG: ${{ steps.mihomo.outputs.tag }}
+          MH_ARCHIVE_SHA: ${{ steps.mihomo.outputs.archive_sha }}
+          MH_BINARY_SHA: ${{ steps.mihomo.outputs.binary_sha }}
         run: |
           set -u
           {
@@ -147,7 +211,10 @@ jobs:
             printf '%s\n' "- sing-box: ${SB_TAG}"
             printf '%s\n' "- Archive SHA-256: ${SB_ARCHIVE_SHA}"
             printf '%s\n' "- Binary SHA-256: ${SB_BINARY_SHA}"
+            printf '%s\n' "- mihomo: ${MH_TAG}"
+            printf '%s\n' "- mihomo Archive SHA-256: ${MH_ARCHIVE_SHA}"
+            printf '%s\n' "- mihomo Binary SHA-256: ${MH_BINARY_SHA}"
             echo "- Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
             echo ""
-            echo "Per-source detailed summaries were written by sync-one.sh."
+            echo "Per-source detailed summaries were written by sync-one.sh and sync-mihomo.sh."
           } >> "$GITHUB_STEP_SUMMARY"
