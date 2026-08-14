@@ -1,10 +1,12 @@
 # NAME: snap
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 6
-# TOTAL: 7
+# DOMAIN-SUFFIX: 8
+# TOTAL: 9
 DOMAIN,impala-media-production.s3.amazonaws.com
 DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,sc-gw.com
+DOMAIN-SUFFIX,sc-static.net
 DOMAIN-SUFFIX,snap-dev.net
 DOMAIN-SUFFIX,snap.com
 DOMAIN-SUFFIX,snapads.com

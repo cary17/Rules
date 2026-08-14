@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 202
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 1398
-# TOTAL: 1609
+# DOMAIN-SUFFIX: 1399
+# TOTAL: 1610
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,abematv.akamaized.net
@@ -1248,6 +1248,7 @@ DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
 DOMAIN-SUFFIX,rowblocks.com
 DOMAIN-SUFFIX,rowblox.com
+DOMAIN-SUFFIX,rsg.ms
 DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,rstatic.net
 DOMAIN-SUFFIX,rtbcdn.ru

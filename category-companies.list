@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 196
 # DOMAIN-KEYWORD: 42
-# DOMAIN-SUFFIX: 5325
-# TOTAL: 5563
+# DOMAIN-SUFFIX: 5327
+# TOTAL: 5565
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -4497,6 +4497,8 @@ DOMAIN-SUFFIX,savoycomputing.com
 DOMAIN-SUFFIX,sayeasy.eu
 DOMAIN-SUFFIX,saynow.com
 DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,sc-gw.com
+DOMAIN-SUFFIX,sc-static.net
 DOMAIN-SUFFIX,scaleform.com
 DOMAIN-SUFFIX,scartel.ru
 DOMAIN-SUFFIX,scene7.com
