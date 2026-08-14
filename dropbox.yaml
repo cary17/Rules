@@ -1,0 +1,3 @@
+payload:
+    - paper-attachments.s3.amazonaws.com
+    - +.db.tt

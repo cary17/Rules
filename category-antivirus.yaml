@@ -1,0 +1,23 @@
+payload:
+    - epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+    - eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+    - +.avast.com
+    - +.avg.com
+    - +.avira.com
+    - +.bitdefender.com
+    - +.clamwin.com
+    - +.cn.eset.com
+    - +.comodo.com
+    - +.comodo.net
+    - +.e5.sk
+    - +.eset.com
+    - +.eset.eu
+    - +.eset.sk
+    - +.eset.systems
+    - +.esetsoftware.com
+    - +.f-secure.com
+    - +.mcafee.com
+    - +.norton.com
+    - +.pandasecurity.com
+    - +.symantec.com
+    - +.symantecliveupdate.com

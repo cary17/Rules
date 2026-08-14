@@ -1,0 +1,4 @@
+payload:
+    - crashlyticsreports-pa.googleapis.com
+    - update.crashlytics.com
+    - +.crashlytics.com
