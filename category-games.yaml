@@ -1,10 +1,10 @@
 # NAME: category-games
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 74
 # DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 925
+# DOMAIN-SUFFIX: 926
 # DOMAIN-REGEX: 4
-# TOTAL: 1008
+# TOTAL: 1009
 domain_set:
   - a.ppy.sh
   - a4e8s8k3.map2.ssl.hwcdn.net
@@ -733,6 +733,7 @@ domain_suffix_set:
   - roco.qq.com
   - rowblocks.com
   - rowblox.com
+  - rsg.ms
   - rsg.sc
   - rstatic.net
   - ruinedking.com

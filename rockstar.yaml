@@ -1,8 +1,8 @@
 # NAME: rockstar
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 3
-# TOTAL: 6
+# DOMAIN-SUFFIX: 4
+# TOTAL: 7
 domain_set:
   - gamedownloads-rockstargames-com.akamaized.net
   - media-rockstargames-com.akamaized.net
@@ -10,4 +10,5 @@ domain_set:
 domain_suffix_set:
   - rockstargames.com
   - rockstarnorth.com
+  - rsg.ms
   - rsg.sc

@@ -1,10 +1,10 @@
 # NAME: category-entertainment
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 202
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 1398
+# DOMAIN-SUFFIX: 1399
 # DOMAIN-REGEX: 10
-# TOTAL: 1619
+# TOTAL: 1620
 domain_set:
   - a.ppy.sh
   - a4e8s8k3.map2.ssl.hwcdn.net
@@ -1251,6 +1251,7 @@ domain_suffix_set:
   - rokutime.com
   - rowblocks.com
   - rowblox.com
+  - rsg.ms
   - rsg.sc
   - rstatic.net
   - rtbcdn.ru

@@ -1,10 +1,10 @@
 # NAME: category-companies
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 196
 # DOMAIN-KEYWORD: 42
-# DOMAIN-SUFFIX: 5325
+# DOMAIN-SUFFIX: 5327
 # DOMAIN-REGEX: 6
-# TOTAL: 5569
+# TOTAL: 5571
 domain_set:
   - 1l-hit.mail.ru
   - 1l-hit.vkplay.ru
@@ -4500,6 +4500,8 @@ domain_suffix_set:
   - sayeasy.eu
   - saynow.com
   - sc-cdn.net
+  - sc-gw.com
+  - sc-static.net
   - scaleform.com
   - scartel.ru
   - scene7.com

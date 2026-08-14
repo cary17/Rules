@@ -1,12 +1,14 @@
 # NAME: snap
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 6
-# TOTAL: 7
+# DOMAIN-SUFFIX: 8
+# TOTAL: 9
 domain_set:
   - impala-media-production.s3.amazonaws.com
 domain_suffix_set:
   - sc-cdn.net
+  - sc-gw.com
+  - sc-static.net
   - snap-dev.net
   - snap.com
   - snapads.com

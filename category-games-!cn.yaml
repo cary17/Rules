@@ -1,10 +1,10 @@
 # NAME: category-games-!cn
-# UPDATED: 2026-08-13
+# UPDATED: 2026-08-14
 # DOMAIN: 68
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 633
+# DOMAIN-SUFFIX: 634
 # DOMAIN-REGEX: 1
-# TOTAL: 706
+# TOTAL: 707
 domain_set:
   - a.ppy.sh
   - a4e8s8k3.map2.ssl.hwcdn.net
@@ -536,6 +536,7 @@ domain_suffix_set:
   - rockstarnorth.com
   - rowblocks.com
   - rowblox.com
+  - rsg.ms
   - rsg.sc
   - rstatic.net
   - ruinedking.com
