@@ -1,9 +1,9 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-08-15
+# UPDATED: 2026-08-16
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 106
-# DOMAIN-SUFFIX: 19040
-# TOTAL: 19320
+# DOMAIN-SUFFIX: 19042
+# TOTAL: 19322
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -5201,6 +5201,7 @@ DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
 DOMAIN-SUFFIX,divas.com.uy
+DOMAIN-SUFFIX,divdyn.com
 DOMAIN-SUFFIX,diwodiwo.xyz
 DOMAIN-SUFFIX,diyarbakirescort.com
 DOMAIN-SUFFIX,diyuser.buzz
@@ -14563,6 +14564,7 @@ DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.net
 DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.wiki
 DOMAIN-SUFFIX,rutrk.org
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutube.sport

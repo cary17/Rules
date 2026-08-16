@@ -1,8 +1,8 @@
 # NAME: category-forums
-# UPDATED: 2026-08-15
+# UPDATED: 2026-08-16
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 105
-# TOTAL: 107
+# DOMAIN-SUFFIX: 106
+# TOTAL: 108
 DOMAIN,bbs.boingboing.net
 DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,18p2p.com
@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.net
 DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.wiki
 DOMAIN-SUFFIX,rutrk.org
 DOMAIN-SUFFIX,safechat.com
 DOMAIN-SUFFIX,sis001.com
