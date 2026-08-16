@@ -1,9 +1,9 @@
 # NAME: bytedance
-# UPDATED: 2026-08-15
+# UPDATED: 2026-08-16
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 909
-# TOTAL: 930
+# DOMAIN-SUFFIX: 911
+# TOTAL: 932
 domain_set:
   - ads3-normal-hl.zijieapi.com
   - ads3-normal.zijieapi.com
@@ -55,6 +55,7 @@ domain_suffix_set:
   - analytics.tiktok.com
   - anycross.com
   - api-building.fun
+  - applogcdn.com
   - arco.design
   - ark-doc-resources.cn
   - auto-validation.com
@@ -595,6 +596,7 @@ domain_suffix_set:
   - samasty.com
   - sealsuite.com
   - sealsuite.net
+  - searchpstatp.com
   - searchstatic.com
   - searchtoutiaolive.com
   - securityfeishu.cn

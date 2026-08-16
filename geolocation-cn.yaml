@@ -1,10 +1,10 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-08-15
+# UPDATED: 2026-08-16
 # DOMAIN: 621
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8472
+# DOMAIN-SUFFIX: 8474
 # DOMAIN-REGEX: 8
-# TOTAL: 9103
+# TOTAL: 9105
 domain_set:
   - 2mdn-cn.net
   - 2mdn.net
@@ -1563,6 +1563,7 @@ domain_suffix_set:
   - applestore.com.cn
   - appletv4.cn
   - appletv4.com.cn
+  - applogcdn.com
   - applysquare.com
   - applysquare.net
   - appserviceenvironment.cn
@@ -6866,6 +6867,7 @@ domain_suffix_set:
   - sdo.com
   - sealsuite.com
   - sealsuite.net
+  - searchpstatp.com
   - searchstatic.com
   - searchtoutiaolive.com
   - seasungames.cn
@@ -9104,11 +9106,11 @@ domain_keyword_set:
   - httpdns
   - zdnscloud
 domain_regex_set:
-  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-  - ^nis.+\.10010\.com$
-  - ^.+-mihayo\.akamaized\.net$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
   - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
   - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+  - ^nis.+\.10010\.com$
+  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - ^.+-mihayo\.akamaized\.net$

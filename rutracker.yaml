@@ -1,7 +1,7 @@
 # NAME: rutracker
-# UPDATED: 2026-08-15
-# DOMAIN-SUFFIX: 8
-# TOTAL: 8
+# UPDATED: 2026-08-16
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
 domain_suffix_set:
   - maintracker.org
   - rutracker.cc
@@ -10,4 +10,5 @@ domain_suffix_set:
   - rutracker.net
   - rutracker.nl
   - rutracker.org
+  - rutracker.wiki
   - rutrk.org
