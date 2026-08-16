@@ -1555,6 +1555,7 @@ payload:
     - +.applestore.com.cn
     - +.appletv4.cn
     - +.appletv4.com.cn
+    - +.applogcdn.com
     - +.applysquare.com
     - +.applysquare.net
     - +.appserviceenvironment.cn
@@ -6859,6 +6860,7 @@ payload:
     - +.sdo.com
     - +.sealsuite.com
     - +.sealsuite.net
+    - +.searchpstatp.com
     - +.searchstatic.com
     - +.searchtoutiaolive.com
     - +.seasungames.cn
