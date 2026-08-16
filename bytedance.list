@@ -1,9 +1,9 @@
 # NAME: bytedance
-# UPDATED: 2026-08-15
+# UPDATED: 2026-08-16
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 909
-# TOTAL: 930
+# DOMAIN-SUFFIX: 911
+# TOTAL: 932
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,amemv.net
 DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,anycross.com
 DOMAIN-SUFFIX,api-building.fun
+DOMAIN-SUFFIX,applogcdn.com
 DOMAIN-SUFFIX,arco.design
 DOMAIN-SUFFIX,ark-doc-resources.cn
 DOMAIN-SUFFIX,auto-validation.com
@@ -593,6 +594,7 @@ DOMAIN-SUFFIX,rsproxy.cn
 DOMAIN-SUFFIX,samasty.com
 DOMAIN-SUFFIX,sealsuite.com
 DOMAIN-SUFFIX,sealsuite.net
+DOMAIN-SUFFIX,searchpstatp.com
 DOMAIN-SUFFIX,searchstatic.com
 DOMAIN-SUFFIX,searchtoutiaolive.com
 DOMAIN-SUFFIX,securityfeishu.cn

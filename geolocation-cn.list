@@ -1,9 +1,9 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-08-15
+# UPDATED: 2026-08-16
 # DOMAIN: 621
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8472
-# TOTAL: 9095
+# DOMAIN-SUFFIX: 8474
+# TOTAL: 9097
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -1560,6 +1560,7 @@ DOMAIN-SUFFIX,applestore.cn
 DOMAIN-SUFFIX,applestore.com.cn
 DOMAIN-SUFFIX,appletv4.cn
 DOMAIN-SUFFIX,appletv4.com.cn
+DOMAIN-SUFFIX,applogcdn.com
 DOMAIN-SUFFIX,applysquare.com
 DOMAIN-SUFFIX,applysquare.net
 DOMAIN-SUFFIX,appserviceenvironment.cn
@@ -6863,6 +6864,7 @@ DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
 DOMAIN-SUFFIX,sdo.com
 DOMAIN-SUFFIX,sealsuite.com
 DOMAIN-SUFFIX,sealsuite.net
+DOMAIN-SUFFIX,searchpstatp.com
 DOMAIN-SUFFIX,searchstatic.com
 DOMAIN-SUFFIX,searchtoutiaolive.com
 DOMAIN-SUFFIX,seasungames.cn
