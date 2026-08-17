@@ -1,8 +1,8 @@
 # NAME: category-entertainment-cn
-# UPDATED: 2026-08-16
+# UPDATED: 2026-08-17
 # DOMAIN: 23
-# DOMAIN-SUFFIX: 893
-# TOTAL: 916
+# DOMAIN-SUFFIX: 898
+# TOTAL: 921
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
@@ -252,6 +252,7 @@ DOMAIN-SUFFIX,dataeye.com
 DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,ddmogo.com
 DOMAIN-SUFFIX,debugmode.cn
+DOMAIN-SUFFIX,dedao.cn
 DOMAIN-SUFFIX,dishu3.com
 DOMAIN-SUFFIX,diyring.cc
 DOMAIN-SUFFIX,dm5.cn
@@ -269,6 +270,7 @@ DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinmusicpromotion.com
 DOMAIN-SUFFIX,douyinpay.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
@@ -291,6 +293,7 @@ DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,e.kuaishou.cn
 DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN-SUFFIX,e.stat.ykimg.com
+DOMAIN-SUFFIX,eckwai.com
 DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,edgesrv.com
 DOMAIN-SUFFIX,edu4399.com
@@ -509,7 +512,6 @@ DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,jvcsmart.cn
 DOMAIN-SUFFIX,jvcsmart.com.cn
 DOMAIN-SUFFIX,kajicam.com
-DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,kg.qq.com
 DOMAIN-SUFFIX,kgimg.com
 DOMAIN-SUFFIX,kglink.cn
@@ -556,6 +558,9 @@ DOMAIN-SUFFIX,kuyin123.com
 DOMAIN-SUFFIX,kuyinxiu.com
 DOMAIN-SUFFIX,kuyinyun.com
 DOMAIN-SUFFIX,kwaicdn.com
+DOMAIN-SUFFIX,kwaishop.com
+DOMAIN-SUFFIX,kwaixiaodian.com
+DOMAIN-SUFFIX,kwaiying.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,labycore.cn
@@ -630,6 +635,7 @@ DOMAIN-SUFFIX,missevan.com
 DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,mobilemsg.youku.com
 DOMAIN-SUFFIX,mogoo.com
+DOMAIN-SUFFIX,mojidoc.com
 DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,morefreegame.com
 DOMAIN-SUFFIX,motie.com
@@ -804,13 +810,11 @@ DOMAIN-SUFFIX,tuer123.com
 DOMAIN-SUFFIX,tuyoo.com
 DOMAIN-SUFFIX,twyx.cn
 DOMAIN-SUFFIX,twyxh.com
-DOMAIN-SUFFIX,u17.com
-DOMAIN-SUFFIX,u17i.com
-DOMAIN-SUFFIX,u17t.com
 DOMAIN-SUFFIX,ucg.cn
 DOMAIN-SUFFIX,ulpay.com
 DOMAIN-SUFFIX,ultimatemusic.cn
 DOMAIN-SUFFIX,ultracachenode.com
+DOMAIN-SUFFIX,umiwi.com
 DOMAIN-SUFFIX,updream.cn
 DOMAIN-SUFFIX,v3mh.com
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com
@@ -842,6 +846,7 @@ DOMAIN-SUFFIX,wmupd.com
 DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com
+DOMAIN-SUFFIX,wskwai.com
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,wting.info
 DOMAIN-SUFFIX,wtzw.com

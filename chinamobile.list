@@ -1,9 +1,10 @@
 # NAME: chinamobile
-# UPDATED: 2026-08-16
-# DOMAIN-SUFFIX: 32
-# TOTAL: 32
+# UPDATED: 2026-08-17
+# DOMAIN-SUFFIX: 35
+# TOTAL: 35
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
+DOMAIN-SUFFIX,5gxcx.net
 DOMAIN-SUFFIX,andfx.cn
 DOMAIN-SUFFIX,andfx.net
 DOMAIN-SUFFIX,chinamobile.com
@@ -24,6 +25,8 @@ DOMAIN-SUFFIX,cytxl.com.cn
 DOMAIN-SUFFIX,fetion-portal.com
 DOMAIN-SUFFIX,fetionpic.com
 DOMAIN-SUFFIX,fxltsbl.com
+DOMAIN-SUFFIX,hfx.net
+DOMAIN-SUFFIX,komect.com
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migufun.com
