@@ -1,8 +1,8 @@
 # NAME: category-ai-cn
-# UPDATED: 2026-08-16
+# UPDATED: 2026-08-17
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 111
-# TOTAL: 113
+# DOMAIN-SUFFIX: 112
+# TOTAL: 114
 DOMAIN,ai.zhaomi.cn
 DOMAIN,cueme-api.quark.cn
 DOMAIN-SUFFIX,aispeech.com
@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,picpic-ai.cn
 DOMAIN-SUFFIX,pixeldance.com
 DOMAIN-SUFFIX,qianwen.aliyun.com
 DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,qianwenai.com
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN-SUFFIX,rwkv.cn

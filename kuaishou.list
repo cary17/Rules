@@ -1,13 +1,22 @@
 # NAME: kuaishou
-# UPDATED: 2026-08-16
-# DOMAIN: 1
+# UPDATED: 2026-08-17
+# DOMAIN: 2
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 17
-# TOTAL: 19
+# DOMAIN-SUFFIX: 30
+# TOTAL: 33
+DOMAIN,apilog-web.acfun.cn
 DOMAIN,log-sdk.gifshow.com
+DOMAIN-SUFFIX,ac.fun
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.net
+DOMAIN-SUFFIX,acfunchina.cn
+DOMAIN-SUFFIX,acfunchina.com
+DOMAIN-SUFFIX,acfunchina.net
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adkwai.com
 DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,aixifan.com
+DOMAIN-SUFFIX,eckwai.com
 DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,inkuai.com
@@ -16,10 +25,15 @@ DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,kwaicdn.com
+DOMAIN-SUFFIX,kwaishop.com
+DOMAIN-SUFFIX,kwaixiaodian.com
+DOMAIN-SUFFIX,kwaiying.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,mojidoc.com
 DOMAIN-SUFFIX,qingque.cn
 DOMAIN-SUFFIX,viviv.com
+DOMAIN-SUFFIX,wskwai.com
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-KEYWORD,kuaishou
