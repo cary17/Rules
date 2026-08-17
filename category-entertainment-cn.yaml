@@ -1,9 +1,9 @@
 # NAME: category-entertainment-cn
-# UPDATED: 2026-08-16
+# UPDATED: 2026-08-17
 # DOMAIN: 23
-# DOMAIN-SUFFIX: 893
+# DOMAIN-SUFFIX: 898
 # DOMAIN-REGEX: 1
-# TOTAL: 917
+# TOTAL: 922
 domain_set:
   - ads3-normal-hl.zijieapi.com
   - ads3-normal.zijieapi.com
@@ -255,6 +255,7 @@ domain_suffix_set:
   - dc.letv.com
   - ddmogo.com
   - debugmode.cn
+  - dedao.cn
   - dishu3.com
   - diyring.cc
   - dm5.cn
@@ -272,6 +273,7 @@ domain_suffix_set:
   - douyinec.com
   - douyinfe.com
   - douyinliving.com
+  - douyinmusicpromotion.com
   - douyinpay.com
   - douyinpic.com
   - douyinstatic.com
@@ -294,6 +296,7 @@ domain_suffix_set:
   - e.kuaishou.cn
   - e.kuaishou.com
   - e.stat.ykimg.com
+  - eckwai.com
   - ecukwai.com
   - edgesrv.com
   - edu4399.com
@@ -512,7 +515,6 @@ domain_suffix_set:
   - jvcsmart.cn
   - jvcsmart.com.cn
   - kajicam.com
-  - kesong.co
   - kg.qq.com
   - kgimg.com
   - kglink.cn
@@ -559,6 +561,9 @@ domain_suffix_set:
   - kuyinxiu.com
   - kuyinyun.com
   - kwaicdn.com
+  - kwaishop.com
+  - kwaixiaodian.com
+  - kwaiying.com
   - kwaizt.com
   - kwimgs.com
   - labycore.cn
@@ -633,6 +638,7 @@ domain_suffix_set:
   - miyoushe.com
   - mobilemsg.youku.com
   - mogoo.com
+  - mojidoc.com
   - monitor.music.qq.com
   - morefreegame.com
   - motie.com
@@ -807,13 +813,11 @@ domain_suffix_set:
   - tuyoo.com
   - twyx.cn
   - twyxh.com
-  - u17.com
-  - u17i.com
-  - u17t.com
   - ucg.cn
   - ulpay.com
   - ultimatemusic.cn
   - ultracachenode.com
+  - umiwi.com
   - updream.cn
   - v3mh.com
   - v6-adashx.ut.youku.com
@@ -845,6 +849,7 @@ domain_suffix_set:
   - wo1wan.com
   - woaihuoshan.com
   - wohst8.com
+  - wskwai.com
   - wsukwai.com
   - wting.info
   - wtzw.com

@@ -1,8 +1,8 @@
 # NAME: category-ai-cn
-# UPDATED: 2026-08-16
+# UPDATED: 2026-08-17
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 111
-# TOTAL: 113
+# DOMAIN-SUFFIX: 112
+# TOTAL: 114
 domain_set:
   - ai.zhaomi.cn
   - cueme-api.quark.cn
@@ -88,6 +88,7 @@ domain_suffix_set:
   - pixeldance.com
   - qianwen.aliyun.com
   - qianwen.com
+  - qianwenai.com
   - qwen.ai
   - qwenlm.ai
   - rwkv.cn

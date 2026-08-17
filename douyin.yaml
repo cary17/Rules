@@ -1,8 +1,8 @@
 # NAME: douyin
-# UPDATED: 2026-08-16
+# UPDATED: 2026-08-17
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 52
-# TOTAL: 53
+# DOMAIN-SUFFIX: 51
+# TOTAL: 52
 domain_suffix_set:
   - activity-wbsj.com
   - aihst8.com
@@ -40,7 +40,6 @@ domain_suffix_set:
   - ihuoshanlive.com
   - ihuoshanstatic.com
   - ihuoshanvod.com
-  - kesong.co
   - kolbuyer.cn
   - lifexue.com
   - nextvid.net

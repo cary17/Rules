@@ -1,9 +1,9 @@
 # NAME: bytedance
-# UPDATED: 2026-08-16
+# UPDATED: 2026-08-17
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 911
-# TOTAL: 932
+# DOMAIN-SUFFIX: 915
+# TOTAL: 936
 domain_set:
   - ads3-normal-hl.zijieapi.com
   - ads3-normal.zijieapi.com
@@ -304,6 +304,7 @@ domain_suffix_set:
   - douyinec.com
   - douyinfe.com
   - douyinliving.com
+  - douyinmusicpromotion.com
   - douyinpay.com
   - douyinpic.com
   - douyinstatic.com
@@ -497,6 +498,7 @@ domain_suffix_set:
   - larksuiteimg-pre.com
   - larksuiteimg.com
   - larkvc.com
+  - letsign.com
   - lifexue.com
   - livecdnstatic.com
   - livesaascdn.com
@@ -892,6 +894,7 @@ domain_suffix_set:
   - wukongwenda.com
   - xck31.cn
   - xflowedge.com
+  - xiaohe.cn
   - xiaoxiaapi.com
   - xiguaapp.cn
   - xiguaapp.com
@@ -899,6 +902,7 @@ domain_suffix_set:
   - xiguashipin.net
   - xiguavideo.cn
   - xiguavideo.net
+  - xingtu.cn
   - xitu.io
   - xsgtvacct.com
   - xyf61.cn

@@ -1,9 +1,10 @@
 # NAME: kuaishou@ads
-# UPDATED: 2026-08-16
-# DOMAIN: 2
+# UPDATED: 2026-08-17
+# DOMAIN: 3
 # DOMAIN-SUFFIX: 5
-# TOTAL: 7
+# TOTAL: 8
 domain_set:
+  - apilog-web.acfun.cn
   - log-sdk.gifshow.com
   - wlog.kuaishou.com
 domain_suffix_set:

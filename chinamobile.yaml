@@ -1,10 +1,11 @@
 # NAME: chinamobile
-# UPDATED: 2026-08-16
-# DOMAIN-SUFFIX: 32
-# TOTAL: 32
+# UPDATED: 2026-08-17
+# DOMAIN-SUFFIX: 35
+# TOTAL: 35
 domain_suffix_set:
   - 10086.cn
   - 139.com
+  - 5gxcx.net
   - andfx.cn
   - andfx.net
   - chinamobile.com
@@ -25,6 +26,8 @@ domain_suffix_set:
   - fetion-portal.com
   - fetionpic.com
   - fxltsbl.com
+  - hfx.net
+  - komect.com
   - migu.cn
   - migucloud.com
   - migufun.com
