@@ -1,7 +1,7 @@
 # NAME: category-vpnservices
-# UPDATED: 2026-08-18
-# DOMAIN-SUFFIX: 67
-# TOTAL: 67
+# UPDATED: 2026-08-19
+# DOMAIN-SUFFIX: 69
+# TOTAL: 69
 domain_suffix_set:
   - 928.plus
   - aaex.uk
@@ -46,6 +46,8 @@ domain_suffix_set:
   - nexitally.com
   - nexitallysafe.com
   - nexitcore.com
+  - nordcdn.com
+  - nordvpn.com
   - paofu.cloud
   - paofuyun.me
   - renzhe.cloud

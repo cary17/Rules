@@ -1,5 +1,5 @@
 # NAME: cn
-# UPDATED: 2026-08-18
+# UPDATED: 2026-08-19
 # DOMAIN: 621
 # DOMAIN-KEYWORD: 2
 # DOMAIN-SUFFIX: 8488
@@ -9120,11 +9120,11 @@ domain_keyword_set:
   - httpdns
   - zdnscloud
 domain_regex_set:
-  - ^nis.+\.10010\.com$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - ^.+-mihayo\.akamaized\.net$
-  - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+  - ^nis.+\.10010\.com$
+  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
   - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+  - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
