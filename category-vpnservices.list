@@ -1,7 +1,7 @@
 # NAME: category-vpnservices
-# UPDATED: 2026-08-18
-# DOMAIN-SUFFIX: 67
-# TOTAL: 67
+# UPDATED: 2026-08-19
+# DOMAIN-SUFFIX: 69
+# TOTAL: 69
 DOMAIN-SUFFIX,928.plus
 DOMAIN-SUFFIX,aaex.uk
 DOMAIN-SUFFIX,airport-gov-cn.com
@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,n3ro.wtf
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nexitallysafe.com
 DOMAIN-SUFFIX,nexitcore.com
+DOMAIN-SUFFIX,nordcdn.com
+DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,paofu.cloud
 DOMAIN-SUFFIX,paofuyun.me
 DOMAIN-SUFFIX,renzhe.cloud
