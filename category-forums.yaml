@@ -1,8 +1,8 @@
 # NAME: category-forums
-# UPDATED: 2026-08-19
+# UPDATED: 2026-08-20
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 106
-# TOTAL: 108
+# DOMAIN-SUFFIX: 107
+# TOTAL: 109
 domain_set:
   - bbs.boingboing.net
   - www.quora.com.cdn.cloudflare.net
@@ -17,6 +17,7 @@ domain_suffix_set:
   - 4cdn.org
   - 4chan.org
   - 4channel.org
+  - 5ch.io
   - 5ch.net
   - 5i01.com
   - 6park.com

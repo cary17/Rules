@@ -1,10 +1,10 @@
 # NAME: cn
-# UPDATED: 2026-08-19
-# DOMAIN: 621
+# UPDATED: 2026-08-20
+# DOMAIN: 591
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8488
+# DOMAIN-SUFFIX: 8487
 # DOMAIN-REGEX: 8
-# TOTAL: 9119
+# TOTAL: 9088
 domain_set:
   - 2mdn-cn.net
   - 2mdn.net
@@ -25,7 +25,6 @@ domain_set:
   - ads5-normal-hl.zijieapi.com
   - ads5-normal.zijieapi.com
   - adservice.google.com
-  - afcs.dell.com
   - ai.zhaomi.cn
   - alibaba.cdn.steampipe.steamcontent.com
   - amp-api-edge-lb-cn.itunes-apple.com.akadns.net
@@ -123,7 +122,6 @@ domain_set:
   - client-api.itunes.apple.com
   - clientflow.apple.com
   - clientflow.apple.com.akadns.net
-  - clientperipherals.dell.com
   - clientservices.googleapis.com
   - cma.itunes.apple.com
   - cn-smp-paymentservices.apple.com
@@ -150,7 +148,6 @@ domain_set:
   - ctdsb.clouddiffuse.xyz
   - ctldl.windowsupdate.com
   - cueme-api.quark.cn
-  - customization-cdn.dell.com
   - dartsearch-cn.net
   - dc1-cert.ksn.kaspersky-labs.com
   - dc1-file.ksn.kaspersky-labs.com
@@ -158,14 +155,12 @@ domain_set:
   - dc1-st.ksn.kaspersky-labs.com
   - dc1.ksn.kaspersky-labs.com
   - dd-cdn.origin-apple.com.akadns.net
-  - dds.dell.com
   - dejavu.apple.com
   - developer.microsoft.com
   - devimages-cdn.apple.com
   - devstreaming-cdn.apple.com
   - dg-meta.video.google.com
   - discussionschinese.apple.com
-  - dl.dell.com
   - dl.google.com
   - dl.l.google.com
   - dnl-00.geo.kaspersky.com
@@ -198,11 +193,7 @@ domain_set:
   - downloaddispatch.itunes.apple.com
   - dreamspark.download.prss.microsoft.com
   - dreamsparkuat.download.prss.microsoft.com
-  - ea2cn-dev-outlet.dell.com
-  - ea2cn-prod-outlet.dell.com
-  - ea2cn-staging-outlet.dell.com
   - edge.geo.kaspersky.com
-  - emoi-cncdn.bing.com
   - end-api.shallow.ink
   - end.shallow.ink
   - enrichgw.10010.com
@@ -210,23 +201,16 @@ domain_set:
   - epicgames-download1-1251447533.file.myqcloud.com
   - experiments.apple.com
   - f.c2r.ts.cdn.office.net
-  - fcs.dell.com
   - fides-pol.apple.com
   - firebase-settings.crashlytics.com
   - fontfiles.googleapis.com
   - fonts.googleapis.com
   - fonts.gstatic.com
   - fpinit.itunes.apple.com
-  - fta.dell.com
-  - ftaapj.dell.com
-  - ftaemea.dell.com
-  - ftasitapj.dell.com
   - g0.gstatic.com
   - g1.gstatic.com
   - g2.gstatic.com
   - g3.gstatic.com
-  - gbxgateway-dev.dell.com
-  - gbxgateway.dell.com
   - gog.qtlglb.com
   - gonglchuangl.net
   - gongyichuangyi.net
@@ -279,7 +263,6 @@ domain_set:
   - hap.10010.com
   - hospital.pku.edu.cn
   - hs.wosms.cn
-  - i.dell.com
   - i.pki.goog
   - id6.me
   - images-cn-8.ssl-images-amazon.com
@@ -377,7 +360,6 @@ domain_set:
   - mvod.itunes.apple.com
   - myapp.itunes.apple.com
   - myvs.download.prss.microsoft.com
-  - nexus.dell.com
   - np-edge.itunes.apple.com
   - ntp.aliyun.com
   - ntp.tencent.com
@@ -409,7 +391,6 @@ domain_set:
   - osrelease.download.prss.microsoft.com
   - osxapps.itunes.apple.com
   - osxapps.itunes.g.aaplimg.com
-  - p.cdn.persaas.dell.com
   - p00.upd.kaspersky.com
   - p01.upd.kaspersky.com
   - p02.upd.kaspersky.com
@@ -511,7 +492,6 @@ domain_set:
   - s5.mzstatic.com
   - safebrowsing-cache.google.com
   - safebrowsing.googleapis.com
-  - scene7-cdn.dell.com
   - sdx.microsoft.com
   - se-edge.itunes.apple.com
   - se2.itunes.apple.com
@@ -525,11 +505,7 @@ domain_set:
   - sh-pod2-smp-device.apple.com
   - shazam-insights.cdn-apple.com
   - shell.cdn.office.net
-  - si.cdn.dell.com
-  - sm.dell.com
   - smp-device-content.apple.com
-  - snp.cdn.dell.com
-  - snpi.dell.com
   - software.download.prss.microsoft.com
   - sp.itunes.apple.com
   - speedysub.music.apple.com
@@ -558,7 +534,6 @@ domain_set:
   - su.itunes.apple.com
   - support-china.apple-support.akadns.net
   - support.apple.com
-  - supportassist.dell.com
   - surface.download.prss.microsoft.com
   - surface.downloads.prss.microsoft.com
   - swallow-apple-com.v.aaplimg.com
@@ -583,7 +558,6 @@ domain_set:
   - tj-pod3-smp-device.apple.com
   - tlu.dl.delivery.mp.microsoft.com
   - tools.google.com
-  - tp.louisvuitton.com
   - trts.baishancdnx.cn
   - ubisoftconnect.eo-edgefunctions7.com
   - universal-activity-service.itunes.apple.com
@@ -592,7 +566,6 @@ domain_set:
   - updates-http.cdn-apple.com
   - updates-http.cdn-apple.com.akadns.net
   - updates.cdn-apple.com
-  - uplaypc-s-ubisoft.cdn.ubi.com
   - uplaypc-s-ubisoft.cdn.ubionline.com.cn
   - upp.itunes.apple.com
   - valid.apple.com
@@ -609,13 +582,10 @@ domain_set:
   - weatherkit.apple.com
   - windbg.download.prss.microsoft.com
   - wlog.kuaishou.com
-  - www-csb.dell.com
   - www-google-analytics.l.google.com
   - www-googletagmanager.l.google.com
-  - www.amd.com
   - www.apple.com
   - www.apple.com.edgekey.net.globalredir.akadns.net
-  - www.dell.com
   - www.destinationurl.com
   - www.entrust.cn
   - www.gstatic.com
@@ -5916,7 +5886,6 @@ domain_suffix_set:
   - monitor.uu.qq.com
   - mooc.cn
   - moocollege.com
-  - moonshot.ai
   - moonshot.cn
   - moonvy.com
   - moonvy.cool
@@ -9120,11 +9089,11 @@ domain_keyword_set:
   - httpdns
   - zdnscloud
 domain_regex_set:
-  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
   - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - ^.+-mihayo\.akamaized\.net$
-  - ^nis.+\.10010\.com$
-  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+  - ^nis.+\.10010\.com$
+  - ^.+-mihayo\.akamaized\.net$
+  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$

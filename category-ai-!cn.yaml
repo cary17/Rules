@@ -1,9 +1,9 @@
 # NAME: category-ai-!cn
-# UPDATED: 2026-08-19
+# UPDATED: 2026-08-20
 # DOMAIN: 28
-# DOMAIN-SUFFIX: 145
+# DOMAIN-SUFFIX: 151
 # DOMAIN-REGEX: 1
-# TOTAL: 174
+# TOTAL: 180
 domain_set:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
@@ -92,6 +92,7 @@ domain_suffix_set:
   - diabrowser.engineering
   - dify.ai
   - dola.com
+  - dreamgen.com
   - duck.ai
   - elevenlabs.com
   - elevenlabs.io
@@ -122,6 +123,7 @@ domain_suffix_set:
   - jetbrains.ai
   - jules.google
   - jules.google.com
+  - kimi.ai
   - kiro.dev
   - labs.google
   - labs.google.com
@@ -138,10 +140,13 @@ domain_suffix_set:
   - midjourney.com
   - minimax.io
   - mistral.ai
+  - moonshot.ai
   - mozilla.ai
   - notebook.google.com
   - notebooklm.google
   - notebooklm.google.com
+  - notegpt.io
+  - novelai.net
   - oaistatic.com
   - oaistatsig.com
   - oaiusercontent.com
@@ -168,6 +173,7 @@ domain_suffix_set:
   - sora.com
   - spicywriter.com
   - stitch.withgoogle.com
+  - talkai.info
   - tapnow.ai
   - themeforest.net
   - trae.ai

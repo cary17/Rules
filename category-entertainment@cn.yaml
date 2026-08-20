@@ -1,9 +1,9 @@
 # NAME: category-entertainment@cn
-# UPDATED: 2026-08-19
-# DOMAIN: 59
+# UPDATED: 2026-08-20
+# DOMAIN: 58
 # DOMAIN-SUFFIX: 40
 # DOMAIN-REGEX: 2
-# TOTAL: 101
+# TOTAL: 100
 domain_set:
   - alibaba.cdn.steampipe.steamcontent.com
   - amp-api-edge-lb-cn.itunes-apple.com.akadns.net
@@ -61,7 +61,6 @@ domain_set:
   - sync.itunes.apple.com
   - tf-feedback.itunes.apple.com
   - universal-activity-service.itunes.apple.com
-  - uplaypc-s-ubisoft.cdn.ubi.com
   - upp.itunes.apple.com
   - xz.pphimalayanrt.com
 domain_suffix_set:

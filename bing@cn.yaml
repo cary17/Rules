@@ -1,11 +1,10 @@
 # NAME: bing@cn
-# UPDATED: 2026-08-19
-# DOMAIN: 2
+# UPDATED: 2026-08-20
+# DOMAIN: 1
 # DOMAIN-SUFFIX: 7
-# TOTAL: 9
+# TOTAL: 8
 domain_set:
   - bj1.api.bing.com
-  - emoi-cncdn.bing.com
 domain_suffix_set:
   - bing.com.cn
   - cn.bing.com

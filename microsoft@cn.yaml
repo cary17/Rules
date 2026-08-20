@@ -1,15 +1,14 @@
 # NAME: microsoft@cn
-# UPDATED: 2026-08-19
-# DOMAIN: 8
+# UPDATED: 2026-08-20
+# DOMAIN: 7
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 121
-# TOTAL: 130
+# TOTAL: 129
 domain_set:
   - b.c2r.ts.cdn.office.net
   - bj1.api.bing.com
   - cn.windowssearch.com
   - ctldl.windowsupdate.com
-  - emoi-cncdn.bing.com
   - f.c2r.ts.cdn.office.net
   - shell.cdn.office.net
   - statics.teams.cdn.office.net

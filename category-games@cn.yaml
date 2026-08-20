@@ -1,14 +1,13 @@
 # NAME: category-games@cn
-# UPDATED: 2026-08-19
-# DOMAIN: 5
+# UPDATED: 2026-08-20
+# DOMAIN: 4
 # DOMAIN-SUFFIX: 31
 # DOMAIN-REGEX: 3
-# TOTAL: 39
+# TOTAL: 38
 domain_set:
   - alibaba.cdn.steampipe.steamcontent.com
   - gog.qtlglb.com
   - lv.queniujq.cn
-  - uplaypc-s-ubisoft.cdn.ubi.com
   - xz.pphimalayanrt.com
 domain_suffix_set:
   - bluearchive-cn.com

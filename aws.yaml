@@ -1,9 +1,9 @@
 # NAME: aws
-# UPDATED: 2026-08-19
+# UPDATED: 2026-08-20
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 64
+# DOMAIN-SUFFIX: 67
 # DOMAIN-REGEX: 3
-# TOTAL: 68
+# TOTAL: 71
 domain_suffix_set:
   - .aws
   - a2z.org.cn
@@ -13,6 +13,7 @@ domain_suffix_set:
   - amazoncognito.com
   - amazonses.com
   - amazonwebservices.cn
+  - amazonwebservices.com
   - amazonwebservices.com.cn
   - amazonworkdocs.cn
   - amazonworkdocs.com
@@ -31,6 +32,8 @@ domain_suffix_set:
   - aws-border.cn
   - aws-icp-domain-manager.cn
   - aws-iot-hackathon.com
+  - aws.a2z.com
+  - aws.amazon.com
   - aws.com
   - aws.dev
   - awsapprunner.com
