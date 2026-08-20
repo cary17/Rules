@@ -1,16 +1,15 @@
 # NAME: microsoft
-# UPDATED: 2026-08-19
-# DOMAIN: 24
+# UPDATED: 2026-08-20
+# DOMAIN: 23
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 511
-# TOTAL: 536
+# TOTAL: 535
 DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN,bj1.api.bing.com
 DOMAIN,cn.windowssearch.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,ctldl.windowsupdate.com
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com

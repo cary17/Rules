@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-08-19
-# DOMAIN: 202
+# UPDATED: 2026-08-20
+# DOMAIN: 201
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 1399
-# TOTAL: 1610
+# DOMAIN-SUFFIX: 1401
+# TOTAL: 1611
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,abematv.akamaized.net
@@ -196,7 +196,6 @@ DOMAIN,ubistatic6-a.akamaihd.net
 DOMAIN,ubistatic7-a.akamaihd.net
 DOMAIN,ubistatic8-a.akamaihd.net
 DOMAIN,ubistatic9-a.akamaihd.net
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,videos-rockstargames-com.akamaized.net
 DOMAIN,vod-abematv.akamaized.net
 DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
@@ -1042,6 +1041,8 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,nfsworld.com
 DOMAIN-SUFFIX,ngeo.com
+DOMAIN-SUFFIX,nico.ms
+DOMAIN-SUFFIX,nicochannel.jp
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicomanga.jp
 DOMAIN-SUFFIX,niconico.com

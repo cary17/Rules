@@ -1,8 +1,8 @@
 # NAME: aws
-# UPDATED: 2026-08-19
+# UPDATED: 2026-08-20
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 64
-# TOTAL: 65
+# DOMAIN-SUFFIX: 67
+# TOTAL: 68
 DOMAIN-SUFFIX,.aws
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,acmvalidations.com
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,aesworkshops.com
 DOMAIN-SUFFIX,amazoncognito.com
 DOMAIN-SUFFIX,amazonses.com
 DOMAIN-SUFFIX,amazonwebservices.cn
+DOMAIN-SUFFIX,amazonwebservices.com
 DOMAIN-SUFFIX,amazonwebservices.com.cn
 DOMAIN-SUFFIX,amazonworkdocs.cn
 DOMAIN-SUFFIX,amazonworkdocs.com
@@ -29,6 +30,8 @@ DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
 DOMAIN-SUFFIX,aws-border.cn
 DOMAIN-SUFFIX,aws-icp-domain-manager.cn
 DOMAIN-SUFFIX,aws-iot-hackathon.com
+DOMAIN-SUFFIX,aws.a2z.com
+DOMAIN-SUFFIX,aws.amazon.com
 DOMAIN-SUFFIX,aws.com
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,awsapprunner.com
