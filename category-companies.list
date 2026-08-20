@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-08-19
-# DOMAIN: 196
+# UPDATED: 2026-08-20
+# DOMAIN: 167
 # DOMAIN-KEYWORD: 42
 # DOMAIN-SUFFIX: 5327
-# TOTAL: 5565
+# TOTAL: 5536
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -28,7 +28,6 @@ DOMAIN,adsapp.telega.info
 DOMAIN,adv.rustore.ru
 DOMAIN,adv.vk.ru
 DOMAIN,advk.vk.ru
-DOMAIN,afcs.dell.com
 DOMAIN,alt-r.my.com
 DOMAIN,an.mail.ru
 DOMAIN,analytics.vk.ru
@@ -70,7 +69,6 @@ DOMAIN,ciscolivehls-i.akamaihd.net
 DOMAIN,click.rustore.ru
 DOMAIN,clickserve.cc-dt.com
 DOMAIN,clickserve.dartsearch.net
-DOMAIN,clientperipherals.dell.com
 DOMAIN,cn.alibabacloud.com
 DOMAIN,cn.widevine.com
 DOMAIN,cn.windowssearch.com
@@ -82,35 +80,20 @@ DOMAIN,crl.versign.net
 DOMAIN,crls.pki.goog
 DOMAIN,csi.gstatic.com
 DOMAIN,ctldl.windowsupdate.com
-DOMAIN,customization-cdn.dell.com
 DOMAIN,dartsearch-cn.net
-DOMAIN,dds.dell.com
-DOMAIN,dl.dell.com
-DOMAIN,ea2cn-dev-outlet.dell.com
-DOMAIN,ea2cn-prod-outlet.dell.com
-DOMAIN,ea2cn-staging-outlet.dell.com
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,fbcdn-a.akamaihd.net
-DOMAIN,fcs.dell.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fonts.gstatic.com
-DOMAIN,fta.dell.com
-DOMAIN,ftaapj.dell.com
-DOMAIN,ftaemea.dell.com
-DOMAIN,ftasitapj.dell.com
 DOMAIN,g0.gstatic.com
 DOMAIN,g1.gstatic.com
 DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
-DOMAIN,gbxgateway-dev.dell.com
-DOMAIN,gbxgateway.dell.com
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,gongyichuangyi.net
 DOMAIN,gstatic-cn.com
 DOMAIN,gtm.oasisfeng.com
 DOMAIN,hpstore.corpmerchandise.com
-DOMAIN,i.dell.com
 DOMAIN,i.pki.goog
 DOMAIN,img-s-msn-com.akamaized.net
 DOMAIN,incoming-telemetry.thunderbird.net
@@ -125,12 +108,10 @@ DOMAIN,is4.mzstatic.com
 DOMAIN,is5-ssl.mzstatic.com
 DOMAIN,is5.mzstatic.com
 DOMAIN,mwf-service.akamaized.net
-DOMAIN,nexus.dell.com
 DOMAIN,o.pki.goog
 DOMAIN,ocsp.pki.goog
 DOMAIN,ood.opsource.net
 DOMAIN,p-events-delivery.akamaized.net
-DOMAIN,p.cdn.persaas.dell.com
 DOMAIN,pixel.rustore.ru
 DOMAIN,prod-controlbe.floonet.goog
 DOMAIN,prod-databe.floonet.goog
@@ -157,14 +138,9 @@ DOMAIN,s3.mzstatic.com
 DOMAIN,s4.mzstatic.com
 DOMAIN,s5.mzstatic.com
 DOMAIN,sa78gs.wpc.edgecastcdn.net
-DOMAIN,scene7-cdn.dell.com
 DOMAIN,service.urchin.com
 DOMAIN,shell.cdn.office.net
-DOMAIN,si.cdn.dell.com
-DOMAIN,sm.dell.com
 DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
-DOMAIN,snp.cdn.dell.com
-DOMAIN,snpi.dell.com
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,ssl.gstatic.com
 DOMAIN,stacks.vk-portal.net
@@ -181,19 +157,14 @@ DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN,stats.vk-portal.net
 DOMAIN,status.alibabacloud.com
-DOMAIN,supportassist.dell.com
 DOMAIN,swcdn.g.aaplimg.com
 DOMAIN,t.mail.ru
 DOMAIN,target.vk.com
 DOMAIN,teamviewer.com.cdn.cloudflare.net
 DOMAIN,top-staging.mail.ru
-DOMAIN,tp.louisvuitton.com
 DOMAIN,update.crashlytics.com
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,whiteline.mail.ru
-DOMAIN,www-csb.dell.com
-DOMAIN,www.amd.com
-DOMAIN,www.dell.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com

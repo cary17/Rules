@@ -1,9 +1,7 @@
 # NAME: amd
-# UPDATED: 2026-08-19
-# DOMAIN: 1
+# UPDATED: 2026-08-20
 # DOMAIN-SUFFIX: 5
-# TOTAL: 6
-DOMAIN,www.amd.com
+# TOTAL: 5
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amd.com.cn
 DOMAIN-SUFFIX,amdfanstore.com

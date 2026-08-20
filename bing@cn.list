@@ -1,10 +1,9 @@
 # NAME: bing@cn
-# UPDATED: 2026-08-19
-# DOMAIN: 2
+# UPDATED: 2026-08-20
+# DOMAIN: 1
 # DOMAIN-SUFFIX: 7
-# TOTAL: 9
+# TOTAL: 8
 DOMAIN,bj1.api.bing.com
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net

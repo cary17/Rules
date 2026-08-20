@@ -1,8 +1,8 @@
 # NAME: category-entertainment@cn
-# UPDATED: 2026-08-19
-# DOMAIN: 59
+# UPDATED: 2026-08-20
+# DOMAIN: 58
 # DOMAIN-SUFFIX: 40
-# TOTAL: 99
+# TOTAL: 98
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -59,7 +59,6 @@ DOMAIN,su.itunes.apple.com
 DOMAIN,sync.itunes.apple.com
 DOMAIN,tf-feedback.itunes.apple.com
 DOMAIN,universal-activity-service.itunes.apple.com
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,upp.itunes.apple.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,amazonprimevideo.cn

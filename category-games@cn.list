@@ -1,12 +1,11 @@
 # NAME: category-games@cn
-# UPDATED: 2026-08-19
-# DOMAIN: 5
+# UPDATED: 2026-08-20
+# DOMAIN: 4
 # DOMAIN-SUFFIX: 31
-# TOTAL: 36
+# TOTAL: 35
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,gog.qtlglb.com
 DOMAIN,lv.queniujq.cn
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,client-update.queniuqe.com
