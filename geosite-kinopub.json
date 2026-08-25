@@ -18,6 +18,7 @@
         "pushbr.com",
         "smarttvcdn.online",
         "support-kp.com",
+        "teleos.club",
         "tsx.ovh"
       ],
       "domain_regex": "(\\w+)-static-[0-9]+\\.cdntogo\\.net$"
