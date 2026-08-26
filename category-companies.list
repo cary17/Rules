@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-08-25
+# UPDATED: 2026-08-26
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 42
-# DOMAIN-SUFFIX: 5327
-# TOTAL: 5536
+# DOMAIN-SUFFIX: 5328
+# TOTAL: 5537
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -511,6 +511,7 @@ DOMAIN-SUFFIX,antiphishing.ru
 DOMAIN-SUFFIX,anydesk.com
 DOMAIN-SUFFIX,aodahl.com
 DOMAIN-SUFFIX,aokwholesale.net
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,ap0le.com
