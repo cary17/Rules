@@ -1,13 +1,14 @@
 # NAME: yahoo
-# UPDATED: 2026-08-25
+# UPDATED: 2026-08-26
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 13
-# TOTAL: 15
+# DOMAIN-SUFFIX: 14
+# TOTAL: 16
 domain_set:
   - cdn.js7k.com
 domain_suffix_set:
   - .flickr
+  - aolcdn.com
   - flic.kr
   - flickr.com
   - flickr.net

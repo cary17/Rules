@@ -1,8 +1,0 @@
-# NAME: verizon@ads
-# UPDATED: 2026-08-25
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
-domain_suffix_set:
-  - ads.yahoo.com
-  - gemini.yahoo.com
-  - ysm.yahoo.com
