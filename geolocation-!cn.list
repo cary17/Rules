@@ -1,9 +1,9 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-08-25
+# UPDATED: 2026-08-26
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 106
-# DOMAIN-SUFFIX: 19054
-# TOTAL: 19334
+# DOMAIN-SUFFIX: 19056
+# TOTAL: 19336
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -893,6 +893,7 @@ DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguardaccount.net
 DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,adguardvpn.com
 DOMAIN-SUFFIX,adhelpnews.com
@@ -1490,6 +1491,7 @@ DOMAIN-SUFFIX,aoaou.iillii.net
 DOMAIN-SUFFIX,aoc.cat
 DOMAIN-SUFFIX,aodahl.com
 DOMAIN-SUFFIX,aokwholesale.net
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoxx69.net
