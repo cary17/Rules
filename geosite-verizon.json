@@ -2,31 +2,16 @@
   "version": 1,
   "rules": [
     {
-      "domain": "cdn.js7k.com",
       "domain_suffix": [
-        ".flickr",
-        "flic.kr",
-        "flickr.com",
-        "flickr.net",
-        "maktoob.com",
-        "myguide.hk",
         "oath.cloud",
         "oath.com",
         "ouroath.com",
-        "staticflickr.com",
-        "techcrunch.com",
         "uplynk.com",
         "vzw.com",
-        "xo.com",
-        "yho.com",
-        "yimg.com",
-        "yimg.jp",
-        "ymail.com",
-        "yusercontent.com"
+        "xo.com"
       ],
       "domain_keyword": [
-        "verizon",
-        "yahoo"
+        "verizon"
       ]
     }
   ]
