@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-08-26
+# UPDATED: 2026-08-28
 # DOMAIN: 201
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 1401
-# TOTAL: 1611
+# DOMAIN-SUFFIX: 1402
+# TOTAL: 1612
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,abematv.akamaized.net
@@ -663,6 +663,7 @@ DOMAIN-SUFFIX,gpstatic.com
 DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,greatgame.asia
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
+DOMAIN-SUFFIX,h264.io
 DOMAIN-SUFFIX,hackyourconsole.com
 DOMAIN-SUFFIX,haiwaikan.com
 DOMAIN-SUFFIX,hayabusa.dev

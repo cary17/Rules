@@ -1,9 +1,9 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-08-26
+# UPDATED: 2026-08-28
 # DOMAIN: 591
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8486
-# TOTAL: 9079
+# DOMAIN-SUFFIX: 8487
+# TOTAL: 9080
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -5727,6 +5727,7 @@ DOMAIN-SUFFIX,mercurycom.com.cn
 DOMAIN-SUFFIX,meta.law
 DOMAIN-SUFFIX,metalrevolution.com
 DOMAIN-SUFFIX,metaso.cn
+DOMAIN-SUFFIX,metax-tech.com
 DOMAIN-SUFFIX,mfcteda.com
 DOMAIN-SUFFIX,mfk.com
 DOMAIN-SUFFIX,mfuns.cn
