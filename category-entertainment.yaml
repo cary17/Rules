@@ -1,10 +1,10 @@
 # NAME: category-entertainment
-# UPDATED: 2026-08-26
+# UPDATED: 2026-08-28
 # DOMAIN: 201
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 1401
+# DOMAIN-SUFFIX: 1402
 # DOMAIN-REGEX: 10
-# TOTAL: 1621
+# TOTAL: 1622
 domain_set:
   - a.ppy.sh
   - a4e8s8k3.map2.ssl.hwcdn.net
@@ -666,6 +666,7 @@ domain_suffix_set:
   - gr-assets.com
   - greatgame.asia
   - gstore.val.manlaxy.com
+  - h264.io
   - hackyourconsole.com
   - haiwaikan.com
   - hayabusa.dev

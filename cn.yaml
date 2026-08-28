@@ -1,10 +1,10 @@
 # NAME: cn
-# UPDATED: 2026-08-26
+# UPDATED: 2026-08-28
 # DOMAIN: 591
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8487
+# DOMAIN-SUFFIX: 8488
 # DOMAIN-REGEX: 8
-# TOTAL: 9088
+# TOTAL: 9089
 domain_set:
   - 2mdn-cn.net
   - 2mdn.net
@@ -5731,6 +5731,7 @@ domain_suffix_set:
   - meta.law
   - metalrevolution.com
   - metaso.cn
+  - metax-tech.com
   - mfcteda.com
   - mfk.com
   - mfuns.cn
@@ -9090,10 +9091,10 @@ domain_keyword_set:
   - zdnscloud
 domain_regex_set:
   - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-  - ^.+-mihayo\.akamaized\.net$
-  - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-  - ^nis.+\.10010\.com$
   - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+  - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+  - ^.+-mihayo\.akamaized\.net$
+  - ^nis.+\.10010\.com$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$

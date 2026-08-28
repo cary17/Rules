@@ -1,7 +1,7 @@
 # NAME: hbo
-# UPDATED: 2026-08-26
-# DOMAIN-SUFFIX: 64
-# TOTAL: 64
+# UPDATED: 2026-08-28
+# DOMAIN-SUFFIX: 65
+# TOTAL: 65
 domain_suffix_set:
   - .hbo
   - beforeigners.com
@@ -10,6 +10,7 @@ domain_suffix_set:
   - discomax.com
   - elpionero.es
   - forthethrone.com
+  - h264.io
   - hbo-europe.com
   - hbo.ba
   - hbo.bg
