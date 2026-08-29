@@ -1,8 +1,4 @@
 payload:
-    - checkip.amazonaws.com
-    - checkip.dyn.com
-    - checkip.dyndns.org
-    - checkip.global.api.aws
     - ip-check-perf.radar.cloudflare.com
     - ip.comss.net
     - ipv4-check-perf.radar.cloudflare.com
@@ -14,16 +10,19 @@ payload:
     - +.2ip.ua
     - +.51degrees.com
     - +.abstractapi.com
+    - +.addr.tools
     - +.apiip.net
     - +.apivoid.com
     - +.bigdatacloud.net
+    - +.browserleaks.com
     - +.check-host.net
-    - +.checkip.org
-    - +.checkip.ru
+    - +.checkmyip.now
     - +.country.is
+    - +.criminalip.io
     - +.curlmyip.net
     - +.dadata.ru
     - +.db-ip.com
+    - +.dnsleaktest.com
     - +.extreme-ip-lookup.com
     - +.find-my-ip.com
     - +.find-my-ip.net
@@ -42,6 +41,7 @@ payload:
     - +.get-ipv4.com
     - +.get-ipv6.com
     - +.getipintel.net
+    - +.getjsonip.com
     - +.greip.io
     - +.hackertarget.com
     - +.httpbin.org
@@ -52,6 +52,7 @@ payload:
     - +.ifconfig.es
     - +.ifconfig.io
     - +.ifconfig.me
+    - +.infosniper.net
     - +.ip-adress.com
     - +.ip-api.com
     - +.ip-api.io
@@ -77,6 +78,7 @@ payload:
     - +.ipaddress.com
     - +.ipaddress.my
     - +.ipaddress.sh
+    - +.ipaddress.to
     - +.ipapi.co
     - +.ipapi.com
     - +.ipapi.is
@@ -116,11 +118,13 @@ payload:
     - +.ipv4.internet.yandex.net
     - +.ipv6-internet.yandex.net
     - +.ipv6.internet.yandex.net
+    - +.ipv6ready.me
     - +.ipverify.com
     - +.ipw.cn
     - +.ipwho.is
     - +.ipwhois.io
     - +.ipxapi.com
+    - +.jsonip.com
     - +.l2.io
     - +.maxmind.com
     - +.mon-ip.com
@@ -172,6 +176,7 @@ payload:
     - +.osint.sh
     - +.proxycheck.io
     - +.realip.cc
+    - +.reallyfreegeoip.org
     - +.seeip.org
     - +.showip.net
     - +.showmyip.com
@@ -179,12 +184,16 @@ payload:
     - +.spur.us
     - +.sxgeo.city
     - +.sypexgeo.net
+    - +.test.version6.ru
+    - +.testipv6.cn
+    - +.testipv6.de
     - +.thatsmyip.com
     - +.tnx.nl
     - +.tracemyip.org
     - +.trustmyip.com
     - +.wgetip.com
     - +.whatismyip.com
+    - +.whatismyip.io
     - +.whatismyip.net
     - +.whatismyip.org
     - +.whatismyipaddress.com
