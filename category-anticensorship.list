@@ -1,8 +1,8 @@
 # NAME: category-anticensorship
-# UPDATED: 2026-08-28
+# UPDATED: 2026-08-29
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 117
-# TOTAL: 123
+# DOMAIN-SUFFIX: 118
+# TOTAL: 124
 DOMAIN,matsuridayo.github.io
 DOMAIN,metacubex.github.io
 DOMAIN,rabbit-hole-1.gitbook.io
@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,pwnedpasswords.com
+DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,shadowlaunch.com
 DOMAIN-SUFFIX,shadowsocks.org
