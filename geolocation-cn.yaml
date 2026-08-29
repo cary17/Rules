@@ -1,10 +1,10 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-08-28
+# UPDATED: 2026-08-29
 # DOMAIN: 591
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8487
+# DOMAIN-SUFFIX: 8492
 # DOMAIN-REGEX: 8
-# TOTAL: 9088
+# TOTAL: 9093
 domain_set:
   - 2mdn-cn.net
   - 2mdn.net
@@ -742,6 +742,7 @@ domain_suffix_set:
   - 1tyy.cn
   - 1xhh.cn
   - 1zhe.com
+  - 20130123.com
   - 21cn.com
   - 21cnjy.com
   - 21jingji.com
@@ -1255,6 +1256,7 @@ domain_suffix_set:
   - aiemy.com
   - aiganggu.com
   - aigc-cloud.com
+  - aigefurniture.com
   - aigodlike.com
   - aihst8.com
   - aihuishou.com
@@ -5471,6 +5473,7 @@ domain_suffix_set:
   - linglonglife.com
   - lingshoujia.com
   - lingxigames.com
+  - lingxing.com
   - linka2a.net
   - linkflowtech.com
   - linkheer.com
@@ -7462,6 +7465,7 @@ domain_suffix_set:
   - test6.nju.edu.cn
   - test6.ustc.edu.cn
   - testads.api.my7v.com
+  - testipv6.cn
   - testjrzk.net.cn
   - testmeet.cn
   - testplus.cn
@@ -8995,6 +8999,7 @@ domain_suffix_set:
   - zijiewap.net
   - zilrms.com
   - zimgs.cn
+  - ziniao.com
   - ziroom.com
   - ziroomapartment.com
   - zixiaomao.com
@@ -9089,11 +9094,11 @@ domain_keyword_set:
   - httpdns
   - zdnscloud
 domain_regex_set:
-  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+  - ^.+-mihayo\.akamaized\.net$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
   - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
   - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - ^.+-mihayo\.akamaized\.net$
+  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
   - ^nis.+\.10010\.com$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$

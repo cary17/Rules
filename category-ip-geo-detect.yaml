@@ -1,13 +1,10 @@
 # NAME: category-ip-geo-detect
-# UPDATED: 2026-08-28
-# DOMAIN: 10
-# DOMAIN-SUFFIX: 191
-# TOTAL: 201
+# UPDATED: 2026-08-29
+# DOMAIN: 6
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 204
+# TOTAL: 212
 domain_set:
-  - checkip.amazonaws.com
-  - checkip.dyn.com
-  - checkip.dyndns.org
-  - checkip.global.api.aws
   - ip-check-perf.radar.cloudflare.com
   - ip.comss.net
   - ipv4-check-perf.radar.cloudflare.com
@@ -20,16 +17,19 @@ domain_suffix_set:
   - 2ip.ua
   - 51degrees.com
   - abstractapi.com
+  - addr.tools
   - apiip.net
   - apivoid.com
   - bigdatacloud.net
+  - browserleaks.com
   - check-host.net
-  - checkip.org
-  - checkip.ru
+  - checkmyip.now
   - country.is
+  - criminalip.io
   - curlmyip.net
   - dadata.ru
   - db-ip.com
+  - dnsleaktest.com
   - extreme-ip-lookup.com
   - find-my-ip.com
   - find-my-ip.net
@@ -48,6 +48,7 @@ domain_suffix_set:
   - get-ipv4.com
   - get-ipv6.com
   - getipintel.net
+  - getjsonip.com
   - greip.io
   - hackertarget.com
   - httpbin.org
@@ -58,6 +59,7 @@ domain_suffix_set:
   - ifconfig.es
   - ifconfig.io
   - ifconfig.me
+  - infosniper.net
   - ip-adress.com
   - ip-api.com
   - ip-api.io
@@ -83,6 +85,7 @@ domain_suffix_set:
   - ipaddress.com
   - ipaddress.my
   - ipaddress.sh
+  - ipaddress.to
   - ipapi.co
   - ipapi.com
   - ipapi.is
@@ -122,11 +125,13 @@ domain_suffix_set:
   - ipv4.internet.yandex.net
   - ipv6-internet.yandex.net
   - ipv6.internet.yandex.net
+  - ipv6ready.me
   - ipverify.com
   - ipw.cn
   - ipwho.is
   - ipwhois.io
   - ipxapi.com
+  - jsonip.com
   - l2.io
   - maxmind.com
   - mon-ip.com
@@ -178,6 +183,7 @@ domain_suffix_set:
   - osint.sh
   - proxycheck.io
   - realip.cc
+  - reallyfreegeoip.org
   - seeip.org
   - showip.net
   - showmyip.com
@@ -185,12 +191,16 @@ domain_suffix_set:
   - spur.us
   - sxgeo.city
   - sypexgeo.net
+  - test.version6.ru
+  - testipv6.cn
+  - testipv6.de
   - thatsmyip.com
   - tnx.nl
   - tracemyip.org
   - trustmyip.com
   - wgetip.com
   - whatismyip.com
+  - whatismyip.io
   - whatismyip.net
   - whatismyip.org
   - whatismyipaddress.com
@@ -206,3 +216,6 @@ domain_suffix_set:
   - whoisxmlapi.com
   - wieistmeineip.de
   - wtfismyip.com
+domain_keyword_set:
+  - checkip
+  - test-ipv6

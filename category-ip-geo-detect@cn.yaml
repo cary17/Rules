@@ -1,9 +1,10 @@
 # NAME: category-ip-geo-detect@cn
-# UPDATED: 2026-08-28
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-08-29
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 domain_suffix_set:
   - ipify.cn
   - iplark.com
   - ipw.cn
+  - testipv6.cn
   - whois.pconline.com.cn
