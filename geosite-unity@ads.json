@@ -2,9 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "api2.amplitude.com"
-      ],
+      "domain_suffix": [],
       "domain_keyword": [
         "unity"
       ]
