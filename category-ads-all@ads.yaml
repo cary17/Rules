@@ -1,10 +1,10 @@
 # NAME: category-ads-all@ads
-# UPDATED: 2026-08-30
+# UPDATED: 2026-08-31
 # DOMAIN: 135
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 582
+# DOMAIN-SUFFIX: 602
 # DOMAIN-REGEX: 1
-# TOTAL: 720
+# TOTAL: 740
 domain_set:
   - 1l-hit.mail.ru
   - 1l-hit.vkplay.ru
@@ -292,6 +292,12 @@ domain_suffix_set:
   - amazon-adsystem.com
   - an.yandex.ru
   - api-adservices.apple.com
+  - api-secure.amplitude.com
+  - api-secure.eu.amplitude.com
+  - api-sr.amplitude.com
+  - api-sr.eu.amplitude.com
+  - api.amplitude.com
+  - api.eu.amplitude.com
   - api2.amplitude.com
   - app-ads-services.com
   - app-measurement-cn.com
@@ -305,6 +311,8 @@ domain_suffix_set:
   - ar.umeng.com
   - ark.letv.com
   - aspect-upush.umeng.com
+  - assistant-api.amplitude.com
+  - assistant-api.eu.amplitude.com
   - assp.sohu.com
   - atanx.alicdn.com
   - atanx2.alicdn.com
@@ -337,6 +345,8 @@ domain_suffix_set:
   - cb.baidu.com
   - cbjs.baidu.com
   - ccs.umeng.com
+  - cdn.amplitude.com
+  - cdn.eu.amplitude.com
   - cdp.cloud.unity3d.com
   - clarity.ms
   - clck.yandex.ru
@@ -400,6 +410,8 @@ domain_suffix_set:
   - eduad.baidu.com
   - eiv.baidu.com
   - ems.youku.com
+  - engagement-static.amplitude.com
+  - engagement-static.eu.amplitude.com
   - euads-o.api.leiniao.com
   - extlog.snssdk.com
   - facebookads.com
@@ -441,6 +453,8 @@ domain_suffix_set:
   - graph.instagram.com
   - graph.whatsapp.com
   - graph.whatsapp.net
+  - gs.amplitude.com
+  - gs.eu.amplitude.com
   - guanggaoad.youku.com
   - h-adashx.ut.ele.me
   - h-adashx.ut.taobao.com
@@ -479,6 +493,8 @@ domain_suffix_set:
   - ja2.gamersky.com
   - jzt.jd.com
   - kurogames-ads.com
+  - lab.amplitude.com
+  - lab.eu.amplitude.com
   - ladsp.com
   - lianmeng.360.cn
   - lijit.com
@@ -607,6 +623,8 @@ domain_suffix_set:
   - qwapi.com
   - r.mail.ru
   - radar.imgsmail.ru
+  - regionconfig.amplitude.com
+  - regionconfig.eu.amplitude.com
   - reke.at.sohu.com
   - relap.mail.ru
   - report.qqweb.qq.com
@@ -645,6 +663,8 @@ domain_suffix_set:
   - splash-ads.cdn.unity.cn
   - splash-ads.unitychina.cn
   - spotxchange.com
+  - sr-client-cfg.amplitude.com
+  - sr-client-cfg.eu.amplitude.com
   - ssacdn.com
   - stat.m.jd.com
   - stat.y.qq.com

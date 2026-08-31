@@ -1,9 +1,6 @@
 # NAME: unity
-# UPDATED: 2026-08-30
+# UPDATED: 2026-08-31
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
-domain_suffix_set:
-  - api2.amplitude.com
+# TOTAL: 1
 domain_keyword_set:
   - unity

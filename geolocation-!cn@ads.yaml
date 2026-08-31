@@ -1,9 +1,9 @@
 # NAME: geolocation-!cn@ads
-# UPDATED: 2026-08-30
+# UPDATED: 2026-08-31
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 161
-# TOTAL: 277
+# DOMAIN-SUFFIX: 160
+# TOTAL: 276
 domain_set:
   - 1l-hit.mail.ru
   - 1l-hit.vkplay.ru
@@ -160,7 +160,6 @@ domain_suffix_set:
   - amazon-adsystem.com
   - an.yandex.ru
   - api-adservices.apple.com
-  - api2.amplitude.com
   - app-ads-services.com
   - app-measurement-cn.com
   - app-measurement.com

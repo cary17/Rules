@@ -1,7 +1,7 @@
 # NAME: category-social-media-cn
-# UPDATED: 2026-08-30
-# DOMAIN-SUFFIX: 96
-# TOTAL: 96
+# UPDATED: 2026-08-31
+# DOMAIN-SUFFIX: 98
+# TOTAL: 98
 domain_suffix_set:
   - .sina
   - .weibo
@@ -76,6 +76,8 @@ domain_suffix_set:
   - taou.com
   - tieba.baidu.com
   - tieba.com
+  - uneed.com
+  - uneedx.com
   - videoself.cn
   - vzuu.com
   - wapwbclick.mobile.sina.cn

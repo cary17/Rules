@@ -1,10 +1,10 @@
 # NAME: category-dev
-# UPDATED: 2026-08-30
+# UPDATED: 2026-08-31
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 560
+# DOMAIN-SUFFIX: 559
 # DOMAIN-REGEX: 1
-# TOTAL: 646
+# TOTAL: 645
 domain_set:
   - amp.akamaized.net
   - android.googlesource.com
@@ -112,7 +112,6 @@ domain_suffix_set:
   - androidify.com
   - apache.org
   - api-extractor.com
-  - api2.amplitude.com
   - apisof.net
   - appcenter.ms
   - apple-cloudkit.com

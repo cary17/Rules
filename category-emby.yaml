@@ -1,8 +1,8 @@
 # NAME: category-emby
-# UPDATED: 2026-08-30
+# UPDATED: 2026-08-31
 # DOMAIN: 52
-# DOMAIN-SUFFIX: 30
-# TOTAL: 82
+# DOMAIN-SUFFIX: 31
+# TOTAL: 83
 domain_set:
   - agahk.odysseyplus.site
   - agahk1.jmsooo.com
@@ -86,4 +86,5 @@ domain_suffix_set:
   - stream.ntrrr.top
   - stream.synn.cc
   - texon.fans
+  - uhdnow.com
   - yunti.online
