@@ -1,9 +1,9 @@
 # NAME: category-ip-geo-detect
-# UPDATED: 2026-08-30
+# UPDATED: 2026-08-31
 # DOMAIN: 6
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 204
-# TOTAL: 212
+# DOMAIN-SUFFIX: 206
+# TOTAL: 214
 DOMAIN,ip-check-perf.radar.cloudflare.com
 DOMAIN,ip.comss.net
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,abstractapi.com
 DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,apiip.net
 DOMAIN-SUFFIX,apivoid.com
+DOMAIN-SUFFIX,bgp.he.net
+DOMAIN-SUFFIX,bgp.tools
 DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,check-host.net

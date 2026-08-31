@@ -1,9 +1,9 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-08-30
+# UPDATED: 2026-08-31
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 106
-# DOMAIN-SUFFIX: 19059
-# TOTAL: 19339
+# DOMAIN-SUFFIX: 19058
+# TOTAL: 19338
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -1505,7 +1505,6 @@ DOMAIN-SUFFIX,apexprint.com.hk
 DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,api.news
-DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,apiauto.ru
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apigee.com

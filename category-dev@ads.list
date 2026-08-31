@@ -1,12 +1,11 @@
 # NAME: category-dev@ads
-# UPDATED: 2026-08-30
+# UPDATED: 2026-08-31
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 10
-# TOTAL: 12
+# DOMAIN-SUFFIX: 9
+# TOTAL: 11
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com
-DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
