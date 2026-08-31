@@ -1,9 +1,9 @@
 # NAME: category-dev
-# UPDATED: 2026-08-30
+# UPDATED: 2026-08-31
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 560
-# TOTAL: 645
+# DOMAIN-SUFFIX: 559
+# TOTAL: 644
 DOMAIN,amp.akamaized.net
 DOMAIN,android.googlesource.com
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -109,7 +109,6 @@ DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,api-extractor.com
-DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,apisof.net
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,apple-cloudkit.com
