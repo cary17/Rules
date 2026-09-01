@@ -1,9 +1,9 @@
 # NAME: category-cryptocurrency
-# UPDATED: 2026-08-31
+# UPDATED: 2026-09-01
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 195
-# TOTAL: 205
+# DOMAIN-SUFFIX: 198
+# TOTAL: 208
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
 DOMAIN,d3r7nsslvs6aaf.cloudfront.net
@@ -97,7 +97,10 @@ DOMAIN-SUFFIX,fantom.network
 DOMAIN-SUFFIX,fiat24.com
 DOMAIN-SUFFIX,flare.network
 DOMAIN-SUFFIX,fundingrates.xyz
+DOMAIN-SUFFIX,gate.com
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gate.tv
+DOMAIN-SUFFIX,gateapi.io
 DOMAIN-SUFFIX,gatedata.org
 DOMAIN-SUFFIX,gateimg.com
 DOMAIN-SUFFIX,gateio.live
