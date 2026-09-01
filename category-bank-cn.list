@@ -1,7 +1,7 @@
 # NAME: category-bank-cn
-# UPDATED: 2026-08-31
-# DOMAIN-SUFFIX: 133
-# TOTAL: 133
+# UPDATED: 2026-09-01
+# DOMAIN-SUFFIX: 135
+# TOTAL: 135
 DOMAIN-SUFFIX,.citic
 DOMAIN-SUFFIX,.icbc
 DOMAIN-SUFFIX,.xn--fiq64b
@@ -118,12 +118,14 @@ DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,shrbank.com
 DOMAIN-SUFFIX,spdb.com.cn
 DOMAIN-SUFFIX,suningbank.com
+DOMAIN-SUFFIX,tctpwebankcdn.net
 DOMAIN-SUFFIX,test-cignacmb.com
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unionpay.net
 DOMAIN-SUFFIX,unionpayintl.cn
 DOMAIN-SUFFIX,unionpayintl.com
 DOMAIN-SUFFIX,unionpaysecure.com
+DOMAIN-SUFFIX,wbweilicai.com
 DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,webankcdn.net
 DOMAIN-SUFFIX,wegobank.cn
