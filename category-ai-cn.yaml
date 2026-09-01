@@ -1,8 +1,8 @@
 # NAME: category-ai-cn
-# UPDATED: 2026-08-31
+# UPDATED: 2026-09-01
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 111
-# TOTAL: 113
+# DOMAIN-SUFFIX: 113
+# TOTAL: 115
 domain_set:
   - ai.zhaomi.cn
   - cueme-api.quark.cn
@@ -39,6 +39,7 @@ domain_suffix_set:
   - cueme.cn
   - dbbuilding.fun
   - deepseek.com
+  - deepseeksvc.com
   - diandianlife.top
   - doubao-dev.com
   - doubao.com
@@ -104,6 +105,7 @@ domain_suffix_set:
   - trae.cn
   - trae.com.cn
   - trae.guru
+  - workbuddy.cn
   - xiaoaiassist.com
   - xiaomimimo.com
   - xiezuocat.com

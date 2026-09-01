@@ -1,8 +1,8 @@
 # NAME: qcloud
-# UPDATED: 2026-08-31
+# UPDATED: 2026-09-01
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 296
-# TOTAL: 297
+# DOMAIN-SUFFIX: 298
+# TOTAL: 299
 domain_suffix_set:
   - acctdns.com
   - acctdns.net
@@ -234,7 +234,9 @@ domain_suffix_set:
   - tencentcdb.cn
   - tencentcdb.com
   - tencentcdb.com.cn
+  - tencentclb.cn
   - tencentclb.com
+  - tencentclb.com.cn
   - tencentcloud-aiot.com
   - tencentcloudapi.com
   - tencentcloudclub.com

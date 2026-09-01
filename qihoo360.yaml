@@ -1,7 +1,7 @@
 # NAME: qihoo360
-# UPDATED: 2026-08-31
-# DOMAIN-SUFFIX: 111
-# TOTAL: 111
+# UPDATED: 2026-09-01
+# DOMAIN-SUFFIX: 112
+# TOTAL: 112
 domain_suffix_set:
   - .anquan
   - .shouji
@@ -27,6 +27,7 @@ domain_suffix_set:
   - 360pay.cn
   - 360qhcdn.com
   - 360safe.com
+  - 360scdn.com
   - 360shouji.com
   - 360sjyh.cn
   - 360so.com

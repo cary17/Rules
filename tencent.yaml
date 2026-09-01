@@ -1,9 +1,9 @@
 # NAME: tencent
-# UPDATED: 2026-08-31
+# UPDATED: 2026-09-01
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 573
-# TOTAL: 575
+# DOMAIN-SUFFIX: 574
+# TOTAL: 576
 domain_set:
   - wetv.qq.com
 domain_suffix_set:
@@ -479,6 +479,7 @@ domain_suffix_set:
   - tencdns.net
   - tendbcluster.com
   - tendis.net
+  - tengmed.com
   - tenpay.com
   - testjrzk.net.cn
   - testmeet.cn

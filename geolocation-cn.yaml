@@ -1,10 +1,10 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-08-31
+# UPDATED: 2026-09-01
 # DOMAIN: 591
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8540
+# DOMAIN-SUFFIX: 8549
 # DOMAIN-REGEX: 8
-# TOTAL: 9141
+# TOTAL: 9150
 domain_set:
   - 2mdn-cn.net
   - 2mdn.net
@@ -813,6 +813,7 @@ domain_suffix_set:
   - 360pay.cn
   - 360qhcdn.com
   - 360safe.com
+  - 360scdn.com
   - 360shouji.com
   - 360sjyh.cn
   - 360so.com
@@ -3113,6 +3114,7 @@ domain_suffix_set:
   - deepin.org.cn
   - deepinos.org
   - deepseek.com
+  - deepseeksvc.com
   - dell-alw.com
   - dell-brand.com
   - dell.com.cn
@@ -7375,6 +7377,7 @@ domain_suffix_set:
   - tcltech.com
   - tcp5.com
   - tcss.qq.com
+  - tctpwebankcdn.net
   - tcwqqdy.guru
   - tdnsdl1.cn
   - tdnsdl1.com.cn
@@ -7455,7 +7458,9 @@ domain_suffix_set:
   - tencentcdb.cn
   - tencentcdb.com
   - tencentcdb.com.cn
+  - tencentclb.cn
   - tencentclb.com
+  - tencentclb.com.cn
   - tencentcloud-aiot.com
   - tencentcloud.com
   - tencentcloudapi.com
@@ -7479,6 +7484,7 @@ domain_suffix_set:
   - tencentelasticsearch.com
   - tencentid.com
   - tencentidentity.com
+  - tencentmiying.com
   - tencentmusic.com
   - tencentproxy.com
   - tencentrio.com
@@ -7491,6 +7497,7 @@ domain_suffix_set:
   - tendbcluster.com
   - tendcloud.com
   - tendis.net
+  - tengmed.com
   - tenpay.com
   - tenxcloud.com
   - terapeak.cn
@@ -8206,6 +8213,7 @@ domain_suffix_set:
   - wbclick.mobile.sina.cn
   - wbimg.cn
   - wbimg.com
+  - wbweilicai.com
   - wcbygame.com
   - wcdn.cn
   - wch-ic.com
@@ -8339,6 +8347,7 @@ domain_suffix_set:
   - wooyun.org
   - woozooo.com
   - woread.com.cn
+  - workbuddy.cn
   - workercn.cn
   - worktile.com
   - worldofship.cn
@@ -9142,11 +9151,11 @@ domain_keyword_set:
   - httpdns
   - zdnscloud
 domain_regex_set:
-  - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-  - ^nis.+\.10010\.com$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-  - ^.+-mihayo\.akamaized\.net$
   - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - ^.+-mihayo\.akamaized\.net$
+  - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+  - ^nis.+\.10010\.com$
