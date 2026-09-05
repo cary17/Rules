@@ -38,10 +38,15 @@ jobs:
         run: |
           set -euo pipefail
           api=/tmp/sing-box-release.json
-          curl --fail --silent --show-error --location \
+          api_status=$(curl --fail --silent --show-error --location \
             --retry 3 --retry-all-errors --connect-timeout 15 --max-time 60 \
             -H "Accept: application/vnd.github+json" \
-            "$SING_BOX_RELEASE_API" > "$api"
+            "$SING_BOX_RELEASE_API" -o "$api" -w '%{http_code}') || {
+              rc=$?
+              echo "sing-box release API request failed: curl exit $rc, HTTP ${api_status:-unknown}" >&2
+              exit "$rc"
+            }
+          [[ "$api_status" == 2* ]] || { echo "sing-box release API returned HTTP $api_status" >&2; exit 1; }
           tag=$(jq -r '.tag_name' "$api")
           asset=$(jq -r '[.assets[] | select(.name | test("linux-amd64\\.tar\\.gz$"))][0]' "$api")
           name=$(jq -r '.name' <<<"$asset")
@@ -51,9 +56,14 @@ jobs:
           test -n "$name" -a "$name" != null
           test -n "$url" -a "$url" != null
           case "$tag" in v[0-9]*.[0-9]*.[0-9]*) ;; *) echo "invalid release tag: $tag" >&2; exit 1 ;; esac
-          curl --fail --silent --show-error --location \
+          asset_status=$(curl --fail --silent --show-error --location \
             --retry 3 --retry-all-errors --connect-timeout 15 --max-time 120 \
-            "$url" -o /tmp/sing-box.tar.gz
+            "$url" -o /tmp/sing-box.tar.gz -w '%{http_code}') || {
+              rc=$?
+              echo "sing-box asset download failed: curl exit $rc, HTTP ${asset_status:-unknown}, asset=$name" >&2
+              exit "$rc"
+            }
+          [[ "$asset_status" == 2* ]] || { echo "sing-box asset returned HTTP $asset_status: $name" >&2; exit 1; }
           archive_sha=$(sha256sum /tmp/sing-box.tar.gz | awk '{print $1}')
           if [[ ! "$digest" =~ ^sha256:[0-9a-fA-F]{64}$ ]]; then
             echo "sing-box archive has no valid SHA-256 digest" >&2
@@ -69,7 +79,8 @@ jobs:
           tar -xzf /tmp/sing-box.tar.gz -C /tmp/sing-box
           binary=$(find /tmp/sing-box -type f -name sing-box -print -quit)
           test -x "$binary"
-          version=$($binary version | head -n 1)
+          $binary version > /tmp/sing-box-version.txt
+          version=$(sed -n '1p' /tmp/sing-box-version.txt)
           version_number=${tag#v}
           grep -F "$version_number" <<<"$version"
           binary_sha=$(sha256sum "$binary" | awk '{print $1}')
@@ -108,11 +119,16 @@ jobs:
         run: |
           set -euo pipefail
           api=/tmp/mihomo-release.json
-          curl --fail --silent --show-error --location \
+          api_status=$(curl --fail --silent --show-error --location \
             --retry 3 --retry-all-errors --connect-timeout 15 --max-time 60 \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-            "$MIHOMO_RELEASE_API" > "$api"
+            "$MIHOMO_RELEASE_API" -o "$api" -w '%{http_code}') || {
+              rc=$?
+              echo "mihomo release API request failed: curl exit $rc, HTTP ${api_status:-unknown}" >&2
+              exit "$rc"
+            }
+          [[ "$api_status" == 2* ]] || { echo "mihomo release API returned HTTP $api_status" >&2; exit 1; }
           tag=$(jq -r '.tag_name' "$api")
           # pick the plain linux-amd64-v1 build
           asset=$(jq -r '[.assets[] | select(.name | test("^mihomo-linux-amd64-v1-v[0-9].*\\.gz$"))][0]' "$api")
@@ -123,10 +139,15 @@ jobs:
           test -n "$name" -a "$name" != null
           test -n "$url" -a "$url" != null
           case "$tag" in v[0-9]*.[0-9]*.[0-9]*) ;; *) echo "invalid release tag: $tag" >&2; exit 1 ;; esac
-          curl --fail --silent --show-error --location \
+          asset_status=$(curl --fail --silent --show-error --location \
             --retry 3 --retry-all-errors --connect-timeout 15 --max-time 120 \
             -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-            "$url" -o /tmp/mihomo.gz
+            "$url" -o /tmp/mihomo.gz -w '%{http_code}') || {
+              rc=$?
+              echo "mihomo asset download failed: curl exit $rc, HTTP ${asset_status:-unknown}, asset=$name" >&2
+              exit "$rc"
+            }
+          [[ "$asset_status" == 2* ]] || { echo "mihomo asset returned HTTP $asset_status: $name" >&2; exit 1; }
           archive_sha=$(sha256sum /tmp/mihomo.gz | awk '{print $1}')
           if [[ ! "$digest" =~ ^sha256:[0-9a-fA-F]{64}$ ]]; then
             echo "mihomo archive has no valid SHA-256 digest" >&2
@@ -138,7 +159,8 @@ jobs:
           fi
           gunzip -f /tmp/mihomo.gz
           chmod +x /tmp/mihomo
-          /tmp/mihomo -v | head -n 1 | grep -F "$tag"
+          /tmp/mihomo -v > /tmp/mihomo-version.txt
+          grep -F "$tag" /tmp/mihomo-version.txt
           binary_sha=$(sha256sum /tmp/mihomo | awk '{print $1}')
           printf 'tag=%s\nasset=%s\narchive_sha=%s\nbinary_sha=%s\ndigest=%s\n' \
             "$tag" "$name" "$archive_sha" "$binary_sha" "$digest" >> "$GITHUB_OUTPUT"
