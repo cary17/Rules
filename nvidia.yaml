@@ -1,14 +1,17 @@
 # NAME: nvidia
-# UPDATED: 2026-09-03
+# UPDATED: 2026-09-05
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 11
-# TOTAL: 13
+# DOMAIN-SUFFIX: 14
+# TOTAL: 16
 domain_suffix_set:
   - geforce.cn
   - geforce.co.kr
   - geforce.co.uk
   - geforce.com
   - geforce.com.tw
+  - hf.co
+  - hf.space
+  - huggingface.co
   - shotwithgeforce.com
   - tegrazone.co
   - tegrazone.co.kr

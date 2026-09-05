@@ -1,10 +1,10 @@
 # NAME: category-companies
-# UPDATED: 2026-09-03
+# UPDATED: 2026-09-05
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 42
-# DOMAIN-SUFFIX: 5328
+# DOMAIN-SUFFIX: 5331
 # DOMAIN-REGEX: 6
-# TOTAL: 5543
+# TOTAL: 5546
 domain_set:
   - 1l-hit.mail.ru
   - 1l-hit.vkplay.ru
@@ -2803,6 +2803,8 @@ domain_suffix_set:
   - hewlettpackard.enterprises
   - hey.boo
   - heywire.com
+  - hf.co
+  - hf.space
   - hh.by
   - hh.kz
   - hh.ru
@@ -2985,6 +2987,7 @@ domain_suffix_set:
   - html5rocks.com
   - htznr.li
   - hubblephone.com
+  - huggingface.co
   - hummingbird.ms
   - hwgo.com
   - hwslabs.com
