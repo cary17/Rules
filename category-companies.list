@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-09-03
+# UPDATED: 2026-09-05
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 42
-# DOMAIN-SUFFIX: 5328
-# TOTAL: 5537
+# DOMAIN-SUFFIX: 5331
+# TOTAL: 5540
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -2800,6 +2800,8 @@ DOMAIN-SUFFIX,hetzner.social
 DOMAIN-SUFFIX,hewlettpackard.enterprises
 DOMAIN-SUFFIX,hey.boo
 DOMAIN-SUFFIX,heywire.com
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,hh.by
 DOMAIN-SUFFIX,hh.kz
 DOMAIN-SUFFIX,hh.ru
@@ -2982,6 +2984,7 @@ DOMAIN-SUFFIX,hsmxpress.com
 DOMAIN-SUFFIX,html5rocks.com
 DOMAIN-SUFFIX,htznr.li
 DOMAIN-SUFFIX,hubblephone.com
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hummingbird.ms
 DOMAIN-SUFFIX,hwgo.com
 DOMAIN-SUFFIX,hwslabs.com
