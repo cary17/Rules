@@ -1,13 +1,16 @@
 # NAME: nvidia
-# UPDATED: 2026-09-03
+# UPDATED: 2026-09-05
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 11
-# TOTAL: 13
+# DOMAIN-SUFFIX: 14
+# TOTAL: 16
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
 DOMAIN-SUFFIX,geforce.co.uk
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,geforce.com.tw
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,shotwithgeforce.com
 DOMAIN-SUFFIX,tegrazone.co
 DOMAIN-SUFFIX,tegrazone.co.kr
