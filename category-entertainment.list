@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-09-06
-# DOMAIN: 201
+# UPDATED: 2026-09-07
+# DOMAIN: 202
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 1402
-# TOTAL: 1612
+# TOTAL: 1613
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,abematv.akamaized.net
@@ -115,6 +115,7 @@ DOMAIN,images-eu.ssl-images-amazon.com
 DOMAIN,images-fe.ssl-images-amazon.com
 DOMAIN,images-na.ssl-images-amazon.com
 DOMAIN,js-cdn.music.apple.com
+DOMAIN,lastfm-img.freetls.fastly.net
 DOMAIN,lastfm.freetls.fastly.net
 DOMAIN,lazer.ppy.sh
 DOMAIN,lgcscc-hamivideo2.cdn.hinet.net
