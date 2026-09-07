@@ -1,10 +1,10 @@
 # NAME: category-entertainment
-# UPDATED: 2026-09-06
-# DOMAIN: 201
+# UPDATED: 2026-09-07
+# DOMAIN: 202
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 1402
 # DOMAIN-REGEX: 10
-# TOTAL: 1622
+# TOTAL: 1623
 domain_set:
   - a.ppy.sh
   - a4e8s8k3.map2.ssl.hwcdn.net
@@ -117,6 +117,7 @@ domain_set:
   - images-fe.ssl-images-amazon.com
   - images-na.ssl-images-amazon.com
   - js-cdn.music.apple.com
+  - lastfm-img.freetls.fastly.net
   - lastfm.freetls.fastly.net
   - lazer.ppy.sh
   - lgcscc-hamivideo2.cdn.hinet.net
