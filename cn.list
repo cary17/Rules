@@ -1,9 +1,9 @@
 # NAME: cn
-# UPDATED: 2026-09-08
+# UPDATED: 2026-09-09
 # DOMAIN: 591
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8550
-# TOTAL: 9143
+# DOMAIN-SUFFIX: 8552
+# TOTAL: 9145
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -8836,6 +8836,7 @@ DOMAIN-SUFFIX,yuanbao.tencent.com
 DOMAIN-SUFFIX,yuanbei.biz
 DOMAIN-SUFFIX,yuanfudao.com
 DOMAIN-SUFFIX,yuanqi.tencent.com
+DOMAIN-SUFFIX,yuanqidesk.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,yuansouti.com
 DOMAIN-SUFFIX,yuantiku.com
@@ -8980,6 +8981,7 @@ DOMAIN-SUFFIX,zhaopin.com
 DOMAIN-SUFFIX,zhcw.com
 DOMAIN-SUFFIX,zhenai.com
 DOMAIN-SUFFIX,zhfund.com
+DOMAIN-SUFFIX,zhhainiao.com
 DOMAIN-SUFFIX,zhi10.com
 DOMAIN-SUFFIX,zhibo8.cc
 DOMAIN-SUFFIX,zhibo8.com
