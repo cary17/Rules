@@ -1,10 +1,10 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-09-08
+# UPDATED: 2026-09-09
 # DOMAIN: 591
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8549
+# DOMAIN-SUFFIX: 8551
 # DOMAIN-REGEX: 8
-# TOTAL: 9150
+# TOTAL: 9152
 domain_set:
   - 2mdn-cn.net
   - 2mdn.net
@@ -8838,6 +8838,7 @@ domain_suffix_set:
   - yuanbei.biz
   - yuanfudao.com
   - yuanqi.tencent.com
+  - yuanqidesk.com
   - yuanshen.com
   - yuansouti.com
   - yuantiku.com
@@ -8982,6 +8983,7 @@ domain_suffix_set:
   - zhcw.com
   - zhenai.com
   - zhfund.com
+  - zhhainiao.com
   - zhi10.com
   - zhibo8.cc
   - zhibo8.com
@@ -9151,11 +9153,11 @@ domain_keyword_set:
   - httpdns
   - zdnscloud
 domain_regex_set:
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-  - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-  - ^.+-mihayo\.akamaized\.net$
-  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
   - ^nis.+\.10010\.com$
+  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+  - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+  - ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+  - ^.+-mihayo\.akamaized\.net$

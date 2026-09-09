@@ -1,7 +1,7 @@
 # NAME: cheetahmobile
-# UPDATED: 2026-09-08
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# UPDATED: 2026-09-09
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 domain_suffix_set:
   - cheetahfun.com
   - cmcm.com
@@ -12,3 +12,5 @@ domain_suffix_set:
   - ijinshan.com
   - keniu.com
   - liebao.cn
+  - yuanqidesk.com
+  - zhhainiao.com

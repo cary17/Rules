@@ -1,8 +1,8 @@
 # NAME: category-forums
-# UPDATED: 2026-09-08
+# UPDATED: 2026-09-09
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 107
-# TOTAL: 109
+# DOMAIN-SUFFIX: 108
+# TOTAL: 110
 domain_set:
   - bbs.boingboing.net
   - www.quora.com.cdn.cloudflare.net
@@ -63,6 +63,7 @@ domain_suffix_set:
   - nodeimage.com
   - nodequality.com
   - nodeseek.com
+  - nodeseek.org
   - parkvv.com
   - parler.com
   - pimg.tw
