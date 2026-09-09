@@ -1,8 +1,8 @@
 # NAME: category-forums
-# UPDATED: 2026-09-08
+# UPDATED: 2026-09-09
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 107
-# TOTAL: 109
+# DOMAIN-SUFFIX: 108
+# TOTAL: 110
 DOMAIN,bbs.boingboing.net
 DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,18p2p.com
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,nodeget.com
 DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,nodequality.com
 DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,nodeseek.org
 DOMAIN-SUFFIX,parkvv.com
 DOMAIN-SUFFIX,parler.com
 DOMAIN-SUFFIX,pimg.tw
