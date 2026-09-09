@@ -8837,6 +8837,7 @@
         "yuanbei.biz",
         "yuanfudao.com",
         "yuanqi.tencent.com",
+        "yuanqidesk.com",
         "yuanshen.com",
         "yuansouti.com",
         "yuantiku.com",
@@ -8981,6 +8982,7 @@
         "zhcw.com",
         "zhenai.com",
         "zhfund.com",
+        "zhhainiao.com",
         "zhi10.com",
         "zhibo8.cc",
         "zhibo8.com",
@@ -9152,14 +9154,14 @@
         "zdnscloud"
       ],
       "domain_regex": [
-        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
+        "^nis.+\\.10010\\.com$",
         "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
-        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
         ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
-        "^.+-mihayo\\.akamaized\\.net$",
-        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
         ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
-        "^nis.+\\.10010\\.com$"
+        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+        "^.+-mihayo\\.akamaized\\.net$"
       ]
     }
   ]
