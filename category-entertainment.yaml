@@ -1,10 +1,10 @@
 # NAME: category-entertainment
-# UPDATED: 2026-09-14
-# DOMAIN: 202
+# UPDATED: 2026-09-15
+# DOMAIN: 203
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 1402
 # DOMAIN-REGEX: 10
-# TOTAL: 1623
+# TOTAL: 1624
 domain_set:
   - a.ppy.sh
   - a4e8s8k3.map2.ssl.hwcdn.net
@@ -143,6 +143,7 @@ domain_set:
   - opgg-static.akamaized.net
   - origin-a.akamaihd.net
   - osu.ppy.sh
+  - p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
   - p16-tiktokcdn-com.akamaized.net
   - play.music.apple.com
   - prd-priconne-redive.akamaized.net

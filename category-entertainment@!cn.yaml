@@ -1,9 +1,10 @@
 # NAME: category-entertainment@!cn
-# UPDATED: 2026-09-14
-# DOMAIN: 5
+# UPDATED: 2026-09-15
+# DOMAIN: 6
 # DOMAIN-SUFFIX: 31
-# TOTAL: 36
+# TOTAL: 37
 domain_set:
+  - p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
   - p16-tiktokcdn-com.akamaized.net
   - roovza-launches.appsflyersdk.com
   - roovza.inapps.appsflyersdk.com
