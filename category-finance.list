@@ -1,9 +1,9 @@
 # NAME: category-finance
-# UPDATED: 2026-09-14
+# UPDATED: 2026-09-15
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 581
-# TOTAL: 591
+# DOMAIN-SUFFIX: 584
+# TOTAL: 594
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,metrics.21-school.ru
 DOMAIN,sberpro.vedomosti.ru
@@ -490,6 +490,9 @@ DOMAIN-SUFFIX,ssb.msk.ru
 DOMAIN-SUFFIX,standardchartered.com
 DOMAIN-SUFFIX,stripe-terminal-local-reader.net
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.dev
+DOMAIN-SUFFIX,stripe.events
+DOMAIN-SUFFIX,stripe.global
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,surugabank.co.jp
