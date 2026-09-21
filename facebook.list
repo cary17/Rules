@@ -1,9 +1,9 @@
 # NAME: facebook
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 222
-# TOTAL: 224
+# DOMAIN-SUFFIX: 223
+# TOTAL: 225
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,acebooik.com
 DOMAIN-SUFFIX,acebook.com
@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,sportstream.com
 DOMAIN-SUFFIX,terragraph.com
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,thefind.com
 DOMAIN-SUFFIX,toplayerserver.com
 DOMAIN-SUFFIX,workplace.com

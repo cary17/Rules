@@ -1,8 +1,8 @@
 # NAME: category-browser-!cn
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 33
-# TOTAL: 35
+# DOMAIN-SUFFIX: 34
+# TOTAL: 36
 DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN,mozilla.map.fastly.net
 DOMAIN-SUFFIX,.chrome
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,decentr.net
 DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,extendfirefox.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com

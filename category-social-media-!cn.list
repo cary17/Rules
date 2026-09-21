@@ -1,9 +1,9 @@
 # NAME: category-social-media-!cn
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 13
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 421
-# TOTAL: 436
+# DOMAIN-SUFFIX: 422
+# TOTAL: 437
 DOMAIN,adblogger.vk.com
 DOMAIN,adblogger.vk.ru
 DOMAIN,ads.vk.com
@@ -370,6 +370,7 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,terragraph.com
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,thefind.com
 DOMAIN-SUFFIX,theinstagramhack.com
 DOMAIN-SUFFIX,threads.com

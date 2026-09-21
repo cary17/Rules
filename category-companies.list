@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 42
-# DOMAIN-SUFFIX: 5331
-# TOTAL: 5540
+# DOMAIN-SUFFIX: 5334
+# TOTAL: 5543
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -2434,9 +2434,11 @@ DOMAIN-SUFFIX,findmybeats.com
 DOMAIN-SUFFIX,findmyipad.com
 DOMAIN-SUFFIX,fiotolia.com
 DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.dev
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com
@@ -4870,6 +4872,7 @@ DOMAIN-SUFFIX,terraform.io
 DOMAIN-SUFFIX,terragraph.com
 DOMAIN-SUFFIX,tetrika-school.ru
 DOMAIN-SUFFIX,texture.com
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,tfsallin.net
 DOMAIN-SUFFIX,th.bing.com

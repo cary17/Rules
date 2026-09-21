@@ -1,11 +1,12 @@
 # NAME: firefox
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 5
-# TOTAL: 7
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
 DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN,mozilla.map.fastly.net
 DOMAIN-SUFFIX,extendfirefox.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com
