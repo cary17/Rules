@@ -1,9 +1,9 @@
 # NAME: alphabet
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 51
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 340
-# TOTAL: 394
+# DOMAIN-SUFFIX: 341
+# TOTAL: 395
 DOMAIN,apps5.oingo.com
 DOMAIN,beacons.gcp.gvt2.com
 DOMAIN,beacons.gvt2.com
@@ -177,6 +177,7 @@ DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,fflick.com
 DOMAIN-SUFFIX,financeleadsonline.com
 DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.dev
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
