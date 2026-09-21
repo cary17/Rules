@@ -1,8 +1,9 @@
 # NAME: zuoyebang
-# UPDATED: 2026-09-20
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-09-21
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 domain_suffix_set:
+  - kuaiduizuoye.com
   - syh.zybang.com
   - zuoyebang.cc
   - zuoyebang.com

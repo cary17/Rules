@@ -1,9 +1,9 @@
 # NAME: meta
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 374
-# TOTAL: 376
+# DOMAIN-SUFFIX: 375
+# TOTAL: 377
 domain_set:
   - fbcdn-a.akamaihd.net
 domain_suffix_set:
@@ -356,6 +356,7 @@ domain_suffix_set:
   - rocksdb.org
   - sportstream.com
   - terragraph.com
+  - tfbnw.net
   - thefind.com
   - theinstagramhack.com
   - threads.com

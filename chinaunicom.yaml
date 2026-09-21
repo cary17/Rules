@@ -1,7 +1,7 @@
 # NAME: chinaunicom
-# UPDATED: 2026-09-20
-# DOMAIN-SUFFIX: 23
-# TOTAL: 23
+# UPDATED: 2026-09-21
+# DOMAIN-SUFFIX: 25
+# TOTAL: 25
 domain_suffix_set:
   - .unicom
   - .xn--8y0a063a
@@ -19,7 +19,9 @@ domain_suffix_set:
   - cuniq.com
   - cuniq.sg
   - mychinaunicom.com
+  - smartont.net
   - unicompayment.com
+  - wo-adv.cn
   - wo.cn
   - wo.com.cn
   - wo116114.com

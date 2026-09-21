@@ -1,8 +1,8 @@
 # NAME: connectivity-check
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 17
-# DOMAIN-SUFFIX: 10
-# TOTAL: 27
+# DOMAIN-SUFFIX: 11
+# TOTAL: 28
 domain_set:
   - conn1.oppomobile.com
   - conn2.oppomobile.com
@@ -25,6 +25,7 @@ domain_suffix_set:
   - captive.apple.com
   - cp.cloudflare.com
   - detectportal.firefox.com
+  - firefox-portal-detection.com
   - ipv6check-http.steamserver.net
   - ipv6check-udp.steamserver.net
   - kuketz.de

@@ -1,15 +1,16 @@
 # NAME: category-ip-geo-detect
-# UPDATED: 2026-09-20
-# DOMAIN: 6
+# UPDATED: 2026-09-21
+# DOMAIN: 7
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 206
-# TOTAL: 214
+# DOMAIN-SUFFIX: 209
+# TOTAL: 218
 domain_set:
   - ip-check-perf.radar.cloudflare.com
   - ip.comss.net
   - ipv4-check-perf.radar.cloudflare.com
   - ipv6-check-perf.radar.cloudflare.com
   - myip.dnsomatic.com
+  - myip.happ.su
   - whatismyip.akamai.com
 domain_suffix_set:
   - 2ip.io
@@ -31,6 +32,7 @@ domain_suffix_set:
   - curlmyip.net
   - dadata.ru
   - db-ip.com
+  - dnscheck.tools
   - dnsleaktest.com
   - extreme-ip-lookup.com
   - find-my-ip.com
@@ -114,6 +116,8 @@ domain_suffix_set:
   - iplocation.com
   - iplocation.io
   - iplocation.net
+  - iplogger.com
+  - iplogger.org
   - iplookup.it
   - ipme.co
   - ipme.in

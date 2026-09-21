@@ -1,7 +1,7 @@
 # NAME: category-scholar-cn
-# UPDATED: 2026-09-20
-# DOMAIN-SUFFIX: 90
-# TOTAL: 90
+# UPDATED: 2026-09-21
+# DOMAIN-SUFFIX: 94
+# TOTAL: 94
 domain_suffix_set:
   - 16q.cn
   - 51ccd.com
@@ -12,11 +12,14 @@ domain_suffix_set:
   - apabi.com
   - bjinfobank.com
   - blyun.com
+  - cae.cn
+  - cas.cn
   - ccf.org.cn
   - chaoxing.cc
   - chaoxing.com
   - chaoxingv.com
   - chinabooktrading.com
+  - chinaxiv.org
   - chndoi.org
   - cidp.com.cn
   - cnbksy.com
@@ -93,3 +96,4 @@ domain_suffix_set:
   - zaifan.com
   - zaifan.com.cn
   - zhihang100.com
+  - zsyyb.cn

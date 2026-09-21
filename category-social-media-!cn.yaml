@@ -1,9 +1,9 @@
 # NAME: category-social-media-!cn
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 13
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 421
-# TOTAL: 436
+# DOMAIN-SUFFIX: 422
+# TOTAL: 437
 domain_set:
   - adblogger.vk.com
   - adblogger.vk.ru
@@ -372,6 +372,7 @@ domain_suffix_set:
   - target.vk.ru
   - tellapart.com
   - terragraph.com
+  - tfbnw.net
   - thefind.com
   - theinstagramhack.com
   - threads.com

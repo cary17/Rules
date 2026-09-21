@@ -1,8 +1,8 @@
 # NAME: category-media-cn
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 407
-# TOTAL: 408
+# DOMAIN-SUFFIX: 438
+# TOTAL: 439
 domain_set:
   - ctdsb.clouddiffuse.xyz
 domain_suffix_set:
@@ -35,11 +35,13 @@ domain_suffix_set:
   - adx.36kr.com
   - ahcaijing.com
   - ahcjw.com
+  - ahnews.com.cn
   - ahwang.cn
   - aiganggu.com
   - anhuinews.com
   - anhuiyun.com
   - anzhuo.cn
+  - askci.com
   - assp.sohu.com
   - bandao.cn
   - banyuetan.org
@@ -56,6 +58,7 @@ domain_suffix_set:
   - cankaoxiaoxi.com
   - cbinews.com
   - ccidcom.com
+  - ccn.com.cn
   - ccreports.com.cn
   - cctv.cn
   - cctv.com
@@ -69,11 +72,18 @@ domain_suffix_set:
   - cctvpro.com.cn
   - ce.cn
   - cfgw.net.cn
+  - cfi.cn
+  - cfi.net.cn
+  - cfsn.cn
   - chaindd.com
   - changyou.com
   - cheaa.com
   - checkzeit.com
   - chenshipin.com
+  - china.cn
+  - china.com
+  - china.com.cn
+  - china.org.cn
   - chinaaet.com
   - chinabyte.com
   - chinadevelopment.com.cn
@@ -85,14 +95,17 @@ domain_suffix_set:
   - chinapp.com
   - chinaqw.com
   - chinastarmarket.cn
+  - chnfund.com
   - chuanbaoguancha.cn
   - cih-index.com
   - citv.net.cn
   - ckxx.net
   - cls.cn
+  - cneo.com.cn
   - cnfol.com
   - cnfolimg.com
   - cnhubei.com
+  - cnmo.com
   - cnms.net.cn
   - cnr.cn
   - cns.com.cn
@@ -126,9 +139,11 @@ domain_suffix_set:
   - daheapp.com
   - dahebao.cn
   - danjuanfunds.com
+  - datasheet5.com
   - dayoo.com
   - dgtle.com
   - dianzhenkeji.com
+  - dili360.com
   - dingxinwen.cn
   - donews.com
   - dutenews.com
@@ -138,6 +153,8 @@ domain_suffix_set:
   - eastday.com
   - ebrun.com
   - ecns.cn
+  - eefcdn.com
+  - eefocus.com
   - eeo.com.cn
   - egsea.com
   - evolife.cn
@@ -178,12 +195,14 @@ domain_suffix_set:
   - hexun.com
   - hndt.com
   - hnol.net
+  - hnr.cn
   - hntv.tv
   - hsw.cn
   - huanqiu.com
   - huanqiucdn.cn
   - huashangtop.com
   - hubeidaily.net
+  - hunantoday.cn
   - huxiu.com
   - huxiucdn.com
   - hxnews.com
@@ -203,6 +222,7 @@ domain_suffix_set:
   - iheima.com
   - ikanchai.com
   - imedao.com
+  - imgcdc.com
   - imp.go.sohu.com
   - inewsweek.cn
   - infoq.cn
@@ -224,8 +244,10 @@ domain_suffix_set:
   - jiemian.com.cn
   - jin10.com
   - jinantimes.com.cn
+  - jingjiribao.cn
   - jingpt.com
   - jiqizhixin.com
+  - jjrbs.cn
   - jrj.com.cn
   - jrjimg.cn
   - jsbc.com
@@ -239,6 +261,7 @@ domain_suffix_set:
   - kanshangjie.com
   - kf.cn
   - kjrb.com.cn
+  - kkj.cn
   - kksmg.com
   - knewsmart.com
   - kuaizhan.com
@@ -253,6 +276,7 @@ domain_suffix_set:
   - leikeji.com
   - leiphone.com
   - liangtv.cn
+  - lifeweek.com.cn
   - livechina.cn
   - livechina.com
   - m.aty.sohu.com
@@ -284,6 +308,7 @@ domain_suffix_set:
   - pconline.com.cn
   - pcpop.com
   - pdnews.cn
+  - pedaily.cn
   - people.cn
   - people.com.cn
   - peopleapp.com
@@ -303,16 +328,19 @@ domain_suffix_set:
   - qpb1.sohu.com
   - qstheory.cn
   - qzwb.com
+  - radio.cn
   - rednet.cn
   - reke.at.sohu.com
   - ruanmei.com
   - saayaa.com
   - scdaily.cn
   - scgchc.com
+  - sciencenet.cn
   - scol.com.cn
   - scsjb.cn
   - sctv-tf.com
   - sctv.com
+  - sdxjpc.com
   - secrss.com
   - sfccn.com
   - shangyexinzhi.com
@@ -355,6 +383,7 @@ domain_suffix_set:
   - tmtpost.com
   - tmtsmartlife.com
   - tmtsmartrun.com
+  - toodaylab.com
   - topnews.cn
   - track.sohu.com
   - tvcc.cn
@@ -388,6 +417,7 @@ domain_suffix_set:
   - xuexi.cn
   - xxcb.cn
   - yangshipin.cn
+  - yangtse.com
   - ycwb.com
   - yesky.com
   - yeyou.com
@@ -396,6 +426,7 @@ domain_suffix_set:
   - ynet.cn
   - ynet.com
   - ynet.com.cn
+  - youth.cn
   - yundzh.com
   - yunnan.cn
   - yzwb.net

@@ -1,10 +1,10 @@
 # NAME: category-dev
-# UPDATED: 2026-09-20
-# DOMAIN: 84
+# UPDATED: 2026-09-21
+# DOMAIN: 85
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 559
+# DOMAIN-SUFFIX: 563
 # DOMAIN-REGEX: 1
-# TOTAL: 645
+# TOTAL: 650
 domain_set:
   - amp.akamaized.net
   - android.googlesource.com
@@ -36,9 +36,10 @@ domain_set:
   - download.visualstudio.microsoft.com
   - dtlgalleryint.cloudapp.net
   - firebase-settings.crashlytics.com
-  - firebase.google.com
   - firebase.googleapis.com
   - firebaseappcheck.googleapis.com
+  - firebaseappdistribution.googleapis.com
+  - firebaseapptesters.googleapis.com
   - firebasedynamiclinks-ipv4.googleapis.com
   - firebasedynamiclinks-ipv6.googleapis.com
   - firebasedynamiclinks.googleapis.com
@@ -154,6 +155,7 @@ domain_suffix_set:
   - cnpmjs.org
   - codeberg.org
   - codeberg.page
+  - codebuff.com
   - codeforaliving.io
   - codethemicrobit.com
   - collector.github.com
@@ -228,6 +230,8 @@ domain_suffix_set:
   - fightforux.com
   - filezilla-project.org
   - firebase.com
+  - firebase.dev
+  - firebase.google.com
   - firebase.io
   - firebaseapp.com
   - firebaseio.com
@@ -248,6 +252,7 @@ domain_suffix_set:
   - framerstatic.com
   - framerusercontent.com
   - freebsd.org
+  - freebuff.com
   - frescolib.org
   - fury.blog
   - fury.co

@@ -1,10 +1,10 @@
 # NAME: category-companies
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 42
-# DOMAIN-SUFFIX: 5331
+# DOMAIN-SUFFIX: 5334
 # DOMAIN-REGEX: 6
-# TOTAL: 5546
+# TOTAL: 5549
 domain_set:
   - 1l-hit.mail.ru
   - 1l-hit.vkplay.ru
@@ -2437,9 +2437,11 @@ domain_suffix_set:
   - findmyipad.com
   - fiotolia.com
   - firebase.com
+  - firebase.dev
   - firebase.io
   - firebaseapp.com
   - firebaseio.com
+  - firefox-portal-detection.com
   - firefox.com
   - firefox.hu
   - firefoxtweetmachine.com
@@ -4873,6 +4875,7 @@ domain_suffix_set:
   - terragraph.com
   - tetrika-school.ru
   - texture.com
+  - tfbnw.net
   - tfhub.dev
   - tfsallin.net
   - th.bing.com

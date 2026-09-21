@@ -1,9 +1,9 @@
 # NAME: mozilla
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 38
-# TOTAL: 40
+# DOMAIN-SUFFIX: 39
+# TOTAL: 41
 domain_set:
   - incoming-telemetry.thunderbird.net
 domain_suffix_set:
@@ -15,6 +15,7 @@ domain_suffix_set:
   - ecmascript.org
   - extendfirefox.com
   - extensionworkshop.com
+  - firefox-portal-detection.com
   - firefox.com
   - firefox.hu
   - firefoxtweetmachine.com

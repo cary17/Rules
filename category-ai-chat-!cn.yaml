@@ -1,9 +1,9 @@
 # NAME: category-ai-chat-!cn
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 28
-# DOMAIN-SUFFIX: 151
+# DOMAIN-SUFFIX: 153
 # DOMAIN-REGEX: 1
-# TOTAL: 180
+# TOTAL: 182
 domain_set:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
@@ -100,6 +100,7 @@ domain_suffix_set:
   - envato.com
   - envatousercontent.com
   - flow.google
+  - flow.google.com
   - gateway.ai.cloudflare.com
   - geller-pa.googleapis.com
   - gemini.google
@@ -142,6 +143,7 @@ domain_suffix_set:
   - mistral.ai
   - moonshot.ai
   - mozilla.ai
+  - notebook.google
   - notebook.google.com
   - notebooklm.google
   - notebooklm.google.com

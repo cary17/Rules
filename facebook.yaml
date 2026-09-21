@@ -1,9 +1,9 @@
 # NAME: facebook
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 222
-# TOTAL: 224
+# DOMAIN-SUFFIX: 223
+# TOTAL: 225
 domain_set:
   - fbcdn-a.akamaihd.net
 domain_suffix_set:
@@ -221,6 +221,7 @@ domain_suffix_set:
   - redkix.com
   - sportstream.com
   - terragraph.com
+  - tfbnw.net
   - thefind.com
   - toplayerserver.com
   - workplace.com

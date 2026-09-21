@@ -1,8 +1,8 @@
 # NAME: category-education-cn
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 185
-# TOTAL: 186
+# DOMAIN-SUFFIX: 193
+# TOTAL: 194
 domain_set:
   - study.163.com
 domain_suffix_set:
@@ -67,6 +67,7 @@ domain_suffix_set:
   - fenbilantian.cn
   - fenbilantian.com
   - gaojidata.com
+  - gaokao.cn
   - gaokao.com
   - gatzs.com.cn
   - gfbzb.cn
@@ -83,6 +84,7 @@ domain_suffix_set:
   - hjfile.cn
   - huatu.com
   - hugecore.net
+  - huijiaoyun.com
   - hujiang.com
   - icourse163.org
   - icourses.cn
@@ -109,6 +111,7 @@ domain_suffix_set:
   - maimemo.com
   - maimemostatus.com
   - markji.com
+  - mddclass.com
   - modex.com.cn
   - mojidict.com
   - mooc.cn
@@ -140,9 +143,11 @@ domain_suffix_set:
   - schoopia.com
   - shanbay.com
   - shareintelli.com
+  - sksight.com
   - smartedu.cn
   - speiyou.com
   - sydw8.com
+  - syh.zybang.com
   - tal.com
   - tesoon.com
   - tongxuepie.com
@@ -189,5 +194,8 @@ domain_suffix_set:
   - zuowenjun.com
   - zuowenku.net
   - zuowenwang.net
+  - zuoyebang.cc
+  - zuoyebang.com
   - zxxk.com
+  - zybang.com
   - zysn.net

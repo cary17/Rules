@@ -1,7 +1,7 @@
 # NAME: category-social-media-cn
-# UPDATED: 2026-09-20
-# DOMAIN-SUFFIX: 98
-# TOTAL: 98
+# UPDATED: 2026-09-21
+# DOMAIN-SUFFIX: 114
+# TOTAL: 114
 domain_suffix_set:
   - .sina
   - .weibo
@@ -15,6 +15,7 @@ domain_suffix_set:
   - ads.sina.com
   - alitui.weibo.com
   - askdiandian.com
+  - baihe.com
   - beacon.sina.com.cn
   - biz.weibo.com
   - click.uve.mobile.sina.cn
@@ -29,14 +30,18 @@ domain_suffix_set:
   - douban.com
   - douban.fm
   - doubanio.com
+  - duoduo.link
   - fanfou.com
   - gracg.com
+  - hammi.cn
   - hoopchina.com.cn
   - hupu.com
   - hupucdn.com
+  - immomo.com
   - ivwen.com
   - ixiaochuan.cn
   - izuiyou.com
+  - jiayuan.com
   - jike.city
   - jikecdn.com
   - krcom.cn
@@ -48,12 +53,16 @@ domain_suffix_set:
   - meipian.cn
   - meipian.me
   - mixer.sina.cn
+  - momocdn.com
   - okjike.com
   - okjk.co
   - p4p.sina.com.cn
   - picself.cn
   - procg.cn
+  - qianliaowang.com
+  - qlchat.com
   - redelight.cn
+  - rnote.com
   - rs.sinajs.cn
   - ruguoapp.com
   - sa.sina.cn
@@ -72,10 +81,14 @@ domain_suffix_set:
   - sinajs.com
   - slog.sina.cn
   - slog.sina.com.cn
+  - soulapp.cn
   - t.cn
+  - tancdn.com
+  - tantanapp.com
   - taou.com
   - tieba.baidu.com
   - tieba.com
+  - uboxs.com
   - uneed.com
   - uneedx.com
   - videoself.cn
@@ -97,7 +110,10 @@ domain_suffix_set:
   - xhsrcdn.com
   - xiaochuankeji.cn
   - xiaohongshu.com
+  - zastatic.com
+  - zhenai.com
   - zhihu-web-analytics.zhihu.com
   - zhihu.com
   - zhimg.com
   - zsxq.com
+  - zuiyou.tv

@@ -1,9 +1,9 @@
 # NAME: category-entertainment-cn
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 23
-# DOMAIN-SUFFIX: 898
+# DOMAIN-SUFFIX: 904
 # DOMAIN-REGEX: 1
-# TOTAL: 922
+# TOTAL: 928
 domain_set:
   - ads3-normal-hl.zijieapi.com
   - ads3-normal.zijieapi.com
@@ -391,6 +391,7 @@ domain_suffix_set:
   - gameabc.com
   - gamebonfire.com
   - gamediary.cn
+  - gamedog.cn
   - gameitop.com
   - gamelook.com.cn
   - gameloop.com
@@ -504,6 +505,7 @@ domain_suffix_set:
   - iqiyi.com
   - iqiyipic.com
   - ishuqi.com
+  - ituchong.com
   - ja.gamersky.com
   - ja1.gamersky.com
   - ja2.gamersky.com
@@ -808,6 +810,7 @@ domain_suffix_set:
   - tingmall.com
   - tmead.y.qq.com
   - tmeadcomm.y.qq.com
+  - tuchong.com
   - tudou.com
   - tuer123.com
   - tuyoo.com
@@ -880,6 +883,7 @@ domain_suffix_set:
   - xyzcdn.net
   - xyzfm.link
   - xyzfm.space
+  - xzw.com
   - y.qq.com
   - yamibo.com
   - ycgame.com
@@ -899,7 +903,9 @@ domain_suffix_set:
   - youba.com
   - youku.com
   - youkuhonor.com
+  - youxibao.com
   - youxichaguan.com
+  - youxiniao.com
   - youxiputao.com
   - youxituoluo.com
   - yuanshen.com

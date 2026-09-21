@@ -1,10 +1,10 @@
 # NAME: google
-# UPDATED: 2026-09-20
+# UPDATED: 2026-09-21
 # DOMAIN: 51
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 330
+# DOMAIN-SUFFIX: 331
 # DOMAIN-REGEX: 2
-# TOTAL: 386
+# TOTAL: 387
 domain_set:
   - apps5.oingo.com
   - beacons.gcp.gvt2.com
@@ -177,6 +177,7 @@ domain_suffix_set:
   - fflick.com
   - financeleadsonline.com
   - firebase.com
+  - firebase.dev
   - firebase.io
   - firebaseapp.com
   - firebaseio.com

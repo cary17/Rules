@@ -1,7 +1,7 @@
 # NAME: jd
-# UPDATED: 2026-09-20
-# DOMAIN-SUFFIX: 243
-# TOTAL: 243
+# UPDATED: 2026-09-21
+# DOMAIN-SUFFIX: 255
+# TOTAL: 255
 domain_suffix_set:
   - 1huizhan.com
   - 3.cn
@@ -12,6 +12,8 @@ domain_suffix_set:
   - 360buyimg.com
   - 360buyinternational.com
   - 360top.com
+  - 51epei.com
+  - 51yipei.com
   - 7fresh.com
   - ads-union.jd.com
   - ads.union.jd.com
@@ -99,6 +101,7 @@ domain_suffix_set:
   - cloudzhuhai.com
   - cps.360buy.com
   - dao123.com
+  - dd-advisor.com
   - duiou.com.cn
   - duolabao.com
   - gia.jd.com
@@ -153,6 +156,7 @@ domain_suffix_set:
   - jd.id
   - jd.ru
   - jd.shop
+  - jdallianz.com
   - jdbusiness.com
   - jdcache.com
   - jdcdn.com
@@ -198,6 +202,7 @@ domain_suffix_set:
   - jdgslb.com
   - jdgslb.net
   - jdh.com
+  - jdindustry.com
   - jdjinrong.com
   - jdl.cn
   - jdl.com
@@ -208,12 +213,15 @@ domain_suffix_set:
   - jdwl.com
   - jdx.com
   - jhscm.com
+  - jingbantong.com
   - jingdong.com
   - jingdonghealth.cn
   - jingdongjinrong.com
   - jingpinhui.com
   - jingxi.com
+  - jingxiaoling.com
   - jkcsjd.com
+  - joyai.com
   - joybuy.com
   - joybuy.es
   - jzt.jd.com
@@ -241,8 +249,12 @@ domain_suffix_set:
   - wuliujie.com
   - xianjiqun.com
   - xjoycity.com
+  - ybscjp.com
   - yhd.com
   - yihaodian.com
   - yihaodianimg.com
   - yiyaojd.com
   - yizhitou.com
+  - yunpei.com
+  - yunxiu.com
+  - zhongyouex.com
