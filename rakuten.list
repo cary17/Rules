@@ -1,8 +1,7 @@
 # NAME: rakuten
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 20
-# TOTAL: 21
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 30
+# TOTAL: 30
 DOMAIN-SUFFIX,bfads.net
 DOMAIN-SUFFIX,buyservices.com
 DOMAIN-SUFFIX,ebates.ca
@@ -14,6 +13,16 @@ DOMAIN-SUFFIX,fatwallet.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,r10s.com
 DOMAIN-SUFFIX,r10s.jp
+DOMAIN-SUFFIX,rakuten-static.com
+DOMAIN-SUFFIX,rakuten.ca
+DOMAIN-SUFFIX,rakuten.co.jp
+DOMAIN-SUFFIX,rakuten.com
+DOMAIN-SUFFIX,rakuten.com.tw
+DOMAIN-SUFFIX,rakuten.ne.jp
+DOMAIN-SUFFIX,rakuten.tv
+DOMAIN-SUFFIX,rakuten.tw
+DOMAIN-SUFFIX,rakutenadvertising.com
+DOMAIN-SUFFIX,rakutengiftcards.ca
 DOMAIN-SUFFIX,rclon.com
 DOMAIN-SUFFIX,rebates.jp
 DOMAIN-SUFFIX,rrcbsn.com
@@ -23,4 +32,3 @@ DOMAIN-SUFFIX,viber.co
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,viber.me
 DOMAIN-SUFFIX,viki.com
-DOMAIN-KEYWORD,rakuten

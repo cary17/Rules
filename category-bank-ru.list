@@ -1,9 +1,8 @@
 # NAME: category-bank-ru
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 6
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 294
-# TOTAL: 301
+# DOMAIN-SUFFIX: 305
+# TOTAL: 311
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,metrics.21-school.ru
 DOMAIN,sberpro.vedomosti.ru
@@ -116,6 +115,17 @@ DOMAIN-SUFFIX,jfn.su
 DOMAIN-SUFFIX,jira-tcsbank.ru
 DOMAIN-SUFFIX,jivo.chat
 DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.co.in
+DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,jivochat.com
+DOMAIN-SUFFIX,jivochat.com.br
+DOMAIN-SUFFIX,jivochat.com.co
+DOMAIN-SUFFIX,jivochat.com.pe
+DOMAIN-SUFFIX,jivochat.com.tr
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivochat.ru
 DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,jpmorgan.ru
@@ -304,4 +314,3 @@ DOMAIN-SUFFIX,zenit.ru
 DOMAIN-SUFFIX,ziraatbank.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
-DOMAIN-KEYWORD,jivochat

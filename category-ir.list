@@ -1,8 +1,7 @@
 # NAME: category-ir
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 176
-# TOTAL: 177
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 190
+# TOTAL: 190
 DOMAIN-SUFFIX,.ir
 DOMAIN-SUFFIX,.xn--mgba3a4f16a
 DOMAIN-SUFFIX,7sobh.com
@@ -41,6 +40,7 @@ DOMAIN-SUFFIX,bmibourse.com
 DOMAIN-SUFFIX,bourseiness.com
 DOMAIN-SUFFIX,bt-broker.com
 DOMAIN-SUFFIX,cafebazaar.org
+DOMAIN-SUFFIX,cdnsnapptrip.com
 DOMAIN-SUFFIX,cinematicket.org
 DOMAIN-SUFFIX,dana-insurance.com
 DOMAIN-SUFFIX,danabroker.com
@@ -150,6 +150,19 @@ DOMAIN-SUFFIX,signalpardazgroup.com
 DOMAIN-SUFFIX,sinainsurance.com
 DOMAIN-SUFFIX,skyroom.online
 DOMAIN-SUFFIX,smshooshmand.com
+DOMAIN-SUFFIX,snapp-box.com
+DOMAIN-SUFFIX,snapp.cab
+DOMAIN-SUFFIX,snapp.doctor
+DOMAIN-SUFFIX,snapp.express
+DOMAIN-SUFFIX,snapp.ninja
+DOMAIN-SUFFIX,snapp.site
+DOMAIN-SUFFIX,snapp.supply
+DOMAIN-SUFFIX,snapp.taxi
+DOMAIN-SUFFIX,snapp.tech
+DOMAIN-SUFFIX,snappcloud.io
+DOMAIN-SUFFIX,snappfood.dev
+DOMAIN-SUFFIX,snapproom.com
+DOMAIN-SUFFIX,snapptrip.com
 DOMAIN-SUFFIX,sobhanehonline.com
 DOMAIN-SUFFIX,softgozar.com
 DOMAIN-SUFFIX,srttu.edu
@@ -179,4 +192,3 @@ DOMAIN-SUFFIX,yasdl.com
 DOMAIN-SUFFIX,yektanet.com
 DOMAIN-SUFFIX,zarinpal.com
 DOMAIN-SUFFIX,zhaket.com
-DOMAIN-KEYWORD,snapp

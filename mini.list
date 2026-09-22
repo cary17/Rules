@@ -1,8 +1,7 @@
 # NAME: mini
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 192
-# TOTAL: 193
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 214
+# TOTAL: 214
 DOMAIN-SUFFIX,.mini
 DOMAIN-SUFFIX,4myminicard.com
 DOMAIN-SUFFIX,aboutyourmini.com
@@ -14,6 +13,28 @@ DOMAIN-SUFFIX,mini-antilles.fr
 DOMAIN-SUFFIX,mini-bahrain.com
 DOMAIN-SUFFIX,mini-bosnia.com
 DOMAIN-SUFFIX,mini-clubs-international.com
+DOMAIN-SUFFIX,mini-connected.at
+DOMAIN-SUFFIX,mini-connected.be
+DOMAIN-SUFFIX,mini-connected.ch
+DOMAIN-SUFFIX,mini-connected.co.uk
+DOMAIN-SUFFIX,mini-connected.com
+DOMAIN-SUFFIX,mini-connected.cz
+DOMAIN-SUFFIX,mini-connected.de
+DOMAIN-SUFFIX,mini-connected.dk
+DOMAIN-SUFFIX,mini-connected.ee
+DOMAIN-SUFFIX,mini-connected.es
+DOMAIN-SUFFIX,mini-connected.fi
+DOMAIN-SUFFIX,mini-connected.fr
+DOMAIN-SUFFIX,mini-connected.ie
+DOMAIN-SUFFIX,mini-connected.it
+DOMAIN-SUFFIX,mini-connected.lt
+DOMAIN-SUFFIX,mini-connected.lu
+DOMAIN-SUFFIX,mini-connected.lv
+DOMAIN-SUFFIX,mini-connected.nl
+DOMAIN-SUFFIX,mini-connected.no
+DOMAIN-SUFFIX,mini-connected.pl
+DOMAIN-SUFFIX,mini-connected.pt
+DOMAIN-SUFFIX,mini-connected.se
 DOMAIN-SUFFIX,mini-corporate-sales.com
 DOMAIN-SUFFIX,mini-coupe.ca
 DOMAIN-SUFFIX,mini-dubai.com
@@ -195,4 +216,3 @@ DOMAIN-SUFFIX,shopminiusa.com
 DOMAIN-SUFFIX,southfloridamini.com
 DOMAIN-SUFFIX,trmini.com
 DOMAIN-SUFFIX,troisrivieresmini.com
-DOMAIN-KEYWORD,mini-connected

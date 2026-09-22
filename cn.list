@@ -1,9 +1,8 @@
 # NAME: cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 591
-# DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 8656
-# TOTAL: 9249
+# DOMAIN-SUFFIX: 8702
+# TOTAL: 9293
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -4389,6 +4388,41 @@ DOMAIN-SUFFIX,htjsq.mobi
 DOMAIN-SUFFIX,htrace.wetvinfo.com
 DOMAIN-SUFFIX,htsc.com.cn
 DOMAIN-SUFFIX,htsec.com
+DOMAIN-SUFFIX,httpdns-api.aliyuncs.com
+DOMAIN-SUFFIX,httpdns-browser.platform.dbankcloud.cn
+DOMAIN-SUFFIX,httpdns-sc.aliyuncs.com
+DOMAIN-SUFFIX,httpdns-sdk.n.netease.com
+DOMAIN-SUFFIX,httpdns.alicdn.com
+DOMAIN-SUFFIX,httpdns.baidu.com
+DOMAIN-SUFFIX,httpdns.baidubce.com
+DOMAIN-SUFFIX,httpdns.bcelive.com
+DOMAIN-SUFFIX,httpdns.bilivideo.com
+DOMAIN-SUFFIX,httpdns.browser.miui.com
+DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com
+DOMAIN-SUFFIX,httpdns.cctv.com
+DOMAIN-SUFFIX,httpdns.danuoyi.tbcache.com
+DOMAIN-SUFFIX,httpdns.gslb.yy.com
+DOMAIN-SUFFIX,httpdns.huaweicloud.com
+DOMAIN-SUFFIX,httpdns.kg.qq.com
+DOMAIN-SUFFIX,httpdns.kwd.inkuai.com
+DOMAIN-SUFFIX,httpdns.meituan.com
+DOMAIN-SUFFIX,httpdns.music.163.com
+DOMAIN-SUFFIX,httpdns.n.netease.com
+DOMAIN-SUFFIX,httpdns.n.shifen.com
+DOMAIN-SUFFIX,httpdns.ocloud.heytapmobi.com
+DOMAIN-SUFFIX,httpdns.ocloud.oppomobile.com
+DOMAIN-SUFFIX,httpdns.platform.dbankcloud.cn
+DOMAIN-SUFFIX,httpdns.platform.dbankcloud.com
+DOMAIN-SUFFIX,httpdns.pro
+DOMAIN-SUFFIX,httpdns.push.heytapmobi.com
+DOMAIN-SUFFIX,httpdns.push.oppomobile.com
+DOMAIN-SUFFIX,httpdns.volcengineapi.com
+DOMAIN-SUFFIX,httpdns.yunxindns.com
+DOMAIN-SUFFIX,httpdns.zhihu.com
+DOMAIN-SUFFIX,httpdns.zybang.com
+DOMAIN-SUFFIX,httpdns1.cc.cdnhwc5.com
+DOMAIN-SUFFIX,httpdnsmultiapivip.meituan.com
+DOMAIN-SUFFIX,httpdnsvip.meituan.com
 DOMAIN-SUFFIX,httpsdns.baidu.com
 DOMAIN-SUFFIX,huaan.com.cn
 DOMAIN-SUFFIX,huaban.com
@@ -5594,6 +5628,7 @@ DOMAIN-SUFFIX,llsserver.com
 DOMAIN-SUFFIX,lnlib.net
 DOMAIN-SUFFIX,local-ip.online
 DOMAIN-SUFFIX,lofter.com
+DOMAIN-SUFFIX,lofter.httpdns.c.163.com
 DOMAIN-SUFFIX,log-global.aliyuncs.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,log.hunantv.com
@@ -6031,6 +6066,7 @@ DOMAIN-SUFFIX,multilingual-volc.com
 DOMAIN-SUFFIX,mumayi.com
 DOMAIN-SUFFIX,mumbuy365.com
 DOMAIN-SUFFIX,muomou.com
+DOMAIN-SUFFIX,music.httpdns.c.163.com
 DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,muwai.com
 DOMAIN-SUFFIX,muyewx.com
@@ -7122,6 +7158,7 @@ DOMAIN-SUFFIX,sinopecgroup.com
 DOMAIN-SUFFIX,sinopecnews.com.cn
 DOMAIN-SUFFIX,sinopecsales.com
 DOMAIN-SUFFIX,sipeed.com
+DOMAIN-SUFFIX,sjfls6.com
 DOMAIN-SUFFIX,sjwyx.com
 DOMAIN-SUFFIX,skillhub.cn
 DOMAIN-SUFFIX,skimit.net
@@ -9040,6 +9077,14 @@ DOMAIN-SUFFIX,zdmimg.com
 DOMAIN-SUFFIX,zdns.cn
 DOMAIN-SUFFIX,zdns.net.cn
 DOMAIN-SUFFIX,zdns.org.cn
+DOMAIN-SUFFIX,zdnscloud.biz
+DOMAIN-SUFFIX,zdnscloud.cn
+DOMAIN-SUFFIX,zdnscloud.com
+DOMAIN-SUFFIX,zdnscloud.com.cn
+DOMAIN-SUFFIX,zdnscloud.info
+DOMAIN-SUFFIX,zdnscloud.net
+DOMAIN-SUFFIX,zdnscloud.net.cn
+DOMAIN-SUFFIX,zdnscloud.org.cn
 DOMAIN-SUFFIX,zdsdp.com
 DOMAIN-SUFFIX,zdzq.com.cn
 DOMAIN-SUFFIX,zealer.com
@@ -9251,5 +9296,3 @@ DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,zzzcaculator.top
 DOMAIN-SUFFIX,zzzmap.com
-DOMAIN-KEYWORD,httpdns
-DOMAIN-KEYWORD,zdnscloud

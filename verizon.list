@@ -1,12 +1,19 @@
 # NAME: verizon
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 6
-# TOTAL: 7
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
 DOMAIN-SUFFIX,oath.cloud
 DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,ouroath.com
+DOMAIN-SUFFIX,static-verizon.com
 DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,verizon.com
+DOMAIN-SUFFIX,verizon.net
+DOMAIN-SUFFIX,verizonbusinessfios.com
+DOMAIN-SUFFIX,verizondigitalmedia.com
+DOMAIN-SUFFIX,verizonenterprise.com
+DOMAIN-SUFFIX,verizonfios.com
+DOMAIN-SUFFIX,verizonmedia.com
+DOMAIN-SUFFIX,verizonwireless.com
 DOMAIN-SUFFIX,vzw.com
 DOMAIN-SUFFIX,xo.com
-DOMAIN-KEYWORD,verizon

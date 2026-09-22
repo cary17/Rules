@@ -1,11 +1,47 @@
 # NAME: dell
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 171
-# TOTAL: 173
+# DOMAIN-SUFFIX: 209
+# TOTAL: 210
 DOMAIN,dell.my.site.com
 DOMAIN-SUFFIX,.dell
+DOMAIN-SUFFIX,alienware.ae
+DOMAIN-SUFFIX,alienware.at
+DOMAIN-SUFFIX,alienware.be
+DOMAIN-SUFFIX,alienware.biz
+DOMAIN-SUFFIX,alienware.ca
+DOMAIN-SUFFIX,alienware.ch
+DOMAIN-SUFFIX,alienware.co.cr
+DOMAIN-SUFFIX,alienware.co.il
+DOMAIN-SUFFIX,alienware.co.in
+DOMAIN-SUFFIX,alienware.co.nz
+DOMAIN-SUFFIX,alienware.co.uk
+DOMAIN-SUFFIX,alienware.com
+DOMAIN-SUFFIX,alienware.com.au
+DOMAIN-SUFFIX,alienware.com.es
+DOMAIN-SUFFIX,alienware.com.my
+DOMAIN-SUFFIX,alienware.com.sg
+DOMAIN-SUFFIX,alienware.cz
+DOMAIN-SUFFIX,alienware.de
+DOMAIN-SUFFIX,alienware.dk
+DOMAIN-SUFFIX,alienware.es
+DOMAIN-SUFFIX,alienware.eu
+DOMAIN-SUFFIX,alienware.fr
+DOMAIN-SUFFIX,alienware.gr
+DOMAIN-SUFFIX,alienware.hk
+DOMAIN-SUFFIX,alienware.ie
+DOMAIN-SUFFIX,alienware.it
+DOMAIN-SUFFIX,alienware.jp
+DOMAIN-SUFFIX,alienware.kr
+DOMAIN-SUFFIX,alienware.lv
+DOMAIN-SUFFIX,alienware.net
+DOMAIN-SUFFIX,alienware.nl
+DOMAIN-SUFFIX,alienware.ph
+DOMAIN-SUFFIX,alienware.pl
+DOMAIN-SUFFIX,alienware.ps
+DOMAIN-SUFFIX,alienware.ro
+DOMAIN-SUFFIX,alienware.se
+DOMAIN-SUFFIX,alienware.us
 DOMAIN-SUFFIX,dataframeworks.com
 DOMAIN-SUFFIX,del.com
 DOMAIN-SUFFIX,del.com.br
@@ -173,7 +209,7 @@ DOMAIN-SUFFIX,delltechnologiesworld.com
 DOMAIN-SUFFIX,earthdell.com
 DOMAIN-SUFFIX,emc.com
 DOMAIN-SUFFIX,platform.dell.com
+DOMAIN-SUFFIX,shopalienware.com
 DOMAIN-SUFFIX,solutionstation.com
 DOMAIN-SUFFIX,studiodell.com
 DOMAIN-SUFFIX,vce.com
-DOMAIN-KEYWORD,alienware

@@ -1,9 +1,8 @@
 # NAME: sber
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 6
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 81
-# TOTAL: 88
+# DOMAIN-SUFFIX: 92
+# TOTAL: 98
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,metrics.21-school.ru
 DOMAIN,sberpro.vedomosti.ru
@@ -42,6 +41,17 @@ DOMAIN-SUFFIX,gitverse.ru
 DOMAIN-SUFFIX,id.ru
 DOMAIN-SUFFIX,jivo.chat
 DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.co.in
+DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,jivochat.com
+DOMAIN-SUFFIX,jivochat.com.br
+DOMAIN-SUFFIX,jivochat.com.co
+DOMAIN-SUFFIX,jivochat.com.pe
+DOMAIN-SUFFIX,jivochat.com.tr
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivochat.ru
 DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,kuper.ru
@@ -91,4 +101,3 @@ DOMAIN-SUFFIX,spasibosb.ru
 DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
-DOMAIN-KEYWORD,jivochat

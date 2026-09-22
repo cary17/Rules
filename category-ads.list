@@ -1,9 +1,8 @@
 # NAME: category-ads
-# UPDATED: 2026-09-21
-# DOMAIN: 136
-# DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 670
-# TOTAL: 808
+# UPDATED: 2026-09-22
+# DOMAIN: 162
+# DOMAIN-SUFFIX: 689
+# TOTAL: 851
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad-channel.diwodiwo.xyz
@@ -52,6 +51,12 @@ DOMAIN,agency-adv.ozon.ru
 DOMAIN,alt-r.my.com
 DOMAIN,amc.yandex.ru
 DOMAIN,an.mail.ru
+DOMAIN,analytics-adv.ozon.ru
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.google.com
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,analytics.vk.ru
+DOMAIN,analytics.wildberries.ru
 DOMAIN,api-eu.carrotquest.app
 DOMAIN,api-eu.carrotquest.io
 DOMAIN,api-js.mindbox.ru
@@ -80,7 +85,9 @@ DOMAIN,clck.yango.com
 DOMAIN,click.rustore.ru
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,disney.my.sentry.io
 DOMAIN,error-tracking.megamarket.tech
+DOMAIN,google-analytics-suite.ozon.ru
 DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
@@ -93,12 +100,15 @@ DOMAIN,log5-applog.fqnovel.com
 DOMAIN,logs.ads.vungle.com
 DOMAIN,loyalnost-adv.ozon.ru
 DOMAIN,marketing-info.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
 DOMAIN,metrics.21-school.ru
 DOMAIN,metrika.kontur.ru
 DOMAIN,new-adv.ozon.ru
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o4504926511693824.ingest.sentry.io
 DOMAIN,openai.qualtrics.com
 DOMAIN,p3-ad-sign.byteimg.com
 DOMAIN,p6-ad-sign.byteimg.com
@@ -117,6 +127,20 @@ DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
+DOMAIN,sentry-ng.g.smailru.net
+DOMAIN,sentry.dev-my.com
+DOMAIN,sentry.dev-my.games
+DOMAIN,sentry.hetzner.company
+DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.kontur.host
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN,sentry.rustore.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,sentry.viqeo.tv
+DOMAIN,sentry.wb.ru
+DOMAIN,sentry.x5.ru
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,stacks.vk-portal.net
 DOMAIN,stats.avito.ru
@@ -130,6 +154,7 @@ DOMAIN,target.vk.com
 DOMAIN,top-staging.mail.ru
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
+DOMAIN,web-analytics.wildberries.ru
 DOMAIN,whiteline.mail.ru
 DOMAIN,wlog.kuaishou.com
 DOMAIN,xapi.ozon.by
@@ -300,6 +325,15 @@ DOMAIN-SUFFIX,alogus.umeng.com
 DOMAIN-SUFFIX,alt-ad.mail.ru
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,an.yandex.ru
+DOMAIN-SUFFIX,analytics-alv.google.com
+DOMAIN-SUFFIX,analytics-data.io
+DOMAIN-SUFFIX,analytics.163.com
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,analytics.tiktok.com
+DOMAIN-SUFFIX,analytics.umetrip.com
+DOMAIN-SUFFIX,analytics.vk.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
 DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,api-secure.amplitude.com
 DOMAIN-SUFFIX,api-secure.eu.amplitude.com
@@ -309,6 +343,8 @@ DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.eu.amplitude.com
 DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,app-analytics-services-att.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,apple.www.letv.com
@@ -458,6 +494,8 @@ DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,gia.jd.com
 DOMAIN-SUFFIX,gmossp-sp.jp
 DOMAIN-SUFFIX,go2.global
+DOMAIN-SUFFIX,google-analytics-cn.com
+DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadapis.com
 DOMAIN-SUFFIX,googleadapis.l.google.com
 DOMAIN-SUFFIX,googleads-cn.com
@@ -465,6 +503,7 @@ DOMAIN-SUFFIX,googleads.com
 DOMAIN-SUFFIX,googleadservices-cn.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googleoptimize-cn.com
 DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,googlesyndication-cn.com
@@ -699,6 +738,9 @@ DOMAIN-SUFFIX,sbermarketing.ru
 DOMAIN-SUFFIX,sclick.baidu.com
 DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
 DOMAIN-SUFFIX,sensors.umetrip.com.cn
+DOMAIN-SUFFIX,sentry.d.mi.com
+DOMAIN-SUFFIX,sentry.d.xiaomi.net
+DOMAIN-SUFFIX,sentry.music.163.com
 DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,shhs-ydd8x2.yjrmss.cn
@@ -777,6 +819,7 @@ DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com
+DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,wangmeng.baidu.com
 DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
@@ -804,11 +847,10 @@ DOMAIN-SUFFIX,ylog.hiido.com
 DOMAIN-SUFFIX,youdaoads.com
 DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zhugeapi.com
 DOMAIN-SUFFIX,zhugeapi.net
 DOMAIN-SUFFIX,zhugeio.com
 DOMAIN-SUFFIX,zxid-api.mobileservice.cn
 DOMAIN-SUFFIX,zxid-m.mobileservice.cn
 DOMAIN-SUFFIX,zz.bdstatic.com
-DOMAIN-KEYWORD,analytics
-DOMAIN-KEYWORD,sentry

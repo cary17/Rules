@@ -1,9 +1,8 @@
 # NAME: category-companies@ads
-# UPDATED: 2026-09-21
-# DOMAIN: 80
-# DOMAIN-KEYWORD: 1
+# UPDATED: 2026-09-22
+# DOMAIN: 89
 # DOMAIN-SUFFIX: 142
-# TOTAL: 223
+# TOTAL: 231
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad4.mail.ru
@@ -72,6 +71,15 @@ DOMAIN,r1.mail.ru
 DOMAIN,reklama.mail.ru
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN,rs.mail.ru
+DOMAIN,sentry-ng.g.smailru.net
+DOMAIN,sentry.dev-my.com
+DOMAIN,sentry.dev-my.games
+DOMAIN,sentry.hetzner.company
+DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN,sentry.rustore.ru
+DOMAIN,sentry.viqeo.tv
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,stacks.vk-portal.net
 DOMAIN,stats.dahlmessenger.com
@@ -226,4 +234,3 @@ DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yango-ads.com
 DOMAIN-SUFFIX,ysm.yahoo.com
-DOMAIN-KEYWORD,sentry

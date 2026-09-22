@@ -1,9 +1,8 @@
 # NAME: category-dev
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 85
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 563
-# TOTAL: 649
+# DOMAIN-SUFFIX: 575
+# TOTAL: 660
 DOMAIN,amp.akamaized.net
 DOMAIN,android.googlesource.com
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -144,6 +143,7 @@ DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,carekit.org
+DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org
@@ -332,6 +332,16 @@ DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,jb.gg
 DOMAIN-SUFFIX,jenkins.io
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,jetbrains.cloud
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,jetbrains.dev
+DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
+DOMAIN-SUFFIX,jetbrains.ru
+DOMAIN-SUFFIX,jetbrains.space
+DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,jfrog.com
 DOMAIN-SUFFIX,jfrog.org
 DOMAIN-SUFFIX,jquery.com
@@ -406,6 +416,7 @@ DOMAIN-SUFFIX,msinnovationchallenge.com
 DOMAIN-SUFFIX,mspairlift.com
 DOMAIN-SUFFIX,msropendata.com
 DOMAIN-SUFFIX,msys2.org
+DOMAIN-SUFFIX,myjetbrains.com
 DOMAIN-SUFFIX,mynixos.com
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,mysql.com
@@ -652,4 +663,3 @@ DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,youtrack.cloud
 DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zsh.org
-DOMAIN-KEYWORD,jetbrains

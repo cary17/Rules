@@ -1,12 +1,12 @@
 # NAME: category-games-!cn
-# UPDATED: 2026-09-21
-# DOMAIN: 68
-# DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 634
-# TOTAL: 706
+# UPDATED: 2026-09-22
+# DOMAIN: 89
+# DOMAIN-SUFFIX: 733
+# TOTAL: 822
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,assets.ppy.sh
+DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,blizzard.nefficient.co.kr
 DOMAIN,blizzcon-a.akamaihd.net
 DOMAIN,blzddist1-a.akamaihd.net
@@ -17,9 +17,12 @@ DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
 DOMAIN,c.ppy.sh
+DOMAIN,cdngarenanow-a.akamaihd.net
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,d1unuk07s6td74.cloudfront.net
 DOMAIN,datarouter.apps.netherrealm.com
+DOMAIN,dlgarenanow-a.akamaihd.net
+DOMAIN,dlmobilegarena-a.akamaihd.net
 DOMAIN,ea.tt.omtrdc.net
 DOMAIN,eaassets-a.akamaihd.net
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
@@ -39,8 +42,25 @@ DOMAIN,osu.ppy.sh
 DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,pubg1.battleye.com
+DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+DOMAIN,roblox-poc.global.ssl.fastly.net
+DOMAIN,robloxcorp.s.llnwi.net
 DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamcloudsweden.blob.core.windows.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
+DOMAIN,steammobile.akamaized.net
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamugcquincy.blob.core.windows.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,supercell.helpshift.com
 DOMAIN,supercell.zendesk.com
 DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
@@ -101,6 +121,7 @@ DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstorm.com
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,awayoutgame.com
+DOMAIN-SUFFIX,ayudanintendo.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlebreakers.com
 DOMAIN-SUFFIX,battlefield.com
@@ -225,6 +246,7 @@ DOMAIN-SUFFIX,easportsworld.com
 DOMAIN-SUFFIX,eastore.com
 DOMAIN-SUFFIX,easy.ac
 DOMAIN-SUFFIX,easyanticheat.net
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,eft-store.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,elderscrolls.com
@@ -270,6 +292,17 @@ DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
 DOMAIN-SUFFIX,gamesplanet.com
 DOMAIN-SUFFIX,gametap.com
+DOMAIN-SUFFIX,garena.co.id
+DOMAIN-SUFFIX,garena.co.th
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,garena.live
+DOMAIN-SUFFIX,garena.my
+DOMAIN-SUFFIX,garena.ph
+DOMAIN-SUFFIX,garena.sg
+DOMAIN-SUFFIX,garena.tv
+DOMAIN-SUFFIX,garena.tw
+DOMAIN-SUFFIX,garena.vn
+DOMAIN-SUFFIX,garenanow.com
 DOMAIN-SUFFIX,genshinimpact.com
 DOMAIN-SUFFIX,ghostgames.com
 DOMAIN-SUFFIX,giratina.com
@@ -428,6 +461,42 @@ DOMAIN-SUFFIX,nikke-fr.com
 DOMAIN-SUFFIX,nikke-jp.com
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,nikke-sea.com
+DOMAIN-SUFFIX,nintendo-europe-sales.com
+DOMAIN-SUFFIX,nintendo-europe.com
+DOMAIN-SUFFIX,nintendo.at
+DOMAIN-SUFFIX,nintendo.be
+DOMAIN-SUFFIX,nintendo.ch
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,nintendo.co.kr
+DOMAIN-SUFFIX,nintendo.co.uk
+DOMAIN-SUFFIX,nintendo.co.za
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.com.hk
+DOMAIN-SUFFIX,nintendo.com.pt
+DOMAIN-SUFFIX,nintendo.de
+DOMAIN-SUFFIX,nintendo.dk
+DOMAIN-SUFFIX,nintendo.es
+DOMAIN-SUFFIX,nintendo.eu
+DOMAIN-SUFFIX,nintendo.fi
+DOMAIN-SUFFIX,nintendo.fr
+DOMAIN-SUFFIX,nintendo.it
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.nl
+DOMAIN-SUFFIX,nintendo.no
+DOMAIN-SUFFIX,nintendo.pt
+DOMAIN-SUFFIX,nintendo.ru
+DOMAIN-SUFFIX,nintendo.se
+DOMAIN-SUFFIX,nintendo.tw
+DOMAIN-SUFFIX,nintendo3ds.com
+DOMAIN-SUFFIX,nintendodsi.com
+DOMAIN-SUFFIX,nintendoeurope.com
+DOMAIN-SUFFIX,nintendonetwork.net
+DOMAIN-SUFFIX,nintendonyc.com
+DOMAIN-SUFFIX,nintendostore.com
+DOMAIN-SUFFIX,nintendoswitch.com
+DOMAIN-SUFFIX,nintendoswitch.net
+DOMAIN-SUFFIX,nintendoswitchtogether.com
+DOMAIN-SUFFIX,nintendowii.com
 DOMAIN-SUFFIX,noxygames.com
 DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
@@ -450,6 +519,7 @@ DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,playnintendo.com
 DOMAIN-SUFFIX,playoverwatch.com
 DOMAIN-SUFFIX,playparagon.com
 DOMAIN-SUFFIX,playstation.com
@@ -528,6 +598,32 @@ DOMAIN-SUFFIX,riotpoints.com
 DOMAIN-SUFFIX,ro-blox.com
 DOMAIN-SUFFIX,roadblocks.com
 DOMAIN-SUFFIX,roblocks.com
+DOMAIN-SUFFIX,roblox-api.arkoselabs.com
+DOMAIN-SUFFIX,roblox.ca
+DOMAIN-SUFFIX,roblox.cc
+DOMAIN-SUFFIX,roblox.cl
+DOMAIN-SUFFIX,roblox.co.jp
+DOMAIN-SUFFIX,roblox.co.uk
+DOMAIN-SUFFIX,roblox.com
+DOMAIN-SUFFIX,roblox.de
+DOMAIN-SUFFIX,roblox.dk
+DOMAIN-SUFFIX,roblox.eu
+DOMAIN-SUFFIX,roblox.fr
+DOMAIN-SUFFIX,roblox.hu
+DOMAIN-SUFFIX,roblox.it
+DOMAIN-SUFFIX,roblox.jp
+DOMAIN-SUFFIX,roblox.kr
+DOMAIN-SUFFIX,roblox.mx
+DOMAIN-SUFFIX,roblox.net
+DOMAIN-SUFFIX,roblox.org
+DOMAIN-SUFFIX,roblox.ph
+DOMAIN-SUFFIX,roblox.pt
+DOMAIN-SUFFIX,roblox.sk
+DOMAIN-SUFFIX,roblox.tv
+DOMAIN-SUFFIX,roblox.uk
+DOMAIN-SUFFIX,roblox.us
+DOMAIN-SUFFIX,roblox.vn
+DOMAIN-SUFFIX,robloxlabs.com
 DOMAIN-SUFFIX,roborecall.com
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rockstarnorth.com
@@ -579,6 +675,29 @@ DOMAIN-SUFFIX,starwarsbattlefront2.com
 DOMAIN-SUFFIX,starwarsfallenorder.com
 DOMAIN-SUFFIX,starwarsjedifallenorder.com
 DOMAIN-SUFFIX,starwarstheoldrepublic.com
+DOMAIN-SUFFIX,steam-api.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steam.apac.qtlglb.com
+DOMAIN-SUFFIX,steam.cdn.on.net
+DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
+DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
+DOMAIN-SUFFIX,steam.cdn.webra.ru
+DOMAIN-SUFFIX,steam.eca.qtlglb.com
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+DOMAIN-SUFFIX,steam.ru.qtlglb.com
+DOMAIN-SUFFIX,steam.tv
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamconnecttest.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamdb.info
+DOMAIN-SUFFIX,steamdeck.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steaminventoryhelper.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamunlocked.net
+DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,stellasora.global
 DOMAIN-SUFFIX,stellasora.jp
 DOMAIN-SUFFIX,supercell.com
@@ -706,7 +825,3 @@ DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,zynga.com
 DOMAIN-SUFFIX,zyngaplayersupport.com
 DOMAIN-SUFFIX,zyngapoker.com
-DOMAIN-KEYWORD,garena
-DOMAIN-KEYWORD,nintendo
-DOMAIN-KEYWORD,roblox
-DOMAIN-KEYWORD,steam

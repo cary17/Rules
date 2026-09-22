@@ -1,11 +1,17 @@
 # NAME: instagram
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 35
-# TOTAL: 36
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 74
+# TOTAL: 74
+DOMAIN-SUFFIX,achat-followers-instagram.com
+DOMAIN-SUFFIX,acheter-followers-instagram.com
+DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
+DOMAIN-SUFFIX,acheterfollowersinstagram.com
 DOMAIN-SUFFIX,bookstagram.com
 DOMAIN-SUFFIX,carstagram.com
+DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,chickstagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,ig.me
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,igsonar.com
@@ -21,6 +27,32 @@ DOMAIN-SUFFIX,instagda.com
 DOMAIN-SUFFIX,instagify.com
 DOMAIN-SUFFIX,instagmania.com
 DOMAIN-SUFFIX,instagor.com
+DOMAIN-SUFFIX,instagram-brand.com
+DOMAIN-SUFFIX,instagram-engineering.com
+DOMAIN-SUFFIX,instagram-help.com
+DOMAIN-SUFFIX,instagram-press.com
+DOMAIN-SUFFIX,instagram-press.net
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instagramci.com
+DOMAIN-SUFFIX,instagramcn.com
+DOMAIN-SUFFIX,instagramdi.com
+DOMAIN-SUFFIX,instagramhashtags.net
+DOMAIN-SUFFIX,instagramhilecim.com
+DOMAIN-SUFFIX,instagramhilesi.org
+DOMAIN-SUFFIX,instagramium.com
+DOMAIN-SUFFIX,instagramizlenme.com
+DOMAIN-SUFFIX,instagramkusu.com
+DOMAIN-SUFFIX,instagramlogin.com
+DOMAIN-SUFFIX,instagramm.com
+DOMAIN-SUFFIX,instagramn.com
+DOMAIN-SUFFIX,instagrampartners.com
+DOMAIN-SUFFIX,instagramphoto.com
+DOMAIN-SUFFIX,instagramq.com
+DOMAIN-SUFFIX,instagramsepeti.com
+DOMAIN-SUFFIX,instagramtakipcisatinal.net
+DOMAIN-SUFFIX,instagramtakiphilesi.com
+DOMAIN-SUFFIX,instagramtips.com
+DOMAIN-SUFFIX,instagramtr.com
 DOMAIN-SUFFIX,instagran.com
 DOMAIN-SUFFIX,instagranm.com
 DOMAIN-SUFFIX,instagrem.com
@@ -38,4 +70,9 @@ DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intgram.com
 DOMAIN-SUFFIX,kingstagram.com
 DOMAIN-SUFFIX,lnstagram-help.com
-DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,oninstagram.com
+DOMAIN-SUFFIX,online-instagram.com
+DOMAIN-SUFFIX,onlineinstagram.com
+DOMAIN-SUFFIX,theinstagramhack.com
+DOMAIN-SUFFIX,web-instagram.net
+DOMAIN-SUFFIX,wwwinstagram.com

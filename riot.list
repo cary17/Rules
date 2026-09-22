@@ -1,9 +1,8 @@
 # NAME: riot
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 44
-# TOTAL: 46
+# DOMAIN-SUFFIX: 53
+# TOTAL: 54
 DOMAIN,lolstatic-a.akamaihd.net
 DOMAIN-SUFFIX,championshipseriesleague.com
 DOMAIN-SUFFIX,convrgencegame.com
@@ -13,6 +12,15 @@ DOMAIN-SUFFIX,historyofdota.org
 DOMAIN-SUFFIX,instituteofwar.org
 DOMAIN-SUFFIX,lcsmerch.com
 DOMAIN-SUFFIX,leaguehighschool.com
+DOMAIN-SUFFIX,leagueoflegends.ca
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,leagueoflegends.co.kr
+DOMAIN-SUFFIX,leagueoflegends.com
+DOMAIN-SUFFIX,leagueoflegends.info
+DOMAIN-SUFFIX,leagueoflegends.kr
+DOMAIN-SUFFIX,leagueoflegends.net
+DOMAIN-SUFFIX,leagueoflegends.org
+DOMAIN-SUFFIX,leagueoflegendsscripts.com
 DOMAIN-SUFFIX,leaguesharp.info
 DOMAIN-SUFFIX,leaguoflegends.com
 DOMAIN-SUFFIX,learnwithleague.com
@@ -49,4 +57,3 @@ DOMAIN-SUFFIX,ruinedking.com
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
 DOMAIN-SUFFIX,ulol.com
-DOMAIN-KEYWORD,leagueoflegends

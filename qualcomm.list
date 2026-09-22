@@ -1,8 +1,9 @@
 # NAME: qualcomm
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 28
-# TOTAL: 29
+# UPDATED: 2026-09-22
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 48
+# TOTAL: 49
+DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN-SUFFIX,airgonetworks.com
 DOMAIN-SUFFIX,berkanawireless.com
 DOMAIN-SUFFIX,brewmp.com
@@ -22,6 +23,26 @@ DOMAIN-SUFFIX,qceventscenter.com.cn
 DOMAIN-SUFFIX,qcomgeo2.com
 DOMAIN-SUFFIX,qctconnect.com
 DOMAIN-SUFFIX,qprize.com
+DOMAIN-SUFFIX,qualcomm-email.com
+DOMAIN-SUFFIX,qualcomm-inc.com
+DOMAIN-SUFFIX,qualcomm.cn
+DOMAIN-SUFFIX,qualcomm.cn.cdn.cloudflare.net
+DOMAIN-SUFFIX,qualcomm.co.id
+DOMAIN-SUFFIX,qualcomm.co.in
+DOMAIN-SUFFIX,qualcomm.co.jp
+DOMAIN-SUFFIX,qualcomm.co.kr
+DOMAIN-SUFFIX,qualcomm.co.uk
+DOMAIN-SUFFIX,qualcomm.com
+DOMAIN-SUFFIX,qualcomm.com.br
+DOMAIN-SUFFIX,qualcomm.com.tw
+DOMAIN-SUFFIX,qualcomm.de
+DOMAIN-SUFFIX,qualcomm.fr
+DOMAIN-SUFFIX,qualcommhalo.com
+DOMAIN-SUFFIX,qualcommlabs.com
+DOMAIN-SUFFIX,qualcommmea.com
+DOMAIN-SUFFIX,qualcommretail.com
+DOMAIN-SUFFIX,qualcommventures.cn
+DOMAIN-SUFFIX,qualcommventures.com
 DOMAIN-SUFFIX,qualphone.com
 DOMAIN-SUFFIX,quicinc.com
 DOMAIN-SUFFIX,snapdragon.cn
@@ -31,4 +52,3 @@ DOMAIN-SUFFIX,wipower.com
 DOMAIN-SUFFIX,wirelessreach.com
 DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,xtracloud.net
-DOMAIN-KEYWORD,qualcomm
