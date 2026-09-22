@@ -27,7 +27,7 @@ def test_domain_behavior_mapping():
     lines, skipped = module._render_trie(module._rule_values(source), "domain")
     assert "example.com" in lines
     assert "+.example.org" in lines
-    assert ".xbox" in lines
+    assert ".xbox" in lines  # leading dot means subdomains only
     assert "+.xbox" not in lines
     assert "*.wild.example" in lines
     assert skipped == {"domain_keyword": 1, "domain_regex": 1}
@@ -88,6 +88,7 @@ def test_convert_directory_outputs_list_and_yaml():
         assert (output_dir / "google.list").is_file()
         assert (output_dir / "google.yaml").is_file()
         assert (output_dir / "google.list").read_text(encoding="utf-8") == "+.google.com\n"
+        # geoip-cn.json must not be converted by the domain pass
         assert not (output_dir / "cn.list").exists()
 
 

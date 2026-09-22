@@ -48,6 +48,7 @@ printf '{"version":1,"rules":[{"domain":["old.example"]}]}\n' >"$TEST_ROOT/targe
 old_srs_sha=$(sha256sum "$TEST_ROOT/target/geoip-fail.srs" | awk '{print $1}')
 old_json_sha=$(sha256sum "$TEST_ROOT/target/geoip-fail.json" | awk '{print $1}')
 
+# The implementation must support a local fixture mode for deterministic tests.
 if ! PATH="$TEST_ROOT/bin:$PATH" RULES_TEST_SOURCE_DIR="$TEST_ROOT/source" RULES_TEST_TARGET_DIR="$TEST_ROOT/target" "$SCRIPT" sing-geoip; then
   :
 fi
@@ -63,6 +64,7 @@ fi
 
 printf 'PASS: successful and failed file handling\n'
 
+# A failed first run must not create metadata or partial output.
 mkdir -p "$TEST_ROOT/source-all-failed"
 printf 'SRS\001bad\n' >"$TEST_ROOT/source-all-failed/geoip-fail.srs"
 rm -rf "$TEST_ROOT/target" && mkdir -p "$TEST_ROOT/target"
@@ -73,6 +75,7 @@ fi
 [[ "$(find "$TEST_ROOT/target" -mindepth 1 -maxdepth 1 -type d | wc -l)" == 0 ]] || fail "all-failed run created directories"
 printf 'PASS: all-failed run is not published\n'
 
+# A failed final copy must restore the byte-identical old artifact pair.
 rm -rf "$TEST_ROOT/target" && mkdir -p "$TEST_ROOT/target"
 printf 'old-srs\n' >"$TEST_ROOT/target/geoip-ok.srs"
 printf '{"version":1,"rules":[{"domain":["old.example"]}]}\n' >"$TEST_ROOT/target/geoip-ok.json"

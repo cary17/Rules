@@ -136,6 +136,7 @@ jobs:
             }
           [[ "$api_status" == 2* ]] || { echo "mihomo release API returned HTTP $api_status" >&2; exit 1; }
           tag=$(jq -r '.tag_name' "$api")
+          # pick the plain linux-amd64-v1 build
           asset=$(jq -r '[.assets[] | select(.name | test("^mihomo-linux-amd64-v1-v[0-9].*\\.gz$"))][0]' "$api")
           name=$(jq -r '.name' <<<"$asset")
           url=$(jq -r '.browser_download_url' <<<"$asset")

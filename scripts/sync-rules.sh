@@ -79,6 +79,9 @@ else
   exit 1
 fi
 
+# Production callers provide a checked-out artifact branch directory. The test
+# path above keeps the same merge semantics without contacting GitHub.
+
 mapfile -t FILES < <(find "$UPSTREAM" -maxdepth 1 -type f -name "${PREFIX}*.srs" -printf '%f\n' | sort)
 if ((${#FILES[@]} == 0)); then
   printf 'no upstream SRS files for %s\n' "$SOURCE" >&2
@@ -158,6 +161,8 @@ if ((success_count == 0)); then
   exit 1
 fi
 
+# Remove only files confirmed absent from the pinned upstream tree. Failed files
+# remain in CURRENT because they are still present in FILES.
 for old in "$CURRENT"/"${PREFIX}"*.srs; do
   [[ -e "$old" ]] || continue
   old_name=$(basename "$old")

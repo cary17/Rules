@@ -75,6 +75,8 @@ if ((status != 0 && status != 3)); then
   exit "$status"
 fi
 
+# Artifact branches contain only rule files. Provenance and failures are stored
+# in the commit body and GitHub Actions job summary.
 find "$TARGET" -mindepth 1 -maxdepth 1 ! -name .git -type f ! -name '*.srs' ! -name '*.json' -delete
 find "$TARGET" -mindepth 1 -maxdepth 1 ! -name .git -type d -exec rm -rf {} +
 git -C "$TARGET" add -A
