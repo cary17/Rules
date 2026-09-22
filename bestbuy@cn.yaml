@@ -1,4 +1,4 @@
 payload:
-    - +.bestbuy.cn
-    - +.bestbuy.com.cn
-    - +.magnoliaav.com.cn
+    - "+.bestbuy.cn"
+    - "+.bestbuy.com.cn"
+    - "+.magnoliaav.com.cn"

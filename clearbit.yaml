@@ -1,4 +1,4 @@
 payload:
-    - +.clearbit.com
-    - +.clearbitjs.com
-    - +.clearbitscripts.com
+    - "+.clearbit.com"
+    - "+.clearbitjs.com"
+    - "+.clearbitscripts.com"

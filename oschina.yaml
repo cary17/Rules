@@ -1,4 +1,4 @@
 payload:
-    - +.gitee.com
-    - +.gitee.io
-    - +.oschina.net
+    - "+.gitee.com"
+    - "+.gitee.io"
+    - "+.oschina.net"

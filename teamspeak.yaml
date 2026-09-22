@@ -1,4 +1,4 @@
 payload:
-    - +.myteamspeak.com
-    - +.teamspeak-services.com
-    - +.teamspeak.com
+    - "+.myteamspeak.com"
+    - "+.teamspeak-services.com"
+    - "+.teamspeak.com"

@@ -1,8 +1,8 @@
 payload:
-    - +.nubia.cn
-    - +.nubia.com
-    - +.redmagic.com
-    - +.zte.com.cn
-    - +.ztedevices.com
-    - +.ztemall.com
-    - +.ztems.com
+    - "+.nubia.cn"
+    - "+.nubia.com"
+    - "+.redmagic.com"
+    - "+.zte.com.cn"
+    - "+.ztedevices.com"
+    - "+.ztemall.com"
+    - "+.ztems.com"

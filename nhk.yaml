@@ -1,5 +1,5 @@
 payload:
-    - +.nhk
-    - +.nhk.jp
-    - +.nhk.or.jp
-    - +.nhkworld.jp
+    - ".nhk"
+    - "+.nhk.jp"
+    - "+.nhk.or.jp"
+    - "+.nhkworld.jp"

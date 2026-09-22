@@ -1,5 +1,5 @@
 payload:
-    - +.apibay.org
-    - +.pirates-forum.org
-    - +.thepiratebay.org
-    - +.torrindex.net
+    - "+.apibay.org"
+    - "+.pirates-forum.org"
+    - "+.thepiratebay.org"
+    - "+.torrindex.net"

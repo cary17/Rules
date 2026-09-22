@@ -83,8 +83,8 @@ vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
-+.android
-+.java
+.android
+.java
 +.01.org
 +.accountkit.com
 +.acpica.com
@@ -138,6 +138,7 @@ vsmarketplacebadge.apphb.com
 +.calendarserver.org
 +.canonical.com
 +.carekit.org
++.cdn.jetbrains.com
 +.cdp.cloud.unity3d.com
 +.centos.org
 +.chocolatey.org
@@ -326,6 +327,16 @@ vsmarketplacebadge.apphb.com
 +.java.net
 +.jb.gg
 +.jenkins.io
++.jetbrains.ai
++.jetbrains.cloud
++.jetbrains.com
++.jetbrains.com.cn
++.jetbrains.dev
++.jetbrains.net
++.jetbrains.org
++.jetbrains.ru
++.jetbrains.space
++.jetbrains.team
 +.jfrog.com
 +.jfrog.org
 +.jquery.com
@@ -400,6 +411,7 @@ vsmarketplacebadge.apphb.com
 +.mspairlift.com
 +.msropendata.com
 +.msys2.org
++.myjetbrains.com
 +.mynixos.com
 +.myoctocat.com
 +.mysql.com

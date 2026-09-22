@@ -1,5 +1,5 @@
 payload:
-    - +.mysxl.cn
-    - +.sxl.cn
-    - +.sxlcdn.cn
-    - +.sxlcdn.com
+    - "+.mysxl.cn"
+    - "+.sxl.cn"
+    - "+.sxlcdn.cn"
+    - "+.sxlcdn.com"

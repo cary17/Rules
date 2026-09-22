@@ -1,4 +1,4 @@
 payload:
-    - +.vrchat.cloud
-    - +.vrchat.com
-    - +.vrchat.net
+    - "+.vrchat.cloud"
+    - "+.vrchat.com"
+    - "+.vrchat.net"

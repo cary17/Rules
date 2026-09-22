@@ -1,4 +1,4 @@
 payload:
-    - +.predb.me
-    - +.scenesource.me
-    - +.scnsrc.me
+    - "+.predb.me"
+    - "+.scenesource.me"
+    - "+.scnsrc.me"

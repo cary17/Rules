@@ -1,4 +1,4 @@
 payload:
-    - +.adsgram.ai
-    - +.nicegram.app
-    - +.nicegram.cloud
+    - "+.adsgram.ai"
+    - "+.nicegram.app"
+    - "+.nicegram.cloud"

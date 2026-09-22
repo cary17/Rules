@@ -1,4 +1,4 @@
 payload:
-    - +.da-files.com
-    - +.deviantart.com
-    - +.deviantart.net
+    - "+.da-files.com"
+    - "+.deviantart.com"
+    - "+.deviantart.net"

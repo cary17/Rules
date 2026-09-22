@@ -1,5 +1,5 @@
 payload:
-    - +.ubuntu-touch.io
-    - +.ubuntu.com
-    - +.ubuntu.net
-    - +.ubuntuforums.org
+    - "+.ubuntu-touch.io"
+    - "+.ubuntu.com"
+    - "+.ubuntu.net"
+    - "+.ubuntuforums.org"

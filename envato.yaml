@@ -1,5 +1,5 @@
 payload:
-    - +.envato-static.com
-    - +.envato.com
-    - +.envatousercontent.com
-    - +.themeforest.net
+    - "+.envato-static.com"
+    - "+.envato.com"
+    - "+.envatousercontent.com"
+    - "+.themeforest.net"

@@ -1,4 +1,4 @@
 payload:
-    - +.liepin.com
-    - +.lietou-static.com
-    - +.lietou.com
+    - "+.liepin.com"
+    - "+.lietou-static.com"
+    - "+.lietou.com"

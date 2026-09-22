@@ -1,5 +1,5 @@
 payload:
-    - +.okko.sport
-    - +.okko.tv
-    - +.okkoapi.tv
-    - +.playfamily.ru
+    - "+.okko.sport"
+    - "+.okko.tv"
+    - "+.okkoapi.tv"
+    - "+.playfamily.ru"

@@ -1,4 +1,4 @@
 payload:
-    - +.discourse-cdn.com
-    - +.discourse.group
-    - +.discourse.org
+    - "+.discourse-cdn.com"
+    - "+.discourse.group"
+    - "+.discourse.org"

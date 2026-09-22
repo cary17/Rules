@@ -1,4 +1,4 @@
 payload:
-    - +.fly.dev
-    - +.fly.io
-    - +.flyio.net
+    - "+.fly.dev"
+    - "+.fly.io"
+    - "+.flyio.net"

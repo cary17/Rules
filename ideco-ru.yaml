@@ -1,4 +1,4 @@
 payload:
-    - +.ideco.dev
-    - +.ideco.ru
-    - +.idecosoftware.ru
+    - "+.ideco.dev"
+    - "+.ideco.ru"
+    - "+.idecosoftware.ru"

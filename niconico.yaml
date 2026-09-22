@@ -1,11 +1,11 @@
 payload:
-    - +.nico
-    - +.nico.ms
-    - +.nicochannel.jp
-    - +.nicodic.jp
-    - +.nicomanga.jp
-    - +.niconico.com
-    - +.nicoseiga.jp
-    - +.nicovideo.jp
-    - +.nimg.jp
-    - +.simg.jp
+    - ".nico"
+    - "+.nico.ms"
+    - "+.nicochannel.jp"
+    - "+.nicodic.jp"
+    - "+.nicomanga.jp"
+    - "+.niconico.com"
+    - "+.nicoseiga.jp"
+    - "+.nicovideo.jp"
+    - "+.nimg.jp"
+    - "+.simg.jp"

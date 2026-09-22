@@ -1,3 +1,3 @@
 payload:
-    - +.codeberg.org
-    - +.codeberg.page
+    - "+.codeberg.org"
+    - "+.codeberg.page"

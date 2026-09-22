@@ -1,4 +1,4 @@
 payload:
-    - +.bestchange.com
-    - +.bestchange.net
-    - +.bestchange.ru
+    - "+.bestchange.com"
+    - "+.bestchange.net"
+    - "+.bestchange.ru"

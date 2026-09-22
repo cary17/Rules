@@ -1,4 +1,4 @@
 payload:
-    - +.koowo.cn
-    - +.koowo.com
-    - +.kuwo.cn
+    - "+.koowo.cn"
+    - "+.koowo.com"
+    - "+.kuwo.cn"

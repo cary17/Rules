@@ -1,4 +1,4 @@
 payload:
-    - +.zynga.com
-    - +.zyngaplayersupport.com
-    - +.zyngapoker.com
+    - "+.zynga.com"
+    - "+.zyngaplayersupport.com"
+    - "+.zyngapoker.com"

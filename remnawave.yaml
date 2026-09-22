@@ -1,5 +1,5 @@
 payload:
-    - +.docs.rw
-    - +.log.rw
-    - +.remna.st
-    - +.try.rw
+    - "+.docs.rw"
+    - "+.log.rw"
+    - "+.remna.st"
+    - "+.try.rw"

@@ -1,6 +1,6 @@
 payload:
-    - metrika.kontur.ru
-    - sentry.kontur.host
-    - +.kontur-inc.com
-    - +.kontur.host
-    - +.kontur.ru
+    - "metrika.kontur.ru"
+    - "sentry.kontur.host"
+    - "+.kontur-inc.com"
+    - "+.kontur.host"
+    - "+.kontur.ru"

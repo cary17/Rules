@@ -1,8 +1,8 @@
 payload:
-    - +.gree.cn
-    - +.gree.com
-    - +.gree.com.cn
-    - +.greeyun.com
-    - +.kinghomechina.com
-    - +.tosot.com.cn
-    - +.zhlyen.com
+    - "+.gree.cn"
+    - "+.gree.com"
+    - "+.gree.com.cn"
+    - "+.greeyun.com"
+    - "+.kinghomechina.com"
+    - "+.tosot.com.cn"
+    - "+.zhlyen.com"

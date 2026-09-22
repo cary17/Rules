@@ -1,4 +1,4 @@
 payload:
-    - +.kemono.cr
-    - +.kemono.party
-    - +.kemono.su
+    - "+.kemono.cr"
+    - "+.kemono.party"
+    - "+.kemono.su"

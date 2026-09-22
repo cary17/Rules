@@ -1,4 +1,4 @@
 payload:
-    - +.twilio.com
-    - +.twilio.jp
-    - +.tytch.com
+    - "+.twilio.com"
+    - "+.twilio.jp"
+    - "+.tytch.com"

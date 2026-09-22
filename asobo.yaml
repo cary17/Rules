@@ -1,4 +1,4 @@
 payload:
-    - flightsimulator.azureedge.net
-    - +.asobostudio.com
-    - +.flightsimulator.com
+    - "flightsimulator.azureedge.net"
+    - "+.asobostudio.com"
+    - "+.flightsimulator.com"

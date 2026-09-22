@@ -1,4 +1,4 @@
 payload:
-    - +.managedpki.ne.jp
-    - +.secom.co.jp
-    - +.secomtrust.net
+    - "+.managedpki.ne.jp"
+    - "+.secom.co.jp"
+    - "+.secomtrust.net"

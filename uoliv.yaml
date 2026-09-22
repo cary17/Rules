@@ -1,5 +1,5 @@
 payload:
-    - +.liv.ac.uk
-    - +.liverpool.ac.uk
-    - +.livinno.org
-    - +.opac-project.eu
+    - "+.liv.ac.uk"
+    - "+.liverpool.ac.uk"
+    - "+.livinno.org"
+    - "+.opac-project.eu"

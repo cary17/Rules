@@ -1,4 +1,4 @@
 payload:
-    - +.bsclink.cn
-    - +.qingcdn.com
-    - +.trpcdn.net
+    - "+.bsclink.cn"
+    - "+.qingcdn.com"
+    - "+.trpcdn.net"

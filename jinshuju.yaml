@@ -1,4 +1,4 @@
 payload:
-    - +.jinshuju.net
-    - +.jinshujucdn.com
-    - +.jsj.top
+    - "+.jinshuju.net"
+    - "+.jinshujucdn.com"
+    - "+.jsj.top"
