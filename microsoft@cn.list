@@ -1,16 +1,58 @@
 # NAME: microsoft@cn
-# UPDATED: 2026-09-21
-# DOMAIN: 7
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 121
-# TOTAL: 129
+# UPDATED: 2026-09-22
+# DOMAIN: 50
+# DOMAIN-SUFFIX: 139
+# TOTAL: 189
+DOMAIN,azuremigrate.download.prss.microsoft.com
+DOMAIN,azuremigratetest.download.prss.microsoft.com
+DOMAIN,azurestackhub.download.prss.microsoft.com
+DOMAIN,azurestackhubuat.download.prss.microsoft.com
 DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN,bj1.api.bing.com
+DOMAIN,cbdstest.download.prss.microsoft.com
 DOMAIN,cn.windowssearch.com
+DOMAIN,collaborate.download.prss.microsoft.com
+DOMAIN,collaborateppe.download.prss.microsoft.com
 DOMAIN,ctldl.windowsupdate.com
+DOMAIN,developer.microsoft.com
+DOMAIN,download.microsoft.com
+DOMAIN,download.visualstudio.microsoft.com
+DOMAIN,dreamspark.download.prss.microsoft.com
+DOMAIN,dreamsparkuat.download.prss.microsoft.com
 DOMAIN,f.c2r.ts.cdn.office.net
+DOMAIN,itacademy.download.prss.microsoft.com
+DOMAIN,itacademyuat.download.prss.microsoft.com
+DOMAIN,lex.download.prss.microsoft.com
+DOMAIN,lexuat.download.prss.microsoft.com
+DOMAIN,mbs.download.prss.microsoft.com
+DOMAIN,mpnbenefits.download.prss.microsoft.com
+DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
+DOMAIN,mpnbenefitsrtluat.download.prss.microsoft.com
+DOMAIN,msdn.download.prss.microsoft.com
+DOMAIN,msdprod-ad.download.prss.microsoft.com
+DOMAIN,msproduct.download.prss.microsoft.com
+DOMAIN,myvs.download.prss.microsoft.com
+DOMAIN,oemsoc.download.prss.microsoft.com
+DOMAIN,oemsocuat.download.prss.microsoft.com
+DOMAIN,officecdn.microsoft.com
+DOMAIN,officemkt.download.prss.microsoft.com
+DOMAIN,officemktuat.download.prss.microsoft.com
+DOMAIN,osrelease.download.prss.microsoft.com
+DOMAIN,rsm.download.prss.microsoft.com
+DOMAIN,sdx.microsoft.com
 DOMAIN,shell.cdn.office.net
+DOMAIN,software.download.prss.microsoft.com
 DOMAIN,statics.teams.cdn.office.net
+DOMAIN,storecorefulfillment.download.prss.microsoft.com
+DOMAIN,storeedge.microsoft.com
+DOMAIN,storeedgefd.dsx.mp.microsoft.com
+DOMAIN,surface.download.prss.microsoft.com
+DOMAIN,surface.downloads.prss.microsoft.com
+DOMAIN,vlportal.download.prss.microsoft.com
+DOMAIN,volic.download.prss.microsoft.com
+DOMAIN,vscode.download.prss.microsoft.com
+DOMAIN,vz.download.prss.microsoft.com
+DOMAIN,windbg.download.prss.microsoft.com
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
@@ -83,7 +125,9 @@ DOMAIN-SUFFIX,chinacloudsites.cn
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,cn.mm.bing.net
+DOMAIN-SUFFIX,dcg.microsoft.com
 DOMAIN-SUFFIX,ditu.live.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,dynamics.cn
 DOMAIN-SUFFIX,engkoo.com
@@ -93,6 +137,22 @@ DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
 DOMAIN-SUFFIX,management-azure-devices.cn
 DOMAIN-SUFFIX,mcchcdn.com
 DOMAIN-SUFFIX,mgmt-azure-api.cn
+DOMAIN-SUFFIX,microsoft-smb.cn
+DOMAIN-SUFFIX,microsoftazurestatus.cn
+DOMAIN-SUFFIX,microsoftmetrics.cn
+DOMAIN-SUFFIX,microsoftnews.cn
+DOMAIN-SUFFIX,microsoftonline-i.cn
+DOMAIN-SUFFIX,microsoftonline-m-i.cn
+DOMAIN-SUFFIX,microsoftonline-m.cn
+DOMAIN-SUFFIX,microsoftonline-p-i.cn
+DOMAIN-SUFFIX,microsoftonline-p-i.net.cn
+DOMAIN-SUFFIX,microsoftonline-p.cn
+DOMAIN-SUFFIX,microsoftonline-p.net.cn
+DOMAIN-SUFFIX,microsoftonline.cn
+DOMAIN-SUFFIX,microsoftreactor.cn
+DOMAIN-SUFFIX,microsoftreactor.com.cn
+DOMAIN-SUFFIX,microsoftstore.com.cn
+DOMAIN-SUFFIX,microsofttranslator-int.cn
 DOMAIN-SUFFIX,mncmsidlab1.cn
 DOMAIN-SUFFIX,msappproxy.cn
 DOMAIN-SUFFIX,msauth.cn
@@ -132,4 +192,3 @@ DOMAIN-SUFFIX,trustcenter.cn
 DOMAIN-SUFFIX,windowsazure.cn
 DOMAIN-SUFFIX,windowsazurestatus.cn
 DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-KEYWORD,microsoft

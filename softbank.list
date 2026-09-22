@@ -1,8 +1,24 @@
 # NAME: softbank
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 2
-# TOTAL: 3
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
+DOMAIN-SUFFIX,.softbank
 DOMAIN-SUFFIX,sb-mobile.jp
 DOMAIN-SUFFIX,sb-telecom.net
-DOMAIN-KEYWORD,softbank
+DOMAIN-SUFFIX,softbank-ipo.com
+DOMAIN-SUFFIX,softbank-jp.com
+DOMAIN-SUFFIX,softbank-robotics.com
+DOMAIN-SUFFIX,softbank-telecom.com
+DOMAIN-SUFFIX,softbank-telecom.net
+DOMAIN-SUFFIX,softbank.jp
+DOMAIN-SUFFIX,softbank.tv
+DOMAIN-SUFFIX,softbankbb.com
+DOMAIN-SUFFIX,softbankbb.net
+DOMAIN-SUFFIX,softbankci.com
+DOMAIN-SUFFIX,softbankhawksstore.jp
+DOMAIN-SUFFIX,softbankmobile.net
+DOMAIN-SUFFIX,softbankrobotics.com
+DOMAIN-SUFFIX,softbanktelecom.com
+DOMAIN-SUFFIX,softbankusa.net
+DOMAIN-SUFFIX,softbankventuresasia.com
+DOMAIN-SUFFIX,softbankworld.com

@@ -1,9 +1,8 @@
 # NAME: fox
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 209
-# TOTAL: 211
+# DOMAIN-SUFFIX: 244
+# TOTAL: 245
 DOMAIN,foxnewsplayer-a.akamaihd.net
 DOMAIN-SUFFIX,.fox
 DOMAIN-SUFFIX,afewmomentswith.com
@@ -133,6 +132,41 @@ DOMAIN-SUFFIX,foxsoccerplus.com
 DOMAIN-SUFFIX,foxsoccerplus.net
 DOMAIN-SUFFIX,foxsoccerplus.tv
 DOMAIN-SUFFIX,foxsoccershop.com
+DOMAIN-SUFFIX,foxsports-chicago.com
+DOMAIN-SUFFIX,foxsports-newyork.com
+DOMAIN-SUFFIX,foxsports-world.com
+DOMAIN-SUFFIX,foxsports.cl
+DOMAIN-SUFFIX,foxsports.co
+DOMAIN-SUFFIX,foxsports.co.ve
+DOMAIN-SUFFIX,foxsports.com
+DOMAIN-SUFFIX,foxsports.com.ar
+DOMAIN-SUFFIX,foxsports.com.bo
+DOMAIN-SUFFIX,foxsports.com.br
+DOMAIN-SUFFIX,foxsports.com.co
+DOMAIN-SUFFIX,foxsports.com.ec
+DOMAIN-SUFFIX,foxsports.com.gt
+DOMAIN-SUFFIX,foxsports.com.mx
+DOMAIN-SUFFIX,foxsports.com.pe
+DOMAIN-SUFFIX,foxsports.com.py
+DOMAIN-SUFFIX,foxsports.com.uy
+DOMAIN-SUFFIX,foxsports.com.ve
+DOMAIN-SUFFIX,foxsports.gt
+DOMAIN-SUFFIX,foxsports.info
+DOMAIN-SUFFIX,foxsports.net
+DOMAIN-SUFFIX,foxsports.net.br
+DOMAIN-SUFFIX,foxsports.pe
+DOMAIN-SUFFIX,foxsports.sv
+DOMAIN-SUFFIX,foxsports.uy
+DOMAIN-SUFFIX,foxsports2.com
+DOMAIN-SUFFIX,foxsportsflorida.com
+DOMAIN-SUFFIX,foxsportsgo.com
+DOMAIN-SUFFIX,foxsportsla.com
+DOMAIN-SUFFIX,foxsportsnetmilwaukee.com
+DOMAIN-SUFFIX,foxsportsneworleans.com
+DOMAIN-SUFFIX,foxsportsracing.com
+DOMAIN-SUFFIX,foxsportssupports.com
+DOMAIN-SUFFIX,foxsportsuniversity.com
+DOMAIN-SUFFIX,foxsportsworld.com
 DOMAIN-SUFFIX,foxstudiolot.com
 DOMAIN-SUFFIX,foxsuper6.com
 DOMAIN-SUFFIX,foxtel.com
@@ -214,4 +248,3 @@ DOMAIN-SUFFIX,whosthehost.com
 DOMAIN-SUFFIX,wofl.tv
 DOMAIN-SUFFIX,woflthenewsstation.com
 DOMAIN-SUFFIX,wogx.com
-DOMAIN-KEYWORD,foxsports

@@ -1,9 +1,8 @@
 # NAME: category-finance
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 8
-# DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 584
-# TOTAL: 594
+# DOMAIN-SUFFIX: 605
+# TOTAL: 613
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,metrics.21-school.ru
 DOMAIN,sberpro.vedomosti.ru
@@ -256,6 +255,16 @@ DOMAIN-SUFFIX,ifastnetwork.com
 DOMAIN-SUFFIX,ifastps.com.cn
 DOMAIN-SUFFIX,ifasttv.com
 DOMAIN-SUFFIX,ikedashinsen.co.jp
+DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,interactivebrokers.co.in
+DOMAIN-SUFFIX,interactivebrokers.co.jp
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.au
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.com.sg
+DOMAIN-SUFFIX,interactivebrokers.eu
+DOMAIN-SUFFIX,interactivebrokers.ie
 DOMAIN-SUFFIX,it-katok.ru
 DOMAIN-SUFFIX,it-picnic.ru
 DOMAIN-SUFFIX,it-piknik.ru
@@ -273,6 +282,17 @@ DOMAIN-SUFFIX,jira-tcsbank.ru
 DOMAIN-SUFFIX,jivara.global
 DOMAIN-SUFFIX,jivo.chat
 DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.co.in
+DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,jivochat.com
+DOMAIN-SUFFIX,jivochat.com.br
+DOMAIN-SUFFIX,jivochat.com.co
+DOMAIN-SUFFIX,jivochat.com.pe
+DOMAIN-SUFFIX,jivochat.com.tr
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivochat.ru
 DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,joyobank.co.jp
@@ -596,5 +616,3 @@ DOMAIN-SUFFIX,zenit.ru
 DOMAIN-SUFFIX,ziraatbank.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
-DOMAIN-KEYWORD,interactivebrokers
-DOMAIN-KEYWORD,jivochat

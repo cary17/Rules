@@ -1,9 +1,8 @@
 # NAME: bilibili
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 42
-# TOTAL: 44
+# DOMAIN-SUFFIX: 52
+# TOTAL: 53
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
@@ -20,6 +19,16 @@ DOMAIN-SUFFIX,bili23.cn
 DOMAIN-SUFFIX,bili33.cn
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.cc
+DOMAIN-SUFFIX,bilibili.cn
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,bilibilipay.cn
+DOMAIN-SUFFIX,bilibilipay.com
 DOMAIN-SUFFIX,bilicdn1.com
 DOMAIN-SUFFIX,bilicdn2.com
 DOMAIN-SUFFIX,bilicdn3.com
@@ -47,4 +56,3 @@ DOMAIN-SUFFIX,mincdn.com
 DOMAIN-SUFFIX,missevan.com
 DOMAIN-SUFFIX,updream.cn
 DOMAIN-SUFFIX,yo9.com
-DOMAIN-KEYWORD,bilibili

@@ -1,11 +1,24 @@
 # NAME: intuit
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 21
-# TOTAL: 22
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 35
+# TOTAL: 35
+DOMAIN-SUFFIX,.intuit
 DOMAIN-SUFFIX,creditkarma.com
 DOMAIN-SUFFIX,gopayment.com
 DOMAIN-SUFFIX,gopayments.com
+DOMAIN-SUFFIX,intuit-gopayment.com
+DOMAIN-SUFFIX,intuit.ca
+DOMAIN-SUFFIX,intuit.co.uk
+DOMAIN-SUFFIX,intuit.com
+DOMAIN-SUFFIX,intuit.com.au
+DOMAIN-SUFFIX,intuit.fr
+DOMAIN-SUFFIX,intuitaffiliate.com
+DOMAIN-SUFFIX,intuitbenefits.com
+DOMAIN-SUFFIX,intuitcdn.net
+DOMAIN-SUFFIX,intuitfullservicepayroll.com
+DOMAIN-SUFFIX,intuitinnovationday.com
+DOMAIN-SUFFIX,intuitlabs.com
+DOMAIN-SUFFIX,intuitpayments.com
 DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,myproseries.com
 DOMAIN-SUFFIX,payroll.com
@@ -24,4 +37,3 @@ DOMAIN-SUFFIX,quickbooksgetconnected.co.za
 DOMAIN-SUFFIX,quickbooksonline.com
 DOMAIN-SUFFIX,turbo.com
 DOMAIN-SUFFIX,turbotax.com
-DOMAIN-KEYWORD,intuit

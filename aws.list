@@ -1,13 +1,22 @@
 # NAME: aws
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 67
-# TOTAL: 68
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 77
+# TOTAL: 77
 DOMAIN-SUFFIX,.aws
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,acmvalidationsaws.com
 DOMAIN-SUFFIX,aesworkshops.com
+DOMAIN-SUFFIX,amazonaws-china.com
+DOMAIN-SUFFIX,amazonaws.biz
+DOMAIN-SUFFIX,amazonaws.cn
+DOMAIN-SUFFIX,amazonaws.co.uk
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazonaws.com.cn
+DOMAIN-SUFFIX,amazonaws.info
+DOMAIN-SUFFIX,amazonaws.net
+DOMAIN-SUFFIX,amazonaws.org
+DOMAIN-SUFFIX,amazonaws.tv
 DOMAIN-SUFFIX,amazoncognito.com
 DOMAIN-SUFFIX,amazonses.com
 DOMAIN-SUFFIX,amazonwebservices.cn
@@ -70,4 +79,3 @@ DOMAIN-SUFFIX,nwcdinfosec.cn
 DOMAIN-SUFFIX,route53.cn
 DOMAIN-SUFFIX,sagemaker.com.cn
 DOMAIN-SUFFIX,thinkboxsoftware.com
-DOMAIN-KEYWORD,amazonaws

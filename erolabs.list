@@ -1,11 +1,17 @@
 # NAME: erolabs
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 5
-# TOTAL: 6
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
+DOMAIN-SUFFIX,ero-labs.cloud
+DOMAIN-SUFFIX,ero-labs.com
+DOMAIN-SUFFIX,ero-labs.fun
+DOMAIN-SUFFIX,ero-labs.io
+DOMAIN-SUFFIX,ero-labs.net
+DOMAIN-SUFFIX,ero-labs.one
+DOMAIN-SUFFIX,ero-labs.online
+DOMAIN-SUFFIX,ero-labs.site
 DOMAIN-SUFFIX,erolabs.cloud
 DOMAIN-SUFFIX,erolabs.com
 DOMAIN-SUFFIX,erolabs.net
 DOMAIN-SUFFIX,erolabs.online
 DOMAIN-SUFFIX,erolabsshare.xyz
-DOMAIN-KEYWORD,ero-labs

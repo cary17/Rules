@@ -1,11 +1,11 @@
 # NAME: nintendo
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 83
-# TOTAL: 84
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 124
+# TOTAL: 124
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,amiibo.com
+DOMAIN-SUFFIX,ayudanintendo.com
 DOMAIN-SUFFIX,bowsersinsidestory.com
 DOMAIN-SUFFIX,dialga.com
 DOMAIN-SUFFIX,diddykongracing.com
@@ -36,7 +36,47 @@ DOMAIN-SUFFIX,miitomo.com.cn
 DOMAIN-SUFFIX,miiverse.com
 DOMAIN-SUFFIX,nentindo.net
 DOMAIN-SUFFIX,newsupermariobrosu.com
+DOMAIN-SUFFIX,nintendo-europe-sales.com
+DOMAIN-SUFFIX,nintendo-europe.com
+DOMAIN-SUFFIX,nintendo.at
+DOMAIN-SUFFIX,nintendo.be
+DOMAIN-SUFFIX,nintendo.ch
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,nintendo.co.kr
+DOMAIN-SUFFIX,nintendo.co.uk
+DOMAIN-SUFFIX,nintendo.co.za
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.com.hk
+DOMAIN-SUFFIX,nintendo.com.pt
+DOMAIN-SUFFIX,nintendo.de
+DOMAIN-SUFFIX,nintendo.dk
+DOMAIN-SUFFIX,nintendo.es
+DOMAIN-SUFFIX,nintendo.eu
+DOMAIN-SUFFIX,nintendo.fi
+DOMAIN-SUFFIX,nintendo.fr
+DOMAIN-SUFFIX,nintendo.it
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.nl
+DOMAIN-SUFFIX,nintendo.no
+DOMAIN-SUFFIX,nintendo.pt
+DOMAIN-SUFFIX,nintendo.ru
+DOMAIN-SUFFIX,nintendo.se
+DOMAIN-SUFFIX,nintendo.tw
+DOMAIN-SUFFIX,nintendo3ds.com
+DOMAIN-SUFFIX,nintendodsi.com
+DOMAIN-SUFFIX,nintendoeurope.com
+DOMAIN-SUFFIX,nintendolabo.cn
+DOMAIN-SUFFIX,nintendonetwork.net
+DOMAIN-SUFFIX,nintendonyc.com
+DOMAIN-SUFFIX,nintendostore.com
+DOMAIN-SUFFIX,nintendoswitch.cn
+DOMAIN-SUFFIX,nintendoswitch.com
+DOMAIN-SUFFIX,nintendoswitch.com.cn
+DOMAIN-SUFFIX,nintendoswitch.net
+DOMAIN-SUFFIX,nintendoswitchtogether.com
+DOMAIN-SUFFIX,nintendowii.com
 DOMAIN-SUFFIX,personaltrainermath.com
+DOMAIN-SUFFIX,playnintendo.com
 DOMAIN-SUFFIX,pokedex3d.com
 DOMAIN-SUFFIX,pokemon-moon.com
 DOMAIN-SUFFIX,pokemon-sun.com
@@ -86,4 +126,3 @@ DOMAIN-SUFFIX,xenoblade.com
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,yoshisnewisland.com
-DOMAIN-KEYWORD,nintendo

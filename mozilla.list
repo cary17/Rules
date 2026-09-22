@@ -1,10 +1,14 @@
 # NAME: mozilla
-# UPDATED: 2026-09-21
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 39
-# TOTAL: 41
+# UPDATED: 2026-09-22
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 65
+# TOTAL: 71
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
 DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net
 DOMAIN-SUFFIX,allizom.net
 DOMAIN-SUFFIX,allizom.org
 DOMAIN-SUFFIX,bugzilla.org
@@ -31,11 +35,37 @@ DOMAIN-SUFFIX,lizardwrangler.com
 DOMAIN-SUFFIX,mdn.dev
 DOMAIN-SUFFIX,mdnplay.dev
 DOMAIN-SUFFIX,mdnyalp.dev
+DOMAIN-SUFFIX,mecha-mozilla.org
 DOMAIN-SUFFIX,mozaws.net
 DOMAIN-SUFFIX,mozgcp.net
+DOMAIN-SUFFIX,mozilla-europe.org
+DOMAIN-SUFFIX,mozilla-hispano.org
+DOMAIN-SUFFIX,mozilla-mexico.org
+DOMAIN-SUFFIX,mozilla.ai
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.community
+DOMAIN-SUFFIX,mozilla.cz
+DOMAIN-SUFFIX,mozilla.de
+DOMAIN-SUFFIX,mozilla.jp
+DOMAIN-SUFFIX,mozilla.lt
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,mozilla.org.uk
+DOMAIN-SUFFIX,mozilla.pe
+DOMAIN-SUFFIX,mozilla.pt
+DOMAIN-SUFFIX,mozilla.ro
+DOMAIN-SUFFIX,mozillabd.org
+DOMAIN-SUFFIX,mozillademos.org
+DOMAIN-SUFFIX,mozillafactory.org
+DOMAIN-SUFFIX,mozillafoundation.org
+DOMAIN-SUFFIX,mozillaignite.org
+DOMAIN-SUFFIX,mozillalabs.com
+DOMAIN-SUFFIX,mozillaquebec.org
+DOMAIN-SUFFIX,mozillazine.jp
 DOMAIN-SUFFIX,mozillians.org
 DOMAIN-SUFFIX,mozit.cloud
 DOMAIN-SUFFIX,mzl.la
+DOMAIN-SUFFIX,onemozilla.org
 DOMAIN-SUFFIX,opentimetable.jp
 DOMAIN-SUFFIX,popcornjs.org
 DOMAIN-SUFFIX,publicsuffix.org
@@ -44,4 +74,3 @@ DOMAIN-SUFFIX,tb.pro
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,thundermail.com
 DOMAIN-SUFFIX,webmademovies.org
-DOMAIN-KEYWORD,mozilla

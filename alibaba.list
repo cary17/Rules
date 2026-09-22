@@ -1,8 +1,13 @@
 # NAME: alibaba
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 431
-# TOTAL: 432
+# UPDATED: 2026-09-22
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 458
+# TOTAL: 462
+DOMAIN,account-cn.alibabacloud.com
+DOMAIN,api.alibabacloud.com
+DOMAIN,cn.alibabacloud.com
+DOMAIN,status.alibabacloud.com
+DOMAIN-SUFFIX,.alibaba
 DOMAIN-SUFFIX,.alipay
 DOMAIN-SUFFIX,.taobao
 DOMAIN-SUFFIX,.tmall
@@ -50,6 +55,30 @@ DOMAIN-SUFFIX,aeplatform.ru
 DOMAIN-SUFFIX,aestatic.net
 DOMAIN-SUFFIX,ali-health.com
 DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibabacapital.com
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alibabachengdun.net
+DOMAIN-SUFFIX,alibabacloud.co.in
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,alibabacloud.com.au
+DOMAIN-SUFFIX,alibabacloud.com.hk
+DOMAIN-SUFFIX,alibabacloud.com.my
+DOMAIN-SUFFIX,alibabacloud.com.sg
+DOMAIN-SUFFIX,alibabacloud.com.tw
+DOMAIN-SUFFIX,alibabacorp.com
+DOMAIN-SUFFIX,alibabadesign.com
+DOMAIN-SUFFIX,alibabadns.com
+DOMAIN-SUFFIX,alibabadoctor.com
+DOMAIN-SUFFIX,alibabafonts.com
+DOMAIN-SUFFIX,alibabafoundation.com
+DOMAIN-SUFFIX,alibabafuturehotel.com
+DOMAIN-SUFFIX,alibabagroup.com
+DOMAIN-SUFFIX,alibabapictures.com
+DOMAIN-SUFFIX,alibabaplanet.com
+DOMAIN-SUFFIX,alibabaued.com
+DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloud.com
 DOMAIN-SUFFIX,alicloudapi.com
@@ -280,6 +309,7 @@ DOMAIN-SUFFIX,m-adash.m.taobao.com
 DOMAIN-SUFFIX,m-now.cn
 DOMAIN-SUFFIX,maitix.com
 DOMAIN-SUFFIX,mappcloud.com
+DOMAIN-SUFFIX,marketing.alibaba.com
 DOMAIN-SUFFIX,mashort.cn
 DOMAIN-SUFFIX,mdeer.com
 DOMAIN-SUFFIX,mei.com
@@ -296,6 +326,7 @@ DOMAIN-SUFFIX,myquark.cn
 DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
 DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
 DOMAIN-SUFFIX,new-aaid.umeng.com
+DOMAIN-SUFFIX,new-aaid.umeng.com.gds.alibabadns.com
 DOMAIN-SUFFIX,newstjk.com
 DOMAIN-SUFFIX,nic.xin
 DOMAIN-SUFFIX,npmmirror.com
@@ -434,4 +465,3 @@ DOMAIN-SUFFIX,zhisheng.com
 DOMAIN-SUFFIX,zimgs.cn
 DOMAIN-SUFFIX,ztna-dingtalk.com
 DOMAIN-SUFFIX,zuodao.com
-DOMAIN-KEYWORD,alibaba

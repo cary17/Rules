@@ -1,9 +1,8 @@
 # NAME: category-ru@ads
-# UPDATED: 2026-09-21
-# DOMAIN: 111
-# DOMAIN-KEYWORD: 1
+# UPDATED: 2026-09-22
+# DOMAIN: 125
 # DOMAIN-SUFFIX: 63
-# TOTAL: 175
+# TOTAL: 188
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad.ozone.ru
@@ -76,6 +75,7 @@ DOMAIN,informer.yandex.ru
 DOMAIN,log.strm.yandex.ru
 DOMAIN,loyalnost-adv.ozon.ru
 DOMAIN,marketing-info.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
@@ -92,6 +92,19 @@ DOMAIN,r1.mail.ru
 DOMAIN,reklama.mail.ru
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN,rs.mail.ru
+DOMAIN,sentry-ng.g.smailru.net
+DOMAIN,sentry.dev-my.com
+DOMAIN,sentry.dev-my.games
+DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.kontur.host
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN,sentry.rustore.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,sentry.viqeo.tv
+DOMAIN,sentry.wb.ru
+DOMAIN,sentry.x5.ru
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,stacks.vk-portal.net
 DOMAIN,stats.avito.ru
@@ -178,4 +191,3 @@ DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yango-ads.com
-DOMAIN-KEYWORD,sentry
