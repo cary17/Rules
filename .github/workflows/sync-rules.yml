@@ -36,6 +36,7 @@ jobs:
       - name: Run local rule tests
         run: |
           set -euo pipefail
+          chmod +x .github/workflows/sync-one.sh scripts/sync-rules.sh scripts/sync-mihomo.sh scripts/sync-platforms.sh tests/test-sync-rules.sh
           for test in tests/test-*.py; do python3 "$test"; done
           tests/test-sync-rules.sh
 
