@@ -33,6 +33,12 @@ jobs:
           sudo apt-get update
           sudo apt-get install --yes --no-install-recommends jq
 
+      - name: Run local rule tests
+        run: |
+          set -euo pipefail
+          for test in tests/test-*.py; do python3 "$test"; done
+          tests/test-sync-rules.sh
+
       - name: Download and verify sing-box
         id: sing-box
         run: |
@@ -74,7 +80,7 @@ jobs:
             exit 1
           fi
           tar -tzf /tmp/sing-box.tar.gz > /tmp/sing-box-members.txt
-          python3 -c 'import posixpath, sys; bad=[line.rstrip("\\n") for line in open(sys.argv[1], encoding="utf-8") if line.startswith("/") or posixpath.normpath(line.strip()).startswith("../") or posixpath.normpath(line.strip()) == ".."]; print("unsafe tar member:", bad[0], file=sys.stderr) if bad else None; raise SystemExit(bool(bad))' /tmp/sing-box-members.txt
+          python3 -c 'import posixpath, sys; bad=[line.rstrip("\n") for line in open(sys.argv[1], encoding="utf-8") if line.startswith("/") or posixpath.normpath(line.strip()).startswith("../") or posixpath.normpath(line.strip()) == ".."]; print("unsafe tar member:", bad[0], file=sys.stderr) if bad else None; raise SystemExit(bool(bad))' /tmp/sing-box-members.txt
           mkdir -p /tmp/sing-box
           tar -xzf /tmp/sing-box.tar.gz -C /tmp/sing-box
           binary=$(find /tmp/sing-box -type f -name sing-box -print -quit)
@@ -130,7 +136,6 @@ jobs:
             }
           [[ "$api_status" == 2* ]] || { echo "mihomo release API returned HTTP $api_status" >&2; exit 1; }
           tag=$(jq -r '.tag_name' "$api")
-          # pick the plain linux-amd64-v1 build
           asset=$(jq -r '[.assets[] | select(.name | test("^mihomo-linux-amd64-v1-v[0-9].*\\.gz$"))][0]' "$api")
           name=$(jq -r '.name' <<<"$asset")
           url=$(jq -r '.browser_download_url' <<<"$asset")

@@ -10,11 +10,19 @@ def load(path: str) -> dict:
     if not isinstance(value, dict):
         raise ValueError("top-level JSON value is not an object")
     version = value.get("version")
-    if not isinstance(version, int) or isinstance(version, bool):
-        raise ValueError("version must be an integer")
+    if not isinstance(version, int) or isinstance(version, bool) or version <= 0:
+        raise ValueError("version must be a positive integer")
     rules = value.get("rules")
     if not isinstance(rules, list) or not rules:
         raise ValueError("rules must be a non-empty array")
+    for index, rule in enumerate(rules):
+        if not isinstance(rule, dict):
+            raise ValueError(f"rules[{index}] must be an object")
+        for key, item in rule.items():
+            if key in {"domain", "domain_suffix", "domain_keyword", "domain_regex", "domain_wildcard", "geoip", "ip_cidr", "ip_cidr6", "asn"}:
+                items = item if isinstance(item, list) else [item]
+                if any(not isinstance(value, str) for value in items):
+                    raise ValueError(f"rules[{index}].{key} must contain only strings")
     if Path(path).stat().st_size == 0:
         raise ValueError("JSON file is empty")
     return value

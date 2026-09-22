@@ -29,7 +29,25 @@ def test_multiple_items_are_not_collapsed():
         assert module.main(["validate", "compare", str(left), str(right)]) == 1
 
 
+def test_rejects_invalid_rule_structure_and_matcher_values():
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "invalid.json"
+        for value in (
+            {"version": -1, "rules": [{"domain": ["a"]}]},
+            {"version": 1, "rules": [None]},
+            {"version": 1, "rules": [{"domain": [None, 123, {}]}]},
+        ):
+            path.write_text(json.dumps(value))
+            try:
+                module.load(path)
+            except ValueError:
+                pass
+            else:
+                raise AssertionError(value)
+
+
 if __name__ == "__main__":
     test_scalar_and_single_item_array_have_same_semantics()
     test_multiple_items_are_not_collapsed()
+    test_rejects_invalid_rule_structure_and_matcher_values()
     print("all validation tests passed")

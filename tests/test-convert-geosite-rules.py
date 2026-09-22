@@ -27,6 +27,7 @@ def test_egern_uses_rule_set_fields_without_policy():
     assert "domain_set:" in rendered
     assert "domain_suffix_set:" in rendered
     assert "domain_regex_set:" in rendered
+    assert '  - "^ads?\\\\\\\\."' in rendered
     assert "policy" not in rendered
     assert skipped == []
     assert "# NAME:" in rendered
@@ -59,6 +60,19 @@ def test_egern_adds_no_resolve_only_for_ip_rules():
     assert skipped == []
 
 
+def test_rejects_controlled_conditions_but_keeps_normal_matchers():
+    source = {"version": 1, "rules": [{"domain": ["example.com"], "domain_suffix": ["example.org"]}]}
+    rendered, _ = module.render_egern(source)
+    assert '"example.com"' in rendered and '"example.org"' in rendered
+    for rule in ({"domain": ["example.com"], "invert": True}, {"type": "logical", "rules": []}, {"domain": ["example.com"], "port": [443]}, {"domain": [None]}):
+        try:
+            module.render_egern({"version": 1, "rules": [rule]})
+        except ValueError:
+            pass
+        else:
+            raise AssertionError(rule)
+
+
 def test_client_with_only_unsupported_regex_has_no_publishable_output():
     source = {
         "version": 1,
@@ -81,7 +95,7 @@ def test_client_metadata_uses_output_types_and_output_order():
         }],
     }
     rendered, skipped = module.render_surge(source, "example")
-    header = rendered.split("\\n\\n", 1)[0]
+    header = "\n".join(rendered.splitlines()[:6])
     assert header.splitlines()[2:] == [
         "# DOMAIN: 1",
         "# DOMAIN-SUFFIX: 1",
@@ -129,7 +143,7 @@ def test_convert_directory_skips_only_empty_client_file():
 
 
 if __name__ == "__main__":
-    test_egern_uses_rule_set_fields_without_policy()
-    test_surge_and_loon_skip_unsupported_domain_regex()
-    test_convert_directory_preserves_pairs_and_writes_summary()
+    for name, fn in sorted(globals().items()):
+        if name.startswith("test_"):
+            fn()
     print("all conversion tests passed")

@@ -12,29 +12,30 @@ LOG=$(mktemp)
 trap 'rm -rf "$TARGET" "$LOG"' EXIT
 
 origin="${GITHUB_SERVER_URL:-https://github.com}/${GITHUB_REPOSITORY:?GITHUB_REPOSITORY is required}.git"
+git -C "$ROOT" config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "${GITHUB_TOKEN:?GITHUB_TOKEN is required}" | base64 -w0)"
 remote_ref=
 if ! remote_ref=$(git -C "$ROOT" ls-remote --heads origin "refs/heads/$TARGET_BRANCH"); then
   echo "$SOURCE: unable to inspect artifact branch" >&2
   exit 1
 fi
 if [[ -n "$remote_ref" ]]; then
-  if ! git -C "$ROOT" fetch --no-tags --quiet origin "$TARGET_BRANCH"; then
+  if ! git -C "$ROOT" fetch --no-tags --quiet origin "refs/heads/$TARGET_BRANCH:refs/remotes/origin/$TARGET_BRANCH"; then
     echo "$SOURCE: unable to fetch artifact branch" >&2
     exit 1
   fi
 fi
-if [[ -n "$remote_ref" ]] && git -C "$ROOT" show-ref --verify --quiet "refs/remotes/origin/$TARGET_BRANCH"; then
+if [[ -n "$remote_ref" ]]; then
   if ! git clone --quiet --no-checkout "$ROOT" "$TARGET"; then
     echo "$SOURCE: unable to clone current checkout" >&2
     exit 1
   fi
   git -C "$TARGET" remote set-url origin "$origin"
   git -C "$TARGET" config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "${GITHUB_TOKEN:?GITHUB_TOKEN is required}" | base64 -w0)"
-  if ! git -C "$TARGET" fetch --no-tags --quiet origin "$TARGET_BRANCH"; then
+  if ! git -C "$TARGET" fetch --no-tags --quiet origin "refs/heads/$TARGET_BRANCH:refs/remotes/origin/$TARGET_BRANCH"; then
     echo "$SOURCE: unable to fetch existing artifact branch in temporary clone" >&2
     exit 1
   fi
-  git -C "$TARGET" checkout --quiet -B "$TARGET_BRANCH" FETCH_HEAD
+  git -C "$TARGET" checkout --quiet -B "$TARGET_BRANCH" "refs/remotes/origin/$TARGET_BRANCH"
 else
   git init --quiet -b "$TARGET_BRANCH" "$TARGET"
   git -C "$TARGET" remote add origin "$origin"
@@ -74,8 +75,6 @@ if ((status != 0 && status != 3)); then
   exit "$status"
 fi
 
-# Artifact branches contain only rule files. Provenance and failures are stored
-# in the commit body and GitHub Actions job summary.
 find "$TARGET" -mindepth 1 -maxdepth 1 ! -name .git -type f ! -name '*.srs' ! -name '*.json' -delete
 find "$TARGET" -mindepth 1 -maxdepth 1 ! -name .git -type d -exec rm -rf {} +
 git -C "$TARGET" add -A

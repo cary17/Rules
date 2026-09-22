@@ -32,15 +32,21 @@ class ConversionResult:
 
 def _rule_values(document):
     values = {}
+    supported = {"domain", "domain_suffix", "domain_wildcard", "domain_keyword", "domain_regex", "ip_cidr", "ip_cidr6", "geoip", "asn"}
     for rule in document.get("rules", []):
+        if not isinstance(rule, dict):
+            raise ValueError("rule must be an object")
+        if rule.get("invert") or rule.get("type") not in (None, "default"):
+            raise ValueError("inverted or logical rules are not convertible")
         for key, raw in rule.items():
-            if isinstance(raw, list):
-                items = raw
-            elif isinstance(raw, str):
-                items = [raw]
-            else:
-                items = []
-            values.setdefault(key, []).extend(str(value) for value in items)
+            if key in {"invert", "type"}:
+                continue
+            if key not in supported:
+                raise ValueError(f"unsupported rule condition: {key}")
+            items = raw if isinstance(raw, list) else [raw]
+            if any(not isinstance(item, str) for item in items):
+                raise ValueError(f"rule condition must contain strings: {key}")
+            values.setdefault(key, []).extend(items)
     return values
 
 
@@ -53,27 +59,27 @@ def _render_trie(values, behavior):
         # so they are emitted verbatim (no extra prefix).
         for key, prefix in (("domain", ""), ("domain_suffix", "+."), ("domain_wildcard", "")):
             for item in values.get(key, []):
-                item = item.strip()
-                if not item:
+                if not isinstance(item, str) or not item.strip():
+                    skipped[key] = skipped.get(key, 0) + 1
                     continue
-                if key == "domain_suffix" and item.startswith("."):
-                    # sing-box allows a leading dot (".xbox"); mihomo trie
-                    # rejects "+..xbox", so normalize to "+.xbox".
-                    item = item.lstrip(".")
-                    if not item:  # "." matches everything; trie cannot express it
-                        skipped.setdefault("domain_suffix", 0)
-                        skipped["domain_suffix"] += 1
-                        continue
-                lines.append(f"{prefix}{item}")
+                item = item.strip()
+                if key == "domain_suffix" and item == ".":
+                    skipped[key] = skipped.get(key, 0) + 1
+                elif key == "domain_suffix" and item.startswith("."):
+                    # Mihomo's leading-dot entry means subdomains only.
+                    lines.append(item)
+                else:
+                    lines.append(f"{prefix}{item}")
         for key in ("domain_keyword", "domain_regex"):
             if values.get(key):
                 skipped[key] = len(values[key])
     elif behavior == "ipcidr":
         for key in ("ip_cidr", "ip_cidr6"):
             for item in values.get(key, []):
-                item = item.strip()
-                if item:
-                    lines.append(item)
+                if isinstance(item, str) and item.strip():
+                    lines.append(item.strip())
+                else:
+                    skipped[key] = skipped.get(key, 0) + 1
         for key in ("geoip", "asn"):
             if values.get(key):
                 skipped[key] = len(values[key])
@@ -83,7 +89,7 @@ def _render_trie(values, behavior):
 
 
 def _render_yaml(lines):
-    return "payload:\n" + "".join(f"    - {line}\n" for line in lines)
+    return "payload:\n" + "".join(f"    - {json.dumps(line, ensure_ascii=False)}\n" for line in lines)
 
 
 def _write_atomic(destination, content):

@@ -48,7 +48,6 @@ printf '{"version":1,"rules":[{"domain":["old.example"]}]}\n' >"$TEST_ROOT/targe
 old_srs_sha=$(sha256sum "$TEST_ROOT/target/geoip-fail.srs" | awk '{print $1}')
 old_json_sha=$(sha256sum "$TEST_ROOT/target/geoip-fail.json" | awk '{print $1}')
 
-# The implementation must support a local fixture mode for deterministic tests.
 if ! PATH="$TEST_ROOT/bin:$PATH" RULES_TEST_SOURCE_DIR="$TEST_ROOT/source" RULES_TEST_TARGET_DIR="$TEST_ROOT/target" "$SCRIPT" sing-geoip; then
   :
 fi
@@ -64,7 +63,6 @@ fi
 
 printf 'PASS: successful and failed file handling\n'
 
-# A failed first run must not create metadata or partial output.
 mkdir -p "$TEST_ROOT/source-all-failed"
 printf 'SRS\001bad\n' >"$TEST_ROOT/source-all-failed/geoip-fail.srs"
 rm -rf "$TEST_ROOT/target" && mkdir -p "$TEST_ROOT/target"
@@ -74,6 +72,24 @@ fi
 [[ "$(find "$TEST_ROOT/target" -mindepth 1 -maxdepth 1 -type f | wc -l)" == 0 ]] || fail "all-failed run published artifacts"
 [[ "$(find "$TEST_ROOT/target" -mindepth 1 -maxdepth 1 -type d | wc -l)" == 0 ]] || fail "all-failed run created directories"
 printf 'PASS: all-failed run is not published\n'
+
+rm -rf "$TEST_ROOT/target" && mkdir -p "$TEST_ROOT/target"
+printf 'old-srs\n' >"$TEST_ROOT/target/geoip-ok.srs"
+printf '{"version":1,"rules":[{"domain":["old.example"]}]}\n' >"$TEST_ROOT/target/geoip-ok.json"
+old_srs=$(sha256sum "$TEST_ROOT/target/geoip-ok.srs" | awk '{print $1}')
+old_json=$(sha256sum "$TEST_ROOT/target/geoip-ok.json" | awk '{print $1}')
+cat >"$TEST_ROOT/bin/cp" <<'EOF'
+#!/usr/bin/env bash
+if [[ "$*" == *"/publish/."* ]]; then /bin/cp "$@"; exit 1; fi
+exec /bin/cp "$@"
+EOF
+chmod +x "$TEST_ROOT/bin/cp"
+if PATH="$TEST_ROOT/bin:$PATH" RULES_TEST_SOURCE_DIR="$TEST_ROOT/source" RULES_TEST_TARGET_DIR="$TEST_ROOT/target" "$SCRIPT" sing-geoip >/tmp/rules-copy-fail.out 2>/tmp/rules-copy-fail.err; then
+  fail "final copy failure was accepted"
+fi
+[[ "$(sha256sum "$TEST_ROOT/target/geoip-ok.srs" | awk '{print $1}')" == "$old_srs" ]] || fail "final copy failure lost old SRS"
+[[ "$(sha256sum "$TEST_ROOT/target/geoip-ok.json" | awk '{print $1}')" == "$old_json" ]] || fail "final copy failure lost old JSON"
+printf 'PASS: final copy failure restores old artifacts\n'
 
 version_tag=v1.13.18
 version_output='sing-box version 1.13.18'

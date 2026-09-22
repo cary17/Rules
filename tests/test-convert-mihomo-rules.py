@@ -27,8 +27,8 @@ def test_domain_behavior_mapping():
     lines, skipped = module._render_trie(module._rule_values(source), "domain")
     assert "example.com" in lines
     assert "+.example.org" in lines
-    assert "+.xbox" in lines  # leading dot normalized
-    assert "+..xbox" not in lines
+    assert ".xbox" in lines
+    assert "+.xbox" not in lines
     assert "*.wild.example" in lines
     assert skipped == {"domain_keyword": 1, "domain_regex": 1}
     assert "keyword" not in lines
@@ -56,8 +56,18 @@ def test_ipcidr_behavior_mapping():
 
 
 def test_render_yaml_wraps_payload():
-    yaml = module._render_yaml(["+.0x0.st", "example.com"])
-    assert yaml == "payload:\n    - +.0x0.st\n    - example.com\n"
+    yaml = module._render_yaml(["+.0x0.st", "example.com", "null"])
+    assert yaml == 'payload:\n    - "+.0x0.st"\n    - "example.com"\n    - "null"\n'
+
+
+def test_controlled_rules_fail_instead_of_flattening_constraints():
+    for rule in ({"domain": ["example.com"], "invert": True}, {"type": "logical", "rules": []}):
+        try:
+            module._rule_values({"version": 1, "rules": [rule]})
+        except ValueError:
+            pass
+        else:
+            raise AssertionError(rule)
 
 
 def test_convert_directory_outputs_list_and_yaml():
@@ -78,7 +88,6 @@ def test_convert_directory_outputs_list_and_yaml():
         assert (output_dir / "google.list").is_file()
         assert (output_dir / "google.yaml").is_file()
         assert (output_dir / "google.list").read_text(encoding="utf-8") == "+.google.com\n"
-        # geoip-cn.json must not be converted by the domain pass
         assert not (output_dir / "cn.list").exists()
 
 
@@ -99,10 +108,7 @@ def test_convert_directory_drops_file_with_only_skipped_rules():
 
 
 if __name__ == "__main__":
-    test_domain_behavior_mapping()
-    test_domain_suffix_bare_dot_is_skipped()
-    test_ipcidr_behavior_mapping()
-    test_render_yaml_wraps_payload()
-    test_convert_directory_outputs_list_and_yaml()
-    test_convert_directory_drops_file_with_only_skipped_rules()
+    for name, fn in sorted(globals().items()):
+        if name.startswith("test_"):
+            fn()
     print("all mihomo conversion tests passed")
