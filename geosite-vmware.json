@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": [],
+      "domain": "vmware.tt.omtrdc.net",
       "domain_suffix": [
         "air-watch.com",
         "airwatchexpress.com",
@@ -31,6 +31,7 @@
         "cpedge.com",
         "crit-staging.com",
         "dockerizer.com",
+        "experience-vmware.com",
         "gemfire.net",
         "geodesummit.com",
         "getboxer.com",
@@ -48,6 +49,7 @@
         "itfromtheinside.com",
         "kubeacademy.com",
         "kubeapps.com",
+        "latamvmwareforum.com",
         "nyansa.com",
         "pivotalinitiative.com",
         "snapvolumes.com",
@@ -63,6 +65,24 @@
         "vmmark.com",
         "vmtestdrive.com",
         "vmw.com",
+        "vmware-cloudmanagement.com",
+        "vmware-techcenter.com",
+        "vmware.com",
+        "vmware20mosaic.com",
+        "vmwareausnews.com",
+        "vmwarecertificationvideos.com",
+        "vmwarecloud.com",
+        "vmwaredemandcenter.com",
+        "vmwareemeablog.com",
+        "vmwaregrid.com",
+        "vmwarehorizon.com",
+        "vmwareidentity.com",
+        "vmwarelearning.com",
+        "vmwarelearningplatform.com",
+        "vmwarestuff.com",
+        "vmwareusergroupstore.com",
+        "vmwareviewpoint.com",
+        "vmwarevmc.com",
         "vmwdemo.com",
         "vmwgcomms.com",
         "vmwhorizonair.com",
@@ -82,13 +102,11 @@
         "whatisworkspaceone.com",
         "whychoosehorizon.com",
         "whychooseview.com",
+        "whychoosevmwareeuc.com",
         "windowsuem.com",
         "workspaceair.com",
         "workspaceone.com",
         "xlstudio.com"
-      ],
-      "domain_keyword": [
-        "vmware"
       ]
     }
   ]

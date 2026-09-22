@@ -2,9 +2,15 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [],
-      "domain_keyword": [
-        "mucinex"
+      "domain_suffix": [
+        "mucinex.ca",
+        "mucinex.cn",
+        "mucinex.co.nz",
+        "mucinex.com",
+        "mucinex.com.cn",
+        "mucinex.net",
+        "mucinex.tv",
+        "mucinexprofessional.com"
       ]
     }
   ]

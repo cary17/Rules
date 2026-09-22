@@ -2,12 +2,21 @@
   "version": 1,
   "rules": [
     {
-      "domain": [],
-      "domain_suffix": [
-        "alicloud.com"
+      "domain": [
+        "account-cn.alibabacloud.com",
+        "api.alibabacloud.com",
+        "cn.alibabacloud.com",
+        "status.alibabacloud.com"
       ],
-      "domain_keyword": [
-        "alibabacloud"
+      "domain_suffix": [
+        "alibabacloud.co.in",
+        "alibabacloud.com",
+        "alibabacloud.com.au",
+        "alibabacloud.com.hk",
+        "alibabacloud.com.my",
+        "alibabacloud.com.sg",
+        "alibabacloud.com.tw",
+        "alicloud.com"
       ]
     }
   ]

@@ -145,6 +145,7 @@
         "calendarserver.org",
         "canonical.com",
         "carekit.org",
+        "cdn.jetbrains.com",
         "cdp.cloud.unity3d.com",
         "centos.org",
         "chocolatey.org",
@@ -333,6 +334,16 @@
         "java.net",
         "jb.gg",
         "jenkins.io",
+        "jetbrains.ai",
+        "jetbrains.cloud",
+        "jetbrains.com",
+        "jetbrains.com.cn",
+        "jetbrains.dev",
+        "jetbrains.net",
+        "jetbrains.org",
+        "jetbrains.ru",
+        "jetbrains.space",
+        "jetbrains.team",
         "jfrog.com",
         "jfrog.org",
         "jquery.com",
@@ -407,6 +418,7 @@
         "mspairlift.com",
         "msropendata.com",
         "msys2.org",
+        "myjetbrains.com",
         "mynixos.com",
         "myoctocat.com",
         "mysql.com",
@@ -653,9 +665,6 @@
         "youtrack.cloud",
         "ziglang.org",
         "zsh.org"
-      ],
-      "domain_keyword": [
-        "jetbrains"
       ],
       "domain_regex": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$"
     }

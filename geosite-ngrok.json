@@ -3,10 +3,17 @@
   "rules": [
     {
       "domain_suffix": [
-        "equinox.io"
-      ],
-      "domain_keyword": [
-        "ngrok"
+        "equinox.io",
+        "ngrok-agent.com",
+        "ngrok-free.app",
+        "ngrok-free.dev",
+        "ngrok-free.pizza",
+        "ngrok.app",
+        "ngrok.com",
+        "ngrok.dev",
+        "ngrok.io",
+        "ngrok.pizza",
+        "ngrok.pro"
       ]
     }
   ]

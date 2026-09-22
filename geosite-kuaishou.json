@@ -4,7 +4,8 @@
     {
       "domain": [
         "apilog-web.acfun.cn",
-        "log-sdk.gifshow.com"
+        "log-sdk.gifshow.com",
+        "wlog.kuaishou.com"
       ],
       "domain_suffix": [
         "ac.fun",
@@ -17,6 +18,8 @@
         "adkwai.com",
         "adukwai.com",
         "aixifan.com",
+        "e.kuaishou.cn",
+        "e.kuaishou.com",
         "eckwai.com",
         "ecukwai.com",
         "gifshow.com",
@@ -25,6 +28,11 @@
         "ksapisrv.com",
         "kskwai.com",
         "kspkg.com",
+        "kuaishou.cn",
+        "kuaishou.com",
+        "kuaishouapps.com",
+        "kuaishoupay.com",
+        "kuaishouzt.com",
         "kwaicdn.com",
         "kwaishop.com",
         "kwaixiaodian.com",
@@ -37,9 +45,6 @@
         "wskwai.com",
         "wsukwai.com",
         "yximgs.com"
-      ],
-      "domain_keyword": [
-        "kuaishou"
       ]
     }
   ]

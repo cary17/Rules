@@ -28,6 +28,19 @@
         "fdroid.org",
         "globalsecurity.org",
         "globalspec.com",
+        "grapheneos.app",
+        "grapheneos.ca",
+        "grapheneos.com",
+        "grapheneos.dev",
+        "grapheneos.foundation",
+        "grapheneos.info",
+        "grapheneos.net",
+        "grapheneos.network",
+        "grapheneos.online",
+        "grapheneos.org",
+        "grapheneos.ovh",
+        "grapheneos.page",
+        "grapheneos.social",
         "grss-ieee.org",
         "iana.org",
         "iccf.com",
@@ -112,9 +125,6 @@
         "worldemojiday.com",
         "wto.org",
         "xn--yt8h.la"
-      ],
-      "domain_keyword": [
-        "grapheneos"
       ]
     }
   ]

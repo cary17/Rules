@@ -2,16 +2,43 @@
   "version": 1,
   "rules": [
     {
-      "domain": [],
+      "domain": [
+        "images-cn-8.ssl-images-amazon.com",
+        "images-cn.ssl-images-amazon.com"
+      ],
       "domain_suffix": [
         "a2z.org.cn",
+        "aboutamazon.cn",
         "alexafund.cn",
         "alexafund.com.cn",
+        "amazon.cn",
+        "amazonaws.cn",
+        "amazonaws.com.cn",
+        "amazonbusiness.cn",
+        "amazonbusiness.com.cn",
+        "amazonchoice.cn",
+        "amazonchoice.com.cn",
+        "amazonchoices.cn",
+        "amazonchoices.com.cn",
+        "amazoninspire.cn",
+        "amazoninspire.com.cn",
+        "amazonlaunchpad.cn",
+        "amazonlaunchpad.com.cn",
+        "amazonlending.com.cn",
+        "amazonnow.cn",
+        "amazonnow.com.cn",
+        "amazonprimevideo.cn",
+        "amazonprimevideo.com.cn",
+        "amazonwebservices.cn",
+        "amazonwebservices.com.cn",
+        "amazonworkdocs.cn",
+        "amazonworkdocs.com.cn",
         "amzndns-cn.biz",
         "amzndns-cn.cn",
         "amzndns-cn.com",
         "amzndns-cn.net",
         "asfiovnxocqpcry.com.cn",
+        "assoc-amazon.cn",
         "aws-border.cn",
         "aws-icp-domain-manager.cn",
         "awsapps.cn",
@@ -33,9 +60,6 @@
         "sagemaker.com.cn",
         "yamaxun.cn",
         "z.cn"
-      ],
-      "domain_keyword": [
-        "amazon"
       ],
       "domain_regex": [
         ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",

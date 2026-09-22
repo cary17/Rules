@@ -3,7 +3,10 @@
   "rules": [
     {
       "domain": [
-        "d1unuk07s6td74.cloudfront.net"
+        "d1unuk07s6td74.cloudfront.net",
+        "roblox-load-generator-configuration.s3.us-east-2.amazonaws.com",
+        "roblox-poc.global.ssl.fastly.net",
+        "robloxcorp.s.llnwi.net"
       ],
       "domain_suffix": [
         "blox.com",
@@ -22,11 +25,34 @@
         "ro-blox.com",
         "roadblocks.com",
         "roblocks.com",
+        "roblox-api.arkoselabs.com",
+        "roblox.ca",
+        "roblox.cc",
+        "roblox.cl",
+        "roblox.co.jp",
+        "roblox.co.uk",
+        "roblox.com",
+        "roblox.de",
+        "roblox.dk",
+        "roblox.eu",
+        "roblox.fr",
+        "roblox.hu",
+        "roblox.it",
+        "roblox.jp",
+        "roblox.kr",
+        "roblox.mx",
+        "roblox.net",
+        "roblox.org",
+        "roblox.ph",
+        "roblox.pt",
+        "roblox.sk",
+        "roblox.tv",
+        "roblox.uk",
+        "roblox.us",
+        "roblox.vn",
+        "robloxlabs.com",
         "rowblocks.com",
         "rowblox.com"
-      ],
-      "domain_keyword": [
-        "roblox"
       ]
     }
   ]

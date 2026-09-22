@@ -12,6 +12,14 @@
         "hotsrv.de",
         "luckysrv.de",
         "megasrv.de",
+        "netcup-news.de",
+        "netcup-sonderangebote.de",
+        "netcup-wiki.de",
+        "netcup.cafe",
+        "netcup.com",
+        "netcup.de",
+        "netcup.eu",
+        "netcup.net",
         "nicesrv.de",
         "powersrv.de",
         "quicksrv.de",
@@ -19,9 +27,6 @@
         "supersrv.de",
         "ultrasrv.de",
         "yourvserver.net"
-      ],
-      "domain_keyword": [
-        "netcup"
       ]
     }
   ]
