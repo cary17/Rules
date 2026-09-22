@@ -1,8 +1,8 @@
 # NAME: baishancloud
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 domain_suffix_set:
-  - bsclink.cn
-  - qingcdn.com
-  - trpcdn.net
+  - "bsclink.cn"
+  - "qingcdn.com"
+  - "trpcdn.net"

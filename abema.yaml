@@ -1,20 +1,28 @@
 # NAME: abema
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 12
-# TOTAL: 13
+# UPDATED: 2026-09-22
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 16
+# TOTAL: 21
+domain_set:
+  - "abematv.akamaized.net"
+  - "ds-linear-abematv.akamaized.net"
+  - "ds-vod-abematv.akamaized.net"
+  - "linear-abematv.akamaized.net"
+  - "vod-abematv.akamaized.net"
 domain_suffix_set:
-  - adx.promo
-  - ameba.jp
-  - amebame.com
-  - amebaownd.com
-  - amebaowndme.com
-  - ameblo.jp
-  - bucketeer.jp
-  - dokusho-ojikan.jp
-  - hayabusa.dev
-  - hayabusa.io
-  - hayabusa.media
-  - winticket.jp
-domain_keyword_set:
-  - abema
+  - "abema-tv.com"
+  - "abema.io"
+  - "abema.tv"
+  - "abematv.co.jp"
+  - "adx.promo"
+  - "ameba.jp"
+  - "amebame.com"
+  - "amebaownd.com"
+  - "amebaowndme.com"
+  - "ameblo.jp"
+  - "bucketeer.jp"
+  - "dokusho-ojikan.jp"
+  - "hayabusa.dev"
+  - "hayabusa.io"
+  - "hayabusa.media"
+  - "winticket.jp"

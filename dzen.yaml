@@ -1,9 +1,9 @@
 # NAME: dzen
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - dzen.ru
-  - dzeninfra.ru
-  - log.dzen.ru
-  - ms.dzen.ru
+  - "dzen.ru"
+  - "dzeninfra.ru"
+  - "log.dzen.ru"
+  - "ms.dzen.ru"

@@ -1,6 +1,17 @@
 # NAME: drweb
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# TOTAL: 1
-domain_keyword_set:
-  - drweb
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+domain_suffix_set:
+  - "drweb-av.de"
+  - "drweb-av.es"
+  - "drweb-av.it"
+  - "drweb-av.pl"
+  - "drweb.by"
+  - "drweb.cn"
+  - "drweb.co.jp"
+  - "drweb.com"
+  - "drweb.fr"
+  - "drweb.kz"
+  - "drweb.ru"
+  - "drweb.uz"

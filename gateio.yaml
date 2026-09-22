@@ -1,13 +1,13 @@
 # NAME: gateio
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 domain_suffix_set:
-  - gate.com
-  - gate.io
-  - gate.tv
-  - gateapi.io
-  - gatedata.org
-  - gateimg.com
-  - gateio.live
-  - gateio.services
+  - "gate.com"
+  - "gate.io"
+  - "gate.tv"
+  - "gateapi.io"
+  - "gatedata.org"
+  - "gateimg.com"
+  - "gateio.live"
+  - "gateio.services"

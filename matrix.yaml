@@ -1,14 +1,14 @@
 # NAME: matrix
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 domain_suffix_set:
-  - arewereadyyet.com
-  - cinny.in
-  - element.io
-  - fluffychat.im
-  - matrix.org
-  - matrix.to
-  - modular.im
-  - riot.im
-  - vector.im
+  - "arewereadyyet.com"
+  - "cinny.in"
+  - "element.io"
+  - "fluffychat.im"
+  - "matrix.org"
+  - "matrix.to"
+  - "modular.im"
+  - "riot.im"
+  - "vector.im"

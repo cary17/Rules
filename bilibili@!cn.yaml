@@ -1,11 +1,11 @@
 # NAME: bilibili@!cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 3
 # TOTAL: 4
 domain_set:
-  - upos-hz-mirrorakam.akamaized.net
+  - "upos-hz-mirrorakam.akamaized.net"
 domain_suffix_set:
-  - bilibili.tv
-  - biliintl.com
-  - dreamcast.hk
+  - "bilibili.tv"
+  - "biliintl.com"
+  - "dreamcast.hk"

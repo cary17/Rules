@@ -1,7 +1,7 @@
 # NAME: translatewiki
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
 domain_suffix_set:
-  - translatewiki.net
-  - translatewiki.org
+  - "translatewiki.net"
+  - "translatewiki.org"

@@ -1,9 +1,19 @@
 # NAME: alibabacloud
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# UPDATED: 2026-09-22
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 8
+# TOTAL: 12
+domain_set:
+  - "account-cn.alibabacloud.com"
+  - "api.alibabacloud.com"
+  - "cn.alibabacloud.com"
+  - "status.alibabacloud.com"
 domain_suffix_set:
-  - alicloud.com
-domain_keyword_set:
-  - alibabacloud
+  - "alibabacloud.co.in"
+  - "alibabacloud.com"
+  - "alibabacloud.com.au"
+  - "alibabacloud.com.hk"
+  - "alibabacloud.com.my"
+  - "alibabacloud.com.sg"
+  - "alibabacloud.com.tw"
+  - "alicloud.com"

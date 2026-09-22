@@ -1,14 +1,14 @@
 # NAME: chinanews
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 domain_suffix_set:
-  - chinanews.com
-  - chinanews.com.cn
-  - chinaqw.com
-  - cns.com.cn
-  - cnsimg.net
-  - ecns.cn
-  - inewsweek.cn
-  - jwview.com
-  - xinmeng.info
+  - "chinanews.com"
+  - "chinanews.com.cn"
+  - "chinaqw.com"
+  - "cns.com.cn"
+  - "cnsimg.net"
+  - "ecns.cn"
+  - "inewsweek.cn"
+  - "jwview.com"
+  - "xinmeng.info"

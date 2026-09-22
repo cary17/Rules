@@ -1,8 +1,8 @@
 # NAME: 5ch
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 domain_suffix_set:
-  - 2ch.net
-  - 5ch.io
-  - 5ch.net
+  - "2ch.net"
+  - "5ch.io"
+  - "5ch.net"

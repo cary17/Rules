@@ -1,11 +1,11 @@
 # NAME: sonemic
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 domain_suffix_set:
-  - glitchwave.com
-  - rateyourmusic.com
-  - rym.fm
-  - snmc.io
-  - sonematic.net
-  - sonemic.com
+  - "glitchwave.com"
+  - "rateyourmusic.com"
+  - "rym.fm"
+  - "snmc.io"
+  - "sonematic.net"
+  - "sonemic.com"

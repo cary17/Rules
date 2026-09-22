@@ -1,9 +1,9 @@
 # NAME: nhk
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - .nhk
-  - nhk.jp
-  - nhk.or.jp
-  - nhkworld.jp
+  - ".nhk"
+  - "nhk.jp"
+  - "nhk.or.jp"
+  - "nhkworld.jp"

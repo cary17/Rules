@@ -1,9 +1,9 @@
 # NAME: okko
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - okko.sport
-  - okko.tv
-  - okkoapi.tv
-  - playfamily.ru
+  - "okko.sport"
+  - "okko.tv"
+  - "okkoapi.tv"
+  - "playfamily.ru"

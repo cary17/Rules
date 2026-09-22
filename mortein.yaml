@@ -1,9 +1,16 @@
 # NAME: mortein
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 domain_suffix_set:
-  - pifpafarabia.com
-domain_keyword_set:
-  - mortein
+  - "mortein.cn"
+  - "mortein.co.in"
+  - "mortein.co.nz"
+  - "mortein.co.za"
+  - "mortein.com"
+  - "mortein.com.au"
+  - "mortein.com.br"
+  - "mortein.com.ng"
+  - "mortein.com.pk"
+  - "morteincam.com"
+  - "pifpafarabia.com"

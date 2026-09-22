@@ -1,12 +1,12 @@
 # NAME: category-travel-ir
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 domain_suffix_set:
-  - alibaba.ir
-  - flightio.com
-  - mrbilit.com
-  - tap30.services
-  - tap33.me
-  - tapsi.cab
-  - tapsi.ir
+  - "alibaba.ir"
+  - "flightio.com"
+  - "mrbilit.com"
+  - "tap30.services"
+  - "tap33.me"
+  - "tapsi.cab"
+  - "tapsi.ir"

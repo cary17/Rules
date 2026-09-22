@@ -1,9 +1,9 @@
 # NAME: ikea@cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - ikea.cn
-  - ingka-dt.cn
-  - ingka-internal.cn
-  - ingka-system.cn
+  - "ikea.cn"
+  - "ingka-dt.cn"
+  - "ingka-internal.cn"
+  - "ingka-system.cn"

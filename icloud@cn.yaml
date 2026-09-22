@@ -1,6 +1,13 @@
 # NAME: icloud@cn
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# TOTAL: 1
-domain_keyword_set:
-  - icloud
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+domain_suffix_set:
+  - "apple-icloud.cn"
+  - "appleicloud.cn"
+  - "icloud-apple.cn"
+  - "icloud-content.com.cn"
+  - "icloud.cn"
+  - "icloud.com.cn"
+  - "icloud.net.cn"
+  - "icloudapple.cn"

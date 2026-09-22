@@ -1,10 +1,10 @@
 # NAME: bitauto
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 domain_suffix_set:
-  - bitauto.com
-  - bitautoimg.com
-  - cheyisou.com
-  - yccdn.com
-  - yiche.com
+  - "bitauto.com"
+  - "bitautoimg.com"
+  - "cheyisou.com"
+  - "yccdn.com"
+  - "yiche.com"

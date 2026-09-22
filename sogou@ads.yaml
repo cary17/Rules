@@ -1,6 +1,13 @@
 # NAME: sogou@ads
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# TOTAL: 1
-domain_keyword_set:
-  - sogou
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+domain_suffix_set:
+  - "inte.sogou.com"
+  - "inte.sogoucdn.com"
+  - "lu.sogou.com"
+  - "lu.sogoucdn.com"
+  - "pb.i.sogou.com"
+  - "theta.sogoucdn.com"
+  - "uranus.sogou.com"
+  - "wuliao.epro.sogou.com"

@@ -1,12 +1,17 @@
 # NAME: longbridge
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 4
-# TOTAL: 5
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 domain_suffix_set:
-  - lbctrl.com
-  - lbkrs.com
-  - longportapp.com
-  - wbrks.com
-domain_keyword_set:
-  - longbridge
+  - "lbctrl.com"
+  - "lbkrs.com"
+  - "longbridge.cloud"
+  - "longbridge.cn"
+  - "longbridge.com"
+  - "longbridge.global"
+  - "longbridge.hk"
+  - "longbridge.sg"
+  - "longbridgeapp.com"
+  - "longbridgehk.com"
+  - "longportapp.com"
+  - "wbrks.com"

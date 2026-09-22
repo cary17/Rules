@@ -1,9 +1,18 @@
 # NAME: whatsapp
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 domain_suffix_set:
-  - wa.me
-domain_keyword_set:
-  - whatsapp
+  - "graph.whatsapp.com"
+  - "graph.whatsapp.net"
+  - "wa.me"
+  - "whatsapp-plus.info"
+  - "whatsapp-plus.me"
+  - "whatsapp-plus.net"
+  - "whatsapp.cc"
+  - "whatsapp.com"
+  - "whatsapp.info"
+  - "whatsapp.net"
+  - "whatsapp.org"
+  - "whatsapp.tv"
+  - "whatsappbrand.com"

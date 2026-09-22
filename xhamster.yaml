@@ -1,19 +1,26 @@
 # NAME: xhamster
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 8
-# TOTAL: 10
+# DOMAIN-SUFFIX: 18
+# TOTAL: 19
 domain_set:
-  - widgets.stripst.com
+  - "widgets.stripst.com"
 domain_suffix_set:
-  - freexh.blog
-  - freexh.live
-  - netxh.blog
-  - xhapp.live
-  - xhcdn.com
-  - xhnews.live
-  - xhpingcdn.com
-  - xhreal5.com
-domain_keyword_set:
-  - xhamster
+  - "collector.xhamster.com"
+  - "freexh.blog"
+  - "freexh.live"
+  - "netxh.blog"
+  - "xhamster.com"
+  - "xhamster.desi"
+  - "xhamster.xxx"
+  - "xhamster18.com"
+  - "xhamster18.desi"
+  - "xhamster19.com"
+  - "xhamster2.com"
+  - "xhamster3.com"
+  - "xhamsterlive.com"
+  - "xhapp.live"
+  - "xhcdn.com"
+  - "xhnews.live"
+  - "xhpingcdn.com"
+  - "xhreal5.com"

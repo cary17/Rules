@@ -1,11 +1,11 @@
 # NAME: category-enhance-gaming@cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 domain_suffix_set:
-  - heavenlywind.cc
-  - ldmnq.com
-  - lsplayer.com
-  - rpglogs.cn
-  - steampp.net
-  - yeshen.com
+  - "heavenlywind.cc"
+  - "ldmnq.com"
+  - "lsplayer.com"
+  - "rpglogs.cn"
+  - "steampp.net"
+  - "yeshen.com"

@@ -1,16 +1,22 @@
 # NAME: zscaler
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 8
-# TOTAL: 9
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 17
+# TOTAL: 17
 domain_suffix_set:
-  - securecloudtransformation.com
-  - securitypreview.com
-  - threatlabz.com
-  - zdxbeta.net
-  - zdxcloud.net
-  - zpagov.net
-  - zpath.com
-  - zscloud.net
-domain_keyword_set:
-  - zscaler
+  - "securecloudtransformation.com"
+  - "securitypreview.com"
+  - "threatlabz.com"
+  - "zdxbeta.net"
+  - "zdxcloud.net"
+  - "zpagov.net"
+  - "zpath.com"
+  - "zscaler.com"
+  - "zscaler.jp"
+  - "zscaler.net"
+  - "zscalerbeta.net"
+  - "zscalergov.net"
+  - "zscalerone.net"
+  - "zscalershift.com"
+  - "zscalerthree.net"
+  - "zscalertwo.net"
+  - "zscloud.net"

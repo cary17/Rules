@@ -1,11 +1,11 @@
 # NAME: nvidia@cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 3
 # TOTAL: 4
 domain_set:
-  - cn.download.nvidia.com
+  - "cn.download.nvidia.com"
 domain_suffix_set:
-  - geforce.cn
-  - gputechconf.cn
-  - nvidia.cn
+  - "geforce.cn"
+  - "gputechconf.cn"
+  - "nvidia.cn"

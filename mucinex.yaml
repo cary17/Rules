@@ -1,6 +1,13 @@
 # NAME: mucinex
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# TOTAL: 1
-domain_keyword_set:
-  - mucinex
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+domain_suffix_set:
+  - "mucinex.ca"
+  - "mucinex.cn"
+  - "mucinex.co.nz"
+  - "mucinex.com"
+  - "mucinex.com.cn"
+  - "mucinex.net"
+  - "mucinex.tv"
+  - "mucinexprofessional.com"

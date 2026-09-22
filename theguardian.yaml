@@ -1,14 +1,14 @@
 # NAME: theguardian
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 domain_suffix_set:
-  - dev-guardianapis.com
-  - dev-theguardian.com
-  - gu-web.net
-  - guardianapis.com
-  - guardianapps.co.uk
-  - guim.co.uk
-  - guimcode.co.uk
-  - theguardian.com
-  - theguardiandns.com
+  - "dev-guardianapis.com"
+  - "dev-theguardian.com"
+  - "gu-web.net"
+  - "guardianapis.com"
+  - "guardianapps.co.uk"
+  - "guim.co.uk"
+  - "guimcode.co.uk"
+  - "theguardian.com"
+  - "theguardiandns.com"

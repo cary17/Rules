@@ -1,7 +1,7 @@
 # NAME: epicgames@cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-REGEX: 2
 # TOTAL: 2
 domain_regex_set:
-  - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-  - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"

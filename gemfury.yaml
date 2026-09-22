@@ -1,11 +1,11 @@
 # NAME: gemfury
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 domain_suffix_set:
-  - fury.blog
-  - fury.co
-  - fury.dev
-  - fury.help
-  - fury.io
-  - gemfury.com
+  - "fury.blog"
+  - "fury.co"
+  - "fury.dev"
+  - "fury.help"
+  - "fury.io"
+  - "gemfury.com"

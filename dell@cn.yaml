@@ -1,12 +1,12 @@
 # NAME: dell@cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 domain_suffix_set:
-  - dell-alw.com
-  - dell-brand.com
-  - dell.com.cn
-  - dellemc.com.cn
-  - dellmobile.cn
-  - delltechnologies.com.cn
-  - platform.dell.com
+  - "dell-alw.com"
+  - "dell-brand.com"
+  - "dell.com.cn"
+  - "dellemc.com.cn"
+  - "dellmobile.cn"
+  - "delltechnologies.com.cn"
+  - "platform.dell.com"

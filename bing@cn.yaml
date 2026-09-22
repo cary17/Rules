@@ -1,15 +1,15 @@
 # NAME: bing@cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 7
 # TOTAL: 8
 domain_set:
-  - bj1.api.bing.com
+  - "bj1.api.bing.com"
 domain_suffix_set:
-  - bing.com.cn
-  - cn.bing.com
-  - cn.bing.net
-  - cn.mm.bing.net
-  - ditu.live.com
-  - r.bing.com
-  - th.bing.com
+  - "bing.com.cn"
+  - "cn.bing.com"
+  - "cn.bing.net"
+  - "cn.mm.bing.net"
+  - "ditu.live.com"
+  - "r.bing.com"
+  - "th.bing.com"

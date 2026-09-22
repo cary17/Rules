@@ -1,15 +1,23 @@
 # NAME: archive
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 7
-# TOTAL: 8
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
 domain_suffix_set:
-  - 4pcdn.org
-  - 4plebs.org
-  - megalodon.jp
-  - mementoweb.org
-  - openlibrary.org
-  - perma.cc
-  - webcitation.org
-domain_keyword_set:
-  - archive
+  - "4pcdn.org"
+  - "4plebs.org"
+  - "archive-it.org"
+  - "archive.fo"
+  - "archive.is"
+  - "archive.li"
+  - "archive.md"
+  - "archive.org"
+  - "archive.ph"
+  - "archive.today"
+  - "archive.vn"
+  - "eotarchive.org"
+  - "ghostarchive.org"
+  - "megalodon.jp"
+  - "mementoweb.org"
+  - "openlibrary.org"
+  - "perma.cc"
+  - "webcitation.org"

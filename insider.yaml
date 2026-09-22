@@ -1,7 +1,21 @@
 # NAME: insider
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 2
-# TOTAL: 2
-domain_keyword_set:
-  - businessinsider
-  - insider
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
+domain_suffix_set:
+  - "businessinsider.co.za"
+  - "businessinsider.com"
+  - "businessinsider.com.au"
+  - "businessinsider.com.pl"
+  - "businessinsider.de"
+  - "businessinsider.es"
+  - "businessinsider.fr"
+  - "businessinsider.in"
+  - "businessinsider.jp"
+  - "businessinsider.mx"
+  - "businessinsider.my"
+  - "businessinsider.nl"
+  - "businessinsider.sg"
+  - "insider-intelligence.com"
+  - "insider.com"
+  - "insiderintelligence.com"

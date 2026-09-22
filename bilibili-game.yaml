@@ -1,11 +1,11 @@
 # NAME: bilibili-game
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 domain_suffix_set:
-  - bilibiligame.cn
-  - bilibiligame.co
-  - bilibiligame.net
-  - biligame.co
-  - biligame.com
-  - biligame.net
+  - "bilibiligame.cn"
+  - "bilibiligame.co"
+  - "bilibiligame.net"
+  - "biligame.co"
+  - "biligame.com"
+  - "biligame.net"

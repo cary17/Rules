@@ -1,18 +1,24 @@
 # NAME: vimeo
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 7
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 16
 # DOMAIN-REGEX: 1
-# TOTAL: 9
+# TOTAL: 17
 domain_suffix_set:
-  - livestream.com
-  - vhx.tv
-  - vhxqa1.com
-  - vhxqa2.com
-  - vhxqa3.com
-  - vhxqa4.com
-  - vhxqa6.com
-domain_keyword_set:
-  - vimeo
+  - "livestream.com"
+  - "vhx.tv"
+  - "vhxqa1.com"
+  - "vhxqa2.com"
+  - "vhxqa3.com"
+  - "vhxqa4.com"
+  - "vhxqa6.com"
+  - "vimeo-staging.com"
+  - "vimeo-staging2.com"
+  - "vimeo.com"
+  - "vimeo.fr"
+  - "vimeobusiness.com"
+  - "vimeocdn.com"
+  - "vimeogoods.com"
+  - "vimeoondemand.com"
+  - "vimeostatus.com"
 domain_regex_set:
-  - ^[0-9]+vod-adaptive\.akamaized\.net$
+  - "^[0-9]+vod-adaptive\\.akamaized\\.net$"

@@ -1,8 +1,8 @@
 # NAME: letsencrypt
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 domain_suffix_set:
-  - lencr.org
-  - letsencrypt.com
-  - letsencrypt.org
+  - "lencr.org"
+  - "letsencrypt.com"
+  - "letsencrypt.org"

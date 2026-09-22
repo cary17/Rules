@@ -1,14 +1,14 @@
 # NAME: olevod
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 domain_suffix_set:
-  - haiwaikan.com
-  - iole.tv
-  - olehd.com
-  - olelive.com
-  - olemovienews.com
-  - olevod.com
-  - olevod.io
-  - olevod.tv
-  - olevodtv.com
+  - "haiwaikan.com"
+  - "iole.tv"
+  - "olehd.com"
+  - "olelive.com"
+  - "olemovienews.com"
+  - "olevod.com"
+  - "olevod.io"
+  - "olevod.tv"
+  - "olevodtv.com"

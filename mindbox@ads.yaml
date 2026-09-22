@@ -1,9 +1,17 @@
 # NAME: mindbox@ads
-# UPDATED: 2026-09-21
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# TOTAL: 2
+# UPDATED: 2026-09-22
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 3
+# TOTAL: 10
 domain_set:
-  - sentry.popmechanic.ru
-domain_keyword_set:
-  - mindbox
+  - "api-js.mindbox.ru"
+  - "api-ru.mindbox.cloud"
+  - "api-staging.mindbox.ru"
+  - "api.mindbox.cloud"
+  - "api.mindbox.ru"
+  - "sentry.mindbox.ru"
+  - "sentry.popmechanic.ru"
+domain_suffix_set:
+  - "e.mindbox.ru"
+  - "g.mindbox.ru"
+  - "s.mindbox.ru"

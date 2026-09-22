@@ -1,10 +1,10 @@
 # NAME: category-media@cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 domain_suffix_set:
-  - cn-cdn1.skymansion.net
-  - etnet.com.cn
-  - etnetchina.com.cn
-  - thetype.cloud
-  - tvbc.com.cn
+  - "cn-cdn1.skymansion.net"
+  - "etnet.com.cn"
+  - "etnetchina.com.cn"
+  - "thetype.cloud"
+  - "tvbc.com.cn"

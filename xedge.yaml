@@ -1,9 +1,9 @@
 # NAME: xedge
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - ganjiangvpn.com
-  - glxcc.net
-  - xedge.cc
-  - xn0.cc
+  - "ganjiangvpn.com"
+  - "glxcc.net"
+  - "xedge.cc"
+  - "xn0.cc"

@@ -1,9 +1,9 @@
 # NAME: embark
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - arcraiders.com
-  - embark-studios.com
-  - embark.games
-  - reachthefinals.com
+  - "arcraiders.com"
+  - "embark-studios.com"
+  - "embark.games"
+  - "reachthefinals.com"

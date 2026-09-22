@@ -1,18 +1,18 @@
 # NAME: category-hospital-cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 9
 # TOTAL: 11
 domain_set:
-  - hospital.pku.edu.cn
-  - ss.bjmu.edu.cn
+  - "hospital.pku.edu.cn"
+  - "ss.bjmu.edu.cn"
 domain_suffix_set:
-  - ba-hospital.com
-  - cd120.com
-  - cd120.info
-  - fuwai.com
-  - hnxzctec.com
-  - pkuh6.cn
-  - puh3.net.cn
-  - smuszh.com
-  - yctdyy.com
+  - "ba-hospital.com"
+  - "cd120.com"
+  - "cd120.info"
+  - "fuwai.com"
+  - "hnxzctec.com"
+  - "pkuh6.cn"
+  - "puh3.net.cn"
+  - "smuszh.com"
+  - "yctdyy.com"

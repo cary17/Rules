@@ -1,9 +1,9 @@
 # NAME: op
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 1
 # TOTAL: 2
 domain_set:
-  - opgg-static.akamaized.net
+  - "opgg-static.akamaized.net"
 domain_suffix_set:
-  - op.gg
+  - "op.gg"

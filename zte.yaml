@@ -1,12 +1,12 @@
 # NAME: zte
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 domain_suffix_set:
-  - nubia.cn
-  - nubia.com
-  - redmagic.com
-  - zte.com.cn
-  - ztedevices.com
-  - ztemall.com
-  - ztems.com
+  - "nubia.cn"
+  - "nubia.com"
+  - "redmagic.com"
+  - "zte.com.cn"
+  - "ztedevices.com"
+  - "ztemall.com"
+  - "ztems.com"

@@ -1,11 +1,11 @@
 # NAME: patreon
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 3
 # TOTAL: 4
 domain_set:
-  - live-patreon-marketing.pantheonsite.io
+  - "live-patreon-marketing.pantheonsite.io"
 domain_suffix_set:
-  - patreon.com
-  - patreoncommunity.com
-  - patreonusercontent.com
+  - "patreon.com"
+  - "patreoncommunity.com"
+  - "patreonusercontent.com"

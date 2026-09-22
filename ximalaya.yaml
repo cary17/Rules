@@ -1,10 +1,10 @@
 # NAME: ximalaya
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 domain_suffix_set:
-  - adbehavior.ximalaya.com
-  - adse.wsa.ximalaya.com
-  - adse.ximalaya.com
-  - ximalaya.com
-  - xmcdn.com
+  - "adbehavior.ximalaya.com"
+  - "adse.wsa.ximalaya.com"
+  - "adse.ximalaya.com"
+  - "ximalaya.com"
+  - "xmcdn.com"

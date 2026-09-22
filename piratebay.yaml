@@ -1,9 +1,9 @@
 # NAME: piratebay
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - apibay.org
-  - pirates-forum.org
-  - thepiratebay.org
-  - torrindex.net
+  - "apibay.org"
+  - "pirates-forum.org"
+  - "thepiratebay.org"
+  - "torrindex.net"

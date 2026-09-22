@@ -1,17 +1,29 @@
 # NAME: mindbox
-# UPDATED: 2026-09-21
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 6
-# TOTAL: 8
+# UPDATED: 2026-09-22
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 15
+# TOTAL: 22
 domain_set:
-  - sentry.popmechanic.ru
+  - "api-js.mindbox.ru"
+  - "api-ru.mindbox.cloud"
+  - "api-staging.mindbox.ru"
+  - "api.mindbox.cloud"
+  - "api.mindbox.ru"
+  - "sentry.mindbox.ru"
+  - "sentry.popmechanic.ru"
 domain_suffix_set:
-  - botmechanic.io
-  - ceosummit.ru
-  - mind-box.ru
-  - popmechanic.io
-  - popmechanic.ru
-  - summitceo.ru
-domain_keyword_set:
-  - mindbox
+  - "botmechanic.io"
+  - "ceosummit.ru"
+  - "e.mindbox.ru"
+  - "g.mindbox.ru"
+  - "mind-box.ru"
+  - "mindbox-notifications.ru"
+  - "mindbox.cloud"
+  - "mindbox.group"
+  - "mindbox.ru"
+  - "mindbox.site"
+  - "mindbox.so"
+  - "popmechanic.io"
+  - "popmechanic.ru"
+  - "s.mindbox.ru"
+  - "summitceo.ru"

@@ -1,15 +1,15 @@
 # NAME: dedao
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 10
 # TOTAL: 10
 domain_suffix_set:
-  - biji.com
-  - ddmogo.com
-  - dedao.cn
-  - igetget.cn
-  - igetget.com
-  - luojilab.com
-  - mogoo.com
-  - sao.cn
-  - saolife.com
-  - umiwi.com
+  - "biji.com"
+  - "ddmogo.com"
+  - "dedao.cn"
+  - "igetget.cn"
+  - "igetget.com"
+  - "luojilab.com"
+  - "mogoo.com"
+  - "sao.cn"
+  - "saolife.com"
+  - "umiwi.com"

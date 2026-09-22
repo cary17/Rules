@@ -1,9 +1,9 @@
 # NAME: barrons
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - barrons-advisor.com
-  - barrons-conferences.com
-  - barrons.com
-  - wsjbarrons.com
+  - "barrons-advisor.com"
+  - "barrons-conferences.com"
+  - "barrons.com"
+  - "wsjbarrons.com"

@@ -1,15 +1,15 @@
 # NAME: qiniu
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 10
 # TOTAL: 10
 domain_suffix_set:
-  - qbox.me
-  - qiniu.com
-  - qiniucdn.com
-  - qiniudn.com
-  - qiniudns.com
-  - qiniup.com
-  - qnsdk.com
-  - qnssl.com
-  - staticfile.net
-  - staticfile.org
+  - "qbox.me"
+  - "qiniu.com"
+  - "qiniucdn.com"
+  - "qiniudn.com"
+  - "qiniudns.com"
+  - "qiniup.com"
+  - "qnsdk.com"
+  - "qnssl.com"
+  - "staticfile.net"
+  - "staticfile.org"

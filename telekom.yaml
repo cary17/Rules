@@ -1,8 +1,8 @@
 # NAME: telekom
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
 domain_suffix_set:
-  - telekom.com
-  - telekom.de
-  - telesec.de
+  - "telekom.com"
+  - "telekom.de"
+  - "telesec.de"

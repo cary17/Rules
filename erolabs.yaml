@@ -1,13 +1,18 @@
 # NAME: erolabs
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 5
-# TOTAL: 6
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 domain_suffix_set:
-  - erolabs.cloud
-  - erolabs.com
-  - erolabs.net
-  - erolabs.online
-  - erolabsshare.xyz
-domain_keyword_set:
-  - ero-labs
+  - "ero-labs.cloud"
+  - "ero-labs.com"
+  - "ero-labs.fun"
+  - "ero-labs.io"
+  - "ero-labs.net"
+  - "ero-labs.one"
+  - "ero-labs.online"
+  - "ero-labs.site"
+  - "erolabs.cloud"
+  - "erolabs.com"
+  - "erolabs.net"
+  - "erolabs.online"
+  - "erolabsshare.xyz"

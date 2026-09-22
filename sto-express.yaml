@@ -1,11 +1,11 @@
 # NAME: sto-express
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 domain_suffix_set:
-  - sto-express.cn
-  - sto-express.com
-  - sto-express.com.cn
-  - sto.cn
-  - stointl.com
-  - stosolution.com
+  - "sto-express.cn"
+  - "sto-express.com"
+  - "sto-express.com.cn"
+  - "sto.cn"
+  - "stointl.com"
+  - "stosolution.com"

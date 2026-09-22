@@ -1,14 +1,14 @@
 # NAME: wix
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 domain_suffix_set:
-  - editorx.com
-  - parastorage.com
-  - wix-code.com
-  - wix.com
-  - wixanswers.com
-  - wixapps.net
-  - wixmp.com
-  - wixsite.com
-  - wixstatic.com
+  - "editorx.com"
+  - "parastorage.com"
+  - "wix-code.com"
+  - "wix.com"
+  - "wixanswers.com"
+  - "wixapps.net"
+  - "wixmp.com"
+  - "wixsite.com"
+  - "wixstatic.com"

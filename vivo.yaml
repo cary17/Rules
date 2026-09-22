@@ -1,13 +1,13 @@
 # NAME: vivo
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 domain_suffix_set:
-  - blueos.com.cn
-  - budingscan.com
-  - iqoo.com
-  - vivo.cn
-  - vivo.com
-  - vivo.com.cn
-  - vivoglobal.com
-  - vvstc.com
+  - "blueos.com.cn"
+  - "budingscan.com"
+  - "iqoo.com"
+  - "vivo.cn"
+  - "vivo.com"
+  - "vivo.com.cn"
+  - "vivoglobal.com"
+  - "vvstc.com"

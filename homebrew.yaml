@@ -1,9 +1,9 @@
 # NAME: homebrew
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 1
 # TOTAL: 2
 domain_set:
-  - homebrew.bintray.com
+  - "homebrew.bintray.com"
 domain_suffix_set:
-  - brew.sh
+  - "brew.sh"

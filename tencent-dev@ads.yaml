@@ -1,6 +1,6 @@
 # NAME: tencent-dev@ads
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 1
 # TOTAL: 1
 domain_suffix_set:
-  - badjs.weixinbridge.com
+  - "badjs.weixinbridge.com"

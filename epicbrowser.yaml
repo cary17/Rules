@@ -1,6 +1,6 @@
 # NAME: epicbrowser
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 1
 # TOTAL: 1
 domain_suffix_set:
-  - epicbrowser.com
+  - "epicbrowser.com"

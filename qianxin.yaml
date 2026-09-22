@@ -1,12 +1,12 @@
 # NAME: qianxin
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 domain_suffix_set:
-  - 95015.com
-  - ceati.org.cn
-  - datacon.org.cn
-  - qianxin.com
-  - qianxincdn.com
-  - seclab.online
-  - tianshucup.com
+  - "95015.com"
+  - "ceati.org.cn"
+  - "datacon.org.cn"
+  - "qianxin.com"
+  - "qianxincdn.com"
+  - "seclab.online"
+  - "tianshucup.com"

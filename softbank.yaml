@@ -1,10 +1,25 @@
 # NAME: softbank
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 2
-# TOTAL: 3
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
 domain_suffix_set:
-  - sb-mobile.jp
-  - sb-telecom.net
-domain_keyword_set:
-  - softbank
+  - ".softbank"
+  - "sb-mobile.jp"
+  - "sb-telecom.net"
+  - "softbank-ipo.com"
+  - "softbank-jp.com"
+  - "softbank-robotics.com"
+  - "softbank-telecom.com"
+  - "softbank-telecom.net"
+  - "softbank.jp"
+  - "softbank.tv"
+  - "softbankbb.com"
+  - "softbankbb.net"
+  - "softbankci.com"
+  - "softbankhawksstore.jp"
+  - "softbankmobile.net"
+  - "softbankrobotics.com"
+  - "softbanktelecom.com"
+  - "softbankusa.net"
+  - "softbankventuresasia.com"
+  - "softbankworld.com"

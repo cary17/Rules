@@ -1,18 +1,18 @@
 # NAME: category-android-app-download
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 10
 # TOTAL: 11
 domain_set:
-  - apkmirror.disqus.com
+  - "apkmirror.disqus.com"
 domain_suffix_set:
-  - apkcombo.com
-  - apkmirror.com
-  - apkpure.com
-  - apkpure.net
-  - apkpures.xyz
-  - cdnpure.com
-  - pureapk.com
-  - uptodown.com
-  - utdstc.com
-  - winudf.com
+  - "apkcombo.com"
+  - "apkmirror.com"
+  - "apkpure.com"
+  - "apkpure.net"
+  - "apkpures.xyz"
+  - "cdnpure.com"
+  - "pureapk.com"
+  - "uptodown.com"
+  - "utdstc.com"
+  - "winudf.com"

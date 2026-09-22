@@ -1,7 +1,7 @@
 # NAME: pinkcore
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
 domain_suffix_set:
-  - pinkcore.com
-  - pinkcore.net
+  - "pinkcore.com"
+  - "pinkcore.net"

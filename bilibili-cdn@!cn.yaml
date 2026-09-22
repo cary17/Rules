@@ -1,6 +1,6 @@
 # NAME: bilibili-cdn@!cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # TOTAL: 1
 domain_set:
-  - upos-hz-mirrorakam.akamaized.net
+  - "upos-hz-mirrorakam.akamaized.net"

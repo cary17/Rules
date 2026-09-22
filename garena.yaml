@@ -1,9 +1,23 @@
 # NAME: garena
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# UPDATED: 2026-09-22
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 12
+# TOTAL: 16
+domain_set:
+  - "avatargarenanow-a.akamaihd.net"
+  - "cdngarenanow-a.akamaihd.net"
+  - "dlgarenanow-a.akamaihd.net"
+  - "dlmobilegarena-a.akamaihd.net"
 domain_suffix_set:
-  - seagroup.com
-domain_keyword_set:
-  - garena
+  - "garena.co.id"
+  - "garena.co.th"
+  - "garena.com"
+  - "garena.live"
+  - "garena.my"
+  - "garena.ph"
+  - "garena.sg"
+  - "garena.tv"
+  - "garena.tw"
+  - "garena.vn"
+  - "garenanow.com"
+  - "seagroup.com"

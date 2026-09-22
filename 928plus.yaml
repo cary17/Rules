@@ -1,7 +1,7 @@
 # NAME: 928plus
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
 domain_suffix_set:
-  - 928.plus
-  - zind.cloud
+  - "928.plus"
+  - "zind.cloud"

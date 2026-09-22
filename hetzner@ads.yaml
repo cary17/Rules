@@ -1,6 +1,6 @@
 # NAME: hetzner@ads
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # TOTAL: 1
 domain_set:
-  - sentry.hetzner.company
+  - "sentry.hetzner.company"

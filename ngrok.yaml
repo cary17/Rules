@@ -1,9 +1,16 @@
 # NAME: ngrok
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 domain_suffix_set:
-  - equinox.io
-domain_keyword_set:
-  - ngrok
+  - "equinox.io"
+  - "ngrok-agent.com"
+  - "ngrok-free.app"
+  - "ngrok-free.dev"
+  - "ngrok-free.pizza"
+  - "ngrok.app"
+  - "ngrok.com"
+  - "ngrok.dev"
+  - "ngrok.io"
+  - "ngrok.pizza"
+  - "ngrok.pro"

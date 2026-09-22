@@ -1,14 +1,20 @@
 # NAME: verizon
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 6
-# TOTAL: 7
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
 domain_suffix_set:
-  - oath.cloud
-  - oath.com
-  - ouroath.com
-  - uplynk.com
-  - vzw.com
-  - xo.com
-domain_keyword_set:
-  - verizon
+  - "oath.cloud"
+  - "oath.com"
+  - "ouroath.com"
+  - "static-verizon.com"
+  - "uplynk.com"
+  - "verizon.com"
+  - "verizon.net"
+  - "verizonbusinessfios.com"
+  - "verizondigitalmedia.com"
+  - "verizonenterprise.com"
+  - "verizonfios.com"
+  - "verizonmedia.com"
+  - "verizonwireless.com"
+  - "vzw.com"
+  - "xo.com"

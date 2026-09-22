@@ -1,11 +1,11 @@
 # NAME: meizu
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 domain_suffix_set:
-  - flyme.cn
-  - flyme.com
-  - flymeauto.com
-  - meizu.cn
-  - meizu.com
-  - mzres.com
+  - "flyme.cn"
+  - "flyme.com"
+  - "flymeauto.com"
+  - "meizu.cn"
+  - "meizu.com"
+  - "mzres.com"

@@ -1,14 +1,14 @@
 # NAME: visa@cn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 domain_suffix_set:
-  - financialsoccer.com.cn
-  - practicalmoneyskills.cn
-  - practicalmoneyskills.com.cn
-  - visa.cn
-  - visa.com.cn
-  - visainfinite.cn
-  - visapay.cn
-  - visaplatinum.cn
-  - visaplatinum.com.cn
+  - "financialsoccer.com.cn"
+  - "practicalmoneyskills.cn"
+  - "practicalmoneyskills.com.cn"
+  - "visa.cn"
+  - "visa.com.cn"
+  - "visainfinite.cn"
+  - "visapay.cn"
+  - "visaplatinum.cn"
+  - "visaplatinum.com.cn"

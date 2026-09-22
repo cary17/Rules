@@ -1,6 +1,14 @@
 # NAME: vilavpn
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# TOTAL: 1
-domain_keyword_set:
-  - vilavpn
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+domain_suffix_set:
+  - "vilavpn.com"
+  - "vilavpn.xyz"
+  - "vilavpn1.xyz"
+  - "vilavpn2.xyz"
+  - "vilavpn3.xyz"
+  - "vilavpn4.xyz"
+  - "vilavpn5.xyz"
+  - "vilavpn6.xyz"
+  - "vilavpn7.xyz"

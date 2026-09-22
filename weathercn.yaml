@@ -1,10 +1,10 @@
 # NAME: weathercn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 domain_suffix_set:
-  - hf-aw.cn
-  - hf-aw.com
-  - huafeng-accuweather.cn
-  - huafengaw.com
-  - weathercn.com
+  - "hf-aw.cn"
+  - "hf-aw.com"
+  - "huafeng-accuweather.cn"
+  - "huafengaw.com"
+  - "weathercn.com"

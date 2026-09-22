@@ -1,6 +1,35 @@
 # NAME: nurofen
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# TOTAL: 1
-domain_keyword_set:
-  - nurofen
+# UPDATED: 2026-09-22
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 27
+# TOTAL: 28
+domain_set:
+  - "nurofensk-prod-env.eu-west-1.elasticbeanstalk.com"
+domain_suffix_set:
+  - "nurofen.at"
+  - "nurofen.bg"
+  - "nurofen.cn"
+  - "nurofen.co.il"
+  - "nurofen.co.nz"
+  - "nurofen.co.uk"
+  - "nurofen.co.za"
+  - "nurofen.com"
+  - "nurofen.com.au"
+  - "nurofen.com.cn"
+  - "nurofen.com.sg"
+  - "nurofen.cz"
+  - "nurofen.de"
+  - "nurofen.es"
+  - "nurofen.fr"
+  - "nurofen.hr"
+  - "nurofen.hu"
+  - "nurofen.ie"
+  - "nurofen.it"
+  - "nurofen.net"
+  - "nurofen.no"
+  - "nurofen.pl"
+  - "nurofen.pt"
+  - "nurofen.ro"
+  - "nurofen.ru"
+  - "nurofen.sk"
+  - "nurofengel.com"

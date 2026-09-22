@@ -1,9 +1,23 @@
 # NAME: rarbg
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
 domain_suffix_set:
-  - dyncdn.me
-domain_keyword_set:
-  - rarbg
+  - "dyncdn.me"
+  - "proxyrarbg.org"
+  - "rarbg.is"
+  - "rarbg.me"
+  - "rarbg.to"
+  - "rarbgaccess.org"
+  - "rarbgaccessed.org"
+  - "rarbgget.org"
+  - "rarbggo.org"
+  - "rarbgmirror.com"
+  - "rarbgmirror.org"
+  - "rarbgproxy.org"
+  - "rarbgprx.org"
+  - "rarbgto.org"
+  - "rarbgunblock.com"
+  - "rarbgunblock.org"
+  - "rarbgunblocked.org"
+  - "rarbgway.org"

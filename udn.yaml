@@ -1,9 +1,9 @@
 # NAME: udn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - udn.com
-  - udn.com.tw
-  - udndata.com
-  - udnfunlife.com
+  - "udn.com"
+  - "udn.com.tw"
+  - "udndata.com"
+  - "udnfunlife.com"

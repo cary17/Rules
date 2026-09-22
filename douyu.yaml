@@ -1,12 +1,12 @@
 # NAME: douyu
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 domain_suffix_set:
-  - douyu.com
-  - douyu.tv
-  - douyucdn.cn
-  - douyucdn2.cn
-  - douyuscdn.com
-  - douyutv.com
-  - edgesrv.com
+  - "douyu.com"
+  - "douyu.tv"
+  - "douyucdn.cn"
+  - "douyucdn2.cn"
+  - "douyuscdn.com"
+  - "douyutv.com"
+  - "edgesrv.com"

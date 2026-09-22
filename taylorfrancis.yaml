@@ -1,9 +1,9 @@
 # NAME: taylorfrancis
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - tandf.co.uk
-  - tandfonline.com
-  - taylorandfrancis.com
-  - taylorfrancis.com
+  - "tandf.co.uk"
+  - "tandfonline.com"
+  - "taylorandfrancis.com"
+  - "taylorfrancis.com"

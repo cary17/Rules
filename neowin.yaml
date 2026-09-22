@@ -1,7 +1,7 @@
 # NAME: neowin
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
 domain_suffix_set:
-  - neow.in
-  - neowin.net
+  - "neow.in"
+  - "neowin.net"

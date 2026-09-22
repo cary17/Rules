@@ -1,14 +1,14 @@
 # NAME: kyodonews
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 9
 # TOTAL: 9
 domain_suffix_set:
-  - 47gyosei.jp
-  - 47news.jp
-  - kyodo-d.info
-  - kyodo-d.jp
-  - kyodoimages.jp
-  - kyodonews.jp
-  - kyodonews.net
-  - newsmart.jp
-  - nna.jp
+  - "47gyosei.jp"
+  - "47news.jp"
+  - "kyodo-d.info"
+  - "kyodo-d.jp"
+  - "kyodoimages.jp"
+  - "kyodonews.jp"
+  - "kyodonews.net"
+  - "newsmart.jp"
+  - "nna.jp"

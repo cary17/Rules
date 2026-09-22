@@ -1,9 +1,9 @@
 # NAME: arphic
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - arphic.com
-  - arphic.com.cn
-  - arphic.com.tw
-  - ifontcloud.com
+  - "arphic.com"
+  - "arphic.com.cn"
+  - "arphic.com.tw"
+  - "ifontcloud.com"

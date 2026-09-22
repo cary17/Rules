@@ -1,6 +1,16 @@
 # NAME: slack
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# TOTAL: 1
-domain_keyword_set:
-  - slack
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
+domain_suffix_set:
+  - "slack-core.com"
+  - "slack-edge.com"
+  - "slack-files.com"
+  - "slack-imgs.com"
+  - "slack-msgs.com"
+  - "slack-redir.net"
+  - "slack.com"
+  - "slackb.com"
+  - "slackcertified.com"
+  - "slackdemo.com"
+  - "slackhq.com"

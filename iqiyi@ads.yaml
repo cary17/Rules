@@ -1,10 +1,15 @@
 # NAME: iqiyi@ads
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 2
-# TOTAL: 3
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
 domain_suffix_set:
-  - msg.video.qiyi.com
-  - msg2.video.qiyi.com
-domain_keyword_set:
-  - iqiyi
+  - "ad.m.iqiyi.com"
+  - "afp.iqiyi.com"
+  - "c.uaa.iqiyi.com"
+  - "cloudpush.iqiyi.com"
+  - "cupid.iqiyi.com"
+  - "ifacelog.iqiyi.com"
+  - "mbdlog.iqiyi.com"
+  - "msg.video.qiyi.com"
+  - "msg2.video.qiyi.com"
+  - "policy.video.iqiyi.com"

@@ -1,12 +1,23 @@
 # NAME: dropbox
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 3
+# DOMAIN-SUFFIX: 15
+# TOTAL: 16
 domain_set:
-  - paper-attachments.s3.amazonaws.com
+  - "paper-attachments.s3.amazonaws.com"
 domain_suffix_set:
-  - db.tt
-domain_keyword_set:
-  - dropbox
+  - "db.tt"
+  - "dropbox-dns.com"
+  - "dropbox.com"
+  - "dropbox.tech"
+  - "dropboxapi.com"
+  - "dropboxbusiness.com"
+  - "dropboxcaptcha.com"
+  - "dropboxforum.com"
+  - "dropboxforums.com"
+  - "dropboxinsiders.com"
+  - "dropboxmail.com"
+  - "dropboxpartners.com"
+  - "dropboxstatic.com"
+  - "dropboxusercontent.com"
+  - "getdropbox.com"

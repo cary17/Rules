@@ -1,13 +1,13 @@
 # NAME: microsoft-pki
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 1
 # TOTAL: 6
 domain_set:
-  - crl.microsoft.com
-  - mscrl.microsoft.com
-  - ocsp.microsoft.com
-  - oneocsp.microsoft.com
-  - www.microsoft.com
+  - "crl.microsoft.com"
+  - "mscrl.microsoft.com"
+  - "ocsp.microsoft.com"
+  - "oneocsp.microsoft.com"
+  - "www.microsoft.com"
 domain_suffix_set:
-  - msocsp.com
+  - "msocsp.com"

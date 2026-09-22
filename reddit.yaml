@@ -1,9 +1,17 @@
 # NAME: reddit
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 domain_suffix_set:
-  - redd.it
-domain_keyword_set:
-  - reddit
+  - "redd.it"
+  - "reddit.app.link"
+  - "reddit.com"
+  - "reddit.map.fastly.net"
+  - "redditblog.com"
+  - "reddithelp.com"
+  - "redditinc.com"
+  - "redditmail.com"
+  - "redditmedia.com"
+  - "redditspace.com"
+  - "redditstatic.com"
+  - "redditstatus.com"

@@ -1,14 +1,24 @@
 # NAME: kugou
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 6
-# TOTAL: 7
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
 domain_suffix_set:
-  - adserviceretry.kglink.cn
-  - fanxingliveshow.com
-  - kgimg.com
-  - kglink.cn
-  - ktv.com
-  - kugoo.com
-domain_keyword_set:
-  - kugou
+  - "ads.service.kugou.com"
+  - "adserviceretry.kglink.cn"
+  - "adserviceretry.kugou.com"
+  - "fanxingliveshow.com"
+  - "kgimg.com"
+  - "kglink.cn"
+  - "ktv.com"
+  - "kugoo.com"
+  - "kugou.com"
+  - "kugou.net"
+  - "kugouaudio.com"
+  - "kugouipv6.com"
+  - "kugoukid.com"
+  - "kugouliveshow.com"
+  - "kugouringtone.com"
+  - "kugousenior.com"
+  - "kugoustore.com"
+  - "kugouvoice.com"
+  - "kugouyouth.com"

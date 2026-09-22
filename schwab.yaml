@@ -1,12 +1,12 @@
 # NAME: schwab
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 domain_suffix_set:
-  - aboutschwab.com
-  - schwab.co.uk
-  - schwab.com
-  - schwab.com.hk
-  - schwab.com.sg
-  - schwabassetmanagement.com
-  - schwabplan.com
+  - "aboutschwab.com"
+  - "schwab.co.uk"
+  - "schwab.com"
+  - "schwab.com.hk"
+  - "schwab.com.sg"
+  - "schwabassetmanagement.com"
+  - "schwabplan.com"

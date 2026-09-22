@@ -1,11 +1,17 @@
 # NAME: heroku
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 3
-# TOTAL: 4
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 domain_suffix_set:
-  - codei.sh
-  - codeish.co
-  - codeish.io
-domain_keyword_set:
-  - heroku
+  - "codei.sh"
+  - "codeish.co"
+  - "codeish.io"
+  - "heroku-app.com"
+  - "heroku-charge.com"
+  - "heroku.co"
+  - "heroku.com"
+  - "heroku.me"
+  - "herokuapp.com"
+  - "herokucdn.com"
+  - "herokucharge.com"
+  - "herokussl.com"

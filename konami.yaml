@@ -1,14 +1,24 @@
 # NAME: konami
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 6
-# TOTAL: 7
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
 domain_suffix_set:
-  - 573.jp
-  - kgisystems.com
-  - kiwi.jp
-  - resella.jp
-  - resellablue.com
-  - yugioh-card.com
-domain_keyword_set:
-  - konami
+  - "573.jp"
+  - "kgisystems.com"
+  - "kiwi.jp"
+  - "konami-igaming.online"
+  - "konami.co.jp"
+  - "konami.com"
+  - "konami.net"
+  - "konami.org"
+  - "konamicrossmedia.com"
+  - "konamigaming.com"
+  - "konamigaming.net"
+  - "konamigaming.online"
+  - "konamionline.com"
+  - "konamiopen.jp"
+  - "konamisportsclub.jp"
+  - "konamistyle.jp"
+  - "resella.jp"
+  - "resellablue.com"
+  - "yugioh-card.com"

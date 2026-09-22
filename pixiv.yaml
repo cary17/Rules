@@ -1,11 +1,16 @@
 # NAME: pixiv
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 3
-# TOTAL: 4
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 domain_suffix_set:
-  - booth.pm
-  - fanbox.cc
-  - pximg.net
-domain_keyword_set:
-  - pixiv
+  - "ads-pixiv.net"
+  - "booth.pm"
+  - "fanbox.cc"
+  - "pixiv-recommend.net"
+  - "pixiv.co.jp"
+  - "pixiv.help"
+  - "pixiv.me"
+  - "pixiv.net"
+  - "pixiv.org"
+  - "pixivision.net"
+  - "pximg.net"

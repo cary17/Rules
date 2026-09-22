@@ -1,9 +1,9 @@
 # NAME: humblebundle
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 1
 # TOTAL: 2
 domain_set:
-  - hb.imgix.net
+  - "hb.imgix.net"
 domain_suffix_set:
-  - humblebundle.com
+  - "humblebundle.com"

@@ -1,9 +1,9 @@
 # NAME: boboporn
-# UPDATED: 2026-09-21
+# UPDATED: 2026-09-22
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 domain_suffix_set:
-  - boboporn.com
-  - boboporn.net
-  - bobovip.cc
-  - sesez.com
+  - "boboporn.com"
+  - "boboporn.net"
+  - "bobovip.cc"
+  - "sesez.com"

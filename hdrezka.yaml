@@ -1,11 +1,16 @@
 # NAME: hdrezka
-# UPDATED: 2026-09-21
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 3
-# TOTAL: 4
+# UPDATED: 2026-09-22
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 domain_suffix_set:
-  - hdrzk.org
-  - rezka.ag
-  - stream.voidboost.cc
-domain_keyword_set:
-  - hdrezka
+  - "hdrezka-home.tv"
+  - "hdrezka.ac"
+  - "hdrezka.ag"
+  - "hdrezka.cm"
+  - "hdrezka.co"
+  - "hdrezka.me"
+  - "hdrezka.org"
+  - "hdrezka.site"
+  - "hdrzk.org"
+  - "rezka.ag"
+  - "stream.voidboost.cc"

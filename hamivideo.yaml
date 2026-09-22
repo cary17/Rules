@@ -1,11 +1,24 @@
 # NAME: hamivideo
-# UPDATED: 2026-09-21
-# DOMAIN: 3
-# DOMAIN-KEYWORD: 1
-# TOTAL: 4
+# UPDATED: 2026-09-22
+# DOMAIN: 19
+# TOTAL: 19
 domain_set:
-  - efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
-  - scc.ott.hinet.net
-  - t.ssp.hinet.net
-domain_keyword_set:
-  - hamivideo
+  - "apl-hamivideo.cdn.hinet.net"
+  - "chatscc-hamivideo2.cdn.hinet.net"
+  - "efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net"
+  - "favoritescc-hamivideo2.cdn.hinet.net"
+  - "hamivideo.hinet.net"
+  - "hls-hamivideo.cdn.hinet.net"
+  - "lgcscc-hamivideo2.cdn.hinet.net"
+  - "mobilelive-hamivideo.cdn.hinet.net"
+  - "pvr-hamivideo.cdn.hinet.net"
+  - "scc-hamivideo.cdn.hinet.net"
+  - "scc.ott.hinet.net"
+  - "static-hamivideo.cdn.hinet.net"
+  - "t.ssp.hinet.net"
+  - "thumbnail-hamivideo.cdn.hinet.net"
+  - "tlmr-hamivideo2.cdn.hinet.net"
+  - "tvcastlive-hamivideo.cdn.hinet.net"
+  - "weblive-hamivideo.cdn.hinet.net"
+  - "weblivea-hamivideo.cdn.hinet.net"
+  - "webvodad-hamivideo.cdn.hinet.net"
