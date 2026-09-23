@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-09-22
-# DOMAIN: 602
+# UPDATED: 2026-09-23
+# DOMAIN: 603
 # DOMAIN-SUFFIX: 7644
 # DOMAIN-REGEX: 6
-# TOTAL: 8252
+# TOTAL: 8253
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -227,6 +227,7 @@ domain_set:
   - "downloaddispatch.itunes.apple.com"
   - "dreamspark.download.prss.microsoft.com"
   - "dreamsparkuat.download.prss.microsoft.com"
+  - "drivers.amd.com"
   - "edge.geo.kaspersky.com"
   - "entitlements-edge.itunes.apple.com"
   - "experiments.apple.com"
