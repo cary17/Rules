@@ -1,8 +1,8 @@
 # NAME: cn
-# UPDATED: 2026-09-22
-# DOMAIN: 591
+# UPDATED: 2026-09-23
+# DOMAIN: 592
 # DOMAIN-SUFFIX: 8702
-# TOTAL: 9293
+# TOTAL: 9294
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -190,6 +190,7 @@ DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,dreamspark.download.prss.microsoft.com
 DOMAIN,dreamsparkuat.download.prss.microsoft.com
+DOMAIN,drivers.amd.com
 DOMAIN,edge.geo.kaspersky.com
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
