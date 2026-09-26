@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-09-25
+# UPDATED: 2026-09-26
 # DOMAIN: 222
-# DOMAIN-SUFFIX: 870
-# TOTAL: 1092
+# DOMAIN-SUFFIX: 871
+# TOTAL: 1093
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,activate.activation-v2.kaspersky.com
@@ -835,6 +835,7 @@ DOMAIN-SUFFIX,slavicstar.com
 DOMAIN-SUFFIX,slc.tl
 DOMAIN-SUFFIX,smailru.net
 DOMAIN-SUFFIX,smartmed.pro
+DOMAIN-SUFFIX,smena.cafe
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,sn-esp.site
 DOMAIN-SUFFIX,sokolov.io
