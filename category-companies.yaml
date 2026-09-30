@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-09-29
+# UPDATED: 2026-09-30
 # DOMAIN: 603
-# DOMAIN-SUFFIX: 7644
+# DOMAIN-SUFFIX: 7646
 # DOMAIN-REGEX: 6
-# TOTAL: 8253
+# TOTAL: 8255
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -5627,6 +5627,7 @@ domain_suffix_set:
   - "messengerdevelopers.com"
   - "meta.ai"
   - "meta.com"
+  - "metaaivm.com"
   - "metabora.io"
   - "metacloud.com"
   - "metamind.io"
@@ -6003,6 +6004,7 @@ domain_suffix_set:
   - "mtsmedia.ru"
   - "mudbox3d.com"
   - "multiplydiversity.com"
+  - "muse.ai"
   - "musickit.net"
   - "musixmatch.com"
   - "muumuu-domain.com"

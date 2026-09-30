@@ -1,9 +1,9 @@
 # NAME: category-ai-!cn
-# UPDATED: 2026-09-29
-# DOMAIN: 28
-# DOMAIN-SUFFIX: 153
+# UPDATED: 2026-09-30
+# DOMAIN: 30
+# DOMAIN-SUFFIX: 157
 # DOMAIN-REGEX: 1
-# TOTAL: 182
+# TOTAL: 188
 domain_set:
   - "ai.google.dev"
   - "alkalicore-pa.clients6.google.com"
@@ -19,6 +19,8 @@ domain_set:
   - "copilot-workspace.githubnext.com"
   - "copilotprodattachments.blob.core.windows.net"
   - "daily-cloudcode-pa.googleapis.com"
+  - "geminiweb-pa.clients.google.com"
+  - "geminiweb-pa.clients6.google.com"
   - "notebooklm-pa.googleapis.com"
   - "notebooklm.googleapis.com"
   - "o33249.ingest.sentry.io"
@@ -128,6 +130,7 @@ domain_suffix_set:
   - "kiro.dev"
   - "labs.google"
   - "labs.google.com"
+  - "labstailwind.pa.googleapis.com"
   - "langchain.com"
   - "liveperson.net"
   - "lmstudio.ai"
@@ -138,11 +141,13 @@ domain_suffix_set:
   - "manuscdn.com"
   - "marscode.com"
   - "meta.ai"
+  - "metaaivm.com"
   - "midjourney.com"
   - "minimax.io"
   - "mistral.ai"
   - "moonshot.ai"
   - "mozilla.ai"
+  - "muse.ai"
   - "notebook.google"
   - "notebook.google.com"
   - "notebooklm.google"
@@ -159,6 +164,7 @@ domain_suffix_set:
   - "openai.com.cdn.cloudflare.net"
   - "openart.ai"
   - "openclaw.ai"
+  - "opencode.ai"
   - "openrouter.ai"
   - "openspec.dev"
   - "oystermercury.top"

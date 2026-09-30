@@ -1,8 +1,8 @@
 # NAME: meta
-# UPDATED: 2026-09-29
+# UPDATED: 2026-09-30
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 553
-# TOTAL: 554
+# DOMAIN-SUFFIX: 555
+# TOTAL: 556
 domain_set:
   - "fbcdn-a.akamaihd.net"
 domain_suffix_set:
@@ -479,9 +479,11 @@ domain_suffix_set:
   - "messengerdevelopers.com"
   - "meta.ai"
   - "meta.com"
+  - "metaaivm.com"
   - "midentsolutions.com"
   - "mobilefacebook.com"
   - "moneywithfacebook.com"
+  - "muse.ai"
   - "myfbfans.com"
   - "nbabot.net"
   - "newsfeed.com"

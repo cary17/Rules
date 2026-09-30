@@ -1,8 +1,8 @@
 # NAME: tencent
-# UPDATED: 2026-09-29
+# UPDATED: 2026-09-30
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 681
-# TOTAL: 682
+# DOMAIN-SUFFIX: 682
+# TOTAL: 683
 domain_set:
   - "wetv.qq.com"
 domain_suffix_set:
@@ -116,6 +116,7 @@ domain_suffix_set:
   - "cloudidaas.com"
   - "cloudsite.vip"
   - "cnb.cool"
+  - "cnb.space"
   - "cncqcloud.com"
   - "coding.me"
   - "coding.net"
