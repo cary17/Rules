@@ -1,8 +1,8 @@
 # NAME: category-dev-cn
-# UPDATED: 2026-09-29
+# UPDATED: 2026-09-30
 # DOMAIN: 9
-# DOMAIN-SUFFIX: 137
-# TOTAL: 146
+# DOMAIN-SUFFIX: 138
+# TOTAL: 147
 DOMAIN,p1-juejin.byteimg.com
 DOMAIN,p2-juejin.byteimg.com
 DOMAIN,p3-juejin.byteimg.com
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,blogjava.net
 DOMAIN-SUFFIX,changxie.com
 DOMAIN-SUFFIX,chinauos.com
 DOMAIN-SUFFIX,cnb.cool
+DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnblogs.vip
 DOMAIN-SUFFIX,cnitblog.com

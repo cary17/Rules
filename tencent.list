@@ -1,8 +1,8 @@
 # NAME: tencent
-# UPDATED: 2026-09-29
+# UPDATED: 2026-09-30
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 681
-# TOTAL: 682
+# DOMAIN-SUFFIX: 682
+# TOTAL: 683
 DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,97ting.com
@@ -114,6 +114,7 @@ DOMAIN-SUFFIX,cloudbase.net
 DOMAIN-SUFFIX,cloudidaas.com
 DOMAIN-SUFFIX,cloudsite.vip
 DOMAIN-SUFFIX,cnb.cool
+DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,cncqcloud.com
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coding.net

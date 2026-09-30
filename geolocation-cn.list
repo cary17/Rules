@@ -1,8 +1,8 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-09-29
+# UPDATED: 2026-09-30
 # DOMAIN: 592
-# DOMAIN-SUFFIX: 8701
-# TOTAL: 9293
+# DOMAIN-SUFFIX: 8702
+# TOTAL: 9294
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -2775,6 +2775,7 @@ DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,cnanzhi.com
 DOMAIN-SUFFIX,cnb.cool
+DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,cnbksy.com
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnblogs.vip
