@@ -1,8 +1,8 @@
 # NAME: meta
-# UPDATED: 2026-09-29
+# UPDATED: 2026-09-30
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 553
-# TOTAL: 554
+# DOMAIN-SUFFIX: 555
+# TOTAL: 556
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -477,9 +477,11 @@ DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,messengerdevelopers.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,midentsolutions.com
 DOMAIN-SUFFIX,mobilefacebook.com
 DOMAIN-SUFFIX,moneywithfacebook.com
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,myfbfans.com
 DOMAIN-SUFFIX,nbabot.net
 DOMAIN-SUFFIX,newsfeed.com

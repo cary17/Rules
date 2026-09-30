@@ -1,8 +1,8 @@
 # NAME: category-anticensorship
-# UPDATED: 2026-09-29
+# UPDATED: 2026-09-30
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 118
-# TOTAL: 124
+# DOMAIN-SUFFIX: 119
+# TOTAL: 125
 DOMAIN,matsuridayo.github.io
 DOMAIN,metacubex.github.io
 DOMAIN,rabbit-hole-1.gitbook.io
@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,happ.info
 DOMAIN-SUFFIX,happ.su
 DOMAIN-SUFFIX,haveibeenpwned.com
 DOMAIN-SUFFIX,hiddify.com
+DOMAIN-SUFFIX,huarun.win
 DOMAIN-SUFFIX,incy.cc
 DOMAIN-SUFFIX,ipfs-gateway.cloud
 DOMAIN-SUFFIX,ipfs.anonymize.com

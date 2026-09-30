@@ -1,8 +1,8 @@
 # NAME: category-companies
-# UPDATED: 2026-09-29
+# UPDATED: 2026-09-30
 # DOMAIN: 603
-# DOMAIN-SUFFIX: 7644
-# TOTAL: 8247
+# DOMAIN-SUFFIX: 7646
+# TOTAL: 8249
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -5624,6 +5624,7 @@ DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,messengerdevelopers.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,metabora.io
 DOMAIN-SUFFIX,metacloud.com
 DOMAIN-SUFFIX,metamind.io
@@ -6000,6 +6001,7 @@ DOMAIN-SUFFIX,mtsdengi.ru
 DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,mudbox3d.com
 DOMAIN-SUFFIX,multiplydiversity.com
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,muumuu-domain.com
