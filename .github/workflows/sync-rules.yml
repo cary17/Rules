@@ -34,11 +34,14 @@ jobs:
           sudo apt-get install --yes --no-install-recommends jq
 
       - name: Run local rule tests
+        id: local_tests
         run: |
           set -euo pipefail
-          chmod +x .github/workflows/sync-one.sh scripts/sync-rules.sh scripts/sync-mihomo.sh scripts/sync-platforms.sh tests/test-sync-rules.sh
+          # The artifact repository stores the scripts without the executable
+          # bit, so restore it before running them.
+          chmod +x .github/workflows/sync-one.sh scripts/sync-rules.sh scripts/sync-mihomo.sh scripts/sync-platforms.sh tests/test-sync-rules.sh tests/test-sync-mihomo.sh tests/test-sync-platforms.sh
           for test in tests/test-*.py; do python3 "$test"; done
-          tests/test-sync-rules.sh
+          for test in tests/test-*.sh; do bash "$test"; done
 
       - name: Download and verify sing-box
         id: sing-box
@@ -95,9 +98,19 @@ jobs:
             "$tag" "$name" "$archive_sha" "$binary_sha" "$digest" >> "$GITHUB_OUTPUT"
           printf '%s\n' "$binary" > /tmp/sing-box-path
 
+      - name: Run compiler round-trip tests
+        id: compiler_tests
+        run: |
+          set -euo pipefail
+          bin=$(cat /tmp/sing-box-path)
+          # The validator's expectations for canonical forms need the compiler,
+          # so the suite runs again here with sing-box on PATH.
+          PATH="$(dirname "$bin"):$PATH" SING_BOX_BIN="$bin" python3 tests/test-validate-rule-json.py
+          SING_BOX_BIN="$bin" python3 tests/test-roundtrip-compiler.py
+
       - name: Sync sing-geoip
         id: geoip
-        if: ${{ always() && steps.sing-box.outcome == 'success' }}
+        if: ${{ always() && steps.local_tests.outcome == 'success' && steps.compiler_tests.outcome == 'success' && steps.sing-box.outcome == 'success' }}
         env:
           GITHUB_TOKEN: ${{ github.token }}
           SING_BOX_VERSION: ${{ steps.sing-box.outputs.tag }}
@@ -109,7 +122,7 @@ jobs:
 
       - name: Sync sing-geosite
         id: geosite
-        if: ${{ always() && steps.sing-box.outcome == 'success' }}
+        if: ${{ always() && steps.local_tests.outcome == 'success' && steps.compiler_tests.outcome == 'success' && steps.sing-box.outcome == 'success' }}
         env:
           GITHUB_TOKEN: ${{ github.token }}
           SING_BOX_VERSION: ${{ steps.sing-box.outputs.tag }}
@@ -174,7 +187,7 @@ jobs:
 
       - name: Sync mihomo-geoip
         id: mihomo-geoip
-        if: ${{ always() && steps.mihomo.outcome == 'success' }}
+        if: ${{ always() && steps.local_tests.outcome == 'success' && steps.compiler_tests.outcome == 'success' && steps.mihomo.outcome == 'success' }}
         env:
           GITHUB_TOKEN: ${{ github.token }}
           MIHOMO_BIN: /tmp/mihomo
@@ -183,7 +196,7 @@ jobs:
 
       - name: Sync mihomo-geosite
         id: mihomo-geosite
-        if: ${{ always() && steps.mihomo.outcome == 'success' }}
+        if: ${{ always() && steps.local_tests.outcome == 'success' && steps.compiler_tests.outcome == 'success' && steps.mihomo.outcome == 'success' }}
         env:
           GITHUB_TOKEN: ${{ github.token }}
           MIHOMO_BIN: /tmp/mihomo
