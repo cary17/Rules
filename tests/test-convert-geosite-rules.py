@@ -27,7 +27,7 @@ def test_egern_uses_rule_set_fields_without_policy():
     assert "domain_set:" in rendered
     assert "domain_suffix_set:" in rendered
     assert "domain_regex_set:" in rendered
-    assert '  - "^ads?\\\\\\\\"' in rendered
+    assert '  - "^ads?\\\\\\\\\."' in rendered
     assert "policy" not in rendered
     assert skipped == []
     assert "# NAME:" in rendered
