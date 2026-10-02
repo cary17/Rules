@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+"""Rule-set JSON optimizer.
+
+Default behaviour is match preserving. Keyword compression is opt-in through
+``--lossy-keywords`` (or ``lossy_keywords=True``) because ``domain_keyword``
+also matches hosts that the original exact entries did not cover.
+"""
 import json
 import re
 import sys
@@ -93,7 +99,40 @@ def _in_topic(value, topic_roots):
     return any(root in value for root in topic_roots)
 
 
-def optimize(document):
+def _rule_is_eligible(rule):
+    """Return True only for a plain AND group of domain matchers.
+
+    Inverted rules, logical rules and rules carrying extra conditions (port,
+    network, process, ...) stay untouched: swapping their exact values for
+    substring keywords changes the matched set, and for inverted rules it also
+    flips the outcome for hosts that used to match.
+    """
+    if rule.get("invert"):
+        return False
+    if rule.get("type") not in (None, "default"):
+        return False
+    return not (set(rule) - {"domain", "domain_suffix", "domain_keyword", "type", "invert"})
+
+
+def _order_rule(rule):
+    ordered = {}
+    for key in ("domain", "domain_suffix", "domain_keyword"):
+        if key in rule:
+            ordered[key] = rule[key]
+    for key, value in rule.items():
+        if key not in ordered:
+            ordered[key] = value
+    return ordered
+
+
+def optimize(document, lossy_keywords=False):
+    """Return (optimized document, change log).
+
+    Without ``lossy_keywords`` the result keeps the exact matched set. Keyword
+    compression is never equivalent to domain/domain_suffix entries, because
+    ``domain_keyword`` also matches unrelated hosts, so it must be requested
+    explicitly and is always reported per rule.
+    """
     optimized = {"version": document["version"], "rules": []}
     changes = []
     scope_values = []
@@ -111,8 +150,11 @@ def optimize(document):
         and sum(topic in value.lower() for value in scope_values) >= MIN_SCOPE_COUNT
     ]
 
-    for source_rule in document["rules"]:
+    for index, source_rule in enumerate(document["rules"]):
         rule = dict(source_rule)
+        if not lossy_keywords or not _rule_is_eligible(rule):
+            optimized["rules"].append(_order_rule(rule))
+            continue
         original_domains = list(_values(rule, "domain"))
         original_suffixes = list(_values(rule, "domain_suffix"))
         removed_domains = [
@@ -123,43 +165,51 @@ def optimize(document):
             value for value in original_suffixes
             if any(topic in value.lower() for topic in active_topics)
         ]
-        if removed_domains:
-            rule["domain"] = [value for value in original_domains if value not in set(removed_domains)]
-        if removed_suffixes:
-            rule["domain_suffix"] = [value for value in original_suffixes if value not in set(removed_suffixes)]
+        if not removed_domains and not removed_suffixes:
+            optimized["rules"].append(_order_rule(rule))
+            continue
+        replaced = removed_domains + removed_suffixes
+        # Only topics this rule itself contributed may become a keyword: adding
+        # every file level topic would widen unrelated rules.
+        topics = [topic for topic in active_topics if any(topic in value.lower() for value in replaced)]
         existing_keywords = list(_values(rule, "domain_keyword"))
-        added_keywords = [topic for topic in active_topics if topic not in existing_keywords]
+        added_keywords = [topic for topic in topics if topic not in existing_keywords]
+        if removed_domains:
+            removed = set(removed_domains)
+            rule["domain"] = [value for value in original_domains if value not in removed]
+        if removed_suffixes:
+            removed = set(removed_suffixes)
+            rule["domain_suffix"] = [value for value in original_suffixes if value not in removed]
         if added_keywords:
             rule["domain_keyword"] = existing_keywords + added_keywords
-        if removed_domains or removed_suffixes:
-            changes.append({
-                "keyword": added_keywords or existing_keywords,
-                "removed_domains": len(removed_domains),
-                "removed_suffixes": len(removed_suffixes),
-            })
-        ordered = {}
-        for key in ("domain", "domain_suffix", "domain_keyword"):
-            if key in rule:
-                ordered[key] = rule[key]
-        for key, value in rule.items():
-            if key not in ordered:
-                ordered[key] = value
-        optimized["rules"].append(ordered)
+        changes.append({
+            "rule": index,
+            "keyword": added_keywords or existing_keywords,
+            "removed_domains": len(removed_domains),
+            "removed_suffixes": len(removed_suffixes),
+        })
+        optimized["rules"].append(_order_rule(rule))
     return optimized, changes
 
 
-def convert_file(source, output, source_name=None):
+def convert_file(source, output, source_name=None, lossy_keywords=False):
     document = json.loads(Path(source).read_text(encoding="utf-8"))
-    optimized, changes = optimize({**document, "source": source_name or Path(source).name})
+    optimized, changes = optimize(
+        {**document, "source": source_name or Path(source).name},
+        lossy_keywords=lossy_keywords,
+    )
     Path(output).write_text(json.dumps(optimized, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return changes
 
 
 def main(argv):
-    if len(argv) not in (3, 4):
-        print(f"usage: {argv[0]} INPUT OUTPUT [SOURCE_NAME]", file=sys.stderr)
+    args = list(argv[1:])
+    lossy_keywords = "--lossy-keywords" in args
+    args = [argument for argument in args if argument != "--lossy-keywords"]
+    if len(args) not in (2, 3):
+        print(f"usage: {argv[0]} INPUT OUTPUT [SOURCE_NAME] [--lossy-keywords]", file=sys.stderr)
         return 2
-    changes = convert_file(argv[1], argv[2], argv[3] if len(argv) == 4 else None)
+    changes = convert_file(args[0], args[1], args[2] if len(args) == 3 else None, lossy_keywords)
     print(json.dumps({"changes": changes}, ensure_ascii=False))
     return 0
 
