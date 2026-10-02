@@ -27,7 +27,7 @@ def test_egern_uses_rule_set_fields_without_policy():
     assert "domain_set:" in rendered
     assert "domain_suffix_set:" in rendered
     assert "domain_regex_set:" in rendered
-    assert '  - "^ads?\\\\\\\\."' in rendered
+    assert '  - "^ads?\\\\\\\\"' in rendered
     assert "policy" not in rendered
     assert skipped == []
     assert "# NAME:" in rendered
@@ -104,6 +104,59 @@ def test_client_metadata_uses_output_types_and_output_order():
     ]
     assert "DOMAIN-REGEX" not in header
     assert skipped == [("domain_regex", 1)]
+
+
+def test_ipv6_entries_use_the_ipv6_matcher():
+    source = {"version": 1, "rules": [{"ip_cidr": ["192.0.2.0/24", "2001:db8::/32"]}]}
+    for renderer in (module.render_surge, module.render_loon):
+        rendered, skipped = renderer(source)
+        assert "IP-CIDR,192.0.2.0/24" in rendered
+        assert "IP-CIDR6,2001:db8::/32" in rendered
+        assert "IP-CIDR,2001:db8::/32" not in rendered
+        assert skipped == []
+    egern, skipped = module.render_egern(source)
+    assert '  - "192.0.2.0/24"' in egern
+    assert "ip_cidr6_set:" in egern
+    assert '  - "2001:db8::/32"' in egern
+    assert skipped == []
+
+
+def test_ipv6_metadata_counts_the_ipv6_type():
+    source = {"version": 1, "rules": [{"ip_cidr": ["2001:db8::/32"]}]}
+    rendered, _ = module.render_surge(source)
+    assert "# IP-CIDR6: 1" in rendered
+    assert "# IP-CIDR: 1" not in rendered
+    assert "# TOTAL: 1" in rendered
+
+
+def test_existing_ip_cidr6_entries_are_kept():
+    source = {"version": 1, "rules": [{"ip_cidr6": ["2001:db8::/32"]}]}
+    rendered, skipped = module.render_surge(source)
+    assert "IP-CIDR6,2001:db8::/32" in rendered
+    assert skipped == []
+
+
+def test_invalid_cidr_is_rejected():
+    source = {"version": 1, "rules": [{"ip_cidr": ["not-a-network"]}]}
+    for renderer in (module.render_surge, module.render_loon, module.render_egern):
+        try:
+            renderer(source)
+        except ValueError:
+            pass
+        else:
+            raise AssertionError(renderer)
+
+
+def test_invalid_explicit_ip_cidr6_is_rejected():
+    for value in ("garbage", "192.0.2.0/24"):
+        source = {"version": 1, "rules": [{"ip_cidr6": [value]}]}
+        for renderer in (module.render_surge, module.render_loon, module.render_egern):
+            try:
+                renderer(source)
+            except ValueError:
+                pass
+            else:
+                raise AssertionError((value, renderer))
 
 
 def test_convert_directory_preserves_pairs_and_writes_summary():

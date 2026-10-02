@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import ipaddress
 import json
 import sys
 from dataclasses import dataclass
@@ -35,6 +36,22 @@ class ConversionResult:
     skipped_types: dict[str, int]
 
 
+def _ip_family_key(value, expected=None):
+    """Return the matcher key matching the address family of a CIDR value.
+
+    Surge and Loon distinguish IP-CIDR (IPv4) from IP-CIDR6 (IPv6), so a native
+    ip_cidr entry holding an IPv6 network must not be emitted as an IPv4 rule.
+    An explicit ip_cidr6 entry must actually be IPv6.
+    """
+    try:
+        network = ipaddress.ip_network(value, strict=False)
+    except ValueError as exc:
+        raise ValueError(f"invalid ip_cidr value: {value!r}") from exc
+    if expected == "ip_cidr6" and network.version != 6:
+        raise ValueError(f"ip_cidr6 value is not an IPv6 network: {value!r}")
+    return "ip_cidr6" if network.version == 6 else "ip_cidr"
+
+
 def _rule_values(document):
     values = {}
     supported = set(EGERN_TYPES)
@@ -51,6 +68,10 @@ def _rule_values(document):
             items = raw if isinstance(raw, list) else [raw]
             if any(not isinstance(item, str) for item in items):
                 raise ValueError(f"rule condition must contain strings: {key}")
+            if key in {"ip_cidr", "ip_cidr6"}:
+                for item in items:
+                    values.setdefault(_ip_family_key(item, key), []).append(item)
+                continue
             values.setdefault(key, []).extend(items)
     return values
 
