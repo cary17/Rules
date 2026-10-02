@@ -31,6 +31,23 @@ fi
 
 python3 "$ROOT/scripts/convert-mihomo-rules.py" "$WORK/source" "$WORK/output" "$BEHAVIOR" | tee "$WORK/convert.json"
 
+# Guard against an all-skipped conversion: it would otherwise be published as
+# an empty branch, or hand the literal *.yaml glob to the compiler.
+summary() {
+  python3 -c 'import json,sys; print(json.load(open(sys.argv[1], encoding="utf-8"))[sys.argv[2]])' \
+    "$WORK/convert.json" "$1"
+}
+successful=$(summary successful)
+yaml_files=$(find "$WORK/output" -maxdepth 1 -type f -name '*.yaml' | wc -l)
+if ((successful == 0)); then
+  echo "no publishable $SOURCE rule sets; $TARGET_BRANCH left unchanged" >&2
+  exit 1
+fi
+if ((yaml_files != successful)); then
+  echo "$SOURCE conversion summary mismatch: successful=$successful yaml=$yaml_files" >&2
+  exit 1
+fi
+
 # Compile every .yaml to .mrs with mihomo; a failing rule-set is fatal.
 MIHOMO_BIN=${MIHOMO_BIN:-mihomo}
 for yaml in "$WORK"/output/*.yaml; do

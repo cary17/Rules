@@ -125,6 +125,18 @@ for file in "${FILES[@]}"; do
     record_failure "$file" roundtrip_compile "$(tr '\n' ' ' <"$WORK/$base.compile.stderr" | cut -c1-1000)" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
     continue
   fi
+  # The JSON comparison below only proves that the decompiled document is stable
+  # across a recompile. Comparing the recompiled rule-set with the upstream
+  # rule-set additionally proves the published JSON still represents upstream, so
+  # a condition lost by the first decompile cannot slip through.
+  # The comparison decodes both files and compares the rule-set payload rather
+  # than the container bytes, because the same rule-set can be written with a
+  # different zlib compression level. Verified against upstream artifacts: both
+  # branches recompile to an identical payload.
+  if ! python3 "$ROOT/scripts/compare-srs-binary.py" "$input" "$roundtrip"; then
+    record_failure "$file" roundtrip_fidelity "recompiled rule-set does not match upstream binary" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
+    continue
+  fi
   if ! "$SING_BOX" rule-set decompile "$roundtrip" --output "$roundtrip_json" >"$WORK/$base.roundtrip.stdout" 2>"$WORK/$base.roundtrip.stderr"; then
     record_failure "$file" roundtrip_decompile "$(tr '\n' ' ' <"$WORK/$base.roundtrip.stderr" | cut -c1-1000)" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
     continue

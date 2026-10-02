@@ -27,6 +27,24 @@ if ((json_count == 0)); then
 fi
 python3 "$ROOT/scripts/convert-geosite-rules.py" "$WORK/source" "$WORK/output" "$SOURCE" | tee "$WORK/convert.json"
 
+# An all-skipped conversion is not a successful sync: publishing it would clear
+# the existing branch. Validate the summary before touching the target.
+summary() {
+  python3 -c 'import json,sys; print(json.load(open(sys.argv[1], encoding="utf-8"))[sys.argv[2]])' \
+    "$WORK/convert.json" "$1"
+}
+successful=$(summary successful)
+skipped=$(summary skipped)
+output_files=$(find "$WORK/output" -maxdepth 1 -type f ! -name '.*' | wc -l)
+if ((successful == 0)); then
+  echo "$SOURCE conversion produced no publishable rule files; $TARGET_BRANCH left unchanged" >&2
+  exit 1
+fi
+if ((output_files != successful)); then
+  echo "$SOURCE conversion summary mismatch: successful=$successful files=$output_files" >&2
+  exit 1
+fi
+
 TARGET=$(mktemp -d)
 trap 'rm -rf "$WORK" "$TARGET"' EXIT
 TARGET_REF=$(git -C "$ROOT" ls-remote --heads origin "refs/heads/$TARGET_BRANCH") || {
@@ -51,4 +69,5 @@ git -C "$TARGET" config user.name 'github-actions[bot]'
 git -C "$TARGET" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
 git -C "$TARGET" commit --allow-empty --quiet -m "chore: sync $SOURCE $(date -u +%F)"
 git -C "$TARGET" push --quiet origin "HEAD:$TARGET_BRANCH"
-printf 'platform=%s files=%s\n' "$SOURCE" "$(find "$TARGET" -maxdepth 1 -type f | wc -l)"
+printf 'platform=%s files=%s successful=%s skipped=%s\n' \
+  "$SOURCE" "$(find "$TARGET" -maxdepth 1 -type f | wc -l)" "$successful" "$skipped"
