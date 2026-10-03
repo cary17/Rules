@@ -1,9 +1,9 @@
 # NAME: category-ai-!cn
-# UPDATED: 2026-10-02
+# UPDATED: 2026-10-03
 # DOMAIN: 30
-# DOMAIN-SUFFIX: 157
+# DOMAIN-SUFFIX: 158
 # DOMAIN-REGEX: 1
-# TOTAL: 188
+# TOTAL: 189
 domain_set:
   - "ai.google.dev"
   - "alkalicore-pa.clients6.google.com"
@@ -60,6 +60,7 @@ domain_suffix_set:
   - "clau.de"
   - "claude.ai"
   - "claude.com"
+  - "claude.dev"
   - "claudemcpclient.com"
   - "claudemcpcontent.com"
   - "claudeusercontent.com"
