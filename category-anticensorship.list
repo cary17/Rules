@@ -1,8 +1,8 @@
 # NAME: category-anticensorship
-# UPDATED: 2026-10-04
+# UPDATED: 2026-10-05
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 119
-# TOTAL: 125
+# DOMAIN-SUFFIX: 120
+# TOTAL: 126
 DOMAIN,matsuridayo.github.io
 DOMAIN,metacubex.github.io
 DOMAIN,rabbit-hole-1.gitbook.io
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,googlecensorship.org
+DOMAIN-SUFFIX,googleplaycensorship.com
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,guardianproject.info
