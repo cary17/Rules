@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-10-04
+# UPDATED: 2026-10-05
 # DOMAIN: 243
-# DOMAIN-SUFFIX: 23510
-# TOTAL: 23753
+# DOMAIN-SUFFIX: 23511
+# TOTAL: 23754
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -9707,6 +9707,7 @@ DOMAIN-SUFFIX,googlemaps.com
 DOMAIN-SUFFIX,googlepagecreator.com
 DOMAIN-SUFFIX,googlephotos.com
 DOMAIN-SUFFIX,googleplay.com
+DOMAIN-SUFFIX,googleplaycensorship.com
 DOMAIN-SUFFIX,googleplus.com
 DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,googlestore.com
