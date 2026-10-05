@@ -1,7 +1,7 @@
 # NAME: greatfire
-# UPDATED: 2026-10-04
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2026-10-05
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 domain_suffix_set:
   - "applecensorship.com"
   - "freebrowser.org"
@@ -9,6 +9,7 @@ domain_suffix_set:
   - "freeweibo.com"
   - "freezhihu.org"
   - "googlecensorship.org"
+  - "googleplaycensorship.com"
   - "greatfire.org"
   - "greatfirevpn.com"
   - "pao-pao.net"
