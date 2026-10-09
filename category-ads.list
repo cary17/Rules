@@ -78,13 +78,9 @@ clck.yandex.com
 clck.yandex.net
 clck.yango.com
 click.rustore.ru
-copilot-telemetry-service.githubusercontent.com
-copilot-telemetry.githubusercontent.com
 disney.my.sentry.io
 error-tracking.megamarket.tech
 google-analytics-suite.ozon.ru
-incoming-telemetry.thunderbird.net
-incoming.telemetry.mozilla.org
 informer.yandex.ru
 log-sdk.gifshow.com
 log.strm.yandex.ru
@@ -409,7 +405,6 @@ xray.mail.ru
 +.cnaa123.com
 +.cnlogs.umeng.com
 +.cnlogs.umengcloud.com
-+.collector.github.com
 +.collector.xhamster.com
 +.config.uca.cloud.unity3d.com
 +.contentabc.com
@@ -512,8 +507,6 @@ xray.mail.ru
 +.gozendata.com
 +.graph-fallback.instagram.com
 +.graph.instagram.com
-+.graph.whatsapp.com
-+.graph.whatsapp.net
 +.gs.amplitude.com
 +.gs.eu.amplitude.com
 +.guanggaoad.youku.com

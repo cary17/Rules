@@ -49,10 +49,6 @@ clck.yandex.com
 clck.yandex.net
 clck.yango.com
 click.rustore.ru
-copilot-telemetry-service.githubusercontent.com
-copilot-telemetry.githubusercontent.com
-incoming-telemetry.thunderbird.net
-incoming.telemetry.mozilla.org
 informer.yandex.ru
 log.strm.yandex.ru
 mc.yandex.com
@@ -142,7 +138,6 @@ xray.mail.ru
 +.bs.yandex.ru
 +.clarity.ms
 +.clck.yandex.ru
-+.collector.github.com
 +.counter.yandex.ru
 +.cxhub.ru
 +.demdex.net
@@ -178,8 +173,6 @@ xray.mail.ru
 +.googlevads-cn.com
 +.graph-fallback.instagram.com
 +.graph.instagram.com
-+.graph.whatsapp.com
-+.graph.whatsapp.net
 +.iad.apple.com
 +.iadsdk.apple.com
 +.log.dzen.ru
