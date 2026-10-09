@@ -1,8 +1,8 @@
 # NAME: meta
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 555
-# TOTAL: 556
+# DOMAIN-SUFFIX: 553
+# TOTAL: 554
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -389,8 +389,6 @@ DOMAIN-SUFFIX,gameroom.com
 DOMAIN-SUFFIX,gfacecbook.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,groups.com
 DOMAIN-SUFFIX,hackerfacebook.com
 DOMAIN-SUFFIX,hackfacebook.com

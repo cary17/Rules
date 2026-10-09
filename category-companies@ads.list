@@ -1,8 +1,8 @@
 # NAME: category-companies@ads
-# UPDATED: 2026-10-08
-# DOMAIN: 89
-# DOMAIN-SUFFIX: 142
-# TOTAL: 231
+# UPDATED: 2026-10-09
+# DOMAIN: 85
+# DOMAIN-SUFFIX: 139
+# TOTAL: 224
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad4.mail.ru
@@ -54,10 +54,6 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,click.rustore.ru
-DOMAIN,copilot-telemetry-service.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com
-DOMAIN,incoming-telemetry.thunderbird.net
-DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
 DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
@@ -147,7 +143,6 @@ DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,bs.yandex.ru
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,clck.yandex.ru
-DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,counter.yandex.ru
 DOMAIN-SUFFIX,cxhub.ru
 DOMAIN-SUFFIX,demdex.net
@@ -183,8 +178,6 @@ DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,log.dzen.ru

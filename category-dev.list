@@ -1,8 +1,8 @@
 # NAME: category-dev
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 85
-# DOMAIN-SUFFIX: 575
-# TOTAL: 660
+# DOMAIN-SUFFIX: 576
+# TOTAL: 661
 DOMAIN,amp.akamaized.net
 DOMAIN,android.googlesource.com
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,builtwithnix.org
 DOMAIN-SUFFIX,busybox.net
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,carekit.org
