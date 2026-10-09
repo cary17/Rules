@@ -1,0 +1,13 @@
+# NAME: geolocation-!cn@telemetry
+# UPDATED: 2026-10-09
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 2
+# TOTAL: 6
+domain_set:
+  - "copilot-telemetry-service.githubusercontent.com"
+  - "copilot-telemetry.githubusercontent.com"
+  - "incoming-telemetry.thunderbird.net"
+  - "incoming.telemetry.mozilla.org"
+domain_suffix_set:
+  - "cafe.github.com"
+  - "collector.github.com"

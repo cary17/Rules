@@ -1,8 +1,8 @@
 # NAME: category-companies@ads
-# UPDATED: 2026-10-08
-# DOMAIN: 89
-# DOMAIN-SUFFIX: 142
-# TOTAL: 231
+# UPDATED: 2026-10-09
+# DOMAIN: 85
+# DOMAIN-SUFFIX: 139
+# TOTAL: 224
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -55,10 +55,6 @@ domain_set:
   - "clck.yandex.net"
   - "clck.yango.com"
   - "click.rustore.ru"
-  - "copilot-telemetry-service.githubusercontent.com"
-  - "copilot-telemetry.githubusercontent.com"
-  - "incoming-telemetry.thunderbird.net"
-  - "incoming.telemetry.mozilla.org"
   - "informer.yandex.ru"
   - "log.strm.yandex.ru"
   - "mc.yandex.com"
@@ -149,7 +145,6 @@ domain_suffix_set:
   - "bs.yandex.ru"
   - "clarity.ms"
   - "clck.yandex.ru"
-  - "collector.github.com"
   - "counter.yandex.ru"
   - "cxhub.ru"
   - "demdex.net"
@@ -185,8 +180,6 @@ domain_suffix_set:
   - "googlevads-cn.com"
   - "graph-fallback.instagram.com"
   - "graph.instagram.com"
-  - "graph.whatsapp.com"
-  - "graph.whatsapp.net"
   - "iad.apple.com"
   - "iadsdk.apple.com"
   - "log.dzen.ru"

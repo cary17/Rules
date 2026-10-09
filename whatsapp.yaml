@@ -1,10 +1,8 @@
 # NAME: whatsapp
-# UPDATED: 2026-10-08
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2026-10-09
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 domain_suffix_set:
-  - "graph.whatsapp.com"
-  - "graph.whatsapp.net"
   - "wa.me"
   - "whatsapp-plus.info"
   - "whatsapp-plus.me"

@@ -1,8 +1,8 @@
 # NAME: microsoft
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 68
-# DOMAIN-SUFFIX: 636
-# TOTAL: 704
+# DOMAIN-SUFFIX: 637
+# TOTAL: 705
 domain_set:
   - "azuremigrate.download.prss.microsoft.com"
   - "azuremigratetest.download.prss.microsoft.com"
@@ -228,6 +228,7 @@ domain_suffix_set:
   - "browser.events.data.msn.cn"
   - "browser.events.data.msn.com"
   - "c-msedge.net"
+  - "cafe.github.com"
   - "callersbane.com"
   - "cegid-cloud.cn"
   - "centralvalidation.com"

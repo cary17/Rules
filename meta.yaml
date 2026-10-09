@@ -1,8 +1,8 @@
 # NAME: meta
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 555
-# TOTAL: 556
+# DOMAIN-SUFFIX: 553
+# TOTAL: 554
 domain_set:
   - "fbcdn-a.akamaihd.net"
 domain_suffix_set:
@@ -391,8 +391,6 @@ domain_suffix_set:
   - "gfacecbook.com"
   - "graph-fallback.instagram.com"
   - "graph.instagram.com"
-  - "graph.whatsapp.com"
-  - "graph.whatsapp.net"
   - "groups.com"
   - "hackerfacebook.com"
   - "hackfacebook.com"

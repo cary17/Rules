@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 603
-# DOMAIN-SUFFIX: 7646
+# DOMAIN-SUFFIX: 7645
 # DOMAIN-REGEX: 6
-# TOTAL: 8255
+# TOTAL: 8254
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -2405,6 +2405,7 @@ domain_suffix_set:
   - "cadmep.com"
   - "cadoverlay.com"
   - "cadren.com"
+  - "cafe.github.com"
   - "caice.com"
   - "calendarserver.org"
   - "calicolabs.com"
@@ -4295,8 +4296,6 @@ domain_suffix_set:
   - "granulate.io"
   - "graph-fallback.instagram.com"
   - "graph.instagram.com"
-  - "graph.whatsapp.com"
-  - "graph.whatsapp.net"
   - "graphengine.io"
   - "gravitytank.com"
   - "greenbuildingstudio.com"

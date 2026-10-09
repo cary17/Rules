@@ -1,9 +1,9 @@
 # NAME: category-ads-all@ads
-# UPDATED: 2026-10-08
-# DOMAIN: 161
-# DOMAIN-SUFFIX: 620
+# UPDATED: 2026-10-09
+# DOMAIN: 157
+# DOMAIN-SUFFIX: 617
 # DOMAIN-REGEX: 1
-# TOTAL: 782
+# TOTAL: 775
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -85,13 +85,9 @@ domain_set:
   - "clck.yandex.net"
   - "clck.yango.com"
   - "click.rustore.ru"
-  - "copilot-telemetry-service.githubusercontent.com"
-  - "copilot-telemetry.githubusercontent.com"
   - "disney.my.sentry.io"
   - "error-tracking.megamarket.tech"
   - "google-analytics-suite.ozon.ru"
-  - "incoming-telemetry.thunderbird.net"
-  - "incoming.telemetry.mozilla.org"
   - "informer.yandex.ru"
   - "log-sdk.gifshow.com"
   - "log.strm.yandex.ru"
@@ -396,7 +392,6 @@ domain_suffix_set:
   - "cm.baidu.com"
   - "cnlogs.umeng.com"
   - "cnlogs.umengcloud.com"
-  - "collector.github.com"
   - "collector.xhamster.com"
   - "config.uca.cloud.unity3d.com"
   - "contextual.media.net"
@@ -488,8 +483,6 @@ domain_suffix_set:
   - "googlevads-cn.com"
   - "graph-fallback.instagram.com"
   - "graph.instagram.com"
-  - "graph.whatsapp.com"
-  - "graph.whatsapp.net"
   - "gs.amplitude.com"
   - "gs.eu.amplitude.com"
   - "guanggaoad.youku.com"

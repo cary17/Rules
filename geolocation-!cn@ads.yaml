@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn@ads
-# UPDATED: 2026-10-08
-# DOMAIN: 138
-# DOMAIN-SUFFIX: 172
-# TOTAL: 310
+# UPDATED: 2026-10-09
+# DOMAIN: 134
+# DOMAIN-SUFFIX: 169
+# TOTAL: 303
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -77,13 +77,9 @@ domain_set:
   - "clck.yandex.net"
   - "clck.yango.com"
   - "click.rustore.ru"
-  - "copilot-telemetry-service.githubusercontent.com"
-  - "copilot-telemetry.githubusercontent.com"
   - "disney.my.sentry.io"
   - "error-tracking.megamarket.tech"
   - "google-analytics-suite.ozon.ru"
-  - "incoming-telemetry.thunderbird.net"
-  - "incoming.telemetry.mozilla.org"
   - "informer.yandex.ru"
   - "log.strm.yandex.ru"
   - "loyalnost-adv.ozon.ru"
@@ -208,7 +204,6 @@ domain_suffix_set:
   - "clarity.ms"
   - "clck.yandex.ru"
   - "clickstream.sberbank.ru"
-  - "collector.github.com"
   - "collector.xhamster.com"
   - "config.uca.cloud.unity3d.com"
   - "counter.yandex.ru"
@@ -248,8 +243,6 @@ domain_suffix_set:
   - "googlevads-cn.com"
   - "graph-fallback.instagram.com"
   - "graph.instagram.com"
-  - "graph.whatsapp.com"
-  - "graph.whatsapp.net"
   - "i-mobile.co.jp"
   - "iad.apple.com"
   - "iads.unity3d.com"

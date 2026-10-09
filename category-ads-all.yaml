@@ -1,9 +1,9 @@
 # NAME: category-ads-all
-# UPDATED: 2026-10-08
-# DOMAIN: 162
-# DOMAIN-SUFFIX: 748
+# UPDATED: 2026-10-09
+# DOMAIN: 158
+# DOMAIN-SUFFIX: 745
 # DOMAIN-REGEX: 1
-# TOTAL: 911
+# TOTAL: 904
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -85,13 +85,9 @@ domain_set:
   - "clck.yandex.net"
   - "clck.yango.com"
   - "click.rustore.ru"
-  - "copilot-telemetry-service.githubusercontent.com"
-  - "copilot-telemetry.githubusercontent.com"
   - "disney.my.sentry.io"
   - "error-tracking.megamarket.tech"
   - "google-analytics-suite.ozon.ru"
-  - "incoming-telemetry.thunderbird.net"
-  - "incoming.telemetry.mozilla.org"
   - "informer.yandex.ru"
   - "log-sdk.gifshow.com"
   - "log.strm.yandex.ru"
@@ -436,7 +432,6 @@ domain_suffix_set:
   - "cnaa123.com"
   - "cnlogs.umeng.com"
   - "cnlogs.umengcloud.com"
-  - "collector.github.com"
   - "collector.xhamster.com"
   - "config.uca.cloud.unity3d.com"
   - "contentabc.com"
@@ -545,8 +540,6 @@ domain_suffix_set:
   - "gozendata.com"
   - "graph-fallback.instagram.com"
   - "graph.instagram.com"
-  - "graph.whatsapp.com"
-  - "graph.whatsapp.net"
   - "growin.cn"
   - "growingio.cn"
   - "growingio.com"

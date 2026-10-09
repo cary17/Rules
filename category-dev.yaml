@@ -1,9 +1,9 @@
 # NAME: category-dev
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 85
-# DOMAIN-SUFFIX: 575
+# DOMAIN-SUFFIX: 576
 # DOMAIN-REGEX: 1
-# TOTAL: 661
+# TOTAL: 662
 domain_set:
   - "amp.akamaized.net"
   - "android.googlesource.com"
@@ -143,6 +143,7 @@ domain_suffix_set:
   - "bugsnag.com"
   - "builtwithnix.org"
   - "busybox.net"
+  - "cafe.github.com"
   - "calendarserver.org"
   - "canonical.com"
   - "carekit.org"

@@ -1,8 +1,8 @@
 # NAME: category-communication
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 149
-# TOTAL: 151
+# DOMAIN-SUFFIX: 147
+# TOTAL: 149
 domain_set:
   - "discord-attachments-uploads-prd.storage.googleapis.com"
   - "hammerandchisel.ssl.zendesk.com"
@@ -48,8 +48,6 @@ domain_suffix_set:
   - "freenode.net"
   - "gcld-line.com"
   - "graph.org"
-  - "graph.whatsapp.com"
-  - "graph.whatsapp.net"
   - "intercom.com"
   - "intercom.io"
   - "intercomassets.com"

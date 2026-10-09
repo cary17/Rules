@@ -1,0 +1,11 @@
+# NAME: microsoft@telemetry
+# UPDATED: 2026-10-09
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 2
+# TOTAL: 4
+domain_set:
+  - "copilot-telemetry-service.githubusercontent.com"
+  - "copilot-telemetry.githubusercontent.com"
+domain_suffix_set:
+  - "cafe.github.com"
+  - "collector.github.com"

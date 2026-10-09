@@ -1,9 +1,9 @@
 # NAME: category-speedtest
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 74
+# DOMAIN-SUFFIX: 75
 # DOMAIN-REGEX: 1
-# TOTAL: 77
+# TOTAL: 78
 domain_set:
   - "hk-global-bgp.hkg.speedtest.yecaoyun.com"
   - "www.speedtest.net.cdn.cloudflare.net"
@@ -81,6 +81,7 @@ domain_suffix_set:
   - "testmyspeed.com"
   - "testskorosti.ru"
   - "webtest.net"
+  - "wifiman.me"
   - "xnfz.seu.edu.cn"
 domain_regex_set:
   - "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$"

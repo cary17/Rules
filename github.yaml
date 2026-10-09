@@ -1,8 +1,8 @@
 # NAME: github
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 30
-# DOMAIN-SUFFIX: 32
-# TOTAL: 62
+# DOMAIN-SUFFIX: 33
+# TOTAL: 63
 domain_set:
   - "copilot-telemetry-service.githubusercontent.com"
   - "copilot-telemetry.githubusercontent.com"
@@ -36,6 +36,7 @@ domain_set:
   - "productionresultssa9.blob.core.windows.net"
 domain_suffix_set:
   - "atom.io"
+  - "cafe.github.com"
   - "collector.github.com"
   - "dependabot.com"
   - "gh.io"
