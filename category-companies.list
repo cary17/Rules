@@ -1,8 +1,8 @@
 # NAME: category-companies
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 603
-# DOMAIN-SUFFIX: 7646
-# TOTAL: 8249
+# DOMAIN-SUFFIX: 7645
+# TOTAL: 8248
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -2402,6 +2402,7 @@ DOMAIN-SUFFIX,cadduct.com
 DOMAIN-SUFFIX,cadmep.com
 DOMAIN-SUFFIX,cadoverlay.com
 DOMAIN-SUFFIX,cadren.com
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,caice.com
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,calicolabs.com
@@ -4292,8 +4293,6 @@ DOMAIN-SUFFIX,grafolio.com
 DOMAIN-SUFFIX,granulate.io
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,gravitytank.com
 DOMAIN-SUFFIX,greenbuildingstudio.com

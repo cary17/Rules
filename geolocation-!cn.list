@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 243
-# DOMAIN-SUFFIX: 23515
-# TOTAL: 23758
+# DOMAIN-SUFFIX: 23514
+# TOTAL: 23757
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -4755,6 +4755,7 @@ DOMAIN-SUFFIX,cadduct.com
 DOMAIN-SUFFIX,cadmep.com
 DOMAIN-SUFFIX,cadoverlay.com
 DOMAIN-SUFFIX,cadren.com
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,cafr.ca
 DOMAIN-SUFFIX,cai21.xyz
 DOMAIN-SUFFIX,caice.com
@@ -9778,8 +9779,6 @@ DOMAIN-SUFFIX,granulate.io
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph.org
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,grapheneos.app
 DOMAIN-SUFFIX,grapheneos.ca
 DOMAIN-SUFFIX,grapheneos.com

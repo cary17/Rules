@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn@ads
-# UPDATED: 2026-10-08
-# DOMAIN: 138
-# DOMAIN-SUFFIX: 172
-# TOTAL: 310
+# UPDATED: 2026-10-09
+# DOMAIN: 134
+# DOMAIN-SUFFIX: 169
+# TOTAL: 303
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad-channel.diwodiwo.xyz
@@ -76,13 +76,9 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,click.rustore.ru
-DOMAIN,copilot-telemetry-service.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,disney.my.sentry.io
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,google-analytics-suite.ozon.ru
-DOMAIN,incoming-telemetry.thunderbird.net
-DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
 DOMAIN,log.strm.yandex.ru
 DOMAIN,loyalnost-adv.ozon.ru
@@ -206,7 +202,6 @@ DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,clck.yandex.ru
 DOMAIN-SUFFIX,clickstream.sberbank.ru
-DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,counter.yandex.ru
@@ -246,8 +241,6 @@ DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,i-mobile.co.jp
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,iads.unity3d.com

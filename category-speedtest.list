@@ -1,8 +1,8 @@
 # NAME: category-speedtest
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-09
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 74
-# TOTAL: 76
+# DOMAIN-SUFFIX: 75
+# TOTAL: 77
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
 DOMAIN-SUFFIX,cdnst.net
@@ -78,4 +78,5 @@ DOMAIN-SUFFIX,testmy.net
 DOMAIN-SUFFIX,testmyspeed.com
 DOMAIN-SUFFIX,testskorosti.ru
 DOMAIN-SUFFIX,webtest.net
+DOMAIN-SUFFIX,wifiman.me
 DOMAIN-SUFFIX,xnfz.seu.edu.cn

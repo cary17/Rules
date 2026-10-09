@@ -1,0 +1,6 @@
+# NAME: mozilla@telemetry
+# UPDATED: 2026-10-09
+# DOMAIN: 2
+# TOTAL: 2
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org
