@@ -1,9 +1,9 @@
 # NAME: category-ai-chat-!cn
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 30
-# DOMAIN-SUFFIX: 158
+# DOMAIN-SUFFIX: 159
 # DOMAIN-REGEX: 1
-# TOTAL: 189
+# TOTAL: 190
 domain_set:
   - "ai.google.dev"
   - "alkalicore-pa.clients6.google.com"
@@ -182,6 +182,7 @@ domain_suffix_set:
   - "sora.com"
   - "spicywriter.com"
   - "stitch.withgoogle.com"
+  - "syntx.ai"
   - "talkai.info"
   - "tapnow.ai"
   - "themeforest.net"

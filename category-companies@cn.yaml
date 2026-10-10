@@ -1,9 +1,9 @@
 # NAME: category-companies@cn
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 504
-# DOMAIN-SUFFIX: 332
+# DOMAIN-SUFFIX: 333
 # DOMAIN-REGEX: 4
-# TOTAL: 840
+# TOTAL: 841
 domain_set:
   - "2mdn-cn.net"
   - "2mdn.net"
@@ -841,6 +841,7 @@ domain_suffix_set:
   - "yahoo.cn"
   - "yahoo.com.cn"
   - "yamaxun.cn"
+  - "yandex-ad.cn"
   - "z.cn"
 domain_regex_set:
   - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"

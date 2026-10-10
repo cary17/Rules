@@ -1,8 +1,8 @@
 # NAME: yandex@ads
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 16
-# DOMAIN-SUFFIX: 26
-# TOTAL: 42
+# DOMAIN-SUFFIX: 25
+# TOTAL: 41
 domain_set:
   - "adfstat.yandex.ru"
   - "ads.yandex.com"
@@ -42,7 +42,6 @@ domain_suffix_set:
   - "metrika.yandex.ru"
   - "webvisor.com"
   - "webvisor.org"
-  - "yabs.yandex.ru"
   - "yads.tech"
   - "yandex-metrica.ru"
   - "yandexmetrica.com"

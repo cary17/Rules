@@ -1,9 +1,9 @@
 # NAME: category-ads
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 158
-# DOMAIN-SUFFIX: 685
+# DOMAIN-SUFFIX: 684
 # DOMAIN-REGEX: 1
-# TOTAL: 844
+# TOTAL: 843
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -828,7 +828,6 @@ domain_suffix_set:
   - "wuliao.epro.sogou.com"
   - "wwads.cn"
   - "xy-log.tagtic.cn"
-  - "yabs.yandex.ru"
   - "yads.tech"
   - "yandex-metrica.ru"
   - "yandexmetrica.com"

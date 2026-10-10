@@ -1,8 +1,8 @@
 # NAME: category-ru@cn
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 96
-# DOMAIN-SUFFIX: 1
-# TOTAL: 97
+# DOMAIN-SUFFIX: 2
+# TOTAL: 98
 domain_set:
   - "activate.activation-v2.kaspersky.com"
   - "activation-v2.geo.kaspersky.com"
@@ -102,3 +102,4 @@ domain_set:
   - "s19.upd.kaspersky.com"
 domain_suffix_set:
   - "kaspersky.com.cn"
+  - "yandex-ad.cn"

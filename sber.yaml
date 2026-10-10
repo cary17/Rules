@@ -1,8 +1,8 @@
 # NAME: sber
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 92
-# TOTAL: 98
+# DOMAIN-SUFFIX: 94
+# TOTAL: 100
 domain_set:
   - "error-tracking.megamarket.tech"
   - "metrics.21-school.ru"
@@ -101,5 +101,7 @@ domain_suffix_set:
   - "spasibobonus.ru"
   - "spasibosb.ru"
   - "spasibosberbank.ru"
+  - "yookassa.ru"
+  - "yoomoney.ru"
   - "zvuk-b2b.com"
   - "zvuk.com"

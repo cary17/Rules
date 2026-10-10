@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn@ads
-# UPDATED: 2026-10-09
-# DOMAIN: 134
-# DOMAIN-SUFFIX: 169
-# TOTAL: 303
+# UPDATED: 2026-10-10
+# DOMAIN: 130
+# DOMAIN-SUFFIX: 166
+# TOTAL: 296
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -78,7 +78,6 @@ domain_set:
   - "clck.yango.com"
   - "click.rustore.ru"
   - "disney.my.sentry.io"
-  - "error-tracking.megamarket.tech"
   - "google-analytics-suite.ozon.ru"
   - "informer.yandex.ru"
   - "log.strm.yandex.ru"
@@ -88,7 +87,6 @@ domain_set:
   - "mc.yandex.com"
   - "mc.yandex.net"
   - "mc.yango.com"
-  - "metrics.21-school.ru"
   - "new-adv.ozon.ru"
   - "o33249.ingest.sentry.io"
   - "o4504926511693824.ingest.sentry.io"
@@ -112,7 +110,6 @@ domain_set:
   - "sentry.ozon.ru"
   - "sentry.popmechanic.ru"
   - "sentry.rustore.ru"
-  - "sentry.sberauto.com"
   - "sentry.viqeo.tv"
   - "sentry.wb.ru"
   - "srch-telemeter10.g.smailru.net"
@@ -126,7 +123,6 @@ domain_set:
   - "t.mail.ru"
   - "target.vk.com"
   - "top-staging.mail.ru"
-  - "tracing-http.megamarket.tech"
   - "visor.sberbank.ru"
   - "web-analytics.wildberries.ru"
   - "whiteline.mail.ru"
@@ -271,7 +267,6 @@ domain_suffix_set:
   - "msads.net"
   - "myadx.net"
   - "nelreports.net"
-  - "neon.click"
   - "obs.mts.ru"
   - "pagead.l.google.com"
   - "partnerad.l.google.com"
@@ -286,7 +281,6 @@ domain_suffix_set:
   - "s.mindbox.ru"
   - "samsungadhub.com"
   - "samsungads.com"
-  - "sbermarketing.ru"
   - "serving-sys.com"
   - "snapads.com"
   - "socdm.com"
@@ -302,7 +296,6 @@ domain_suffix_set:
   - "vk-analytics.ru"
   - "webvisor.com"
   - "webvisor.org"
-  - "yabs.yandex.ru"
   - "yads.tech"
   - "yandex-metrica.ru"
   - "yandexmetrica.com"
