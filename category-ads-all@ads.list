@@ -1,8 +1,8 @@
 # NAME: category-ads-all@ads
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 157
-# DOMAIN-SUFFIX: 617
-# TOTAL: 774
+# DOMAIN-SUFFIX: 616
+# TOTAL: 773
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad-channel.diwodiwo.xyz
@@ -765,7 +765,6 @@ DOMAIN-SUFFIX,wkctj.baidu.com
 DOMAIN-SUFFIX,wm.baidu.com
 DOMAIN-SUFFIX,wmbd.gamersky.com
 DOMAIN-SUFFIX,wuliao.epro.sogou.com
-DOMAIN-SUFFIX,yabs.yandex.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com

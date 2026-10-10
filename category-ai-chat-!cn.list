@@ -1,8 +1,8 @@
 # NAME: category-ai-chat-!cn
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 30
-# DOMAIN-SUFFIX: 158
-# TOTAL: 188
+# DOMAIN-SUFFIX: 159
+# TOTAL: 189
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
@@ -179,6 +179,7 @@ DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,spicywriter.com
 DOMAIN-SUFFIX,stitch.withgoogle.com
+DOMAIN-SUFFIX,syntx.ai
 DOMAIN-SUFFIX,talkai.info
 DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,themeforest.net

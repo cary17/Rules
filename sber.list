@@ -1,8 +1,8 @@
 # NAME: sber
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 92
-# TOTAL: 98
+# DOMAIN-SUFFIX: 94
+# TOTAL: 100
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,metrics.21-school.ru
 DOMAIN,sberpro.vedomosti.ru
@@ -99,5 +99,7 @@ DOMAIN-SUFFIX,spasibo.market
 DOMAIN-SUFFIX,spasibobonus.ru
 DOMAIN-SUFFIX,spasibosb.ru
 DOMAIN-SUFFIX,spasibosberbank.ru
+DOMAIN-SUFFIX,yookassa.ru
+DOMAIN-SUFFIX,yoomoney.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com

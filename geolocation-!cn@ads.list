@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn@ads
-# UPDATED: 2026-10-09
-# DOMAIN: 134
-# DOMAIN-SUFFIX: 169
-# TOTAL: 303
+# UPDATED: 2026-10-10
+# DOMAIN: 130
+# DOMAIN-SUFFIX: 166
+# TOTAL: 296
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad-channel.diwodiwo.xyz
@@ -77,7 +77,6 @@ DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,click.rustore.ru
 DOMAIN,disney.my.sentry.io
-DOMAIN,error-tracking.megamarket.tech
 DOMAIN,google-analytics-suite.ozon.ru
 DOMAIN,informer.yandex.ru
 DOMAIN,log.strm.yandex.ru
@@ -87,7 +86,6 @@ DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
-DOMAIN,metrics.21-school.ru
 DOMAIN,new-adv.ozon.ru
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,o4504926511693824.ingest.sentry.io
@@ -111,7 +109,6 @@ DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.ozon.ru
 DOMAIN,sentry.popmechanic.ru
 DOMAIN,sentry.rustore.ru
-DOMAIN,sentry.sberauto.com
 DOMAIN,sentry.viqeo.tv
 DOMAIN,sentry.wb.ru
 DOMAIN,srch-telemeter10.g.smailru.net
@@ -125,7 +122,6 @@ DOMAIN,stats.vk-portal.net
 DOMAIN,t.mail.ru
 DOMAIN,target.vk.com
 DOMAIN,top-staging.mail.ru
-DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
 DOMAIN,web-analytics.wildberries.ru
 DOMAIN,whiteline.mail.ru
@@ -269,7 +265,6 @@ DOMAIN-SUFFIX,ms.vk.ru
 DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,myadx.net
 DOMAIN-SUFFIX,nelreports.net
-DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,pagead.l.google.com
 DOMAIN-SUFFIX,partnerad.l.google.com
@@ -284,7 +279,6 @@ DOMAIN-SUFFIX,relap.mail.ru
 DOMAIN-SUFFIX,s.mindbox.ru
 DOMAIN-SUFFIX,samsungadhub.com
 DOMAIN-SUFFIX,samsungads.com
-DOMAIN-SUFFIX,sbermarketing.ru
 DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,socdm.com
@@ -300,7 +294,6 @@ DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
-DOMAIN-SUFFIX,yabs.yandex.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
