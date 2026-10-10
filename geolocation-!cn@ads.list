@@ -72,7 +72,6 @@ clck.yandex.net
 clck.yango.com
 click.rustore.ru
 disney.my.sentry.io
-error-tracking.megamarket.tech
 google-analytics-suite.ozon.ru
 informer.yandex.ru
 log.strm.yandex.ru
@@ -82,7 +81,6 @@ marketplace-sentry.wb.ru
 mc.yandex.com
 mc.yandex.net
 mc.yango.com
-metrics.21-school.ru
 new-adv.ozon.ru
 o33249.ingest.sentry.io
 o4504926511693824.ingest.sentry.io
@@ -106,7 +104,6 @@ sentry.mindbox.ru
 sentry.ozon.ru
 sentry.popmechanic.ru
 sentry.rustore.ru
-sentry.sberauto.com
 sentry.viqeo.tv
 sentry.wb.ru
 srch-telemeter10.g.smailru.net
@@ -120,7 +117,6 @@ stats.vk-portal.net
 t.mail.ru
 target.vk.com
 top-staging.mail.ru
-tracing-http.megamarket.tech
 visor.sberbank.ru
 web-analytics.wildberries.ru
 whiteline.mail.ru
@@ -264,7 +260,6 @@ xray.mail.ru
 +.msads.net
 +.myadx.net
 +.nelreports.net
-+.neon.click
 +.obs.mts.ru
 +.pagead.l.google.com
 +.partnerad.l.google.com
@@ -279,7 +274,6 @@ xray.mail.ru
 +.s.mindbox.ru
 +.samsungadhub.com
 +.samsungads.com
-+.sbermarketing.ru
 +.serving-sys.com
 +.snapads.com
 +.socdm.com
@@ -295,7 +289,6 @@ xray.mail.ru
 +.vk-analytics.ru
 +.webvisor.com
 +.webvisor.org
-+.yabs.yandex.ru
 +.yads.tech
 +.yandex-metrica.ru
 +.yandexmetrica.com
