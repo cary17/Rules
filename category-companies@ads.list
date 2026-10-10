@@ -1,8 +1,8 @@
 # NAME: category-companies@ads
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 85
-# DOMAIN-SUFFIX: 139
-# TOTAL: 224
+# DOMAIN-SUFFIX: 138
+# TOTAL: 223
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad4.mail.ru
@@ -221,7 +221,6 @@ DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
-DOMAIN-SUFFIX,yabs.yandex.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com

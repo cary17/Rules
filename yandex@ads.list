@@ -1,8 +1,8 @@
 # NAME: yandex@ads
-# UPDATED: 2026-10-09
+# UPDATED: 2026-10-10
 # DOMAIN: 16
-# DOMAIN-SUFFIX: 26
-# TOTAL: 42
+# DOMAIN-SUFFIX: 25
+# TOTAL: 41
 DOMAIN,adfstat.yandex.ru
 DOMAIN,ads.yandex.com
 DOMAIN,ads.yango.com
@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,metrika.yandex.net
 DOMAIN-SUFFIX,metrika.yandex.ru
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
-DOMAIN-SUFFIX,yabs.yandex.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
