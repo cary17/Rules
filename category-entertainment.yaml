@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-10-15
+# UPDATED: 2026-10-16
 # DOMAIN: 270
-# DOMAIN-SUFFIX: 1844
+# DOMAIN-SUFFIX: 1845
 # DOMAIN-REGEX: 10
-# TOTAL: 2124
+# TOTAL: 2125
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -1415,6 +1415,7 @@ domain_suffix_set:
   - "playshowtv.com"
   - "playstation.com"
   - "playstation.net"
+  - "playstationnetwork.com"
   - "playvalorant.com"
   - "playwarcraft3.com"
   - "pluto.tv"

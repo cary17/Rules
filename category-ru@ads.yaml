@@ -1,8 +1,8 @@
 # NAME: category-ru@ads
-# UPDATED: 2026-10-15
-# DOMAIN: 121
-# DOMAIN-SUFFIX: 60
-# TOTAL: 181
+# UPDATED: 2026-10-16
+# DOMAIN: 125
+# DOMAIN-SUFFIX: 62
+# TOTAL: 187
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -70,6 +70,7 @@ domain_set:
   - "clck.yandex.net"
   - "clck.yango.com"
   - "click.rustore.ru"
+  - "error-tracking.megamarket.tech"
   - "google-analytics-suite.ozon.ru"
   - "informer.yandex.ru"
   - "log.strm.yandex.ru"
@@ -79,6 +80,7 @@ domain_set:
   - "mc.yandex.com"
   - "mc.yandex.net"
   - "mc.yango.com"
+  - "metrics.21-school.ru"
   - "metrika.kontur.ru"
   - "new-adv.ozon.ru"
   - "pixel.rustore.ru"
@@ -100,6 +102,7 @@ domain_set:
   - "sentry.ozon.ru"
   - "sentry.popmechanic.ru"
   - "sentry.rustore.ru"
+  - "sentry.sberauto.com"
   - "sentry.viqeo.tv"
   - "sentry.wb.ru"
   - "sentry.x5.ru"
@@ -114,6 +117,7 @@ domain_set:
   - "t.mail.ru"
   - "target.vk.com"
   - "top-staging.mail.ru"
+  - "tracing-http.megamarket.tech"
   - "visor.sberbank.ru"
   - "web-analytics.wildberries.ru"
   - "whiteline.mail.ru"
@@ -166,12 +170,14 @@ domain_suffix_set:
   - "ms.vk.com"
   - "ms.vk.ru"
   - "myadx.net"
+  - "neon.click"
   - "obs.mts.ru"
   - "r.mail.ru"
   - "radar.imgsmail.ru"
   - "relap.mail.ru"
   - "roistat.com"
   - "s.mindbox.ru"
+  - "sbermarketing.ru"
   - "target.my.com"
   - "target.vk.ru"
   - "targetads.io"

@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-10-15
+# UPDATED: 2026-10-16
 # DOMAIN: 603
-# DOMAIN-SUFFIX: 7666
+# DOMAIN-SUFFIX: 7671
 # DOMAIN-REGEX: 6
-# TOTAL: 8275
+# TOTAL: 8280
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -6440,6 +6440,7 @@ domain_suffix_set:
   - "playshowtv.com"
   - "playstation.com"
   - "playstation.net"
+  - "playstationnetwork.com"
   - "plex.com"
   - "plex.services"
   - "plex.tv"
@@ -6760,6 +6761,7 @@ domain_suffix_set:
   - "sc-static.net"
   - "scaleform.com"
   - "scartel.ru"
+  - "scea.com"
   - "scene7.com"
   - "schemer.com"
   - "scnshop.cc"
@@ -6965,6 +6967,7 @@ domain_suffix_set:
   - "sony.com.pa"
   - "sony.com.pe"
   - "sony.com.ph"
+  - "sony.com.py"
   - "sony.com.sg"
   - "sony.com.sv"
   - "sony.com.tr"
@@ -7007,8 +7010,10 @@ domain_suffix_set:
   - "sonydna.com"
   - "sonyentertainmentnetwork.com"
   - "sonyglobalsolutions.jp"
+  - "sonyinteractive.com"
   - "sonykigyo.jp"
   - "sonylatvija.com"
+  - "sonymusic.com.hk"
   - "sonynetwork.co.jp"
   - "sonypcl.jp"
   - "sonypictures.com"

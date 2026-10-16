@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-10-15
+# UPDATED: 2026-10-16
 # DOMAIN: 95
-# DOMAIN-SUFFIX: 1045
+# DOMAIN-SUFFIX: 1046
 # DOMAIN-REGEX: 4
-# TOTAL: 1144
+# TOTAL: 1145
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -726,6 +726,7 @@ domain_suffix_set:
   - "playparagon.com"
   - "playstation.com"
   - "playstation.net"
+  - "playstationnetwork.com"
   - "playvalorant.com"
   - "playwarcraft3.com"
   - "pogo.com"

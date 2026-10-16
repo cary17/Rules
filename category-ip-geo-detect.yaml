@@ -1,8 +1,8 @@
 # NAME: category-ip-geo-detect
-# UPDATED: 2026-10-15
+# UPDATED: 2026-10-16
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 227
-# TOTAL: 238
+# DOMAIN-SUFFIX: 228
+# TOTAL: 239
 domain_set:
   - "checkip.amazonaws.com"
   - "checkip.dyn.com"
@@ -28,6 +28,7 @@ domain_suffix_set:
   - "bgp.tools"
   - "bigdatacloud.net"
   - "browserleaks.com"
+  - "bulkgeoip.com"
   - "check-host.net"
   - "checkip.com.vn"
   - "checkip.org"
