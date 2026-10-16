@@ -94,6 +94,7 @@ dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 edge.geo.kaspersky.com
+error-tracking.megamarket.tech
 google-analytics-suite.ozon.ru
 informer.yandex.ru
 ksn-cinfo-geo.kaspersky-labs.com
@@ -128,6 +129,7 @@ mc.yandex.com
 mc.yandex.net
 mc.yango.com
 mdr.ksn.kaspersky-labs.com
+metrics.21-school.ru
 metrika.kontur.ru
 mvideo.edna.io
 new-adv.ozon.ru
@@ -191,6 +193,7 @@ sentry.mindbox.ru
 sentry.ozon.ru
 sentry.popmechanic.ru
 sentry.rustore.ru
+sentry.sberauto.com
 sentry.viqeo.tv
 sentry.wb.ru
 sentry.x5.ru
@@ -205,6 +208,7 @@ stats.vk-portal.net
 t.mail.ru
 target.vk.com
 top-staging.mail.ru
+tracing-http.megamarket.tech
 visor.sberbank.ru
 web-analytics.wildberries.ru
 whiteline.mail.ru
@@ -230,10 +234,24 @@ xray.mail.ru
 .yandex
 +.1917live.red
 +.24h.tv
++.2gis.ae
++.2gis.am
++.2gis.az
++.2gis.by
++.2gis.com
++.2gis.com.cy
++.2gis.cz
++.2gis.ge
++.2gis.kg
++.2gis.kz
++.2gis.tech
++.2gis.tj
++.2gis.uz
 +.3ebra.net
 +.4epenaxa.com
 +.5post.market
 +.a.mts.ru
++.accesspoint.uz
 +.acmvid.com
 +.actualidad-rt.com
 +.ad.mail.ru
@@ -311,6 +329,7 @@ xray.mail.ru
 +.ciciq.net
 +.clck.yandex.ru
 +.clickstream.sberbank.ru
++.cloudru.cn
 +.clstorage.net
 +.cm.expert
 +.codeseason.by
@@ -369,6 +388,7 @@ xray.mail.ru
 +.eadaily.info
 +.eadaily.net
 +.eadaily.org
++.eaptechka.online
 +.edu22.info
 +.eligens.cl
 +.eligens.com.br
@@ -422,6 +442,7 @@ xray.mail.ru
 +.genotek.eu
 +.genotek.health
 +.gerwin.io
++.getsynapse.io
 +.gib-global.com
 +.gib.sg
 +.gibdev.net
@@ -506,6 +527,18 @@ xray.mail.ru
 +.ixbt.site
 +.ixbt.video
 +.jinrieluosi.cn
++.jivo.chat
++.jivochat.co.in
++.jivochat.co.za
++.jivochat.com
++.jivochat.com.br
++.jivochat.com.co
++.jivochat.com.pe
++.jivochat.com.tr
++.jivochat.de
++.jivochat.es
++.jivochat.ng
++.jivosite.com
 +.jump.taxi
 +.justveryok.com
 +.kaspersky-labs.com
@@ -567,6 +600,7 @@ xray.mail.ru
 +.medsi.com
 +.medsi.pro
 +.megafon.com
++.megamarket.tech
 +.mel.fm
 +.memealerts.com
 +.meteofor.com
@@ -607,6 +641,7 @@ xray.mail.ru
 +.mytopf.com
 +.mytrk.link
 +.naydex.net
++.neon.click
 +.netcraze.club
 +.netcraze.link
 +.netcraze.pro
@@ -771,7 +806,12 @@ xray.mail.ru
 +.sage-observability.tech
 +.sayeasy.eu
 +.sber-bank.by
++.sber.pro
++.sberauto.com
++.sberbank-tele.com
 +.sberbank.com
++.sbercloud.tech
++.sbermarketing.ru
 +.seclab.lat
 +.selcdn.net
 +.selectel.academy
@@ -1064,3 +1104,5 @@ xray.mail.ru
 +.yndx.net
 +.youla.io
 +.yourgood.app
++.zvuk-b2b.com
++.zvuk.com
