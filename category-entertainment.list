@@ -1,8 +1,8 @@
 # NAME: category-entertainment
-# UPDATED: 2026-10-15
+# UPDATED: 2026-10-16
 # DOMAIN: 270
-# DOMAIN-SUFFIX: 1844
-# TOTAL: 2114
+# DOMAIN-SUFFIX: 1845
+# TOTAL: 2115
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,abematv.akamaized.net
@@ -1412,6 +1412,7 @@ DOMAIN-SUFFIX,playshow.io
 DOMAIN-SUFFIX,playshowtv.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,playvalorant.com
 DOMAIN-SUFFIX,playwarcraft3.com
 DOMAIN-SUFFIX,pluto.tv

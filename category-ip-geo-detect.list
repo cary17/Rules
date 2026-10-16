@@ -1,8 +1,8 @@
 # NAME: category-ip-geo-detect
-# UPDATED: 2026-10-15
+# UPDATED: 2026-10-16
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 227
-# TOTAL: 238
+# DOMAIN-SUFFIX: 228
+# TOTAL: 239
 DOMAIN,checkip.amazonaws.com
 DOMAIN,checkip.dyn.com
 DOMAIN,checkip.dyndns.org
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,bgp.he.net
 DOMAIN-SUFFIX,bgp.tools
 DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,bulkgeoip.com
 DOMAIN-SUFFIX,check-host.net
 DOMAIN-SUFFIX,checkip.com.vn
 DOMAIN-SUFFIX,checkip.org

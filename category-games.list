@@ -1,8 +1,8 @@
 # NAME: category-games
-# UPDATED: 2026-10-15
+# UPDATED: 2026-10-16
 # DOMAIN: 95
-# DOMAIN-SUFFIX: 1045
-# TOTAL: 1140
+# DOMAIN-SUFFIX: 1046
+# TOTAL: 1141
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -723,6 +723,7 @@ DOMAIN-SUFFIX,playoverwatch.com
 DOMAIN-SUFFIX,playparagon.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,playvalorant.com
 DOMAIN-SUFFIX,playwarcraft3.com
 DOMAIN-SUFFIX,pogo.com

@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-10-15
+# UPDATED: 2026-10-16
 # DOMAIN: 238
-# DOMAIN-SUFFIX: 23598
-# TOTAL: 23836
+# DOMAIN-SUFFIX: 23603
+# TOTAL: 23841
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -16783,6 +16783,7 @@ DOMAIN-SUFFIX,playshow.io
 DOMAIN-SUFFIX,playshowtv.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,playvalorant.com
 DOMAIN-SUFFIX,playvids.com
 DOMAIN-SUFFIX,playwarcraft3.com
@@ -18356,6 +18357,7 @@ DOMAIN-SUFFIX,scatvids.club
 DOMAIN-SUFFIX,scatville.com
 DOMAIN-SUFFIX,scb.ru
 DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,scea.com
 DOMAIN-SUFFIX,scene7.com
 DOMAIN-SUFFIX,scenesource.me
 DOMAIN-SUFFIX,scharferporno.com
@@ -19213,6 +19215,7 @@ DOMAIN-SUFFIX,sony.com.ni
 DOMAIN-SUFFIX,sony.com.pa
 DOMAIN-SUFFIX,sony.com.pe
 DOMAIN-SUFFIX,sony.com.ph
+DOMAIN-SUFFIX,sony.com.py
 DOMAIN-SUFFIX,sony.com.sg
 DOMAIN-SUFFIX,sony.com.sv
 DOMAIN-SUFFIX,sony.com.tr
@@ -19256,8 +19259,10 @@ DOMAIN-SUFFIX,sonydesign.com
 DOMAIN-SUFFIX,sonydna.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,sonyglobalsolutions.jp
+DOMAIN-SUFFIX,sonyinteractive.com
 DOMAIN-SUFFIX,sonykigyo.jp
 DOMAIN-SUFFIX,sonylatvija.com
+DOMAIN-SUFFIX,sonymusic.com.hk
 DOMAIN-SUFFIX,sonynetwork.co.jp
 DOMAIN-SUFFIX,sonypcl.jp
 DOMAIN-SUFFIX,sonypictures.com
