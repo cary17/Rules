@@ -1,8 +1,9 @@
 # NAME: cursor
-# UPDATED: 2026-10-17
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-10-18
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursorvm.com
