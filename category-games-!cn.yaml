@@ -1,9 +1,9 @@
 # NAME: category-games-!cn
-# UPDATED: 2026-10-17
-# DOMAIN: 89
+# UPDATED: 2026-10-18
+# DOMAIN: 92
 # DOMAIN-SUFFIX: 734
 # DOMAIN-REGEX: 1
-# TOTAL: 824
+# TOTAL: 827
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -22,9 +22,12 @@ domain_set:
   - "cdngarenanow-a.akamaihd.net"
   - "cloudsync-prod.s3.amazonaws.com"
   - "d1unuk07s6td74.cloudfront.net"
+  - "d348twzf7a8p5.cloudfront.net"
   - "datarouter.apps.netherrealm.com"
+  - "devforum-uploads.s3.dualstack.us-east-2.amazonaws.com"
   - "dlgarenanow-a.akamaihd.net"
   - "dlmobilegarena-a.akamaihd.net"
+  - "doy2mn9upadnk.cloudfront.net"
   - "ea.tt.omtrdc.net"
   - "eaassets-a.akamaihd.net"
   - "f3b7q2p3.ssl.hwcdn.net"

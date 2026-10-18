@@ -1,9 +1,9 @@
 # NAME: openai
-# UPDATED: 2026-10-17
+# UPDATED: 2026-10-18
 # DOMAIN: 9
-# DOMAIN-SUFFIX: 13
+# DOMAIN-SUFFIX: 14
 # DOMAIN-REGEX: 1
-# TOTAL: 23
+# TOTAL: 24
 domain_set:
   - "browser-intake-datadoghq.com"
   - "o33249.ingest.sentry.io"
@@ -26,6 +26,7 @@ domain_suffix_set:
   - "oaiusercontent.com"
   - "openai.com"
   - "openai.com.cdn.cloudflare.net"
+  - "openai.org"
   - "sora.com"
   - "turn.livekit.cloud"
 domain_regex_set:

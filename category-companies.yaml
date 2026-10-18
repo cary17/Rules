@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-10-17
+# UPDATED: 2026-10-18
 # DOMAIN: 603
-# DOMAIN-SUFFIX: 7671
+# DOMAIN-SUFFIX: 7684
 # DOMAIN-REGEX: 6
-# TOTAL: 8280
+# TOTAL: 8293
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -2173,8 +2173,15 @@ domain_suffix_set:
   - "beddit.tv"
   - "beesbfl.ru"
   - "beescrm.ru"
+  - "beget.app"
+  - "beget.cloud"
   - "beget.com"
+  - "beget.de"
+  - "beget.hosting"
+  - "beget.pro"
   - "beget.ru"
+  - "beget.tech"
+  - "begetcdn.cloud"
   - "begin-trade.com"
   - "behance.net"
   - "behindthescreenz.com"
@@ -2182,6 +2189,7 @@ domain_suffix_set:
   - "berizaryad.ru"
   - "berkanawireless.com"
   - "beru.ru"
+  - "beserver.ru"
   - "best4bim.com"
   - "bestbeats4u.com"
   - "bestbim.com"
@@ -2195,6 +2203,7 @@ domain_suffix_set:
   - "betterbim.com"
   - "betterwithautodesk.com"
   - "beyondcore.com"
+  - "bget.ru"
   - "bhent.co.kr"
   - "biitii.com"
   - "bim-360.com"
@@ -7046,6 +7055,7 @@ domain_suffix_set:
   - "sportsfacebook.com"
   - "sportstream.com"
   - "sprinklesapp.com"
+  - "sprut.io"
   - "sptvbroadcast.com"
   - "sqlserveronlinux.com"
   - "squ1.com"
@@ -7224,6 +7234,8 @@ domain_suffix_set:
   - "timelinestoryteller.com"
   - "timeweb.cloud"
   - "timeweb.com"
+  - "timeweb.tech"
+  - "timewebcloud.kz"
   - "tinkerboxapp.com"
   - "tinkercad.com"
   - "tinkerentertainment.com"
@@ -7784,6 +7796,7 @@ domain_suffix_set:
   - "xn--80arpq.xn--p1ai"
   - "xn--80asgb.xn--p1ai"
   - "xn--90absjljw3g.xn--p1ai"
+  - "xn--90aefb9d.xn--p1ai"
   - "xn--9kr7l.com"
   - "xn--9trs65b.com"
   - "xn--czrs0t4phtr3a.cn"

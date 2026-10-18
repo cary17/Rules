@@ -1,8 +1,10 @@
 # NAME: timeweb
-# UPDATED: 2026-10-17
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2026-10-18
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 domain_suffix_set:
   - "timeweb.cloud"
   - "timeweb.com"
+  - "timeweb.tech"
+  - "timewebcloud.kz"
   - "twcstorage.ru"

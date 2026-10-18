@@ -1,9 +1,9 @@
 # NAME: category-ai-!cn
-# UPDATED: 2026-10-17
+# UPDATED: 2026-10-18
 # DOMAIN: 30
-# DOMAIN-SUFFIX: 159
+# DOMAIN-SUFFIX: 162
 # DOMAIN-REGEX: 1
-# TOTAL: 190
+# TOTAL: 193
 domain_set:
   - "ai.google.dev"
   - "alkalicore-pa.clients6.google.com"
@@ -86,6 +86,7 @@ domain_suffix_set:
   - "cursor.com"
   - "cursor.sh"
   - "cursorapi.com"
+  - "cursorvm.com"
   - "deepmind.com"
   - "deepmind.google"
   - "deepwiki.com"
@@ -163,6 +164,7 @@ domain_suffix_set:
   - "opal.google.com"
   - "openai.com"
   - "openai.com.cdn.cloudflare.net"
+  - "openai.org"
   - "openart.ai"
   - "openclaw.ai"
   - "opencode.ai"
@@ -189,6 +191,7 @@ domain_suffix_set:
   - "trae.ai"
   - "tripo3d.ai"
   - "turn.livekit.cloud"
+  - "typesafe.ai"
   - "windsurf.build"
   - "windsurf.com"
   - "x.ai"

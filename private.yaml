@@ -1,13 +1,15 @@
 # NAME: private
-# UPDATED: 2026-10-17
-# DOMAIN: 12
+# UPDATED: 2026-10-18
+# DOMAIN: 14
 # DOMAIN-SUFFIX: 118
 # DOMAIN-REGEX: 1
-# TOTAL: 131
+# TOTAL: 133
 domain_set:
   - "asusrouter.com"
   - "instant.arubanetworks.com"
   - "local.adguard.org"
+  - "localhost.weixin.qq.com"
+  - "localhost.work.weixin.qq.com"
   - "miwifi.com"
   - "oasisauth.h3c.com"
   - "router.asus.com"

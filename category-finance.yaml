@@ -1,8 +1,8 @@
 # NAME: category-finance
-# UPDATED: 2026-10-17
+# UPDATED: 2026-10-18
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 653
-# TOTAL: 656
+# DOMAIN-SUFFIX: 654
+# TOTAL: 657
 domain_set:
   - "standchartbank.sc.omtrdc.net"
   - "standchartbank.tt.omtrdc.net"
@@ -487,6 +487,7 @@ domain_suffix_set:
   - "schwab.com.hk"
   - "schwab.com.sg"
   - "schwabassetmanagement.com"
+  - "schwabcdn.com"
   - "schwabplan.com"
   - "sdm.ru"
   - "seb.ru"
