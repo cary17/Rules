@@ -1,11 +1,13 @@
 # NAME: private
-# UPDATED: 2026-10-17
-# DOMAIN: 12
+# UPDATED: 2026-10-18
+# DOMAIN: 14
 # DOMAIN-SUFFIX: 118
-# TOTAL: 130
+# TOTAL: 132
 DOMAIN,asusrouter.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,local.adguard.org
+DOMAIN,localhost.weixin.qq.com
+DOMAIN,localhost.work.weixin.qq.com
 DOMAIN,miwifi.com
 DOMAIN,oasisauth.h3c.com
 DOMAIN,router.asus.com

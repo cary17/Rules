@@ -1,8 +1,8 @@
 # NAME: category-finance
-# UPDATED: 2026-10-17
+# UPDATED: 2026-10-18
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 653
-# TOTAL: 656
+# DOMAIN-SUFFIX: 654
+# TOTAL: 657
 DOMAIN,standchartbank.sc.omtrdc.net
 DOMAIN,standchartbank.tt.omtrdc.net
 DOMAIN,visor.sberbank.ru
@@ -485,6 +485,7 @@ DOMAIN-SUFFIX,schwab.com
 DOMAIN-SUFFIX,schwab.com.hk
 DOMAIN-SUFFIX,schwab.com.sg
 DOMAIN-SUFFIX,schwabassetmanagement.com
+DOMAIN-SUFFIX,schwabcdn.com
 DOMAIN-SUFFIX,schwabplan.com
 DOMAIN-SUFFIX,sdm.ru
 DOMAIN-SUFFIX,seb.ru
