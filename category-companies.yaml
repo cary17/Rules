@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-10-18
+# UPDATED: 2026-10-19
 # DOMAIN: 603
-# DOMAIN-SUFFIX: 7684
+# DOMAIN-SUFFIX: 7683
 # DOMAIN-REGEX: 6
-# TOTAL: 8293
+# TOTAL: 8292
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -1537,7 +1537,6 @@ domain_suffix_set:
   - "asfiovnxocqpcry.com.cn"
   - "askfacebook.net"
   - "askfacebook.org"
-  - "asobostudio.com"
   - "asp-cc.com"
   - "asp.net"
   - "aspnetcdn.com"
@@ -3748,7 +3747,6 @@ domain_suffix_set:
   - "flic.kr"
   - "flickr.com"
   - "flickr.net"
-  - "flightsimulator.com"
   - "flipshare.com"
   - "flipwithsurface.com"
   - "flow.dev"
@@ -6538,6 +6536,7 @@ domain_suffix_set:
   - "publishproxy.com"
   - "pullstring.net"
   - "pushgrow.io"
+  - "pv-cdn.net"
   - "pwabuilder.com"
   - "pxt.io"
   - "pyrobot.org"

@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-10-18
-# DOMAIN: 273
-# DOMAIN-SUFFIX: 1845
+# UPDATED: 2026-10-19
+# DOMAIN: 272
+# DOMAIN-SUFFIX: 1844
 # DOMAIN-REGEX: 10
-# TOTAL: 2128
+# TOTAL: 2126
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -120,7 +120,6 @@ domain_set:
   - "espndotcom.tt.omtrdc.net"
   - "f3b7q2p3.ssl.hwcdn.net"
   - "favoritescc-hamivideo2.cdn.hinet.net"
-  - "flightsimulator.azureedge.net"
   - "fpinit.itunes.apple.com"
   - "gamedownloads-rockstargames-com.akamaized.net"
   - "gamer-cds.cdn.hinet.net"
@@ -398,7 +397,6 @@ domain_suffix_set:
   - "artstation.com"
   - "artstationmedia.com"
   - "artstorm.com"
-  - "asobostudio.com"
   - "att.tv"
   - "atttvnow.com"
   - "attwatchtv.com"
@@ -785,7 +783,6 @@ domain_suffix_set:
   - "fireside.fm"
   - "firesidegatherings.com"
   - "fitgirl-repacks.site"
-  - "flightsimulator.com"
   - "flipnotestudio.com"
   - "forgecdn.net"
   - "formula1.com"
@@ -1469,6 +1466,7 @@ domain_suffix_set:
   - "pscdn.co"
   - "ptzwx.com"
   - "pubg.com"
+  - "pv-cdn.net"
   - "pvp.net"
   - "pvp.tv"
   - "pvzgw2.com"

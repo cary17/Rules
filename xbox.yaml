@@ -1,14 +1,12 @@
 # NAME: xbox
-# UPDATED: 2026-10-18
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 43
-# TOTAL: 45
+# UPDATED: 2026-10-19
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 41
+# TOTAL: 42
 domain_set:
-  - "flightsimulator.azureedge.net"
   - "prodforza.blob.core.windows.net"
 domain_suffix_set:
   - ".xbox"
-  - "asobostudio.com"
   - "beth.games"
   - "bethesda.net"
   - "bethesdagamestudios.com"
@@ -16,7 +14,6 @@ domain_suffix_set:
   - "callersbane.com"
   - "doom.com"
   - "elderscrolls.com"
-  - "flightsimulator.com"
   - "forza.net"
   - "forzamotorsport.net"
   - "forzaracingchampionship.com"

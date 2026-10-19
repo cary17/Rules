@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-10-18
-# DOMAIN: 98
-# DOMAIN-SUFFIX: 1046
+# UPDATED: 2026-10-19
+# DOMAIN: 97
+# DOMAIN-SUFFIX: 1044
 # DOMAIN-REGEX: 4
-# TOTAL: 1148
+# TOTAL: 1145
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -34,7 +34,6 @@ domain_set:
   - "end-api.shallow.ink"
   - "end.shallow.ink"
   - "f3b7q2p3.ssl.hwcdn.net"
-  - "flightsimulator.azureedge.net"
   - "gamedownloads-rockstargames-com.akamaized.net"
   - "gog-cdn-lumen.secure2.footprint.net"
   - "gog-cdn.akamaized.net"
@@ -185,7 +184,6 @@ domain_suffix_set:
   - "artstation.com"
   - "artstationmedia.com"
   - "artstorm.com"
-  - "asobostudio.com"
   - "astral-vector.com"
   - "awayoutgame.com"
   - "ayudanintendo.com"
@@ -375,7 +373,6 @@ domain_suffix_set:
   - "fireemblemawakening.com"
   - "firesidegatherings.com"
   - "fitgirl-repacks.site"
-  - "flightsimulator.com"
   - "flipnotestudio.com"
   - "forevernine.com"
   - "forgecdn.net"

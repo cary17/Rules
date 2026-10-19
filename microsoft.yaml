@@ -1,8 +1,8 @@
 # NAME: microsoft
-# UPDATED: 2026-10-18
+# UPDATED: 2026-10-19
 # DOMAIN: 68
-# DOMAIN-SUFFIX: 637
-# TOTAL: 705
+# DOMAIN-SUFFIX: 635
+# TOTAL: 703
 domain_set:
   - "azuremigrate.download.prss.microsoft.com"
   - "azuremigratetest.download.prss.microsoft.com"
@@ -101,7 +101,6 @@ domain_suffix_set:
   - "applicationinsights.net"
   - "appserviceenvironment.cn"
   - "aria.ms"
-  - "asobostudio.com"
   - "asp.net"
   - "aspnetcdn.com"
   - "atom.io"
@@ -274,7 +273,6 @@ domain_suffix_set:
   - "exp-tas.com"
   - "fasttrackreadysupport.com"
   - "femalefounderscomp.com"
-  - "flightsimulator.com"
   - "flipwithsurface.com"
   - "fluidpreview.com"
   - "footprintdns.com"

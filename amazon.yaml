@@ -1,9 +1,9 @@
 # NAME: amazon
-# UPDATED: 2026-10-18
+# UPDATED: 2026-10-19
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 234
+# DOMAIN-SUFFIX: 235
 # DOMAIN-REGEX: 3
-# TOTAL: 239
+# TOTAL: 240
 domain_set:
   - "images-cn-8.ssl-images-amazon.com"
   - "images-cn.ssl-images-amazon.com"
@@ -223,6 +223,7 @@ domain_suffix_set:
   - "primevideo.info"
   - "primevideo.org"
   - "primevideo.tv"
+  - "pv-cdn.net"
   - "route53.cn"
   - "sagemaker.com.cn"
   - "seattlespheres.com"
