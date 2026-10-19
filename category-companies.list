@@ -1,8 +1,8 @@
 # NAME: category-companies
-# UPDATED: 2026-10-18
+# UPDATED: 2026-10-19
 # DOMAIN: 603
-# DOMAIN-SUFFIX: 7684
-# TOTAL: 8287
+# DOMAIN-SUFFIX: 7683
+# TOTAL: 8286
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -1534,7 +1534,6 @@ DOMAIN-SUFFIX,as-hp.ca
 DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,asp-cc.com
 DOMAIN-SUFFIX,asp.net
 DOMAIN-SUFFIX,aspnetcdn.com
@@ -3745,7 +3744,6 @@ DOMAIN-SUFFIX,flatt.tech
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipshare.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,flow.dev
@@ -6535,6 +6533,7 @@ DOMAIN-SUFFIX,publicsuffix.org
 DOMAIN-SUFFIX,publishproxy.com
 DOMAIN-SUFFIX,pullstring.net
 DOMAIN-SUFFIX,pushgrow.io
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,pwabuilder.com
 DOMAIN-SUFFIX,pxt.io
 DOMAIN-SUFFIX,pyrobot.org

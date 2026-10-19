@@ -1,8 +1,8 @@
 # NAME: amazon
-# UPDATED: 2026-10-18
+# UPDATED: 2026-10-19
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 234
-# TOTAL: 236
+# DOMAIN-SUFFIX: 235
+# TOTAL: 237
 DOMAIN,images-cn-8.ssl-images-amazon.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN-SUFFIX,.amazon
@@ -220,6 +220,7 @@ DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,route53.cn
 DOMAIN-SUFFIX,sagemaker.com.cn
 DOMAIN-SUFFIX,seattlespheres.com
