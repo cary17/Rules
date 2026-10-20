@@ -1,8 +1,8 @@
 # NAME: category-companies
-# UPDATED: 2026-10-19
-# DOMAIN: 603
-# DOMAIN-SUFFIX: 7683
-# TOTAL: 8286
+# UPDATED: 2026-10-20
+# DOMAIN: 604
+# DOMAIN-SUFFIX: 7684
+# TOTAL: 8288
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -322,6 +322,7 @@ DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,js-cdn.music.apple.com
 DOMAIN,km.support.apple.com
+DOMAIN,kp-config-smart-tv.akamaized.net
 DOMAIN,ksn-cinfo-geo.kaspersky-labs.com
 DOMAIN,ksn-cinfo.geoksn.kaspersky.com
 DOMAIN,ksn-crypto-info-geo.kaspersky-labs.com
@@ -6006,6 +6007,7 @@ DOMAIN-SUFFIX,msturing.org
 DOMAIN-SUFFIX,msudalosti.com
 DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,mt.lv
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsbank.ru

@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-10-19
+# UPDATED: 2026-10-20
 # DOMAIN: 238
-# DOMAIN-SUFFIX: 23619
-# TOTAL: 23857
+# DOMAIN-SUFFIX: 23622
+# TOTAL: 23860
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -13288,6 +13288,7 @@ DOMAIN-SUFFIX,magentomobile.com
 DOMAIN-SUFFIX,magestic.com
 DOMAIN-SUFFIX,magicalmirai.com
 DOMAIN-SUFFIX,magicmovies.com
+DOMAIN-SUFFIX,magnific.com
 DOMAIN-SUFFIX,mahajantech.com
 DOMAIN-SUFFIX,maidonanews.jp
 DOMAIN-SUFFIX,mail-ads.google.com
@@ -14639,6 +14640,7 @@ DOMAIN-SUFFIX,msys2.org
 DOMAIN-SUFFIX,mt.lv
 DOMAIN-SUFFIX,mt0011.site
 DOMAIN-SUFFIX,mtao.fun
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsbank.ru
@@ -17227,6 +17229,7 @@ DOMAIN-SUFFIX,postgresql.org
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postini.com
+DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,posty.kr
 DOMAIN-SUFFIX,postyourgirls.ws
 DOMAIN-SUFFIX,potenza.jp
