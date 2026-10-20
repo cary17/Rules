@@ -1,11 +1,12 @@
 # NAME: category-education-ru
-# UPDATED: 2026-10-19
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# UPDATED: 2026-10-20
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
 domain_suffix_set:
   - "altaiobr04.ru"
   - "chelyabinsk-sgo-edu-74.ru"
   - "gramotei.online"
+  - "hse.ru"
   - "kakpishem.ru"
   - "kartaslov.ru"
   - "mel.fm"

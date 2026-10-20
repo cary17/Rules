@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-10-19
-# DOMAIN: 603
-# DOMAIN-SUFFIX: 7683
+# UPDATED: 2026-10-20
+# DOMAIN: 604
+# DOMAIN-SUFFIX: 7684
 # DOMAIN-REGEX: 6
-# TOTAL: 8292
+# TOTAL: 8294
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -324,6 +324,7 @@ domain_set:
   - "itunesconnect.apple.com"
   - "js-cdn.music.apple.com"
   - "km.support.apple.com"
+  - "kp-config-smart-tv.akamaized.net"
   - "ksn-cinfo-geo.kaspersky-labs.com"
   - "ksn-cinfo.geoksn.kaspersky.com"
   - "ksn-crypto-info-geo.kaspersky-labs.com"
@@ -6009,6 +6010,7 @@ domain_suffix_set:
   - "msudalosti.com"
   - "msunlimitedcloudsummit.com"
   - "mt.lv"
+  - "mts-link.ru"
   - "mts-ws.net"
   - "mts.ru"
   - "mtsbank.ru"

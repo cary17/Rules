@@ -1,7 +1,7 @@
 # NAME: category-gov-ru
-# UPDATED: 2026-10-19
-# DOMAIN-SUFFIX: 142
-# TOTAL: 142
+# UPDATED: 2026-10-20
+# DOMAIN-SUFFIX: 145
+# TOTAL: 145
 domain_suffix_set:
   - "adygeya.ru"
   - "altai.ru"
@@ -75,6 +75,7 @@ domain_suffix_set:
   - "mil.ru"
   - "mordovia.ru"
   - "mos.ru"
+  - "mospat.ru"
   - "mosreg.ru"
   - "murmansk.ru"
   - "nalchik.ru"
@@ -88,12 +89,14 @@ domain_suffix_set:
   - "ooc-school.ru"
   - "orb.ru"
   - "oryol.ru"
+  - "patriarchia.ru"
   - "penza.ru"
   - "perm.ru"
   - "prim-edu.ru"
   - "psk.ru"
   - "pskov.ru"
   - "ptz.ru"
+  - "regionvideo.ru"
   - "rkomi.ru"
   - "rnd.ru"
   - "ro-edu.ru"

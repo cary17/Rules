@@ -1,7 +1,11 @@
 # NAME: category-entertainment-ru
-# UPDATED: 2026-10-19
-# DOMAIN-SUFFIX: 31
-# TOTAL: 31
+# UPDATED: 2026-10-20
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 32
+# TOTAL: 34
+domain_set:
+  - "kp-config-smart-tv.akamaized.net"
+  - "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com"
 domain_suffix_set:
   - "24h.tv"
   - "amediateka.ru"
@@ -14,6 +18,7 @@ domain_suffix_set:
   - "kinopoisk-ru.clstorage.net"
   - "kinopoisk.ru"
   - "kinorium.com"
+  - "kp.yandex.net"
   - "more.tv"
   - "okko.sport"
   - "okko.tv"

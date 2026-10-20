@@ -1,9 +1,9 @@
 # NAME: category-dev
-# UPDATED: 2026-10-19
+# UPDATED: 2026-10-20
 # DOMAIN: 85
-# DOMAIN-SUFFIX: 576
+# DOMAIN-SUFFIX: 577
 # DOMAIN-REGEX: 1
-# TOTAL: 662
+# TOTAL: 663
 domain_set:
   - "amp.akamaized.net"
   - "android.googlesource.com"
@@ -489,6 +489,7 @@ domain_suffix_set:
   - "polymerproject.org"
   - "poshtestgallery.com"
   - "postgresql.org"
+  - "postman.com"
   - "prd-lender.cdp.internal.unity3d.com"
   - "pub.dev"
   - "putty.org"

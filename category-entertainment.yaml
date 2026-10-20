@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-10-19
-# DOMAIN: 272
-# DOMAIN-SUFFIX: 1844
+# UPDATED: 2026-10-20
+# DOMAIN: 274
+# DOMAIN-SUFFIX: 1845
 # DOMAIN-REGEX: 10
-# TOTAL: 2126
+# TOTAL: 2129
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -146,6 +146,8 @@ domain_set:
   - "is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net"
   - "itunesconnect.apple.com"
   - "js-cdn.music.apple.com"
+  - "kp-config-smart-tv.akamaized.net"
+  - "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com"
   - "lastfm-img.freetls.fastly.net"
   - "lastfm.freetls.fastly.net"
   - "lazer.ppy.sh"
@@ -1081,6 +1083,7 @@ domain_suffix_set:
   - "konamisportsclub.jp"
   - "konamistyle.jp"
   - "koubaibu.jp"
+  - "kp.yandex.net"
   - "kpacg.com"
   - "kraftonde.com"
   - "kyurem.com"

@@ -1,7 +1,7 @@
 # NAME: category-media-ru
-# UPDATED: 2026-10-19
-# DOMAIN-SUFFIX: 141
-# TOTAL: 141
+# UPDATED: 2026-10-20
+# DOMAIN-SUFFIX: 148
+# TOTAL: 148
 domain_suffix_set:
   - "1917live.red"
   - "1prime.ru"
@@ -15,6 +15,7 @@ domain_suffix_set:
   - "arteldoc.com"
   - "arteldoc.tv"
   - "asiangooglenetwork.com"
+  - "azbyka.ru"
   - "b37mrtl.ru"
   - "baltnews.com"
   - "baltnews.lt"
@@ -61,6 +62,10 @@ domain_suffix_set:
   - "notimundo.press"
   - "oknovrossiu.ru"
   - "pobeda.page"
+  - "posledovania.ru"
+  - "pravmir.com"
+  - "pravmir.ru"
+  - "pravoslavie.ru"
   - "premiumlive.site"
   - "pressria.ru"
   - "radiosputnik.ru"
@@ -142,5 +147,7 @@ domain_suffix_set:
   - "tok.media"
   - "ukraina.ru"
   - "watchingthehawks.com"
+  - "webtypikon.ru"
   - "worldcuprussia.com"
+  - "xn--80adfddrquddgz.xn--p1ai"
   - "xn--c1acbl2abdlkab1og.xn--p1ai"

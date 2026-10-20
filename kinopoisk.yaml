@@ -1,7 +1,12 @@
 # NAME: kinopoisk
-# UPDATED: 2026-10-19
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-10-20
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+domain_set:
+  - "kp-config-smart-tv.akamaized.net"
+  - "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com"
 domain_suffix_set:
   - "kinopoisk-ru.clstorage.net"
   - "kinopoisk.ru"
+  - "kp.yandex.net"
