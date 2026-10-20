@@ -1,8 +1,8 @@
 # NAME: category-dev
-# UPDATED: 2026-10-19
+# UPDATED: 2026-10-20
 # DOMAIN: 85
-# DOMAIN-SUFFIX: 576
-# TOTAL: 661
+# DOMAIN-SUFFIX: 577
+# TOTAL: 662
 DOMAIN,amp.akamaized.net
 DOMAIN,android.googlesource.com
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -486,6 +486,7 @@ DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,poshtestgallery.com
 DOMAIN-SUFFIX,postgresql.org
+DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
 DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,putty.org

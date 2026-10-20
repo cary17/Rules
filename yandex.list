@@ -1,8 +1,8 @@
 # NAME: yandex
-# UPDATED: 2026-10-19
-# DOMAIN: 16
+# UPDATED: 2026-10-20
+# DOMAIN: 18
 # DOMAIN-SUFFIX: 137
-# TOTAL: 153
+# TOTAL: 155
 DOMAIN,adfstat.yandex.ru
 DOMAIN,ads.yandex.com
 DOMAIN,ads.yango.com
@@ -13,6 +13,8 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,informer.yandex.ru
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
