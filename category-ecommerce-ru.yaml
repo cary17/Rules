@@ -1,8 +1,8 @@
 # NAME: category-ecommerce-ru
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 34
-# DOMAIN-SUFFIX: 165
-# TOTAL: 199
+# DOMAIN-SUFFIX: 167
+# TOTAL: 201
 domain_set:
   - "ad.ozone.ru"
   - "ads-gate.wildberries.ru"
@@ -42,8 +42,10 @@ domain_suffix_set:
   - "apiauto.ru"
   - "auto.ru"
   - "autoru.me"
+  - "avito.com"
   - "avito.ru"
   - "avito.st"
+  - "avito.tech"
   - "avto.ru"
   - "cian.ru"
   - "cian.site"

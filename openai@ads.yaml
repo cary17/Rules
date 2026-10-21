@@ -1,8 +1,9 @@
 # NAME: openai@ads
-# UPDATED: 2026-10-20
-# DOMAIN: 3
-# TOTAL: 3
+# UPDATED: 2026-10-21
+# DOMAIN: 4
+# TOTAL: 4
 domain_set:
   - "browser-intake-datadoghq.com"
   - "o33249.ingest.sentry.io"
+  - "o33249.ingest.us.sentry.io"
   - "openai.qualtrics.com"

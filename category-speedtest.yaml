@@ -1,9 +1,9 @@
 # NAME: category-speedtest
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 75
+# DOMAIN-SUFFIX: 77
 # DOMAIN-REGEX: 1
-# TOTAL: 78
+# TOTAL: 80
 domain_set:
   - "hk-global-bgp.hkg.speedtest.yecaoyun.com"
   - "www.speedtest.net.cdn.cloudflare.net"
@@ -15,6 +15,8 @@ domain_suffix_set:
   - "ekahau.com"
   - "fast.com"
   - "fastspeedtest.com"
+  - "internet.yandex.com"
+  - "internet.yandex.ru"
   - "librespeed.org"
   - "linkmeter.net"
   - "measurementlab.net"

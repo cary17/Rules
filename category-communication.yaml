@@ -1,8 +1,8 @@
 # NAME: category-communication
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 147
-# TOTAL: 149
+# DOMAIN-SUFFIX: 158
+# TOTAL: 160
 domain_set:
   - "discord-attachments-uploads-prd.storage.googleapis.com"
   - "hammerandchisel.ssl.zendesk.com"
@@ -44,6 +44,17 @@ domain_suffix_set:
   - "element.io"
   - "fbmessenger.com"
   - "fluffychat.im"
+  - "fluxer.app"
+  - "fluxer.com"
+  - "fluxer.dev"
+  - "fluxer.gg"
+  - "fluxer.gift"
+  - "fluxer.media"
+  - "fluxer.tools"
+  - "fluxerapp.com"
+  - "fluxerstatic.com"
+  - "fluxerstatus.com"
+  - "fluxerusercontent.com"
   - "fragment.com"
   - "freenode.net"
   - "gcld-line.com"

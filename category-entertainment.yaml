@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-10-20
-# DOMAIN: 274
+# UPDATED: 2026-10-21
+# DOMAIN: 275
 # DOMAIN-SUFFIX: 1845
 # DOMAIN-REGEX: 10
-# TOTAL: 2129
+# TOTAL: 2130
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -86,6 +86,7 @@ domain_set:
   - "d3c27h4odz752x.cloudfront.net"
   - "d3lh5kkip965lj.cloudfront.net"
   - "d3nwj80emtnjeo.cloudfront.net"
+  - "d3stzm2eumvgb4.cloudfront.net"
   - "d3ucl0eqgl80l5.cloudfront.net"
   - "d3vd9lfkzbru3h.cloudfront.net"
   - "d6d4ismr40iw.cloudfront.net"

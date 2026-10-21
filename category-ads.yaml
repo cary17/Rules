@@ -1,9 +1,9 @@
 # NAME: category-ads
-# UPDATED: 2026-10-20
-# DOMAIN: 158
+# UPDATED: 2026-10-21
+# DOMAIN: 159
 # DOMAIN-SUFFIX: 684
 # DOMAIN-REGEX: 1
-# TOTAL: 843
+# TOTAL: 844
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -106,6 +106,7 @@ domain_set:
   - "metrika.kontur.ru"
   - "new-adv.ozon.ru"
   - "o33249.ingest.sentry.io"
+  - "o33249.ingest.us.sentry.io"
   - "o4504926511693824.ingest.sentry.io"
   - "openai.qualtrics.com"
   - "p3-ad-sign.byteimg.com"

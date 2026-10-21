@@ -1,8 +1,8 @@
 # NAME: category-education-cn
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 193
-# TOTAL: 194
+# DOMAIN-SUFFIX: 195
+# TOTAL: 196
 domain_set:
   - "study.163.com"
 domain_suffix_set:
@@ -148,6 +148,8 @@ domain_suffix_set:
   - "speiyou.com"
   - "sydw8.com"
   - "syh.zybang.com"
+  - "szu.app"
+  - "szu.moe"
   - "tal.com"
   - "tesoon.com"
   - "tongxuepie.com"

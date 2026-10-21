@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn@ads
-# UPDATED: 2026-10-20
-# DOMAIN: 130
+# UPDATED: 2026-10-21
+# DOMAIN: 131
 # DOMAIN-SUFFIX: 166
-# TOTAL: 296
+# TOTAL: 297
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -89,6 +89,7 @@ domain_set:
   - "mc.yango.com"
   - "new-adv.ozon.ru"
   - "o33249.ingest.sentry.io"
+  - "o33249.ingest.us.sentry.io"
   - "o4504926511693824.ingest.sentry.io"
   - "openai.qualtrics.com"
   - "pixel.rustore.ru"

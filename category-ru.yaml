@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 913
-# TOTAL: 1137
+# DOMAIN-SUFFIX: 917
+# TOTAL: 1141
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -304,7 +304,9 @@ domain_suffix_set:
   - "attachmy.com"
   - "autoru.me"
   - "aviasales.com"
+  - "avito.com"
   - "avito.st"
+  - "avito.tech"
   - "avs.io"
   - "baltnews.com"
   - "baltnews.lt"
@@ -908,6 +910,8 @@ domain_suffix_set:
   - "tehnodom.com"
   - "telega.info"
   - "telega.me"
+  - "terratraf.com"
+  - "terratraf.io"
   - "tilda.cc"
   - "tilda.ws"
   - "tildaapi.com"

@@ -1,0 +1,16 @@
+# NAME: fluxer
+# UPDATED: 2026-10-21
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
+domain_suffix_set:
+  - "fluxer.app"
+  - "fluxer.com"
+  - "fluxer.dev"
+  - "fluxer.gg"
+  - "fluxer.gift"
+  - "fluxer.media"
+  - "fluxer.tools"
+  - "fluxerapp.com"
+  - "fluxerstatic.com"
+  - "fluxerstatus.com"
+  - "fluxerusercontent.com"

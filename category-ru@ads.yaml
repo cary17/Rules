@@ -1,8 +1,8 @@
 # NAME: category-ru@ads
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 125
-# DOMAIN-SUFFIX: 62
-# TOTAL: 187
+# DOMAIN-SUFFIX: 64
+# TOTAL: 189
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -181,6 +181,8 @@ domain_suffix_set:
   - "target.my.com"
   - "target.vk.ru"
   - "targetads.io"
+  - "terratraf.com"
+  - "terratraf.io"
   - "top-fwz1.mail.ru"
   - "trace-flow.ru"
   - "tracker-api.my.com"
