@@ -1,7 +1,8 @@
 # NAME: category-ai-chat-!cn@ads
-# UPDATED: 2026-10-20
-# DOMAIN: 3
-# TOTAL: 3
+# UPDATED: 2026-10-21
+# DOMAIN: 4
+# TOTAL: 4
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,openai.qualtrics.com

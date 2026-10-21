@@ -1,8 +1,8 @@
 # NAME: category-communication
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 147
-# TOTAL: 149
+# DOMAIN-SUFFIX: 158
+# TOTAL: 160
 DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
 DOMAIN,hammerandchisel.ssl.zendesk.com
 DOMAIN-SUFFIX,adsgram.ai
@@ -42,6 +42,17 @@ DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,element.io
 DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,fluffychat.im
+DOMAIN-SUFFIX,fluxer.app
+DOMAIN-SUFFIX,fluxer.com
+DOMAIN-SUFFIX,fluxer.dev
+DOMAIN-SUFFIX,fluxer.gg
+DOMAIN-SUFFIX,fluxer.gift
+DOMAIN-SUFFIX,fluxer.media
+DOMAIN-SUFFIX,fluxer.tools
+DOMAIN-SUFFIX,fluxerapp.com
+DOMAIN-SUFFIX,fluxerstatic.com
+DOMAIN-SUFFIX,fluxerstatus.com
+DOMAIN-SUFFIX,fluxerusercontent.com
 DOMAIN-SUFFIX,fragment.com
 DOMAIN-SUFFIX,freenode.net
 DOMAIN-SUFFIX,gcld-line.com

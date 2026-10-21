@@ -1,10 +1,11 @@
 # NAME: openai
-# UPDATED: 2026-10-20
-# DOMAIN: 9
+# UPDATED: 2026-10-21
+# DOMAIN: 10
 # DOMAIN-SUFFIX: 14
-# TOTAL: 23
+# TOTAL: 24
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,openai.qualtrics.com
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaiassets.blob.core.windows.net

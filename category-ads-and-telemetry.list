@@ -1,8 +1,8 @@
 # NAME: category-ads-and-telemetry
-# UPDATED: 2026-10-20
-# DOMAIN: 162
+# UPDATED: 2026-10-21
+# DOMAIN: 163
 # DOMAIN-SUFFIX: 686
-# TOTAL: 848
+# TOTAL: 849
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad-channel.diwodiwo.xyz
@@ -108,6 +108,7 @@ DOMAIN,metrics.21-school.ru
 DOMAIN,metrika.kontur.ru
 DOMAIN,new-adv.ozon.ru
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,o4504926511693824.ingest.sentry.io
 DOMAIN,openai.qualtrics.com
 DOMAIN,p3-ad-sign.byteimg.com
