@@ -1,8 +1,8 @@
 # NAME: category-entertainment
-# UPDATED: 2026-10-20
-# DOMAIN: 274
+# UPDATED: 2026-10-21
+# DOMAIN: 275
 # DOMAIN-SUFFIX: 1845
-# TOTAL: 2119
+# TOTAL: 2120
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,abematv.akamaized.net
@@ -84,6 +84,7 @@ DOMAIN,d3aqoihi2n8ty8.cloudfront.net
 DOMAIN,d3c27h4odz752x.cloudfront.net
 DOMAIN,d3lh5kkip965lj.cloudfront.net
 DOMAIN,d3nwj80emtnjeo.cloudfront.net
+DOMAIN,d3stzm2eumvgb4.cloudfront.net
 DOMAIN,d3ucl0eqgl80l5.cloudfront.net
 DOMAIN,d3vd9lfkzbru3h.cloudfront.net
 DOMAIN,d6d4ismr40iw.cloudfront.net

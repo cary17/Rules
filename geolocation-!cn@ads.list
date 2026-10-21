@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn@ads
-# UPDATED: 2026-10-20
-# DOMAIN: 130
+# UPDATED: 2026-10-21
+# DOMAIN: 131
 # DOMAIN-SUFFIX: 166
-# TOTAL: 296
+# TOTAL: 297
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad-channel.diwodiwo.xyz
@@ -88,6 +88,7 @@ DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
 DOMAIN,new-adv.ozon.ru
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,o4504926511693824.ingest.sentry.io
 DOMAIN,openai.qualtrics.com
 DOMAIN,pixel.rustore.ru

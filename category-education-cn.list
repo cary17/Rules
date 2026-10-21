@@ -1,8 +1,8 @@
 # NAME: category-education-cn
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 193
-# TOTAL: 194
+# DOMAIN-SUFFIX: 195
+# TOTAL: 196
 DOMAIN,study.163.com
 DOMAIN-SUFFIX,100tal.com
 DOMAIN-SUFFIX,17zuoye.cn
@@ -146,6 +146,8 @@ DOMAIN-SUFFIX,smartedu.cn
 DOMAIN-SUFFIX,speiyou.com
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,syh.zybang.com
+DOMAIN-SUFFIX,szu.app
+DOMAIN-SUFFIX,szu.moe
 DOMAIN-SUFFIX,tal.com
 DOMAIN-SUFFIX,tesoon.com
 DOMAIN-SUFFIX,tongxuepie.com

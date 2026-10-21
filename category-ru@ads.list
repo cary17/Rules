@@ -1,8 +1,8 @@
 # NAME: category-ru@ads
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 125
-# DOMAIN-SUFFIX: 62
-# TOTAL: 187
+# DOMAIN-SUFFIX: 64
+# TOTAL: 189
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad.ozone.ru
@@ -179,6 +179,8 @@ DOMAIN-SUFFIX,sbermarketing.ru
 DOMAIN-SUFFIX,target.my.com
 DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,targetads.io
+DOMAIN-SUFFIX,terratraf.com
+DOMAIN-SUFFIX,terratraf.io
 DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN-SUFFIX,trace-flow.ru
 DOMAIN-SUFFIX,tracker-api.my.com

@@ -1,8 +1,8 @@
 # NAME: category-ecommerce
-# UPDATED: 2026-10-20
+# UPDATED: 2026-10-21
 # DOMAIN: 37
-# DOMAIN-SUFFIX: 1280
-# TOTAL: 1317
+# DOMAIN-SUFFIX: 1282
+# TOTAL: 1319
 DOMAIN,ad.ozone.ru
 DOMAIN,ads-gate.wildberries.ru
 DOMAIN,ads-media.wildberries.ru
@@ -226,8 +226,10 @@ DOMAIN-SUFFIX,asebay.com
 DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,automobile.fr
 DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,avito.com
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avito.tech
 DOMAIN-SUFFIX,avto.ru
 DOMAIN-SUFFIX,axbdoll.com.tw
 DOMAIN-SUFFIX,baazee.com
