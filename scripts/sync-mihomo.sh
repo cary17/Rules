@@ -18,8 +18,9 @@ ROOT=${GITHUB_WORKSPACE:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}
 WORK=$(mktemp -d)
 trap 'rm -rf "$WORK"' EXIT
 ORIGIN="${GITHUB_SERVER_URL:-https://github.com}/${GITHUB_REPOSITORY:?GITHUB_REPOSITORY is required}.git"
+git -C "$ROOT" config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "${GITHUB_TOKEN:?GITHUB_TOKEN is required}" | base64 -w0)"
 
-git -C "$ROOT" fetch --no-tags --quiet origin "$SOURCE_BRANCH"
+git -C "$ROOT" fetch --no-tags --quiet origin "refs/heads/$SOURCE_BRANCH:refs/remotes/origin/$SOURCE_BRANCH"
 mkdir -p "$WORK/source" "$WORK/output"
 git -C "$ROOT" archive --format=tar "origin/$SOURCE_BRANCH" '*.json' | tar -xf - -C "$WORK/source"
 json_count=$(find "$WORK/source" -maxdepth 1 -type f -name '*.json' | wc -l)
@@ -28,7 +29,24 @@ if ((json_count == 0)); then
   exit 1
 fi
 
-python3 "$ROOT/scripts/convert-mihomo-rules.py" "$WORK/source" "$WORK/output" "$BEHAVIOR" >"$WORK/convert.json"
+python3 "$ROOT/scripts/convert-mihomo-rules.py" "$WORK/source" "$WORK/output" "$BEHAVIOR" | tee "$WORK/convert.json"
+
+# Guard against an all-skipped conversion: it would otherwise be published as
+# an empty branch, or hand the literal *.yaml glob to the compiler.
+summary() {
+  python3 -c 'import json,sys; print(json.load(open(sys.argv[1], encoding="utf-8"))[sys.argv[2]])' \
+    "$WORK/convert.json" "$1"
+}
+successful=$(summary successful)
+yaml_files=$(find "$WORK/output" -maxdepth 1 -type f -name '*.yaml' | wc -l)
+if ((successful == 0)); then
+  echo "no publishable $SOURCE rule sets; $TARGET_BRANCH left unchanged" >&2
+  exit 1
+fi
+if ((yaml_files != successful)); then
+  echo "$SOURCE conversion summary mismatch: successful=$successful yaml=$yaml_files" >&2
+  exit 1
+fi
 
 # Compile every .yaml to .mrs with mihomo; a failing rule-set is fatal.
 MIHOMO_BIN=${MIHOMO_BIN:-mihomo}
@@ -38,11 +56,16 @@ done
 
 TARGET=$(mktemp -d)
 trap 'rm -rf "$WORK" "$TARGET"' EXIT
-if git -C "$ROOT" ls-remote --exit-code --heads origin "$TARGET_BRANCH" >/dev/null 2>&1; then
+TARGET_REF=$(git -C "$ROOT" ls-remote --heads origin "refs/heads/$TARGET_BRANCH") || {
+  echo "unable to inspect $TARGET_BRANCH branch" >&2
+  exit 1
+}
+if [[ -n "$TARGET_REF" ]]; then
   git clone --quiet --no-checkout "$ROOT" "$TARGET"
   git -C "$TARGET" remote set-url origin "$ORIGIN"
-  git -C "$TARGET" fetch --no-tags --quiet origin "$TARGET_BRANCH"
-  git -C "$TARGET" checkout --quiet -B "$TARGET_BRANCH" FETCH_HEAD
+  git -C "$TARGET" config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "${GITHUB_TOKEN:?GITHUB_TOKEN is required}" | base64 -w0)"
+  git -C "$TARGET" fetch --no-tags --quiet origin "refs/heads/$TARGET_BRANCH:refs/remotes/origin/$TARGET_BRANCH"
+  git -C "$TARGET" checkout --quiet -B "$TARGET_BRANCH" "refs/remotes/origin/$TARGET_BRANCH"
 else
   git init --quiet -b "$TARGET_BRANCH" "$TARGET"
   git -C "$TARGET" remote add origin "$ORIGIN"

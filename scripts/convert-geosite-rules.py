@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import ipaddress
 import json
 import sys
 from dataclasses import dataclass
@@ -35,17 +36,43 @@ class ConversionResult:
     skipped_types: dict[str, int]
 
 
+def _ip_family_key(value, expected=None):
+    """Return the matcher key matching the address family of a CIDR value.
+
+    Surge and Loon distinguish IP-CIDR (IPv4) from IP-CIDR6 (IPv6), so a native
+    ip_cidr entry holding an IPv6 network must not be emitted as an IPv4 rule.
+    An explicit ip_cidr6 entry must actually be IPv6.
+    """
+    try:
+        network = ipaddress.ip_network(value, strict=False)
+    except ValueError as exc:
+        raise ValueError(f"invalid ip_cidr value: {value!r}") from exc
+    if expected == "ip_cidr6" and network.version != 6:
+        raise ValueError(f"ip_cidr6 value is not an IPv6 network: {value!r}")
+    return "ip_cidr6" if network.version == 6 else "ip_cidr"
+
+
 def _rule_values(document):
     values = {}
+    supported = set(EGERN_TYPES)
     for rule in document.get("rules", []):
+        if not isinstance(rule, dict):
+            raise ValueError("rule must be an object")
+        if rule.get("invert") or rule.get("type") not in (None, "default"):
+            raise ValueError("inverted or logical rules are not convertible")
         for key, raw in rule.items():
-            if isinstance(raw, list):
-                items = raw
-            elif isinstance(raw, str):
-                items = [raw]
-            else:
-                items = []
-            values.setdefault(key, []).extend(str(value) for value in items)
+            if key in {"invert", "type"}:
+                continue
+            if key not in supported:
+                raise ValueError(f"unsupported rule condition: {key}")
+            items = raw if isinstance(raw, list) else [raw]
+            if any(not isinstance(item, str) for item in items):
+                raise ValueError(f"rule condition must contain strings: {key}")
+            if key in {"ip_cidr", "ip_cidr6"}:
+                for item in items:
+                    values.setdefault(_ip_family_key(item, key), []).append(item)
+                continue
+            values.setdefault(key, []).extend(items)
     return values
 
 
@@ -53,8 +80,8 @@ def _metadata(name, counts):
     text = [f"# NAME: {name}", f"# UPDATED: {date.today().isoformat()}"]
     labels = {
         "domain": "DOMAIN",
-        "domain_keyword": "DOMAIN-KEYWORD",
         "domain_suffix": "DOMAIN-SUFFIX",
+        "domain_keyword": "DOMAIN-KEYWORD",
         "ip_cidr": "IP-CIDR",
         "ip_cidr6": "IP-CIDR6",
         "geoip": "GEOIP",
@@ -75,7 +102,7 @@ def _counts(values):
 
 def _plain(value):
     value = str(value).replace("\r", " ").replace("\n", " ")
-    if "\n" in value or value.startswith("#"):
+    if value.startswith("#"):
         raise ValueError("rule value cannot be represented without quotes")
     return value
 
@@ -92,7 +119,7 @@ def render_egern(document, name=None):
         if not items:
             continue
         lines.append(f"{target_type}:")
-        lines.extend(f"  - {_plain(item)}" for item in items)
+        lines.extend(f"  - {json.dumps(item, ensure_ascii=False)}" for item in items)
     return "\n".join(lines) + "\n", []
 
 

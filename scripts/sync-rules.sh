@@ -3,7 +3,6 @@ set -u -o pipefail
 
 ROOT=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)
 VALIDATOR="$ROOT/scripts/validate-rule-json.py"
-OPTIMIZER="$ROOT/scripts/optimize-rule-json.py"
 SOURCE=${1:-}
 
 case "$SOURCE" in
@@ -69,7 +68,12 @@ fi
 
 if [[ -n "$TARGET_DIR" ]]; then
   mkdir -p "$TARGET_DIR"
-  find "$TARGET_DIR" -maxdepth 1 -type f \( -name "${PREFIX}*.srs" -o -name "${PREFIX}*.json" \) -exec cp -a {} "$CURRENT/" \; 2>/dev/null || true
+  while IFS= read -r -d '' artifact; do
+    cp -a "$artifact" "$CURRENT/" || {
+      printf 'failed to back up existing artifact: %s\n' "$artifact" >&2
+      exit 1
+    }
+  done < <(find "$TARGET_DIR" -maxdepth 1 -type f \( -name "${PREFIX}*.srs" -o -name "${PREFIX}*.json" \) -print0)
 else
   printf 'RULES_TEST_TARGET_DIR is required for local runs\n' >&2
   exit 1
@@ -113,20 +117,24 @@ for file in "${FILES[@]}"; do
     record_failure "$file" srs_decompile "$(tr '\n' ' ' <"$WORK/$base.stderr" | cut -c1-1000)" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
     continue
   fi
-  if [[ "$SOURCE" == "sing-geosite" ]]; then
-    optimized="$WORK/$base.optimized.json"
-    if ! python3 "$OPTIMIZER" "$output" "$optimized" "$file" >"$WORK/$base.optimize" 2>"$WORK/$base.optimize.stderr"; then
-      record_failure "$file" json_optimize "$(tr '\n' ' ' <"$WORK/$base.optimize.stderr" | cut -c1-1000)" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
-      continue
-    fi
-    mv "$optimized" "$output"
-  fi
   if ! python3 "$VALIDATOR" validate "$output" 2>"$WORK/$base.validate"; then
     record_failure "$file" json_schema "$(tr '\n' ' ' <"$WORK/$base.validate" | cut -c1-1000)" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
     continue
   fi
   if ! "$SING_BOX" rule-set compile "$output" --output "$roundtrip" >"$WORK/$base.compile.stdout" 2>"$WORK/$base.compile.stderr"; then
     record_failure "$file" roundtrip_compile "$(tr '\n' ' ' <"$WORK/$base.compile.stderr" | cut -c1-1000)" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
+    continue
+  fi
+  # The JSON comparison below only proves that the decompiled document is stable
+  # across a recompile. Comparing the recompiled rule-set with the upstream
+  # rule-set additionally proves the published JSON still represents upstream, so
+  # a condition lost by the first decompile cannot slip through.
+  # The comparison decodes both files and compares the rule-set payload rather
+  # than the container bytes, because the same rule-set can be written with a
+  # different zlib compression level. Verified against upstream artifacts: both
+  # branches recompile to an identical payload.
+  if ! python3 "$ROOT/scripts/compare-srs-binary.py" "$input" "$roundtrip"; then
+    record_failure "$file" roundtrip_fidelity "recompiled rule-set does not match upstream binary" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
     continue
   fi
   if ! "$SING_BOX" rule-set decompile "$roundtrip" --output "$roundtrip_json" >"$WORK/$base.roundtrip.stdout" 2>"$WORK/$base.roundtrip.stderr"; then
@@ -150,16 +158,15 @@ for file in "${FILES[@]}"; do
     continue
   fi
   if ! mv "$staged_srs" "$CURRENT/$file" || ! mv "$staged_json" "$CURRENT/$base.json"; then
-    rm -f "$CURRENT/$file" "$CURRENT/$base.json" "$staged_srs" "$staged_json"
     record_failure "$file" output_copy "unable to install validated SRS and JSON pair" "$input_sha" "$old_srs_sha" "$old_json_sha" "$blob_sha" "$input_size" "1"
-    continue
+    exit 1
   fi
   printf '%s\t%s\t%s\n' "$file" "$input_sha" "$(sha256 "$output")" >>"$SUCCESS"
 done
 
 success_count=$(wc -l <"$SUCCESS")
 failed_count=$(wc -l <"$FAILED")
-retained_count=$(awk -F '\\t' '$5 != "" && $6 != "" {n++} END {print n+0}' "$FAILED")
+retained_count=$(awk -F '\t' '$5 != "" && $6 != "" {n++} END {print n+0}' "$FAILED")
 
 if ((success_count == 0)); then
   printf 'no files succeeded for %s; existing artifacts retained\n' "$SOURCE" >&2
@@ -198,13 +205,30 @@ if ((final_srs_count != success_count + retained_count || final_json_count != su
   exit 1
 fi
 
-find "$TARGET_DIR" -mindepth 1 -maxdepth 1 -type f -delete
-cp -a "$CURRENT/." "$TARGET_DIR/"
-printf 'source=%s commit=%s successful=%s failed=%s target=%s\n' "$SOURCE" "$SOURCE_COMMIT" "$success_count" "$failed_count" "$TARGET_DIR"
-if ((success_count == 0)); then
-  printf 'no files succeeded for %s; existing artifacts retained\n' "$SOURCE" >&2
+PUBLISH="$WORK/publish"
+TARGET_BACKUP="$WORK/target-backup"
+mkdir -p "$PUBLISH" "$TARGET_BACKUP"
+cp -a "$CURRENT/." "$PUBLISH/" || {
+  printf 'failed to stage final artifacts\n' >&2
+  exit 1
+}
+while IFS= read -r -d '' artifact; do
+  cp -a "$artifact" "$TARGET_BACKUP/" || {
+    printf 'failed to back up target artifact: %s\n' "$artifact" >&2
+    exit 1
+  }
+done < <(find "$TARGET_DIR" -mindepth 1 -maxdepth 1 -type f \( -name "${PREFIX}*.srs" -o -name "${PREFIX}*.json" \) -print0)
+if ! find "$TARGET_DIR" -mindepth 1 -maxdepth 1 -type f \( -name "${PREFIX}*.srs" -o -name "${PREFIX}*.json" \) -delete || ! cp -a "$PUBLISH/." "$TARGET_DIR/"; then
+  find "$TARGET_DIR" -mindepth 1 -maxdepth 1 -type f \( -name "${PREFIX}*.srs" -o -name "${PREFIX}*.json" \) -delete
+  if cp -a "$TARGET_BACKUP/." "$TARGET_DIR/"; then
+    printf 'failed to publish final artifacts; previous target restored\n' >&2
+  else
+    trap - EXIT
+    printf 'failed to publish final artifacts; recovery copy retained at %s\n' "$TARGET_BACKUP" >&2
+  fi
   exit 1
 fi
+printf 'source=%s commit=%s successful=%s failed=%s target=%s\n' "$SOURCE" "$SOURCE_COMMIT" "$success_count" "$failed_count" "$TARGET_DIR"
 if ((failed_count > 0)); then
   exit 3
 fi
