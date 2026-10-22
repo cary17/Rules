@@ -1,7 +1,7 @@
 # NAME: wargaming
-# UPDATED: 2026-10-21
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# UPDATED: 2026-10-22
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 DOMAIN-SUFFIX,masteroforion.com
 DOMAIN-SUFFIX,wargaming.com
 DOMAIN-SUFFIX,wargaming.net
@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,wgcrowd.io
 DOMAIN-SUFFIX,worldoftanks.com
 DOMAIN-SUFFIX,worldoftanks.eu
 DOMAIN-SUFFIX,worldofwarplanes.com
+DOMAIN-SUFFIX,worldofwarships.asia
 DOMAIN-SUFFIX,worldofwarships.com
 DOMAIN-SUFFIX,wotblitz.com
 DOMAIN-SUFFIX,wowsblitz.com

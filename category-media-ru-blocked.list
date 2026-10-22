@@ -1,7 +1,7 @@
 # NAME: category-media-ru-blocked
-# UPDATED: 2026-10-21
-# DOMAIN-SUFFIX: 131
-# TOTAL: 131
+# UPDATED: 2026-10-22
+# DOMAIN-SUFFIX: 132
+# TOTAL: 132
 DOMAIN-SUFFIX,24.kg
 DOMAIN-SUFFIX,9tv.co.il
 DOMAIN-SUFFIX,activatica.org
@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,mediazona.ca
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,metla.press
 DOMAIN-SUFFIX,mignews.com
+DOMAIN-SUFFIX,navalny.com
 DOMAIN-SUFFIX,newizv.ru
 DOMAIN-SUFFIX,newtimes.ru
 DOMAIN-SUFFIX,novaya.media
