@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-10-21
+# UPDATED: 2026-10-22
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 917
-# TOTAL: 1141
+# DOMAIN-SUFFIX: 920
+# TOTAL: 1144
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,activate.activation-v2.kaspersky.com
@@ -407,6 +407,9 @@ DOMAIN-SUFFIX,drweb.com
 DOMAIN-SUFFIX,drweb.fr
 DOMAIN-SUFFIX,drweb.kz
 DOMAIN-SUFFIX,drweb.uz
+DOMAIN-SUFFIX,ds-servers.com
+DOMAIN-SUFFIX,dsn.host
+DOMAIN-SUFFIX,dsncdn.net
 DOMAIN-SUFFIX,durovscode.com
 DOMAIN-SUFFIX,e.mindbox.ru
 DOMAIN-SUFFIX,eadaily.com
