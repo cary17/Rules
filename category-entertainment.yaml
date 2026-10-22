@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-10-21
+# UPDATED: 2026-10-22
 # DOMAIN: 275
-# DOMAIN-SUFFIX: 1845
+# DOMAIN-SUFFIX: 1853
 # DOMAIN-REGEX: 10
-# TOTAL: 2130
+# TOTAL: 2138
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -770,6 +770,7 @@ domain_suffix_set:
   - "fanatical.com"
   - "fanbox.cc"
   - "fandango.com"
+  - "fanfiction.net"
   - "fanfictionero.com"
   - "fast.com"
   - "fc-buddyfight.com"
@@ -808,6 +809,7 @@ domain_suffix_set:
   - "gaijinent.com"
   - "game-repack.site"
   - "gameapps.hk"
+  - "gamebanana.com"
   - "gamebase.com.tw"
   - "gamebiz.jp"
   - "gamebusiness.jp"
@@ -1483,6 +1485,7 @@ domain_suffix_set:
   - "quiltmc.org"
   - "quixel.com"
   - "quixel.se"
+  - "r2modman.com"
   - "radgametools.com"
   - "radiko-cf.com"
   - "radiko.jp"
@@ -1689,6 +1692,7 @@ domain_suffix_set:
   - "steamdeck.com"
   - "steamgames.com"
   - "steaminventoryhelper.com"
+  - "steamos.cloud"
   - "steampowered.com"
   - "steampowered.com.8686c.com"
   - "steamserver.net"
@@ -1744,6 +1748,8 @@ domain_suffix_set:
   - "thewonderful101.com"
   - "thisisgame.com"
   - "thisispolaris.com"
+  - "thunderstore.io"
+  - "thunderstore.org"
   - "tiberiumalliances.com"
   - "tiburon.com"
   - "tidal.com"
@@ -1889,10 +1895,12 @@ domain_suffix_set:
   - "worldoftanks.eu"
   - "worldofwarcraft.com"
   - "worldofwarplanes.com"
+  - "worldofwarships.asia"
   - "worldofwarships.com"
   - "worldseriesofwarzone.com"
   - "wotblitz.com"
   - "wowsblitz.com"
+  - "wplace.live"
   - "ws-blau.com"
   - "ws-tcg.com"
   - "wtmobile.com"

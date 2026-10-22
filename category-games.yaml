@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-10-21
+# UPDATED: 2026-10-22
 # DOMAIN: 97
-# DOMAIN-SUFFIX: 1044
+# DOMAIN-SUFFIX: 1051
 # DOMAIN-REGEX: 4
-# TOTAL: 1145
+# TOTAL: 1152
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -391,6 +391,7 @@ domain_suffix_set:
   - "gaijinent.com"
   - "game-repack.site"
   - "gameabc.com"
+  - "gamebanana.com"
   - "gamebonfire.com"
   - "gameitop.com"
   - "gameloop.com"
@@ -774,6 +775,7 @@ domain_suffix_set:
   - "quiltmc.org"
   - "quixel.com"
   - "quixel.se"
+  - "r2modman.com"
   - "radgametools.com"
   - "ravensoftware.com"
   - "rayark.download"
@@ -928,6 +930,7 @@ domain_suffix_set:
   - "steamdeck.com"
   - "steamgames.com"
   - "steaminventoryhelper.com"
+  - "steamos.cloud"
   - "steampowered.com"
   - "steampowered.com.8686c.com"
   - "steamserver.net"
@@ -989,6 +992,8 @@ domain_suffix_set:
   - "thesims4.com"
   - "thesimssocial.com"
   - "thewonderful101.com"
+  - "thunderstore.io"
+  - "thunderstore.org"
   - "tiancity.com"
   - "tiancitycdn.com"
   - "tiberiumalliances.com"
@@ -1070,10 +1075,12 @@ domain_suffix_set:
   - "worldoftanks.eu"
   - "worldofwarcraft.com"
   - "worldofwarplanes.com"
+  - "worldofwarships.asia"
   - "worldofwarships.com"
   - "worldseriesofwarzone.com"
   - "wotblitz.com"
   - "wowsblitz.com"
+  - "wplace.live"
   - "wtmobile.com"
   - "wutheringwaves.cn"
   - "xbox.co"

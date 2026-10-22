@@ -1,8 +1,8 @@
 # NAME: category-cryptocurrency
-# UPDATED: 2026-10-21
+# UPDATED: 2026-10-22
 # DOMAIN: 8
-# DOMAIN-SUFFIX: 227
-# TOTAL: 235
+# DOMAIN-SUFFIX: 232
+# TOTAL: 240
 domain_set:
   - "bybit-exchange.github.io"
   - "bybit.ada.support"
@@ -68,6 +68,8 @@ domain_suffix_set:
   - "bittrex.com"
   - "blast.io"
   - "blockchain.com"
+  - "blockchair.com"
+  - "blockchair.net"
   - "blockfrost.io"
   - "bmwweb.solutions"
   - "bnappweb.black"
@@ -109,10 +111,12 @@ domain_suffix_set:
   - "coredao.org"
   - "crypto.com"
   - "cryptocompare.com"
+  - "cryptoid.info"
   - "cryptomus.com"
   - "curve.fi"
   - "cyberx.com"
   - "debank.com"
+  - "delets.cash"
   - "delets.online"
   - "deribit.com"
   - "devcon.org"
@@ -157,6 +161,7 @@ domain_suffix_set:
   - "kraken.onl"
   - "kucoin.com"
   - "kucoin.plus"
+  - "kurs.expert"
   - "lighter.exchange"
   - "lighter.xyz"
   - "litecoin.org"

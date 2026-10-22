@@ -1,7 +1,7 @@
 # NAME: wargaming
-# UPDATED: 2026-10-21
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# UPDATED: 2026-10-22
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 domain_suffix_set:
   - "masteroforion.com"
   - "wargaming.com"
@@ -11,6 +11,7 @@ domain_suffix_set:
   - "worldoftanks.com"
   - "worldoftanks.eu"
   - "worldofwarplanes.com"
+  - "worldofwarships.asia"
   - "worldofwarships.com"
   - "wotblitz.com"
   - "wowsblitz.com"

@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-10-21
+# UPDATED: 2026-10-22
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 917
-# TOTAL: 1141
+# DOMAIN-SUFFIX: 920
+# TOTAL: 1144
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -409,6 +409,9 @@ domain_suffix_set:
   - "drweb.fr"
   - "drweb.kz"
   - "drweb.uz"
+  - "ds-servers.com"
+  - "dsn.host"
+  - "dsncdn.net"
   - "durovscode.com"
   - "e.mindbox.ru"
   - "eadaily.com"

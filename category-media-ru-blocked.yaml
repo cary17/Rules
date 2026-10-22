@@ -1,7 +1,7 @@
 # NAME: category-media-ru-blocked
-# UPDATED: 2026-10-21
-# DOMAIN-SUFFIX: 131
-# TOTAL: 131
+# UPDATED: 2026-10-22
+# DOMAIN-SUFFIX: 132
+# TOTAL: 132
 domain_suffix_set:
   - "24.kg"
   - "9tv.co.il"
@@ -59,6 +59,7 @@ domain_suffix_set:
   - "meduza.io"
   - "metla.press"
   - "mignews.com"
+  - "navalny.com"
   - "newizv.ru"
   - "newtimes.ru"
   - "novaya.media"
