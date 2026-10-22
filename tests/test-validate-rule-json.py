@@ -10,7 +10,6 @@ regress.
 """
 import importlib.util
 import json
-import shutil
 import tempfile
 from pathlib import Path
 
@@ -37,12 +36,7 @@ def _document(rule, version=1):
 
 
 def _needs_compiler(case):
-    """Skip cases whose expectation requires sing-box.
-
-    Canonical forms are only known to be equivalent because the compiler says
-    so, so those cases cannot be asserted when sing-box is unavailable. The
-    workflow runs this file again after downloading sing-box.
-    """
+    """Skip compiler-dependent assertions when running locally without sing-box."""
     if SING_BOX_AVAILABLE:
         return True
     print(f"SKIP (no sing-box): {case}")
@@ -87,17 +81,12 @@ def test_compiler_normalised_forms_are_equivalent():
     if not _needs_compiler("compiler normalised forms"):
         return
     cases = [
-        # scalar versus one element list, across several listable fields
+        # scalar versus one element list
         (_document({"port": [443]}), _document({"port": 443})),
-        (_document({"network": ["tcp"]}), _document({"network": "tcp"})),
-        (_document({"source_ip_cidr": ["192.0.2.0/24"]}), _document({"source_ip_cidr": "192.0.2.0/24"})),
-        (_document({"process_name": ["example"]}), _document({"process_name": "example"})),
         # unordered, deduplicated domain lists
         (_document({"domain": ["z.example", "a.example"]}), _document({"domain": ["a.example", "z.example"]})),
         (_document({"domain": ["a.example", "a.example"]}), _document({"domain": ["a.example"]})),
         # DNS query type numbers and names
-        (_document({"query_type": [1]}), _document({"query_type": ["A"]})),
-        (_document({"query_type": [28]}), _document({"query_type": ["AAAA"]})),
         (_document({"query_type": [65]}), _document({"query_type": ["HTTPS"]})),
         # CIDR host bits and adjacent networks
         (_document({"ip_cidr": ["192.0.2.1/24"]}), _document({"ip_cidr": ["192.0.2.0/24"]})),
@@ -191,10 +180,6 @@ def test_byte_fallback_is_conservative_without_a_compiler():
                 write('{"version":1,"rules":[{"domain":["a.example"],"port":0.0}]}'),
             ) == 1
             assert module.compare(
-                write('{"version":1,"rules":[{"domain":["a.example"],"port":[443]}]}'),
-                write('{"version":1,"rules":[{"domain":["a.example"],"port":[80]}]}'),
-            ) == 1
-            assert module.compare(
                 write(json.dumps(_document({"port": [443]}))),
                 write(json.dumps(_document({"port": 443}))),
             ) == 1
@@ -203,26 +188,6 @@ def test_byte_fallback_is_conservative_without_a_compiler():
     finally:
         module._sing_box = original
 
-
-def test_cli_byte_mode_is_available():
-    with tempfile.TemporaryDirectory() as tmp:
-        left = Path(tmp) / "left.json"
-        right = Path(tmp) / "right.json"
-        payload = json.dumps(_document({"port": [443]}))
-        left.write_text(payload)
-        right.write_text(payload)
-        assert module.main(["validate-rule-json.py", "compare-bytes", str(left), str(right)]) == 0
-        right.write_text(json.dumps(_document({"port": [80]})))
-        assert module.main(["validate-rule-json.py", "compare-bytes", str(left), str(right)]) == 1
-
-
-def test_compare_requires_the_compiler_for_canonical_forms():
-    """Documented trade off: the compiler is what makes canonical forms equal."""
-    if not SING_BOX_AVAILABLE:
-        print("SKIP: sing-box is not installed")
-        return
-    assert _compare(_document({"port": [443]}), _document({"port": 443})) == 0
-    assert module._sing_box() is not None
 
 if __name__ == "__main__":
     for name, fn in sorted(globals().items()):

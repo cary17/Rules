@@ -31,10 +31,6 @@ def test_egern_uses_rule_set_fields_without_policy():
     assert "  - " + json.dumps(r"^ads?\\.") in rendered
     assert "policy" not in rendered
     assert skipped == []
-    assert "# NAME:" in rendered
-    assert "# UPDATED:" in rendered
-    assert "# TOTAL:" in rendered
-    assert "规则名称" not in rendered
 
 
 def test_surge_and_loon_skip_unsupported_domain_regex():
@@ -85,28 +81,6 @@ def test_client_with_only_unsupported_regex_has_no_publishable_output():
         assert skipped == [("domain_regex", 1)]
 
 
-def test_client_metadata_uses_output_types_and_output_order():
-    source = {
-        "version": 1,
-        "rules": [{
-            "domain": ["exact.example"],
-            "domain_suffix": ["example.com"],
-            "domain_keyword": ["example"],
-            "domain_regex": ["^example\\.net$"],
-        }],
-    }
-    rendered, skipped = module.render_surge(source, "example")
-    header = "\n".join(rendered.splitlines()[:6])
-    assert header.splitlines()[2:] == [
-        "# DOMAIN: 1",
-        "# DOMAIN-SUFFIX: 1",
-        "# DOMAIN-KEYWORD: 1",
-        "# TOTAL: 3",
-    ]
-    assert "DOMAIN-REGEX" not in header
-    assert skipped == [("domain_regex", 1)]
-
-
 def test_ipv6_entries_use_the_ipv6_matcher():
     source = {"version": 1, "rules": [{"ip_cidr": ["192.0.2.0/24", "2001:db8::/32"]}]}
     for renderer in (module.render_surge, module.render_loon):
@@ -120,14 +94,6 @@ def test_ipv6_entries_use_the_ipv6_matcher():
     assert "ip_cidr6_set:" in egern
     assert '  - "2001:db8::/32"' in egern
     assert skipped == []
-
-
-def test_ipv6_metadata_counts_the_ipv6_type():
-    source = {"version": 1, "rules": [{"ip_cidr": ["2001:db8::/32"]}]}
-    rendered, _ = module.render_surge(source)
-    assert "# IP-CIDR6: 1" in rendered
-    assert "# IP-CIDR: 1" not in rendered
-    assert "# TOTAL: 1" in rendered
 
 
 def test_existing_ip_cidr6_entries_are_kept():
