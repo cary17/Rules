@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-10-23
+# UPDATED: 2026-10-24
 # DOMAIN: 239
-# DOMAIN-SUFFIX: 23671
-# TOTAL: 23910
+# DOMAIN-SUFFIX: 23672
+# TOTAL: 23911
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -501,6 +501,7 @@ DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,1password.co
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,1password.community
+DOMAIN-SUFFIX,1password.dev
 DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,1password.io
 DOMAIN-SUFFIX,1passwordservices.com

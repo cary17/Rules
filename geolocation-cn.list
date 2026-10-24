@@ -1,8 +1,8 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-10-23
+# UPDATED: 2026-10-24
 # DOMAIN: 601
-# DOMAIN-SUFFIX: 8743
-# TOTAL: 9344
+# DOMAIN-SUFFIX: 8744
+# TOTAL: 9345
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -8355,6 +8355,7 @@ DOMAIN-SUFFIX,wanfangdata.com.cn
 DOMAIN-SUFFIX,wangmeng.baidu.com
 DOMAIN-SUFFIX,wangniuwms.com
 DOMAIN-SUFFIX,wangsu.com
+DOMAIN-SUFFIX,wangsuceshi.bmcx.com
 DOMAIN-SUFFIX,wangyangyang.vip
 DOMAIN-SUFFIX,wangyin.com
 DOMAIN-SUFFIX,wanji.net.cn
