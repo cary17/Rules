@@ -1,7 +1,7 @@
 # NAME: category-speedtest@cn
-# UPDATED: 2026-10-23
-# DOMAIN-SUFFIX: 17
-# TOTAL: 17
+# UPDATED: 2026-10-24
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
 domain_suffix_set:
   - "cnspeedtest.cn"
   - "speed.neu6.edu.cn"
@@ -19,4 +19,5 @@ domain_suffix_set:
   - "test.ustc.edu.cn"
   - "test6.nju.edu.cn"
   - "test6.ustc.edu.cn"
+  - "wangsuceshi.bmcx.com"
   - "xnfz.seu.edu.cn"

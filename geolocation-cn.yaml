@@ -1,9 +1,9 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-10-23
+# UPDATED: 2026-10-24
 # DOMAIN: 601
-# DOMAIN-SUFFIX: 8743
+# DOMAIN-SUFFIX: 8744
 # DOMAIN-REGEX: 8
-# TOTAL: 9352
+# TOTAL: 9353
 domain_set:
   - "2mdn-cn.net"
   - "2mdn.net"
@@ -8358,6 +8358,7 @@ domain_suffix_set:
   - "wangmeng.baidu.com"
   - "wangniuwms.com"
   - "wangsu.com"
+  - "wangsuceshi.bmcx.com"
   - "wangyangyang.vip"
   - "wangyin.com"
   - "wanji.net.cn"
@@ -9351,11 +9352,11 @@ domain_suffix_set:
   - "zzzcaculator.top"
   - "zzzmap.com"
 domain_regex_set:
-  - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
-  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
-  - "^nis.+\\.10010\\.com$"
-  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
-  - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
   - "^.+-mihayo\\.akamaized\\.net$"
-  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
   - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
+  - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
+  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
+  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  - "^nis.+\\.10010\\.com$"

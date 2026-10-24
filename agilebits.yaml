@@ -1,8 +1,8 @@
 # NAME: agilebits
-# UPDATED: 2026-10-23
+# UPDATED: 2026-10-24
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 13
-# TOTAL: 14
+# DOMAIN-SUFFIX: 14
+# TOTAL: 15
 domain_set:
   - "1password.drift.click"
 domain_suffix_set:
@@ -11,6 +11,7 @@ domain_suffix_set:
   - "1password.co"
   - "1password.com"
   - "1password.community"
+  - "1password.dev"
   - "1password.eu"
   - "1password.io"
   - "1passwordservices.com"

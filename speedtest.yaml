@@ -1,9 +1,9 @@
 # NAME: speedtest
-# UPDATED: 2026-10-23
+# UPDATED: 2026-10-24
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 12
+# DOMAIN-SUFFIX: 19
 # DOMAIN-REGEX: 1
-# TOTAL: 14
+# TOTAL: 21
 domain_set:
   - "www.speedtest.net.cdn.cloudflare.net"
 domain_suffix_set:
@@ -15,8 +15,15 @@ domain_suffix_set:
   - "ookla.com"
   - "ooklaserver.net"
   - "pingtest.net"
+  - "speedtest.app"
+  - "speedtest.cc"
   - "speedtest.co"
+  - "speedtest.ee"
+  - "speedtest.in"
+  - "speedtest.me"
   - "speedtest.net"
+  - "speedtest.ng"
+  - "speedtest.tv"
   - "speedtestcustom.com"
   - "webtest.net"
 domain_regex_set:
