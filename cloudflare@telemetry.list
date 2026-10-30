@@ -1,0 +1,6 @@
+# NAME: cloudflare@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,cloudflareinsights-cn.com
+DOMAIN-SUFFIX,cloudflareinsights.com
