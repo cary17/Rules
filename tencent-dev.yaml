@@ -1,0 +1,21 @@
+# NAME: tencent-dev
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
+domain_suffix_set:
+  - "badjs.weixinbridge.com"
+  - "cnb.cool"
+  - "cnb.space"
+  - "coding.me"
+  - "coding.net"
+  - "openmidas.com"
+  - "qq.design"
+  - "qqgamedesign.com"
+  - "tencent-cloud.cn"
+  - "tencent-cloud.com"
+  - "tencent.design"
+  - "tencentcloud.com"
+  - "tjstats.com"
+  - "wegamedeveloper.com"
+  - "weixinbridge.com"
+  - "weui.io"

@@ -1,0 +1,8 @@
+# NAME: unity@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+domain_suffix_set:
+  - "analytics.cloud.unity3d.com"
+  - "perf-events.cloud.unity3d.com"
+  - "perf.cloud.unity3d.com"

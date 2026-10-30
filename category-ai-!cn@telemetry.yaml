@@ -1,0 +1,10 @@
+# NAME: category-ai-!cn@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 5
+# TOTAL: 5
+domain_set:
+  - "browser-intake-datadoghq.com"
+  - "copilot-telemetry-service.githubusercontent.com"
+  - "copilot-telemetry.githubusercontent.com"
+  - "o33249.ingest.sentry.io"
+  - "o33249.ingest.us.sentry.io"

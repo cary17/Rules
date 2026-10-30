@@ -1,0 +1,10 @@
+# NAME: category-bank-ru@ads
+# UPDATED: 2026-10-29
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+domain_set:
+  - "visor.sberbank.ru"
+domain_suffix_set:
+  - "ads.sber.ru"
+  - "clickstream.sberbank.ru"

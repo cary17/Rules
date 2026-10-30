@@ -1,0 +1,9 @@
+# NAME: remnawave
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - "docs.rw"
+  - "log.rw"
+  - "remna.st"
+  - "try.rw"

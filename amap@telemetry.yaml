@@ -1,0 +1,9 @@
+# NAME: amap@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - "adashx.ut.amap.com"
+  - "dualstack-logs.amap.com"
+  - "logs.amap.com"
+  - "v6-adashx.ut.amap.com"

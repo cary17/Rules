@@ -1,0 +1,12 @@
+# NAME: category-ecommerce@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 7
+# TOTAL: 7
+domain_set:
+  - "analytics-stage.wildberries.ru"
+  - "analytics.wildberries.ru"
+  - "marketplace-sentry.wb.ru"
+  - "sentry.ozon.ru"
+  - "sentry.wb.ru"
+  - "stats.avito.ru"
+  - "web-analytics.wildberries.ru"

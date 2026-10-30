@@ -1,0 +1,22 @@
+# NAME: zscaler
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 17
+# TOTAL: 17
+domain_suffix_set:
+  - "securecloudtransformation.com"
+  - "securitypreview.com"
+  - "threatlabz.com"
+  - "zdxbeta.net"
+  - "zdxcloud.net"
+  - "zpagov.net"
+  - "zpath.com"
+  - "zscaler.com"
+  - "zscaler.jp"
+  - "zscaler.net"
+  - "zscalerbeta.net"
+  - "zscalergov.net"
+  - "zscalerone.net"
+  - "zscalershift.com"
+  - "zscalerthree.net"
+  - "zscalertwo.net"
+  - "zscloud.net"

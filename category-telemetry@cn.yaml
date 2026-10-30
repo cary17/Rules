@@ -1,0 +1,11 @@
+# NAME: category-telemetry@cn
+# UPDATED: 2026-10-29
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 1
+# TOTAL: 4
+domain_set:
+  - "crashlyticsreports-pa.googleapis.com"
+  - "firebase-settings.crashlytics.com"
+  - "update.crashlytics.com"
+domain_suffix_set:
+  - "cloudflareinsights-cn.com"

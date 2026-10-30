@@ -1,0 +1,32 @@
+# NAME: dropbox
+# UPDATED: 2026-10-29
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 23
+# TOTAL: 25
+domain_set:
+  - "dropbox.zendesk.com"
+  - "paper-attachments.s3.amazonaws.com"
+domain_suffix_set:
+  - "addtodropbox.com"
+  - "dash.ai"
+  - "db.tt"
+  - "docsend.com"
+  - "dropbox-dns.com"
+  - "dropbox.com"
+  - "dropbox.tech"
+  - "dropboxapi.com"
+  - "dropboxbusiness.com"
+  - "dropboxcaptcha.com"
+  - "dropboxexperiment.com"
+  - "dropboxforum.com"
+  - "dropboxforums.com"
+  - "dropboxinsiders.com"
+  - "dropboxlegal.com"
+  - "dropboxmail.com"
+  - "dropboxpartners.com"
+  - "dropboxstatic.com"
+  - "dropboxteam.com"
+  - "dropboxusercontent.com"
+  - "getdropbox.com"
+  - "hellofax.com"
+  - "hellosign.com"

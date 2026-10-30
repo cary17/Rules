@@ -1,0 +1,21 @@
+# NAME: mailru-group@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 11
+# DOMAIN-SUFFIX: 3
+# TOTAL: 14
+domain_set:
+  - "sentry-ng.g.smailru.net"
+  - "sentry.dev-my.com"
+  - "sentry.dev-my.games"
+  - "sentry.rustore.ru"
+  - "sentry.viqeo.tv"
+  - "srch-telemeter10.g.smailru.net"
+  - "stats.dahlmessenger.com"
+  - "stats.dev.telega.info"
+  - "stats.rustore.ru"
+  - "stats.telega.info"
+  - "stats.vk-portal.net"
+domain_suffix_set:
+  - "apptracer.ru"
+  - "log.dzen.ru"
+  - "metrics.viqeo.tv"

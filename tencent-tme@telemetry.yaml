@@ -1,0 +1,8 @@
+# NAME: tencent-tme@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+domain_suffix_set:
+  - "monitor.music.qq.com"
+  - "report.tencentmusic.com"
+  - "stat.y.qq.com"

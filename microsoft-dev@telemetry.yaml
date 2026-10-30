@@ -1,0 +1,7 @@
+# NAME: microsoft-dev@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 2
+# TOTAL: 2
+domain_set:
+  - "dc.services.visualstudio.com"
+  - "rt.services.visualstudio.com"

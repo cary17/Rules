@@ -1,0 +1,10 @@
+# NAME: wildberries@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 5
+# TOTAL: 5
+domain_set:
+  - "analytics-stage.wildberries.ru"
+  - "analytics.wildberries.ru"
+  - "marketplace-sentry.wb.ru"
+  - "sentry.wb.ru"
+  - "web-analytics.wildberries.ru"

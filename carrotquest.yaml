@@ -1,0 +1,30 @@
+# NAME: carrotquest
+# UPDATED: 2026-10-29
+# DOMAIN: 11
+# DOMAIN-SUFFIX: 12
+# TOTAL: 23
+domain_set:
+  - "api-eu.carrotquest.app"
+  - "api-eu.carrotquest.io"
+  - "api-ru.carrotquest.app"
+  - "api-ru.carrotquest.io"
+  - "api-secure.carrotquest.app"
+  - "api-secure.carrottrack.app"
+  - "api.carrotquest.app"
+  - "api.carrotquest.io"
+  - "api.carrottrack.app"
+  - "api.dashly.app"
+  - "api.dashlytrack.app"
+domain_suffix_set:
+  - "carrot-mail.io"
+  - "carrotquest-mail.io"
+  - "carrotquest.app"
+  - "carrotquest.io"
+  - "carrottrack.app"
+  - "dashly.app"
+  - "dashly.help"
+  - "dashly.io"
+  - "dashly.me"
+  - "dashlytrack.app"
+  - "mail-carrotquest.io"
+  - "pushgrow.io"

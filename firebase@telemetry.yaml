@@ -1,0 +1,10 @@
+# NAME: firebase@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 5
+# TOTAL: 5
+domain_set:
+  - "crashlyticsreports-pa.googleapis.com"
+  - "firebase-settings.crashlytics.com"
+  - "firebaselogging-pa.googleapis.com"
+  - "firebaselogging.googleapis.com"
+  - "update.crashlytics.com"

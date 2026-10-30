@@ -1,0 +1,24 @@
+# NAME: microsoft@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 11
+# TOTAL: 17
+domain_set:
+  - "copilot-telemetry-service.githubusercontent.com"
+  - "copilot-telemetry.githubusercontent.com"
+  - "dc.applicationinsights.azure.com"
+  - "dc.services.visualstudio.com"
+  - "live.applicationinsights.azure.com"
+  - "rt.services.visualstudio.com"
+domain_suffix_set:
+  - "applicationinsights.io"
+  - "applicationinsights.net"
+  - "aria.ms"
+  - "browser.events.data.msn.cn"
+  - "browser.events.data.msn.com"
+  - "cafe.github.com"
+  - "collector.github.com"
+  - "data.microsoft.com"
+  - "in.applicationinsights.azure.com"
+  - "nelreports.net"
+  - "telemetry.microsoft.com"

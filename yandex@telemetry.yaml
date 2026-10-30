@@ -1,0 +1,25 @@
+# NAME: yandex@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 13
+# TOTAL: 18
+domain_set:
+  - "analytics.mobile.yandex.net"
+  - "log.strm.yandex.ru"
+  - "mc.yandex.com"
+  - "mc.yandex.net"
+  - "mc.yango.com"
+domain_suffix_set:
+  - "appmetrica.yandex.com"
+  - "appmetrica.yandex.net"
+  - "appmetrica.yandex.ru"
+  - "appmetrica.yango.com"
+  - "counter.yandex.ru"
+  - "mc.yandex.ru"
+  - "metrika.yandex.com"
+  - "metrika.yandex.net"
+  - "metrika.yandex.ru"
+  - "webvisor.com"
+  - "webvisor.org"
+  - "yandex-metrica.ru"
+  - "yandexmetrica.com"

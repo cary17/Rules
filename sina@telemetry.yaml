@@ -1,0 +1,11 @@
+# NAME: sina@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+domain_suffix_set:
+  - "beacon.sina.com.cn"
+  - "log.sina.cn"
+  - "log2.sina.cn"
+  - "sbeacon.sina.com.cn"
+  - "slog.sina.cn"
+  - "slog.sina.com.cn"

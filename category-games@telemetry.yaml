@@ -1,0 +1,11 @@
+# NAME: category-games@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+domain_set:
+  - "sentry.ppy.sh"
+domain_suffix_set:
+  - "insights-collector.gog.com"
+  - "log-upload-os.hoyoverse.com"
+  - "log-upload.mihoyo.com"

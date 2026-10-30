@@ -1,0 +1,7 @@
+# NAME: mindbox@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 2
+# TOTAL: 2
+domain_set:
+  - "sentry.mindbox.ru"
+  - "sentry.popmechanic.ru"

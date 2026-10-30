@@ -1,0 +1,9 @@
+# NAME: netease@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - "analytics.163.com"
+  - "crash.163.com"
+  - "crashlytics.163.com"
+  - "sentry.music.163.com"

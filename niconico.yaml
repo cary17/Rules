@@ -1,0 +1,15 @@
+# NAME: niconico
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
+domain_suffix_set:
+  - ".nico"
+  - "nico.ms"
+  - "nicochannel.jp"
+  - "nicodic.jp"
+  - "nicomanga.jp"
+  - "niconico.com"
+  - "nicoseiga.jp"
+  - "nicovideo.jp"
+  - "nimg.jp"
+  - "simg.jp"

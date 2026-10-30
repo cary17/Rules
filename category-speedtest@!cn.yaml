@@ -1,0 +1,6 @@
+# NAME: category-speedtest@!cn
+# UPDATED: 2026-10-29
+# DOMAIN: 1
+# TOTAL: 1
+domain_set:
+  - "hk-global-bgp.hkg.speedtest.yecaoyun.com"

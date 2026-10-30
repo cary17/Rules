@@ -1,0 +1,10 @@
+# NAME: azure@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
+domain_set:
+  - "dc.applicationinsights.azure.com"
+  - "live.applicationinsights.azure.com"
+domain_suffix_set:
+  - "in.applicationinsights.azure.com"

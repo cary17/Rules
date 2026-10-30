@@ -1,0 +1,21 @@
+# NAME: category-dev@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 5
+# TOTAL: 14
+domain_set:
+  - "copilot-telemetry-service.githubusercontent.com"
+  - "copilot-telemetry.githubusercontent.com"
+  - "crashlyticsreports-pa.googleapis.com"
+  - "dc.services.visualstudio.com"
+  - "firebase-settings.crashlytics.com"
+  - "firebaselogging-pa.googleapis.com"
+  - "firebaselogging.googleapis.com"
+  - "rt.services.visualstudio.com"
+  - "update.crashlytics.com"
+domain_suffix_set:
+  - "analytics.cloud.unity3d.com"
+  - "cafe.github.com"
+  - "collector.github.com"
+  - "perf-events.cloud.unity3d.com"
+  - "perf.cloud.unity3d.com"

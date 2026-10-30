@@ -1,0 +1,7 @@
+# NAME: iqiyi@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+domain_suffix_set:
+  - "ifacelog.iqiyi.com"
+  - "mbdlog.iqiyi.com"

@@ -1,0 +1,14 @@
+# NAME: kontur
+# UPDATED: 2026-10-29
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
+domain_set:
+  - "metrika.kontur.ru"
+  - "sentry.kontur.host"
+domain_suffix_set:
+  - "kontur-inc.com"
+  - "kontur.host"
+  - "kontur.ru"
+  - "ktalk.host"
+  - "ktalk.ru"

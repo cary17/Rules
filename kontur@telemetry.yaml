@@ -1,0 +1,7 @@
+# NAME: kontur@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN: 2
+# TOTAL: 2
+domain_set:
+  - "metrika.kontur.ru"
+  - "sentry.kontur.host"
