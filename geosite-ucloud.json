@@ -21,23 +21,6 @@
         "ucgslb.info",
         "ucgslb.net",
         "ucgslb.top",
-        "ucloud-edm.com",
-        "ucloud.cn",
-        "ucloud.com.cn",
-        "ucloud365.com",
-        "ucloudadmin.com",
-        "ucloudapi.com",
-        "ucloudgda.com",
-        "ucloudnaming.cn",
-        "ucloudnaming.com",
-        "ucloudnaming.info",
-        "ucloudnaming.net",
-        "ucloudoss.com",
-        "ucloudstack.cn",
-        "ucloudstack.com",
-        "ucloudstack.net",
-        "ucloudstor.com",
-        "ucloudufile.com",
         "ucnaming.cn",
         "ucnaming.com",
         "ucnaming.info",
@@ -57,6 +40,9 @@
         "urtc.com.cn",
         "uslk.net",
         "uucl.vip"
+      ],
+      "domain_keyword": [
+        "ucloud"
       ]
     }
   ]

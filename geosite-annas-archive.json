@@ -2,15 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "annas-archive.gd",
-        "annas-archive.gl",
-        "annas-archive.in",
-        "annas-archive.li",
-        "annas-archive.org",
-        "annas-archive.pk",
-        "annas-archive.pm",
-        "annas-archive.se"
+      "domain_keyword": [
+        "annas-archive"
       ]
     }
   ]

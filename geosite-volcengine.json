@@ -170,21 +170,6 @@
         "volcecr.com",
         "volcecw.com",
         "volcenginapi.com",
-        "volcengine-api-test.com",
-        "volcengine-api.cn",
-        "volcengine-api.com",
-        "volcengine-dns.com",
-        "volcengine-dns.net",
-        "volcengine.cn",
-        "volcengine.com",
-        "volcengine.net",
-        "volcenginealb.com",
-        "volcengineapi-test.com",
-        "volcengineapi.cn",
-        "volcengineapi.com",
-        "volcenginedns.com",
-        "volcenginedns.net",
-        "volcenginepaas.com",
         "volces-test.com",
         "volces.cn",
         "volces.com",
@@ -282,6 +267,9 @@
         "zjytxp.cn",
         "zml81.cn",
         "zvip.cn"
+      ],
+      "domain_keyword": [
+        "volcengine"
       ]
     }
   ]

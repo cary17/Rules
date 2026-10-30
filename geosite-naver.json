@@ -25,18 +25,6 @@
         "lineshoppingseller.com",
         "linetv.tw",
         "modoo.at",
-        "naver.com",
-        "naver.com.akadns.net",
-        "naver.jp",
-        "naver.me",
-        "naver.net",
-        "naverads.com",
-        "naverads.com.akadns.net",
-        "navercloudcorp.com",
-        "navercorp.com",
-        "naverfincorp.com",
-        "naverlabs.com",
-        "naverncp.com",
         "ncloud.com",
         "nheos.com",
         "nhncorp.jp",
@@ -52,6 +40,9 @@
         "webtoons.com",
         "webtoonscorp.com",
         "worksmobile.com"
+      ],
+      "domain_keyword": [
+        "naver"
       ]
     }
   ]
