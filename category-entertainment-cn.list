@@ -1,8 +1,9 @@
 # NAME: category-entertainment-cn
-# UPDATED: 2026-10-30
+# UPDATED: 2026-10-31 06:38:51 +08:00
 # DOMAIN: 23
 # DOMAIN-SUFFIX: 903
-# TOTAL: 926
+# DOMAIN-WILDCARD: 1
+# TOTAL: 927
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
@@ -929,3 +930,4 @@ DOMAIN-SUFFIX,zhuoyuegame.com
 DOMAIN-SUFFIX,zjshulong.com
 DOMAIN-SUFFIX,zongheng.com
 DOMAIN-SUFFIX,zx.com
+DOMAIN-WILDCARD,?*-mihayo.akamaized.net

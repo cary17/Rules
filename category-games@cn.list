@@ -1,8 +1,9 @@
 # NAME: category-games@cn
-# UPDATED: 2026-10-30
+# UPDATED: 2026-10-31 06:38:51 +08:00
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 31
-# TOTAL: 35
+# DOMAIN-WILDCARD: 1
+# TOTAL: 36
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,gog.qtlglb.com
 DOMAIN,lv.queniujq.cn
@@ -38,3 +39,4 @@ DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,yostar.cn
+DOMAIN-WILDCARD,?*-mihayo.akamaized.net

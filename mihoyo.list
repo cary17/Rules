@@ -1,7 +1,8 @@
 # NAME: mihoyo
-# UPDATED: 2026-10-30
+# UPDATED: 2026-10-31 06:38:51 +08:00
 # DOMAIN-SUFFIX: 25
-# TOTAL: 25
+# DOMAIN-WILDCARD: 1
+# TOTAL: 26
 DOMAIN-SUFFIX,benghuai.com
 DOMAIN-SUFFIX,bh3.com
 DOMAIN-SUFFIX,bhsr.com
@@ -27,3 +28,4 @@ DOMAIN-SUFFIX,n0vadesktop.com
 DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,zenlesszonezero.com
+DOMAIN-WILDCARD,?*-mihayo.akamaized.net
