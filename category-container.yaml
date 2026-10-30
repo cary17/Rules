@@ -8,3 +8,4 @@ payload:
     - "DOMAIN-SUFFIX,quay.io"
     - "DOMAIN-SUFFIX,registry.gitlab.com"
     - "DOMAIN-SUFFIX,registry.k8s.io"
+    - "DOMAIN-REGEX,.+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$"

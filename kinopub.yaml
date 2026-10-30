@@ -17,3 +17,4 @@ payload:
     - "DOMAIN-SUFFIX,support-kp.com"
     - "DOMAIN-SUFFIX,teleos.club"
     - "DOMAIN-SUFFIX,tsx.ovh"
+    - "DOMAIN-REGEX,(\\w+)-static-[0-9]+\\.cdntogo\\.net$"

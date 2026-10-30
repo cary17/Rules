@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,mihoyomall.com
 DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$

@@ -325,3 +325,4 @@ DOMAIN-SUFFIX,wifispeed.io
 DOMAIN-SUFFIX,xn--zcka2bjc9dzp.jp
 DOMAIN-SUFFIX,xnfz.seu.edu.cn
 DOMAIN-SUFFIX,yournetspeed.com
+DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

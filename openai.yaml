@@ -23,3 +23,4 @@ payload:
     - "DOMAIN-SUFFIX,openai.org"
     - "DOMAIN-SUFFIX,sora.com"
     - "DOMAIN-SUFFIX,turn.livekit.cloud"
+    - "DOMAIN-REGEX,^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"

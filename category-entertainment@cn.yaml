@@ -97,3 +97,5 @@ payload:
     - "DOMAIN-SUFFIX,xboxlive.cn"
     - "DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn"
     - "DOMAIN-SUFFIX,yostar.cn"
+    - "DOMAIN-REGEX,^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+    - "DOMAIN-REGEX,^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"

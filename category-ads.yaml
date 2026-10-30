@@ -843,3 +843,4 @@ payload:
     - "DOMAIN-SUFFIX,zxid-api.mobileservice.cn"
     - "DOMAIN-SUFFIX,zxid-m.mobileservice.cn"
     - "DOMAIN-SUFFIX,zz.bdstatic.com"
+    - "DOMAIN-REGEX,^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$"

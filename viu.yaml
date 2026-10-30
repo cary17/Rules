@@ -5,3 +5,4 @@ payload:
     - "DOMAIN,dfp6rglgjqszk.cloudfront.net"
     - "DOMAIN-SUFFIX,viu.com"
     - "DOMAIN-SUFFIX,viu.tv"
+    - "DOMAIN-REGEX,^ewcdn[0-9]+\\.nowe\\.com$"

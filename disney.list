@@ -220,3 +220,4 @@ DOMAIN-SUFFIX,waltdisneystudios.com
 DOMAIN-SUFFIX,watchdisneyfe.com
 DOMAIN-SUFFIX,watchespn.com
 DOMAIN-SUFFIX,wwwhuluplus.com
+DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$

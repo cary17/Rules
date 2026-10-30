@@ -26,3 +26,4 @@ payload:
     - "DOMAIN-SUFFIX,uhub.com"
     - "DOMAIN-SUFFIX,viu.com"
     - "DOMAIN-SUFFIX,viu.tv"
+    - "DOMAIN-REGEX,^ewcdn[0-9]+\\.nowe\\.com$"
