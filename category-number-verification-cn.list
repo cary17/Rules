@@ -1,11 +1,13 @@
 # NAME: category-number-verification-cn
-# UPDATED: 2026-10-30
+# UPDATED: 2026-10-31 06:38:51 +08:00
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 1
-# TOTAL: 6
+# DOMAIN-WILDCARD: 1
+# TOTAL: 7
 DOMAIN,enrichgw.10010.com
 DOMAIN,hap.10010.com
 DOMAIN,hs.wosms.cn
 DOMAIN,id6.me
 DOMAIN,opencloud.wostore.cn
 DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-WILDCARD,nis?*.10010.com

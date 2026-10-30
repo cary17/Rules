@@ -1,8 +1,9 @@
 # NAME: category-speedtest
-# UPDATED: 2026-10-30
+# UPDATED: 2026-10-31 06:38:51 +08:00
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 325
-# TOTAL: 327
+# DOMAIN-WILDCARD: 10
+# TOTAL: 337
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
 DOMAIN-SUFFIX,afasttest.com
@@ -330,3 +331,13 @@ DOMAIN-SUFFIX,wifispeed.io
 DOMAIN-SUFFIX,xn--zcka2bjc9dzp.jp
 DOMAIN-SUFFIX,xnfz.seu.edu.cn
 DOMAIN-SUFFIX,yournetspeed.com
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z][a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z][a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net

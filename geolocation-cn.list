@@ -1,8 +1,9 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-10-30
+# UPDATED: 2026-10-31 06:38:51 +08:00
 # DOMAIN: 605
 # DOMAIN-SUFFIX: 8761
-# TOTAL: 9366
+# DOMAIN-WILDCARD: 2
+# TOTAL: 9368
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -9369,3 +9370,5 @@ DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,zzzcaculator.top
 DOMAIN-SUFFIX,zzzmap.com
+DOMAIN-WILDCARD,?*-mihayo.akamaized.net
+DOMAIN-WILDCARD,nis?*.10010.com

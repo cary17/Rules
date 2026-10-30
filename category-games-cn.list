@@ -1,8 +1,9 @@
 # NAME: category-games-cn
-# UPDATED: 2026-10-30
+# UPDATED: 2026-10-31 06:38:51 +08:00
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 280
-# TOTAL: 282
+# DOMAIN-WILDCARD: 1
+# TOTAL: 283
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
 DOMAIN-SUFFIX,17173.com
@@ -285,3 +286,4 @@ DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,zhuoyuegame.com
 DOMAIN-SUFFIX,zjshulong.com
 DOMAIN-SUFFIX,zx.com
+DOMAIN-WILDCARD,?*-mihayo.akamaized.net

@@ -1,8 +1,9 @@
 # NAME: category-ads-all@ads
-# UPDATED: 2026-10-30
+# UPDATED: 2026-10-31 06:38:51 +08:00
 # DOMAIN: 158
 # DOMAIN-SUFFIX: 617
-# TOTAL: 775
+# DOMAIN-WILDCARD: 10
+# TOTAL: 785
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad-channel.diwodiwo.xyz
@@ -778,3 +779,13 @@ DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zz.bdstatic.com
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.coe.ad.[a-z][a-z][a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.open.ad.[a-z][a-z][a-z][a-z][a-z][a-z].prod.hosts.ooklaserver.net
