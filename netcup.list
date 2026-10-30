@@ -1,7 +1,8 @@
 # NAME: netcup
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 24
-# TOTAL: 24
+# DOMAIN-SUFFIX: 16
+# DOMAIN-KEYWORD: 1
+# TOTAL: 17
 DOMAIN-SUFFIX,bestsrv.de
 DOMAIN-SUFFIX,customercontrolpanel.de
 DOMAIN-SUFFIX,dnsserver1.de
@@ -11,14 +12,6 @@ DOMAIN-SUFFIX,happysrv.de
 DOMAIN-SUFFIX,hotsrv.de
 DOMAIN-SUFFIX,luckysrv.de
 DOMAIN-SUFFIX,megasrv.de
-DOMAIN-SUFFIX,netcup-news.de
-DOMAIN-SUFFIX,netcup-sonderangebote.de
-DOMAIN-SUFFIX,netcup-wiki.de
-DOMAIN-SUFFIX,netcup.cafe
-DOMAIN-SUFFIX,netcup.com
-DOMAIN-SUFFIX,netcup.de
-DOMAIN-SUFFIX,netcup.eu
-DOMAIN-SUFFIX,netcup.net
 DOMAIN-SUFFIX,nicesrv.de
 DOMAIN-SUFFIX,powersrv.de
 DOMAIN-SUFFIX,quicksrv.de
@@ -26,3 +19,4 @@ DOMAIN-SUFFIX,servercontrolpanel.de
 DOMAIN-SUFFIX,supersrv.de
 DOMAIN-SUFFIX,ultrasrv.de
 DOMAIN-SUFFIX,yourvserver.net
+DOMAIN-KEYWORD,netcup

@@ -1,13 +1,7 @@
 # NAME: schwab
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
-DOMAIN-SUFFIX,aboutschwab.com
-DOMAIN-SUFFIX,schwab.co.uk
-DOMAIN-SUFFIX,schwab.com
-DOMAIN-SUFFIX,schwab.com.hk
-DOMAIN-SUFFIX,schwab.com.sg
-DOMAIN-SUFFIX,schwabassetmanagement.com
-DOMAIN-SUFFIX,schwabcdn.com
-DOMAIN-SUFFIX,schwabplan.com
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-KEYWORD,schwab

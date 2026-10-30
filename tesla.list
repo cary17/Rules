@@ -1,15 +1,8 @@
 # NAME: tesla
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# DOMAIN-SUFFIX: 2
+# DOMAIN-KEYWORD: 1
+# TOTAL: 3
 DOMAIN-SUFFIX,solarcity.com
-DOMAIN-SUFFIX,tesla.cn
-DOMAIN-SUFFIX,tesla.com
-DOMAIN-SUFFIX,tesla.com.cn
-DOMAIN-SUFFIX,tesla.services
-DOMAIN-SUFFIX,teslaenergy.services
-DOMAIN-SUFFIX,teslamotors.cn
-DOMAIN-SUFFIX,teslamotors.com
-DOMAIN-SUFFIX,teslamotors.com.cn
-DOMAIN-SUFFIX,teslazta.net
 DOMAIN-SUFFIX,ts.la
+DOMAIN-KEYWORD,tesla

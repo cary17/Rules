@@ -1,9 +1,9 @@
 # NAME: mcdonalds
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 43
-# TOTAL: 43
+# DOMAIN-SUFFIX: 19
+# DOMAIN-KEYWORD: 1
+# TOTAL: 20
 DOMAIN-SUFFIX,4008-517-517.cn
-DOMAIN-SUFFIX,aboutmcdonalds.com
 DOMAIN-SUFFIX,happymeal.co.nz
 DOMAIN-SUFFIX,happymeal.com
 DOMAIN-SUFFIX,happymeal.com.au
@@ -22,26 +22,4 @@ DOMAIN-SUFFIX,mcdelivery.com.sg
 DOMAIN-SUFFIX,mcdelivery.com.tw
 DOMAIN-SUFFIX,mcdindia.com
 DOMAIN-SUFFIX,mcdindonesia.com
-DOMAIN-SUFFIX,mcdonalds-online.com
-DOMAIN-SUFFIX,mcdonalds.be
-DOMAIN-SUFFIX,mcdonalds.ca
-DOMAIN-SUFFIX,mcdonalds.co.id
-DOMAIN-SUFFIX,mcdonalds.co.jp
-DOMAIN-SUFFIX,mcdonalds.co.kr
-DOMAIN-SUFFIX,mcdonalds.co.nz
-DOMAIN-SUFFIX,mcdonalds.co.uk
-DOMAIN-SUFFIX,mcdonalds.com
-DOMAIN-SUFFIX,mcdonalds.com.au
-DOMAIN-SUFFIX,mcdonalds.com.cn
-DOMAIN-SUFFIX,mcdonalds.com.hk
-DOMAIN-SUFFIX,mcdonalds.com.lb
-DOMAIN-SUFFIX,mcdonalds.com.my
-DOMAIN-SUFFIX,mcdonalds.com.ph
-DOMAIN-SUFFIX,mcdonalds.com.tw
-DOMAIN-SUFFIX,mcdonalds.hk
-DOMAIN-SUFFIX,mcdonalds.it
-DOMAIN-SUFFIX,mcdonalds.no
-DOMAIN-SUFFIX,mcdonalds.se
-DOMAIN-SUFFIX,mcdonaldsapps.com
-DOMAIN-SUFFIX,mcdonaldsarabia.com
-DOMAIN-SUFFIX,mcdonaldsparties.co.nz
+DOMAIN-KEYWORD,mcdonalds
