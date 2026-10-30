@@ -1,16 +1,9 @@
 # NAME: heroku
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# DOMAIN-SUFFIX: 3
+# DOMAIN-KEYWORD: 1
+# TOTAL: 4
 DOMAIN-SUFFIX,codei.sh
 DOMAIN-SUFFIX,codeish.co
 DOMAIN-SUFFIX,codeish.io
-DOMAIN-SUFFIX,heroku-app.com
-DOMAIN-SUFFIX,heroku-charge.com
-DOMAIN-SUFFIX,heroku.co
-DOMAIN-SUFFIX,heroku.com
-DOMAIN-SUFFIX,heroku.me
-DOMAIN-SUFFIX,herokuapp.com
-DOMAIN-SUFFIX,herokucdn.com
-DOMAIN-SUFFIX,herokucharge.com
-DOMAIN-SUFFIX,herokussl.com
+DOMAIN-KEYWORD,heroku

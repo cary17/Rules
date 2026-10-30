@@ -1,17 +1,8 @@
 # NAME: abema
 # UPDATED: 2026-10-30
-# DOMAIN: 5
-# DOMAIN-SUFFIX: 16
-# TOTAL: 21
-DOMAIN,abematv.akamaized.net
-DOMAIN,ds-linear-abematv.akamaized.net
-DOMAIN,ds-vod-abematv.akamaized.net
-DOMAIN,linear-abematv.akamaized.net
-DOMAIN,vod-abematv.akamaized.net
-DOMAIN-SUFFIX,abema-tv.com
-DOMAIN-SUFFIX,abema.io
-DOMAIN-SUFFIX,abema.tv
-DOMAIN-SUFFIX,abematv.co.jp
+# DOMAIN-SUFFIX: 12
+# DOMAIN-KEYWORD: 1
+# TOTAL: 13
 DOMAIN-SUFFIX,adx.promo
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,amebame.com
@@ -24,3 +15,4 @@ DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,winticket.jp
+DOMAIN-KEYWORD,abema

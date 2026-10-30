@@ -1,7 +1,8 @@
 # NAME: ctrip
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 44
-# TOTAL: 44
+# DOMAIN-SUFFIX: 28
+# DOMAIN-KEYWORD: 1
+# TOTAL: 29
 DOMAIN-SUFFIX,ak-p.tripcdn.com
 DOMAIN-SUFFIX,ak-s-cw.tripcdn.com
 DOMAIN-SUFFIX,ak-s.tripcdn.com
@@ -9,23 +10,7 @@ DOMAIN-SUFFIX,akatest.tripcdn.com
 DOMAIN-SUFFIX,aw-d.tripcdn.com
 DOMAIN-SUFFIX,aw-p.tripcdn.com
 DOMAIN-SUFFIX,aw-s.tripcdn.com
-DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,colinker.com
-DOMAIN-SUFFIX,ctrip.cn
-DOMAIN-SUFFIX,ctrip.co.id
-DOMAIN-SUFFIX,ctrip.co.kr
-DOMAIN-SUFFIX,ctrip.co.th
-DOMAIN-SUFFIX,ctrip.com
-DOMAIN-SUFFIX,ctrip.com.hk
-DOMAIN-SUFFIX,ctrip.my
-DOMAIN-SUFFIX,ctrip.sg
-DOMAIN-SUFFIX,ctripbiz.com
-DOMAIN-SUFFIX,ctripbuy.hk
-DOMAIN-SUFFIX,ctripgslb.cn
-DOMAIN-SUFFIX,ctripgslb.com
-DOMAIN-SUFFIX,ctripgslb.com.cn
-DOMAIN-SUFFIX,ctripgslb.net
-DOMAIN-SUFFIX,ctripteam.com
 DOMAIN-SUFFIX,doticloud.com
 DOMAIN-SUFFIX,easytrip.com
 DOMAIN-SUFFIX,hhtravel.com
@@ -46,3 +31,4 @@ DOMAIN-SUFFIX,trip.com
 DOMAIN-SUFFIX,tripcdn.cn
 DOMAIN-SUFFIX,tripcdn.com
 DOMAIN-SUFFIX,vipdlt.com
+DOMAIN-KEYWORD,ctrip

@@ -1,13 +1,7 @@
 # NAME: lysol
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 DOMAIN-SUFFIX,lizol.co.in
-DOMAIN-SUFFIX,lysol.ca
-DOMAIN-SUFFIX,lysol.cl
-DOMAIN-SUFFIX,lysol.cn
-DOMAIN-SUFFIX,lysol.co.cr
-DOMAIN-SUFFIX,lysol.com
-DOMAIN-SUFFIX,lysol.com.cn
-DOMAIN-SUFFIX,lysol.com.mx
-DOMAIN-SUFFIX,lysol.net
+DOMAIN-KEYWORD,lysol

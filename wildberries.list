@@ -1,23 +1,14 @@
 # NAME: wildberries
 # UPDATED: 2026-10-30
-# DOMAIN: 15
-# DOMAIN-SUFFIX: 99
-# TOTAL: 114
-DOMAIN,ads-gate.wildberries.ru
-DOMAIN,ads-media.wildberries.ru
-DOMAIN,ads.wildberries.ru
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 85
+# DOMAIN-KEYWORD: 1
+# TOTAL: 91
 DOMAIN,advert-api-sandbox.wb.ru
-DOMAIN,advert-api-sandbox.wildberries.ru
 DOMAIN,advert-api.wb.ru
-DOMAIN,advert-api.wildberries.ru
 DOMAIN,advert-media-api.wb.ru
-DOMAIN,advert-media-api.wildberries.ru
-DOMAIN,analytics-stage.wildberries.ru
-DOMAIN,analytics.wildberries.ru
-DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
-DOMAIN,web-analytics.wildberries.ru
 DOMAIN-SUFFIX,digital-wb.ru
 DOMAIN-SUFFIX,digitalwb.ru
 DOMAIN-SUFFIX,etradebook.ru
@@ -87,20 +78,6 @@ DOMAIN-SUFFIX,wildbeeries.ru
 DOMAIN-SUFFIX,wildberdes.ru
 DOMAIN-SUFFIX,wildberiss.ru
 DOMAIN-SUFFIX,wildberr.ru
-DOMAIN-SUFFIX,wildberries.am
-DOMAIN-SUFFIX,wildberries.by
-DOMAIN-SUFFIX,wildberries.co.il
-DOMAIN-SUFFIX,wildberries.es
-DOMAIN-SUFFIX,wildberries.eu
-DOMAIN-SUFFIX,wildberries.ge
-DOMAIN-SUFFIX,wildberries.kg
-DOMAIN-SUFFIX,wildberries.kz
-DOMAIN-SUFFIX,wildberries.lt
-DOMAIN-SUFFIX,wildberries.ru
-DOMAIN-SUFFIX,wildberries.tj
-DOMAIN-SUFFIX,wildberries.tm
-DOMAIN-SUFFIX,wildberries.uz
-DOMAIN-SUFFIX,wildberriess.ru
 DOMAIN-SUFFIX,wildberrise.ru
 DOMAIN-SUFFIX,wildbiries.ru
 DOMAIN-SUFFIX,wildbirris.ru
@@ -117,3 +94,4 @@ DOMAIN-SUFFIX,wolfberries.ru
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
 DOMAIN-SUFFIX,xn--90ab.com
+DOMAIN-KEYWORD,wildberries
