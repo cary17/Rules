@@ -1,12 +1,5 @@
-+.lbctrl.com
-+.lbkrs.com
-+.longbridge.cloud
-+.longbridge.cn
-+.longbridge.com
-+.longbridge.global
-+.longbridge.hk
-+.longbridge.sg
-+.longbridgeapp.com
-+.longbridgehk.com
-+.longportapp.com
-+.wbrks.com
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,longportapp.com
+DOMAIN-SUFFIX,wbrks.com
+DOMAIN-KEYWORD,longbridge

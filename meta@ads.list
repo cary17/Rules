@@ -1,5 +1,5 @@
-+.analytics.facebook.com
-+.facebookads.com
-+.graph-fallback.instagram.com
-+.graph.instagram.com
-+.pixel.facebook.com
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,pixel.facebook.com

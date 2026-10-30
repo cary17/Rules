@@ -1,6 +1,6 @@
 payload:
-    - "+.adbehavior.ximalaya.com"
-    - "+.adse.wsa.ximalaya.com"
-    - "+.adse.ximalaya.com"
-    - "+.ximalaya.com"
-    - "+.xmcdn.com"
+    - "DOMAIN-SUFFIX,adbehavior.ximalaya.com"
+    - "DOMAIN-SUFFIX,adse.wsa.ximalaya.com"
+    - "DOMAIN-SUFFIX,adse.ximalaya.com"
+    - "DOMAIN-SUFFIX,ximalaya.com"
+    - "DOMAIN-SUFFIX,xmcdn.com"

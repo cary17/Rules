@@ -1,11 +1,2 @@
-+.equinox.io
-+.ngrok-agent.com
-+.ngrok-free.app
-+.ngrok-free.dev
-+.ngrok-free.pizza
-+.ngrok.app
-+.ngrok.com
-+.ngrok.dev
-+.ngrok.io
-+.ngrok.pizza
-+.ngrok.pro
+DOMAIN-SUFFIX,equinox.io
+DOMAIN-KEYWORD,ngrok

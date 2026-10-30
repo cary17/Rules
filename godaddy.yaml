@@ -1,6 +1,6 @@
 payload:
-    - ".godaddy"
-    - "+.godaddy.com"
-    - "+.godaddy.net"
-    - "+.wsimg.com"
-    - "+.x.co"
+    - "DOMAIN-WILDCARD,*.godaddy"
+    - "DOMAIN-SUFFIX,godaddy.com"
+    - "DOMAIN-SUFFIX,godaddy.net"
+    - "DOMAIN-SUFFIX,wsimg.com"
+    - "DOMAIN-SUFFIX,x.co"

@@ -1,4 +1,4 @@
 payload:
-    - "+.thetype.cloud"
-    - "+.thetype.com"
-    - "+.typeisbeautiful.com"
+    - "DOMAIN-SUFFIX,thetype.cloud"
+    - "DOMAIN-SUFFIX,thetype.com"
+    - "DOMAIN-SUFFIX,typeisbeautiful.com"

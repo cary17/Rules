@@ -1,8 +1,8 @@
-redirector.c.play.google.com
-+.googleplay.com
-+.play-fe.googleapis.com
-+.play-games.googleusercontent.com
-+.play-lh.googleusercontent.com
-+.play.google.com
-+.play.googleapis.com
-+.xn--ngstr-lra8j.com
+DOMAIN,redirector.c.play.google.com
+DOMAIN-SUFFIX,googleplay.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-games.googleusercontent.com
+DOMAIN-SUFFIX,play-lh.googleusercontent.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com

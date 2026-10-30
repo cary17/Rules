@@ -1,7 +1,7 @@
 payload:
-    - "+.glitchwave.com"
-    - "+.rateyourmusic.com"
-    - "+.rym.fm"
-    - "+.snmc.io"
-    - "+.sonematic.net"
-    - "+.sonemic.com"
+    - "DOMAIN-SUFFIX,glitchwave.com"
+    - "DOMAIN-SUFFIX,rateyourmusic.com"
+    - "DOMAIN-SUFFIX,rym.fm"
+    - "DOMAIN-SUFFIX,snmc.io"
+    - "DOMAIN-SUFFIX,sonematic.net"
+    - "DOMAIN-SUFFIX,sonemic.com"

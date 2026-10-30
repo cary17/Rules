@@ -1,4 +1,4 @@
 payload:
-    - "+.bamgrid.com"
-    - "+.bamtech.net"
-    - "+.dmed.technology"
+    - "DOMAIN-SUFFIX,bamgrid.com"
+    - "DOMAIN-SUFFIX,bamtech.net"
+    - "DOMAIN-SUFFIX,dmed.technology"

@@ -1,4 +1,4 @@
 payload:
-    - "+.mechrevo.com"
-    - "+.thtf.com.cn"
-    - "+.tongfangpc.com"
+    - "DOMAIN-SUFFIX,mechrevo.com"
+    - "DOMAIN-SUFFIX,thtf.com.cn"
+    - "DOMAIN-SUFFIX,tongfangpc.com"

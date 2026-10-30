@@ -1,4 +1,4 @@
 payload:
-    - "+.chndoi.org"
-    - "+.cnki.com.cn"
-    - "+.cnki.net"
+    - "DOMAIN-SUFFIX,chndoi.org"
+    - "DOMAIN-SUFFIX,cnki.com.cn"
+    - "DOMAIN-SUFFIX,cnki.net"

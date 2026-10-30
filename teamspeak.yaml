@@ -1,4 +1,4 @@
 payload:
-    - "+.myteamspeak.com"
-    - "+.teamspeak-services.com"
-    - "+.teamspeak.com"
+    - "DOMAIN-SUFFIX,myteamspeak.com"
+    - "DOMAIN-SUFFIX,teamspeak-services.com"
+    - "DOMAIN-SUFFIX,teamspeak.com"

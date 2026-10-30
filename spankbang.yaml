@@ -1,4 +1,4 @@
 payload:
-    - "+.sb-cd.com"
-    - "+.spankbang.com"
-    - "+.spankbang.party"
+    - "DOMAIN-SUFFIX,sb-cd.com"
+    - "DOMAIN-SUFFIX,spankbang.com"
+    - "DOMAIN-SUFFIX,spankbang.party"

@@ -1,4 +1,4 @@
 payload:
-    - "+.cloudimage.io"
-    - "+.cloudimg.io"
-    - "+.scaleflex.com"
+    - "DOMAIN-SUFFIX,cloudimage.io"
+    - "DOMAIN-SUFFIX,cloudimg.io"
+    - "DOMAIN-SUFFIX,scaleflex.com"

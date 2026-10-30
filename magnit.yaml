@@ -1,5 +1,5 @@
 payload:
-    - "+.kazanexpress.ru"
-    - "+.magnit.com"
-    - "+.magnit.ru"
-    - "+.mm.ru"
+    - "DOMAIN-SUFFIX,kazanexpress.ru"
+    - "DOMAIN-SUFFIX,magnit.com"
+    - "DOMAIN-SUFFIX,magnit.ru"
+    - "DOMAIN-SUFFIX,mm.ru"

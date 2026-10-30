@@ -1,5 +1,5 @@
 payload:
-    - "+.rtbcdn.ru"
-    - "+.rutube.ru"
-    - "+.rutube.sport"
-    - "+.rutubelist.ru"
+    - "DOMAIN-SUFFIX,rtbcdn.ru"
+    - "DOMAIN-SUFFIX,rutube.ru"
+    - "DOMAIN-SUFFIX,rutube.sport"
+    - "DOMAIN-SUFFIX,rutubelist.ru"

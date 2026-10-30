@@ -1,4 +1,4 @@
 payload:
-    - "+.jinshuju.net"
-    - "+.jinshujucdn.com"
-    - "+.jsj.top"
+    - "DOMAIN-SUFFIX,jinshuju.net"
+    - "DOMAIN-SUFFIX,jinshujucdn.com"
+    - "DOMAIN-SUFFIX,jsj.top"

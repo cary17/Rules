@@ -1,3 +1,3 @@
 payload:
-    - "+.newgrounds.com"
-    - "+.ngfiles.com"
+    - "DOMAIN-SUFFIX,newgrounds.com"
+    - "DOMAIN-SUFFIX,ngfiles.com"

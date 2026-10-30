@@ -1,4 +1,4 @@
 payload:
-    - "crashlyticsreports-pa.googleapis.com"
-    - "firebase-settings.crashlytics.com"
-    - "update.crashlytics.com"
+    - "DOMAIN,crashlyticsreports-pa.googleapis.com"
+    - "DOMAIN,firebase-settings.crashlytics.com"
+    - "DOMAIN,update.crashlytics.com"

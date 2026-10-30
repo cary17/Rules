@@ -1,5 +1,5 @@
-+.hotstar-cdn.net
-+.hotstar-labs.com
-+.hotstar.com
-+.hotstarext.com
-+.hsprepack.akamaized.net
+DOMAIN-SUFFIX,hotstar-cdn.net
+DOMAIN-SUFFIX,hotstar-labs.com
+DOMAIN-SUFFIX,hotstar.com
+DOMAIN-SUFFIX,hotstarext.com
+DOMAIN-SUFFIX,hsprepack.akamaized.net

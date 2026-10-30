@@ -1,4 +1,4 @@
 payload:
-    - "+.reg.cloud"
-    - "+.reg.com"
-    - "+.reg.ru"
+    - "DOMAIN-SUFFIX,reg.cloud"
+    - "DOMAIN-SUFFIX,reg.com"
+    - "DOMAIN-SUFFIX,reg.ru"

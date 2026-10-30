@@ -1,4 +1,4 @@
 payload:
-    - "+.kindle.cn"
-    - "+.kindleoasis.cn"
-    - "+.kindleoasis.com.cn"
+    - "DOMAIN-SUFFIX,kindle.cn"
+    - "DOMAIN-SUFFIX,kindleoasis.cn"
+    - "DOMAIN-SUFFIX,kindleoasis.com.cn"

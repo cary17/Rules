@@ -1,4 +1,4 @@
 payload:
-    - "+.fflogs.com"
-    - "+.rpglogs.cn"
-    - "+.rpglogs.com"
+    - "DOMAIN-SUFFIX,fflogs.com"
+    - "DOMAIN-SUFFIX,rpglogs.cn"
+    - "DOMAIN-SUFFIX,rpglogs.com"

@@ -1,4 +1,4 @@
 payload:
-    - "+.aviasales.com"
-    - "+.aviasales.ru"
-    - "+.avs.io"
+    - "DOMAIN-SUFFIX,aviasales.com"
+    - "DOMAIN-SUFFIX,aviasales.ru"
+    - "DOMAIN-SUFFIX,avs.io"

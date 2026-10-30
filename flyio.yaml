@@ -1,4 +1,4 @@
 payload:
-    - "+.fly.dev"
-    - "+.fly.io"
-    - "+.flyio.net"
+    - "DOMAIN-SUFFIX,fly.dev"
+    - "DOMAIN-SUFFIX,fly.io"
+    - "DOMAIN-SUFFIX,flyio.net"

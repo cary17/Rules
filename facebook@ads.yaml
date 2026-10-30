@@ -1,4 +1,4 @@
 payload:
-    - "+.analytics.facebook.com"
-    - "+.facebookads.com"
-    - "+.pixel.facebook.com"
+    - "DOMAIN-SUFFIX,analytics.facebook.com"
+    - "DOMAIN-SUFFIX,facebookads.com"
+    - "DOMAIN-SUFFIX,pixel.facebook.com"

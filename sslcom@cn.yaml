@@ -1,2 +1,2 @@
 payload:
-    - "+.sslcom.cn"
+    - "DOMAIN-SUFFIX,sslcom.cn"

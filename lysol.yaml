@@ -1,10 +1,3 @@
 payload:
-    - "+.lizol.co.in"
-    - "+.lysol.ca"
-    - "+.lysol.cl"
-    - "+.lysol.cn"
-    - "+.lysol.co.cr"
-    - "+.lysol.com"
-    - "+.lysol.com.cn"
-    - "+.lysol.com.mx"
-    - "+.lysol.net"
+    - "DOMAIN-SUFFIX,lizol.co.in"
+    - "DOMAIN-KEYWORD,lysol"

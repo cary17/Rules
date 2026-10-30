@@ -1,4 +1,4 @@
 payload:
-    - "+.gamesplanet.com"
-    - "+.gametap.com"
-    - "+.gpstatic.com"
+    - "DOMAIN-SUFFIX,gamesplanet.com"
+    - "DOMAIN-SUFFIX,gametap.com"
+    - "DOMAIN-SUFFIX,gpstatic.com"

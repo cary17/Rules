@@ -1,4 +1,4 @@
 payload:
-    - "+.snk-corp.co.jp"
-    - "+.snk-corp.info"
-    - "+.snkplaymore.info"
+    - "DOMAIN-SUFFIX,snk-corp.co.jp"
+    - "DOMAIN-SUFFIX,snk-corp.info"
+    - "DOMAIN-SUFFIX,snkplaymore.info"

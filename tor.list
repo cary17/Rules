@@ -1,3 +1,3 @@
-.exit
-.onion
-.tor
+DOMAIN-WILDCARD,*.exit
+DOMAIN-WILDCARD,*.onion
+DOMAIN-WILDCARD,*.tor

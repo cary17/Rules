@@ -1,2 +1,2 @@
 payload:
-    - "+.paypalbeacon.com"
+    - "DOMAIN-SUFFIX,paypalbeacon.com"

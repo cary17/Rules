@@ -1,5 +1,5 @@
 payload:
-    - "upos-hz-mirrorakam.akamaized.net"
-    - "+.bilibili.tv"
-    - "+.biliintl.com"
-    - "+.dreamcast.hk"
+    - "DOMAIN,upos-hz-mirrorakam.akamaized.net"
+    - "DOMAIN-SUFFIX,bilibili.tv"
+    - "DOMAIN-SUFFIX,biliintl.com"
+    - "DOMAIN-SUFFIX,dreamcast.hk"

@@ -1,4 +1,4 @@
-.nhk
-+.nhk.jp
-+.nhk.or.jp
-+.nhkworld.jp
+DOMAIN-WILDCARD,*.nhk
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nhkworld.jp

@@ -1,6 +1,6 @@
-drivers.amd.com
-+.amd.com
-+.amd.com.cn
-+.amdfanstore.com
-+.amdgaming.com
-+.radeon.com
+DOMAIN,drivers.amd.com
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,amdgaming.com
+DOMAIN-SUFFIX,radeon.com

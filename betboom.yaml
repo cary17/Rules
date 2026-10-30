@@ -1,3 +1,3 @@
 payload:
-    - "+.betboom.ru"
-    - "+.mobile-bb.com"
+    - "DOMAIN-SUFFIX,betboom.ru"
+    - "DOMAIN-SUFFIX,mobile-bb.com"

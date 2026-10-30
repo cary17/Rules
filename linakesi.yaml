@@ -1,5 +1,5 @@
 payload:
-    - "+.heiyu.space"
-    - "+.lazycat.cloud"
-    - "+.linakesi.cn"
-    - "+.linakesi.com"
+    - "DOMAIN-SUFFIX,heiyu.space"
+    - "DOMAIN-SUFFIX,lazycat.cloud"
+    - "DOMAIN-SUFFIX,linakesi.cn"
+    - "DOMAIN-SUFFIX,linakesi.com"

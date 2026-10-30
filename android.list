@@ -1,4 +1,4 @@
-android.googlesource.com
-.android
-+.android.com
-+.androidify.com
+DOMAIN,android.googlesource.com
+DOMAIN-WILDCARD,*.android
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com

@@ -1,5 +1,5 @@
 payload:
-    - "browser-intake-datadoghq.com"
-    - "o33249.ingest.sentry.io"
-    - "o33249.ingest.us.sentry.io"
-    - "openai.qualtrics.com"
+    - "DOMAIN,browser-intake-datadoghq.com"
+    - "DOMAIN,o33249.ingest.sentry.io"
+    - "DOMAIN,o33249.ingest.us.sentry.io"
+    - "DOMAIN,openai.qualtrics.com"

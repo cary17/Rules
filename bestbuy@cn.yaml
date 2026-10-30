@@ -1,4 +1,4 @@
 payload:
-    - "+.bestbuy.cn"
-    - "+.bestbuy.com.cn"
-    - "+.magnoliaav.com.cn"
+    - "DOMAIN-SUFFIX,bestbuy.cn"
+    - "DOMAIN-SUFFIX,bestbuy.com.cn"
+    - "DOMAIN-SUFFIX,magnoliaav.com.cn"

@@ -1,5 +1,5 @@
 payload:
-    - "+.crates.io"
-    - "+.docs.rs"
-    - "+.rust-lang.org"
-    - "+.rustup.rs"
+    - "DOMAIN-SUFFIX,crates.io"
+    - "DOMAIN-SUFFIX,docs.rs"
+    - "DOMAIN-SUFFIX,rust-lang.org"
+    - "DOMAIN-SUFFIX,rustup.rs"

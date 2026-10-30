@@ -1,4 +1,4 @@
 payload:
-    - "+.hugecore.net"
-    - "+.mojidict.com"
-    - "+.shareintelli.com"
+    - "DOMAIN-SUFFIX,hugecore.net"
+    - "DOMAIN-SUFFIX,mojidict.com"
+    - "DOMAIN-SUFFIX,shareintelli.com"

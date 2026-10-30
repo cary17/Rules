@@ -1,6 +1,6 @@
 payload:
-    - "+.focuschina.com"
-    - "+.made-in-china.com"
-    - "+.micstatic.com"
-    - "+.trademessenger.com"
-    - "+.vemic.com"
+    - "DOMAIN-SUFFIX,focuschina.com"
+    - "DOMAIN-SUFFIX,made-in-china.com"
+    - "DOMAIN-SUFFIX,micstatic.com"
+    - "DOMAIN-SUFFIX,trademessenger.com"
+    - "DOMAIN-SUFFIX,vemic.com"

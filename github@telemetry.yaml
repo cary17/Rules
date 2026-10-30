@@ -1,5 +1,5 @@
 payload:
-    - "copilot-telemetry-service.githubusercontent.com"
-    - "copilot-telemetry.githubusercontent.com"
-    - "+.cafe.github.com"
-    - "+.collector.github.com"
+    - "DOMAIN,copilot-telemetry-service.githubusercontent.com"
+    - "DOMAIN,copilot-telemetry.githubusercontent.com"
+    - "DOMAIN-SUFFIX,cafe.github.com"
+    - "DOMAIN-SUFFIX,collector.github.com"

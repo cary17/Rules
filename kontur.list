@@ -1,7 +1,7 @@
-metrika.kontur.ru
-sentry.kontur.host
-+.kontur-inc.com
-+.kontur.host
-+.kontur.ru
-+.ktalk.host
-+.ktalk.ru
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
+DOMAIN-SUFFIX,kontur-inc.com
+DOMAIN-SUFFIX,kontur.host
+DOMAIN-SUFFIX,kontur.ru
+DOMAIN-SUFFIX,ktalk.host
+DOMAIN-SUFFIX,ktalk.ru

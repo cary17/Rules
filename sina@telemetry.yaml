@@ -1,7 +1,7 @@
 payload:
-    - "+.beacon.sina.com.cn"
-    - "+.log.sina.cn"
-    - "+.log2.sina.cn"
-    - "+.sbeacon.sina.com.cn"
-    - "+.slog.sina.cn"
-    - "+.slog.sina.com.cn"
+    - "DOMAIN-SUFFIX,beacon.sina.com.cn"
+    - "DOMAIN-SUFFIX,log.sina.cn"
+    - "DOMAIN-SUFFIX,log2.sina.cn"
+    - "DOMAIN-SUFFIX,sbeacon.sina.com.cn"
+    - "DOMAIN-SUFFIX,slog.sina.cn"
+    - "DOMAIN-SUFFIX,slog.sina.com.cn"

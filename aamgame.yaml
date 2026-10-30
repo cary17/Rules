@@ -1,6 +1,6 @@
 payload:
-    - "+.aamgame.com"
-    - "+.aamgame.mobi"
-    - "+.aamgame.net"
-    - "+.aamsmart.com"
-    - "+.singworld.net"
+    - "DOMAIN-SUFFIX,aamgame.com"
+    - "DOMAIN-SUFFIX,aamgame.mobi"
+    - "DOMAIN-SUFFIX,aamgame.net"
+    - "DOMAIN-SUFFIX,aamsmart.com"
+    - "DOMAIN-SUFFIX,singworld.net"

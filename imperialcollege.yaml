@@ -1,5 +1,5 @@
 payload:
-    - "imperial.insendi.com"
-    - "+.ic.ac.uk"
-    - "+.imperial.ac.uk"
-    - "+.imperialbusiness.school"
+    - "DOMAIN,imperial.insendi.com"
+    - "DOMAIN-SUFFIX,ic.ac.uk"
+    - "DOMAIN-SUFFIX,imperial.ac.uk"
+    - "DOMAIN-SUFFIX,imperialbusiness.school"

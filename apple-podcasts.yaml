@@ -1,4 +1,4 @@
 payload:
-    - "amp-api.podcasts.apple.com"
-    - "+.applepodcasts.com"
-    - "+.podcasts.apple.com"
+    - "DOMAIN,amp-api.podcasts.apple.com"
+    - "DOMAIN-SUFFIX,applepodcasts.com"
+    - "DOMAIN-SUFFIX,podcasts.apple.com"

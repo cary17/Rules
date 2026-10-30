@@ -1,5 +1,5 @@
 payload:
-    - "+.ccstatic.org"
-    - "+.creativecommons.engineering"
-    - "+.creativecommons.org"
-    - "+.licensebuttons.net"
+    - "DOMAIN-SUFFIX,ccstatic.org"
+    - "DOMAIN-SUFFIX,creativecommons.engineering"
+    - "DOMAIN-SUFFIX,creativecommons.org"
+    - "DOMAIN-SUFFIX,licensebuttons.net"

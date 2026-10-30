@@ -1,4 +1,4 @@
 payload:
-    - "+.managedpki.ne.jp"
-    - "+.secom.co.jp"
-    - "+.secomtrust.net"
+    - "DOMAIN-SUFFIX,managedpki.ne.jp"
+    - "DOMAIN-SUFFIX,secom.co.jp"
+    - "DOMAIN-SUFFIX,secomtrust.net"

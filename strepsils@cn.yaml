@@ -1,3 +1,3 @@
 payload:
-    - "+.strepsils.cn"
-    - "+.strepsils.com.cn"
+    - "DOMAIN-SUFFIX,strepsils.cn"
+    - "DOMAIN-SUFFIX,strepsils.com.cn"

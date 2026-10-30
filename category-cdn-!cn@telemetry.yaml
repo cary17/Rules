@@ -1,4 +1,4 @@
 payload:
-    - "+.akstat.io"
-    - "+.cloudflareinsights-cn.com"
-    - "+.cloudflareinsights.com"
+    - "DOMAIN-SUFFIX,akstat.io"
+    - "DOMAIN-SUFFIX,cloudflareinsights-cn.com"
+    - "DOMAIN-SUFFIX,cloudflareinsights.com"

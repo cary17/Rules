@@ -1,4 +1,4 @@
 payload:
-    - ".java"
-    - "+.java.com"
-    - "+.java.net"
+    - "DOMAIN-WILDCARD,*.java"
+    - "DOMAIN-SUFFIX,java.com"
+    - "DOMAIN-SUFFIX,java.net"

@@ -1,7 +1,7 @@
 payload:
-    - "+.fengcx.com"
-    - "+.fengedu.com"
-    - "+.ifeng.com"
-    - "+.ifengimg.com"
-    - "+.ifengweekly.com"
-    - "+.phoenixcenter.cn"
+    - "DOMAIN-SUFFIX,fengcx.com"
+    - "DOMAIN-SUFFIX,fengedu.com"
+    - "DOMAIN-SUFFIX,ifeng.com"
+    - "DOMAIN-SUFFIX,ifengimg.com"
+    - "DOMAIN-SUFFIX,ifengweekly.com"
+    - "DOMAIN-SUFFIX,phoenixcenter.cn"

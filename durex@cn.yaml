@@ -1,4 +1,4 @@
 payload:
-    - "+.durex.com.cn"
-    - "+.durexchina.com.cn"
-    - "+.lovesexdurex.cn"
+    - "DOMAIN-SUFFIX,durex.com.cn"
+    - "DOMAIN-SUFFIX,durexchina.com.cn"
+    - "DOMAIN-SUFFIX,lovesexdurex.cn"

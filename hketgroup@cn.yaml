@@ -1,3 +1,3 @@
 payload:
-    - "+.etnet.com.cn"
-    - "+.etnetchina.com.cn"
+    - "DOMAIN-SUFFIX,etnet.com.cn"
+    - "DOMAIN-SUFFIX,etnetchina.com.cn"

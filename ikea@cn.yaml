@@ -1,5 +1,5 @@
 payload:
-    - "+.ikea.cn"
-    - "+.ingka-dt.cn"
-    - "+.ingka-internal.cn"
-    - "+.ingka-system.cn"
+    - "DOMAIN-SUFFIX,ikea.cn"
+    - "DOMAIN-SUFFIX,ingka-dt.cn"
+    - "DOMAIN-SUFFIX,ingka-internal.cn"
+    - "DOMAIN-SUFFIX,ingka-system.cn"

@@ -1,6 +1,6 @@
 payload:
-    - "+.dogatch.jp"
-    - "+.gorin.jp"
-    - "+.screens-lab.jp"
-    - "+.tver.co.jp"
-    - "+.tver.jp"
+    - "DOMAIN-SUFFIX,dogatch.jp"
+    - "DOMAIN-SUFFIX,gorin.jp"
+    - "DOMAIN-SUFFIX,screens-lab.jp"
+    - "DOMAIN-SUFFIX,tver.co.jp"
+    - "DOMAIN-SUFFIX,tver.jp"

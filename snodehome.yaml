@@ -1,4 +1,4 @@
 payload:
-    - "+.snodehome.cn"
-    - "+.snodehome.com"
-    - "+.szbdyd.com"
+    - "DOMAIN-SUFFIX,snodehome.cn"
+    - "DOMAIN-SUFFIX,snodehome.com"
+    - "DOMAIN-SUFFIX,szbdyd.com"

@@ -1,5 +1,5 @@
 payload:
-    - "+.ao3.org"
-    - "+.archiveofourown.com"
-    - "+.archiveofourown.net"
-    - "+.archiveofourown.org"
+    - "DOMAIN-SUFFIX,ao3.org"
+    - "DOMAIN-SUFFIX,archiveofourown.com"
+    - "DOMAIN-SUFFIX,archiveofourown.net"
+    - "DOMAIN-SUFFIX,archiveofourown.org"

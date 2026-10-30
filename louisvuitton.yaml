@@ -1,4 +1,4 @@
 payload:
-    - "+.louisvuitton.cn"
-    - "+.louisvuitton.com"
-    - "+.lvcampaign.com"
+    - "DOMAIN-SUFFIX,louisvuitton.cn"
+    - "DOMAIN-SUFFIX,louisvuitton.com"
+    - "DOMAIN-SUFFIX,lvcampaign.com"

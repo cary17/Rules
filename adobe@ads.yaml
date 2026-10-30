@@ -1,4 +1,4 @@
 payload:
-    - "+.advertising.adobe.com"
-    - "+.demdex.net"
-    - "+.tubemogul.com"
+    - "DOMAIN-SUFFIX,advertising.adobe.com"
+    - "DOMAIN-SUFFIX,demdex.net"
+    - "DOMAIN-SUFFIX,tubemogul.com"

@@ -1,5 +1,5 @@
 payload:
-    - "+.okko.sport"
-    - "+.okko.tv"
-    - "+.okkoapi.tv"
-    - "+.playfamily.ru"
+    - "DOMAIN-SUFFIX,okko.sport"
+    - "DOMAIN-SUFFIX,okko.tv"
+    - "DOMAIN-SUFFIX,okkoapi.tv"
+    - "DOMAIN-SUFFIX,playfamily.ru"

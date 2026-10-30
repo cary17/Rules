@@ -1,5 +1,5 @@
 payload:
-    - "+.samsung.com.cn"
-    - "+.samsungcloudcn.com"
-    - "+.samsungeshop.com.cn"
-    - "+.samsunghealthcn.com"
+    - "DOMAIN-SUFFIX,samsung.com.cn"
+    - "DOMAIN-SUFFIX,samsungcloudcn.com"
+    - "DOMAIN-SUFFIX,samsungeshop.com.cn"
+    - "DOMAIN-SUFFIX,samsunghealthcn.com"

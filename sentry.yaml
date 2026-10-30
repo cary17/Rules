@@ -1,5 +1,5 @@
 payload:
-    - "+.getsentry.com"
-    - "+.sentry-cdn.com"
-    - "+.sentry.dev"
-    - "+.sentry.io"
+    - "DOMAIN-SUFFIX,getsentry.com"
+    - "DOMAIN-SUFFIX,sentry-cdn.com"
+    - "DOMAIN-SUFFIX,sentry.dev"
+    - "DOMAIN-SUFFIX,sentry.io"

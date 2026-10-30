@@ -1,4 +1,4 @@
 payload:
-    - "+.da-files.com"
-    - "+.deviantart.com"
-    - "+.deviantart.net"
+    - "DOMAIN-SUFFIX,da-files.com"
+    - "DOMAIN-SUFFIX,deviantart.com"
+    - "DOMAIN-SUFFIX,deviantart.net"

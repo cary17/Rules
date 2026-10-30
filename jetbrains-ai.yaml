@@ -1,4 +1,4 @@
 payload:
-    - "+.grazie.ai"
-    - "+.grazie.aws.intellij.net"
-    - "+.jetbrains.ai"
+    - "DOMAIN-SUFFIX,grazie.ai"
+    - "DOMAIN-SUFFIX,grazie.aws.intellij.net"
+    - "DOMAIN-SUFFIX,jetbrains.ai"

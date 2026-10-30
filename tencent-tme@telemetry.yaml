@@ -1,4 +1,4 @@
 payload:
-    - "+.monitor.music.qq.com"
-    - "+.report.tencentmusic.com"
-    - "+.stat.y.qq.com"
+    - "DOMAIN-SUFFIX,monitor.music.qq.com"
+    - "DOMAIN-SUFFIX,report.tencentmusic.com"
+    - "DOMAIN-SUFFIX,stat.y.qq.com"
