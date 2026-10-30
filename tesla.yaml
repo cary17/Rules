@@ -1,16 +1,10 @@
 # NAME: tesla
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# DOMAIN-SUFFIX: 2
+# DOMAIN-KEYWORD: 1
+# TOTAL: 3
 domain_suffix_set:
   - "solarcity.com"
-  - "tesla.cn"
-  - "tesla.com"
-  - "tesla.com.cn"
-  - "tesla.services"
-  - "teslaenergy.services"
-  - "teslamotors.cn"
-  - "teslamotors.com"
-  - "teslamotors.com.cn"
-  - "teslazta.net"
   - "ts.la"
+domain_keyword_set:
+  - "tesla"

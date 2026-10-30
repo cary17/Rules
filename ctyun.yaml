@@ -1,7 +1,8 @@
 # NAME: ctyun
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 67
-# TOTAL: 67
+# DOMAIN-SUFFIX: 55
+# DOMAIN-KEYWORD: 1
+# TOTAL: 56
 domain_suffix_set:
   - "bjctyiptv.cn"
   - "cqctyiptv.cn"
@@ -42,18 +43,6 @@ domain_suffix_set:
   - "ctydoh.cn"
   - "ctyecx.cn"
   - "ctyiptv.cn"
-  - "ctyun.cn"
-  - "ctyun.com.cn"
-  - "ctyuncdn.cn"
-  - "ctyuncs.cn"
-  - "ctyuninner.com"
-  - "ctyunmds.cn"
-  - "ctyunwaf.cn"
-  - "ctyunwaf.com"
-  - "ctyunwaf1.com"
-  - "ctyunwaf3.cn"
-  - "ctyunxs.cn"
-  - "ctyunzos.cn"
   - "ctzcdn.cn"
   - "ctzcdn.com"
   - "edgecloudx.cn"
@@ -70,3 +59,5 @@ domain_suffix_set:
   - "snctyiptv.cn"
   - "ynctyiptv.cn"
   - "ynjtyiptv.cn"
+domain_keyword_set:
+  - "ctyun"

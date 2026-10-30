@@ -1,11 +1,8 @@
 # NAME: supercell
 # UPDATED: 2026-10-30
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 21
-# TOTAL: 23
-domain_set:
-  - "supercell.helpshift.com"
-  - "supercell.zendesk.com"
+# DOMAIN-SUFFIX: 15
+# DOMAIN-KEYWORD: 1
+# TOTAL: 16
 domain_suffix_set:
   - "boombeach.com"
   - "brawlstars.com"
@@ -21,10 +18,6 @@ domain_suffix_set:
   - "mo.co"
   - "seeurlpcl.com"
   - "squadbusters.com"
-  - "supercell.com"
-  - "supercell.net"
-  - "supercellcreators.com"
-  - "supercellgames.com"
-  - "supercellid.com"
-  - "supercellstore.com"
   - "supr.cl"
+domain_keyword_set:
+  - "supercell"

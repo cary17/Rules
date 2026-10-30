@@ -1,8 +1,9 @@
 # NAME: bilibili
 # UPDATED: 2026-10-30
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 52
-# TOTAL: 53
+# DOMAIN-SUFFIX: 42
+# DOMAIN-KEYWORD: 1
+# TOTAL: 44
 domain_set:
   - "upos-hz-mirrorakam.akamaized.net"
 domain_suffix_set:
@@ -21,16 +22,6 @@ domain_suffix_set:
   - "bili33.cn"
   - "biliapi.com"
   - "biliapi.net"
-  - "bilibili.cc"
-  - "bilibili.cn"
-  - "bilibili.com"
-  - "bilibili.net"
-  - "bilibili.tv"
-  - "bilibiligame.cn"
-  - "bilibiligame.co"
-  - "bilibiligame.net"
-  - "bilibilipay.cn"
-  - "bilibilipay.com"
   - "bilicdn1.com"
   - "bilicdn2.com"
   - "bilicdn3.com"
@@ -58,3 +49,5 @@ domain_suffix_set:
   - "missevan.com"
   - "updream.cn"
   - "yo9.com"
+domain_keyword_set:
+  - "bilibili"

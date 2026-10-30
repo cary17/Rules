@@ -1,7 +1,8 @@
 # NAME: douyin
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 71
-# TOTAL: 71
+# DOMAIN-SUFFIX: 51
+# DOMAIN-KEYWORD: 1
+# TOTAL: 52
 domain_suffix_set:
   - "activity-wbsj.com"
   - "aihst8.com"
@@ -13,20 +14,7 @@ domain_suffix_set:
   - "awemeugsoul.com"
   - "awemeugwave.com"
   - "betastar.cn"
-  - "boxdouyin.com"
   - "cookicut.com"
-  - "douyin.com"
-  - "douyinact.com"
-  - "douyinact.net"
-  - "douyincdn.com"
-  - "douyinec.com"
-  - "douyinfe.com"
-  - "douyinliving.com"
-  - "douyinmusicpromotion.com"
-  - "douyinpay.com"
-  - "douyinpic.com"
-  - "douyinstatic.com"
-  - "douyinvod.com"
   - "duoshan.com"
   - "huoshan.com"
   - "huoshancdn.com"
@@ -45,12 +33,6 @@ domain_suffix_set:
   - "huoshanzhibo.com"
   - "huoshanzhibo.net"
   - "hypercachenode.com"
-  - "idouyinliving.com"
-  - "idouyinpic.com"
-  - "idouyinstatic.com"
-  - "idouyinvod.com"
-  - "iesdouyin.com"
-  - "iesdouyin.net"
   - "ieshuodong.cn"
   - "ieshuodong.net"
   - "ihst8.com"
@@ -61,7 +43,6 @@ domain_suffix_set:
   - "kolbuyer.cn"
   - "lifexue.com"
   - "nextvid.net"
-  - "open-douyin.com"
   - "ppkankan01.com"
   - "qishui.cn"
   - "qishui.com"
@@ -74,3 +55,5 @@ domain_suffix_set:
   - "ultracachenode.com"
   - "woaihuoshan.com"
   - "wohst8.com"
+domain_keyword_set:
+  - "douyin"

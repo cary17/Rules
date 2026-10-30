@@ -1,15 +1,9 @@
 # NAME: alibaba
 # UPDATED: 2026-10-30
-# DOMAIN: 4
-# DOMAIN-SUFFIX: 458
-# TOTAL: 462
-domain_set:
-  - "account-cn.alibabacloud.com"
-  - "api.alibabacloud.com"
-  - "cn.alibabacloud.com"
-  - "status.alibabacloud.com"
+# DOMAIN-SUFFIX: 431
+# DOMAIN-KEYWORD: 1
+# TOTAL: 432
 domain_suffix_set:
-  - ".alibaba"
   - ".alipay"
   - ".taobao"
   - ".tmall"
@@ -57,30 +51,6 @@ domain_suffix_set:
   - "aestatic.net"
   - "ali-health.com"
   - "aliapp.org"
-  - "alibaba-inc.com"
-  - "alibaba.com"
-  - "alibabacapital.com"
-  - "alibabachengdun.com"
-  - "alibabachengdun.net"
-  - "alibabacloud.co.in"
-  - "alibabacloud.com"
-  - "alibabacloud.com.au"
-  - "alibabacloud.com.hk"
-  - "alibabacloud.com.my"
-  - "alibabacloud.com.sg"
-  - "alibabacloud.com.tw"
-  - "alibabacorp.com"
-  - "alibabadesign.com"
-  - "alibabadns.com"
-  - "alibabadoctor.com"
-  - "alibabafonts.com"
-  - "alibabafoundation.com"
-  - "alibabafuturehotel.com"
-  - "alibabagroup.com"
-  - "alibabapictures.com"
-  - "alibabaplanet.com"
-  - "alibabaued.com"
-  - "alibabausercontent.com"
   - "alicdn.com"
   - "alicloud.com"
   - "alicloudapi.com"
@@ -311,7 +281,6 @@ domain_suffix_set:
   - "m-now.cn"
   - "maitix.com"
   - "mappcloud.com"
-  - "marketing.alibaba.com"
   - "mashort.cn"
   - "mdeer.com"
   - "mei.com"
@@ -328,7 +297,6 @@ domain_suffix_set:
   - "nbsdk-baichuan.alicdn.com"
   - "nbsdk-baichuan.taobao.com"
   - "new-aaid.umeng.com"
-  - "new-aaid.umeng.com.gds.alibabadns.com"
   - "newstjk.com"
   - "nic.xin"
   - "npmmirror.com"
@@ -467,3 +435,5 @@ domain_suffix_set:
   - "zimgs.cn"
   - "ztna-dingtalk.com"
   - "zuodao.com"
+domain_keyword_set:
+  - "alibaba"

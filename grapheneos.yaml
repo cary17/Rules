@@ -1,21 +1,11 @@
 # NAME: grapheneos
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 16
-# TOTAL: 16
+# DOMAIN-SUFFIX: 3
+# DOMAIN-KEYWORD: 1
+# TOTAL: 4
 domain_suffix_set:
   - "attestation.app"
-  - "grapheneos.app"
-  - "grapheneos.ca"
-  - "grapheneos.com"
-  - "grapheneos.dev"
-  - "grapheneos.foundation"
-  - "grapheneos.info"
-  - "grapheneos.net"
-  - "grapheneos.network"
-  - "grapheneos.online"
-  - "grapheneos.org"
-  - "grapheneos.ovh"
-  - "grapheneos.page"
-  - "grapheneos.social"
   - "seamlessupdate.app"
   - "vanadium.app"
+domain_keyword_set:
+  - "grapheneos"

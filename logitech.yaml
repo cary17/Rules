@@ -1,18 +1,12 @@
 # NAME: logitech
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 1
+# TOTAL: 5
 domain_suffix_set:
   - "logi.com"
   - "logicool.co.jp"
   - "logicoolg.com"
-  - "logitech.biz"
-  - "logitech.com"
-  - "logitech.com.cn"
-  - "logitech.fr"
-  - "logitech.io"
-  - "logitechg.com"
-  - "logitechg.com.cn"
-  - "logitechg.fr"
-  - "logitechio.com.cn"
   - "worldsfastestgamer.net"
+domain_keyword_set:
+  - "logitech"

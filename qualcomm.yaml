@@ -1,10 +1,8 @@
 # NAME: qualcomm
 # UPDATED: 2026-10-30
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 48
-# TOTAL: 49
-domain_set:
-  - "qualcomm.sc.omtrdc.net"
+# DOMAIN-SUFFIX: 28
+# DOMAIN-KEYWORD: 1
+# TOTAL: 29
 domain_suffix_set:
   - "airgonetworks.com"
   - "berkanawireless.com"
@@ -25,26 +23,6 @@ domain_suffix_set:
   - "qcomgeo2.com"
   - "qctconnect.com"
   - "qprize.com"
-  - "qualcomm-email.com"
-  - "qualcomm-inc.com"
-  - "qualcomm.cn"
-  - "qualcomm.cn.cdn.cloudflare.net"
-  - "qualcomm.co.id"
-  - "qualcomm.co.in"
-  - "qualcomm.co.jp"
-  - "qualcomm.co.kr"
-  - "qualcomm.co.uk"
-  - "qualcomm.com"
-  - "qualcomm.com.br"
-  - "qualcomm.com.tw"
-  - "qualcomm.de"
-  - "qualcomm.fr"
-  - "qualcommhalo.com"
-  - "qualcommlabs.com"
-  - "qualcommmea.com"
-  - "qualcommretail.com"
-  - "qualcommventures.cn"
-  - "qualcommventures.com"
   - "qualphone.com"
   - "quicinc.com"
   - "snapdragon.cn"
@@ -54,3 +32,5 @@ domain_suffix_set:
   - "wirelessreach.com"
   - "xtracloud.cn"
   - "xtracloud.net"
+domain_keyword_set:
+  - "qualcomm"

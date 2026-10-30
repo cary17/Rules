@@ -1,10 +1,8 @@
 # NAME: faronics
 # UPDATED: 2026-10-30
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 17
-# TOTAL: 18
-domain_set:
-  - "faronics.kayako.com"
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 domain_suffix_set:
   - "clickedu.co.uk"
   - "deepfreeze.co.uk"
@@ -13,13 +11,5 @@ domain_suffix_set:
   - "deepfreeze.eu"
   - "deepfreeze.net"
   - "deepfreeze.tech"
-  - "faronics.ca"
-  - "faronics.co.uk"
-  - "faronics.com"
-  - "faronics.com.au"
-  - "faronics.com.sg"
-  - "faronics.eu"
-  - "faronics.tech"
-  - "faronicslabs.com"
-  - "faronicswise.co.uk"
-  - "faronicswise.com"
+domain_keyword_set:
+  - "faronics"

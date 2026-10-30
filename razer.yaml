@@ -1,14 +1,9 @@
 # NAME: razer
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 domain_suffix_set:
-  - "razer.com"
-  - "razerapi.com"
-  - "razerofficial.com"
-  - "razersupport.com"
-  - "razersynapse.com"
-  - "razerzone.com"
-  - "razerzone.jp"
-  - "respawnbyrazer.com"
   - "rzr.to"
+domain_keyword_set:
+  - "razer"

@@ -1,26 +1,9 @@
 # NAME: shopee
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 domain_suffix_set:
-  - "shopee.cl"
-  - "shopee.cn"
-  - "shopee.co.id"
-  - "shopee.co.th"
-  - "shopee.com"
-  - "shopee.com.br"
-  - "shopee.com.co"
-  - "shopee.com.mx"
-  - "shopee.com.my"
-  - "shopee.es"
-  - "shopee.fr"
-  - "shopee.id"
-  - "shopee.in"
-  - "shopee.io"
-  - "shopee.ph"
-  - "shopee.sg"
-  - "shopee.tw"
-  - "shopee.vn"
-  - "shopeemobile.com"
-  - "shopeesz.com"
   - "shp.ee"
+domain_keyword_set:
+  - "shopee"

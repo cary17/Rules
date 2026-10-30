@@ -1,26 +1,19 @@
 # NAME: fqnovel
 # UPDATED: 2026-10-30
-# DOMAIN: 17
-# DOMAIN-SUFFIX: 30
-# TOTAL: 47
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 23
+# DOMAIN-KEYWORD: 1
+# TOTAL: 33
 domain_set:
   - "ads3-normal-hl.zijieapi.com"
   - "ads3-normal.zijieapi.com"
   - "ads5-normal-hl.zijieapi.com"
   - "ads5-normal.zijieapi.com"
-  - "log3-applog-hl.fqnovel.com"
-  - "log3-applog.fqnovel.com"
-  - "log5-applog-hl.fqnovel.com"
-  - "log5-applog.fqnovel.com"
   - "p3-ad-sign.byteimg.com"
   - "p3-novel.byteimg.com"
   - "p6-ad-sign.byteimg.com"
   - "p6-novel.byteimg.com"
   - "p9-ad-sign.byteimg.com"
-  - "rtlog3-applog-hl.fqnovel.com"
-  - "rtlog3-applog.fqnovel.com"
-  - "rtlog5-applog-hl.fqnovel.com"
-  - "rtlog5-applog.fqnovel.com"
 domain_suffix_set:
   - "activity-zhendingtech.com"
   - "changdunovel.com"
@@ -34,13 +27,6 @@ domain_suffix_set:
   - "fanqiesdkpic.com"
   - "fanqiesdkstatic.com"
   - "fanqiesdkvod.com"
-  - "fqnovel-op.com"
-  - "fqnovel.com"
-  - "fqnovelim.com"
-  - "fqnovelop.com"
-  - "fqnovelpic.com"
-  - "fqnovelstatic.com"
-  - "fqnovelvod.com"
   - "fqopenplatform.com"
   - "ihaohaoxuexi.com"
   - "muyewx.com"
@@ -52,3 +38,5 @@ domain_suffix_set:
   - "qznovelpic.com"
   - "qznovelstatic.com"
   - "qznovelvod.com"
+domain_keyword_set:
+  - "fqnovel"

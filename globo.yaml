@@ -1,7 +1,8 @@
 # NAME: globo
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 40
-# TOTAL: 40
+# DOMAIN-SUFFIX: 30
+# DOMAIN-KEYWORD: 1
+# TOTAL: 31
 domain_suffix_set:
   - "autoesporte.com"
   - "autoesporte.com.br"
@@ -11,21 +12,11 @@ domain_suffix_set:
   - "epoca.com.br"
   - "epocanegocios.com.br"
   - "g1.com.br"
-  - "globo.com"
-  - "globo.com.br"
-  - "globoplay.com"
-  - "globoplay.com.br"
-  - "globoradio.com.br"
-  - "globoreporter.com.br"
-  - "globorural.com.br"
   - "gshow.com"
   - "gshow.com.br"
-  - "infoglobo.com.br"
   - "oghost.com.br"
-  - "oglobo.com.br"
   - "pegn.com"
   - "pegn.com.br"
-  - "radioglobo.com.br"
   - "revistaepoca.com"
   - "revistaepoca.com.br"
   - "revistagalileu.com.br"
@@ -43,3 +34,5 @@ domain_suffix_set:
   - "valorinveste.com"
   - "valorinveste.com.br"
   - "xuxaverso.com.br"
+domain_keyword_set:
+  - "globo"

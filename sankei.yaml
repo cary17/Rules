@@ -1,7 +1,8 @@
 # NAME: sankei
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 30
-# TOTAL: 30
+# DOMAIN-SUFFIX: 14
+# DOMAIN-KEYWORD: 1
+# TOTAL: 15
 domain_suffix_set:
   - "business-i.jp"
   - "ign.jp"
@@ -13,23 +14,9 @@ domain_suffix_set:
   - "knowswho.co.jp"
   - "metropolitana.tokyo"
   - "mostly.jp"
-  - "sankei-ad-info.com"
-  - "sankei-ad.net"
-  - "sankei-books.co.jp"
-  - "sankei-call.jp"
-  - "sankei-digital.co.jp"
-  - "sankei-eiga.co.jp"
-  - "sankei-kaihatsu.co.jp"
-  - "sankei-kurashi.com"
-  - "sankei-shougakukai.jp"
-  - "sankei-tours.com"
-  - "sankei.co.jp"
-  - "sankei.com"
-  - "sankei.jp"
-  - "sankeibiz.jp"
-  - "sankeishop.jp"
   - "sanspo.com"
   - "seasidestory.tokyo"
-  - "seiron-sankei.com"
   - "tvnaviweb.jp"
   - "zakzak.co.jp"
+domain_keyword_set:
+  - "sankei"

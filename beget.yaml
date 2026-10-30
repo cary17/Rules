@@ -1,18 +1,12 @@
 # NAME: beget
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 1
+# TOTAL: 5
 domain_suffix_set:
-  - "beget.app"
-  - "beget.cloud"
-  - "beget.com"
-  - "beget.de"
-  - "beget.hosting"
-  - "beget.pro"
-  - "beget.ru"
-  - "beget.tech"
-  - "begetcdn.cloud"
   - "beserver.ru"
   - "bget.ru"
   - "sprut.io"
   - "xn--90aefb9d.xn--p1ai"
+domain_keyword_set:
+  - "beget"

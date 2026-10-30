@@ -1,7 +1,8 @@
 # NAME: volcengine
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 279
-# TOTAL: 279
+# DOMAIN-SUFFIX: 264
+# DOMAIN-KEYWORD: 1
+# TOTAL: 265
 domain_suffix_set:
   - "ai-guardrail.com"
   - "ai-guardrail.com.cn"
@@ -170,21 +171,6 @@ domain_suffix_set:
   - "volcecr.com"
   - "volcecw.com"
   - "volcenginapi.com"
-  - "volcengine-api-test.com"
-  - "volcengine-api.cn"
-  - "volcengine-api.com"
-  - "volcengine-dns.com"
-  - "volcengine-dns.net"
-  - "volcengine.cn"
-  - "volcengine.com"
-  - "volcengine.net"
-  - "volcenginealb.com"
-  - "volcengineapi-test.com"
-  - "volcengineapi.cn"
-  - "volcengineapi.com"
-  - "volcenginedns.com"
-  - "volcenginedns.net"
-  - "volcenginepaas.com"
   - "volces-test.com"
   - "volces.cn"
   - "volces.com"
@@ -282,3 +268,5 @@ domain_suffix_set:
   - "zjytxp.cn"
   - "zml81.cn"
   - "zvip.cn"
+domain_keyword_set:
+  - "volcengine"

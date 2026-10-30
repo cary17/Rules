@@ -1,22 +1,15 @@
 # NAME: citic
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 17
-# TOTAL: 17
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 domain_suffix_set:
-  - ".citic"
   - ".xn--fiq64b"
   - "cfc108.com"
   - "chinaamc.com"
-  - "citic-prudential.com.cn"
-  - "citicbank.com"
-  - "citiccapital.com"
-  - "citiciam.com"
-  - "citicifh.com"
-  - "citicprufunds.com.cn"
-  - "citics.com.hk"
-  - "citicsf.com"
   - "clsa.com"
   - "cncbinternational.com"
   - "csc108.com"
   - "csci.hk"
-  - "ecitic.com"
+domain_keyword_set:
+  - "citic"

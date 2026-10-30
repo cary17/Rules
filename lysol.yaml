@@ -1,14 +1,9 @@
 # NAME: lysol
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 domain_suffix_set:
   - "lizol.co.in"
-  - "lysol.ca"
-  - "lysol.cl"
-  - "lysol.cn"
-  - "lysol.co.cr"
-  - "lysol.com"
-  - "lysol.com.cn"
-  - "lysol.com.mx"
-  - "lysol.net"
+domain_keyword_set:
+  - "lysol"

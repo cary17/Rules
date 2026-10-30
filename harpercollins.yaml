@@ -1,7 +1,8 @@
 # NAME: harpercollins
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 20
-# TOTAL: 20
+# DOMAIN-SUFFIX: 11
+# DOMAIN-KEYWORD: 1
+# TOTAL: 12
 domain_suffix_set:
   - "bookclubgirl.com"
   - "collins.co.uk"
@@ -10,16 +11,9 @@ domain_suffix_set:
   - "epicreads.com"
   - "harperacademic.com"
   - "harperapps.com"
-  - "harpercollins.ca"
-  - "harpercollins.co.in"
-  - "harpercollins.co.uk"
-  - "harpercollins.com"
-  - "harpercollins.com.au"
-  - "harpercollinsadvantage.com"
-  - "harpercollinschildrensbooks.co.uk"
-  - "harpercollinschristian.com"
-  - "harpercollinsspeakersbureau.com"
   - "hcpdts.com"
   - "librarylovefest.com"
   - "natgeokidsbooks.co.uk"
   - "shelfstuff.com"
+domain_keyword_set:
+  - "harpercollins"

@@ -1,24 +1,15 @@
 # NAME: wildberries
 # UPDATED: 2026-10-30
-# DOMAIN: 15
-# DOMAIN-SUFFIX: 99
-# TOTAL: 114
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 85
+# DOMAIN-KEYWORD: 1
+# TOTAL: 91
 domain_set:
-  - "ads-gate.wildberries.ru"
-  - "ads-media.wildberries.ru"
-  - "ads.wildberries.ru"
   - "advert-api-sandbox.wb.ru"
-  - "advert-api-sandbox.wildberries.ru"
   - "advert-api.wb.ru"
-  - "advert-api.wildberries.ru"
   - "advert-media-api.wb.ru"
-  - "advert-media-api.wildberries.ru"
-  - "analytics-stage.wildberries.ru"
-  - "analytics.wildberries.ru"
-  - "marketing-info.wildberries.ru"
   - "marketplace-sentry.wb.ru"
   - "sentry.wb.ru"
-  - "web-analytics.wildberries.ru"
 domain_suffix_set:
   - "digital-wb.ru"
   - "digitalwb.ru"
@@ -89,20 +80,6 @@ domain_suffix_set:
   - "wildberdes.ru"
   - "wildberiss.ru"
   - "wildberr.ru"
-  - "wildberries.am"
-  - "wildberries.by"
-  - "wildberries.co.il"
-  - "wildberries.es"
-  - "wildberries.eu"
-  - "wildberries.ge"
-  - "wildberries.kg"
-  - "wildberries.kz"
-  - "wildberries.lt"
-  - "wildberries.ru"
-  - "wildberries.tj"
-  - "wildberries.tm"
-  - "wildberries.uz"
-  - "wildberriess.ru"
   - "wildberrise.ru"
   - "wildbiries.ru"
   - "wildbirris.ru"
@@ -119,3 +96,5 @@ domain_suffix_set:
   - "xn--80acbjgmges7ca.xn--p1ai"
   - "xn--80acbjgsdq2cl.xn--p1ai"
   - "xn--90ab.com"
+domain_keyword_set:
+  - "wildberries"

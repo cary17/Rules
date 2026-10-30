@@ -1,7 +1,8 @@
 # NAME: naver
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 49
-# TOTAL: 49
+# DOMAIN-SUFFIX: 37
+# DOMAIN-KEYWORD: 1
+# TOTAL: 38
 domain_suffix_set:
   - "band.us"
   - "clova.ai"
@@ -25,18 +26,6 @@ domain_suffix_set:
   - "lineshoppingseller.com"
   - "linetv.tw"
   - "modoo.at"
-  - "naver.com"
-  - "naver.com.akadns.net"
-  - "naver.jp"
-  - "naver.me"
-  - "naver.net"
-  - "naverads.com"
-  - "naverads.com.akadns.net"
-  - "navercloudcorp.com"
-  - "navercorp.com"
-  - "naverfincorp.com"
-  - "naverlabs.com"
-  - "naverncp.com"
   - "ncloud.com"
   - "nheos.com"
   - "nhncorp.jp"
@@ -52,3 +41,5 @@ domain_suffix_set:
   - "webtoons.com"
   - "webtoonscorp.com"
   - "worksmobile.com"
+domain_keyword_set:
+  - "naver"

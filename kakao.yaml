@@ -1,7 +1,8 @@
 # NAME: kakao
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 57
-# TOTAL: 57
+# DOMAIN-SUFFIX: 31
+# DOMAIN-KEYWORD: 1
+# TOTAL: 32
 domain_suffix_set:
   - "1thek.com"
   - "antenna.co.kr"
@@ -9,36 +10,11 @@ domain_suffix_set:
   - "bhent.co.kr"
   - "daum.net"
   - "daumcdn.net"
-  - "daumkakao.io"
   - "daumpcbang.com"
   - "dolphiners.com"
-  - "fashionbykakao.com"
   - "gleline.com"
   - "istent.co.kr"
   - "jwide.co.kr"
-  - "kakao.co.kr"
-  - "kakao.com"
-  - "kakao.vc"
-  - "kakaobank.com"
-  - "kakaobank.io"
-  - "kakaobankcontent.com"
-  - "kakaobrain.com"
-  - "kakaocdn.net"
-  - "kakaocloud.com"
-  - "kakaocorp.com"
-  - "kakaoent.com"
-  - "kakaoenterprise.com"
-  - "kakaogamescorp.com"
-  - "kakaohealthcare.com"
-  - "kakaoilaas.com"
-  - "kakaoinvestment.com"
-  - "kakaomobility.com"
-  - "kakaopay.com"
-  - "kakaopaysec.com"
-  - "kakaopiccoma.com"
-  - "kakaostyle.com"
-  - "kakaotalk.jp"
-  - "kakaovx.com"
   - "karechat.ai"
   - "kgslb.com"
   - "kpinsurances.com"
@@ -49,7 +25,6 @@ domain_suffix_set:
   - "melon.com"
   - "metabora.io"
   - "msoopent.com"
-  - "onkakao.net"
   - "ootbstudio.co.kr"
   - "pastahealth.com"
   - "posty.kr"
@@ -60,3 +35,5 @@ domain_suffix_set:
   - "vastenm.com"
   - "zigzag.kr"
   - "zipcine.com"
+domain_keyword_set:
+  - "kakao"

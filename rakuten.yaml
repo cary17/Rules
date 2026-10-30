@@ -1,7 +1,8 @@
 # NAME: rakuten
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 30
-# TOTAL: 30
+# DOMAIN-SUFFIX: 20
+# DOMAIN-KEYWORD: 1
+# TOTAL: 21
 domain_suffix_set:
   - "bfads.net"
   - "buyservices.com"
@@ -14,16 +15,6 @@ domain_suffix_set:
   - "kobo.com"
   - "r10s.com"
   - "r10s.jp"
-  - "rakuten-static.com"
-  - "rakuten.ca"
-  - "rakuten.co.jp"
-  - "rakuten.com"
-  - "rakuten.com.tw"
-  - "rakuten.ne.jp"
-  - "rakuten.tv"
-  - "rakuten.tw"
-  - "rakutenadvertising.com"
-  - "rakutengiftcards.ca"
   - "rclon.com"
   - "rebates.jp"
   - "rrcbsn.com"
@@ -33,3 +24,5 @@ domain_suffix_set:
   - "viber.com"
   - "viber.me"
   - "viki.com"
+domain_keyword_set:
+  - "rakuten"

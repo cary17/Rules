@@ -1,7 +1,8 @@
 # NAME: ucloud
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 54
-# TOTAL: 54
+# DOMAIN-SUFFIX: 37
+# DOMAIN-KEYWORD: 1
+# TOTAL: 38
 domain_suffix_set:
   - "apimkt.net"
   - "cdndo.com"
@@ -21,23 +22,6 @@ domain_suffix_set:
   - "ucgslb.info"
   - "ucgslb.net"
   - "ucgslb.top"
-  - "ucloud-edm.com"
-  - "ucloud.cn"
-  - "ucloud.com.cn"
-  - "ucloud365.com"
-  - "ucloudadmin.com"
-  - "ucloudapi.com"
-  - "ucloudgda.com"
-  - "ucloudnaming.cn"
-  - "ucloudnaming.com"
-  - "ucloudnaming.info"
-  - "ucloudnaming.net"
-  - "ucloudoss.com"
-  - "ucloudstack.cn"
-  - "ucloudstack.com"
-  - "ucloudstack.net"
-  - "ucloudstor.com"
-  - "ucloudufile.com"
   - "ucnaming.cn"
   - "ucnaming.com"
   - "ucnaming.info"
@@ -57,3 +41,5 @@ domain_suffix_set:
   - "urtc.com.cn"
   - "uslk.net"
   - "uucl.vip"
+domain_keyword_set:
+  - "ucloud"

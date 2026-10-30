@@ -1,14 +1,9 @@
 # NAME: schwab
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 domain_suffix_set:
-  - "aboutschwab.com"
-  - "schwab.co.uk"
-  - "schwab.com"
-  - "schwab.com.hk"
-  - "schwab.com.sg"
-  - "schwabassetmanagement.com"
-  - "schwabcdn.com"
-  - "schwabplan.com"
   - "thinkorswim.com"
+domain_keyword_set:
+  - "schwab"

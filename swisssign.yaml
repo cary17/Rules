@@ -1,7 +1,8 @@
 # NAME: swisssign
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 31
-# TOTAL: 31
+# DOMAIN-SUFFIX: 19
+# DOMAIN-KEYWORD: 1
+# TOTAL: 20
 domain_suffix_set:
   - "digital-id.ch"
   - "digitalid.ch"
@@ -16,21 +17,11 @@ domain_suffix_set:
   - "swissid.ch"
   - "swissign.com"
   - "swissign.li"
-  - "swisssign-group.ch"
-  - "swisssign-group.com"
-  - "swisssign-group.li"
-  - "swisssign.ch"
-  - "swisssign.com"
-  - "swisssign.li"
-  - "swisssign.net"
-  - "swisssign.org"
-  - "swisssigner.ch"
-  - "swisssigner.com"
-  - "swisssigngroup.ch"
-  - "swisssigngroup.com"
   - "swissstick.com"
   - "swisstsa.ch"
   - "swisstsa.li"
   - "trustdoc.ch"
   - "trustsign.ch"
   - "zert.ch"
+domain_keyword_set:
+  - "swisssign"

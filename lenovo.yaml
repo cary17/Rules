@@ -1,7 +1,8 @@
 # NAME: lenovo
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 58
-# TOTAL: 58
+# DOMAIN-SUFFIX: 36
+# DOMAIN-KEYWORD: 1
+# TOTAL: 37
 domain_suffix_set:
   - "baiying.cn"
   - "baiying.com.cn"
@@ -22,28 +23,6 @@ domain_suffix_set:
   - "juhuiwan.net"
   - "lecoo.com"
   - "lenauth.com"
-  - "lenovo.cn"
-  - "lenovo.com"
-  - "lenovo.com.cdn.cloudflare.net"
-  - "lenovo.com.cn"
-  - "lenovo.net"
-  - "lenovocare.com.cn"
-  - "lenovocloudos.com"
-  - "lenovocust.cn"
-  - "lenovoeservice.com"
-  - "lenovofile.com"
-  - "lenovogame.com"
-  - "lenovoimage.cn"
-  - "lenovoimage.com"
-  - "lenovomm.cn"
-  - "lenovomm.com"
-  - "lenovomobile.com"
-  - "lenovonetapp.com"
-  - "lenovopoc.com"
-  - "lenovoprinter.com"
-  - "lenovoprinter.com.cn"
-  - "lenovoprinter.net"
-  - "lenovovip.com.cn"
   - "lx.pub"
   - "lx.run"
   - "lxzjjt.cn"
@@ -61,3 +40,5 @@ domain_suffix_set:
   - "zuk.com"
   - "zuk.com.cn"
   - "zxsales.cn"
+domain_keyword_set:
+  - "lenovo"

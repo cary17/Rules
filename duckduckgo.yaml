@@ -1,7 +1,8 @@
 # NAME: duckduckgo
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 44
-# TOTAL: 44
+# DOMAIN-SUFFIX: 27
+# DOMAIN-KEYWORD: 1
+# TOTAL: 28
 domain_suffix_set:
   - "cispaletter.com"
   - "cispaletter.org"
@@ -17,23 +18,6 @@ domain_suffix_set:
   - "duck.com"
   - "duckduckco.com"
   - "duckduckco.de"
-  - "duckduckgo.ca"
-  - "duckduckgo.co"
-  - "duckduckgo.co.uk"
-  - "duckduckgo.com"
-  - "duckduckgo.com.mx"
-  - "duckduckgo.com.tw"
-  - "duckduckgo.de"
-  - "duckduckgo.dk"
-  - "duckduckgo.in"
-  - "duckduckgo.jp"
-  - "duckduckgo.ke"
-  - "duckduckgo.mx"
-  - "duckduckgo.nl"
-  - "duckduckgo.org"
-  - "duckduckgo.pl"
-  - "duckduckgo.sg"
-  - "duckduckgo.uk"
   - "duckduckhack.com"
   - "duckgo.com"
   - "ducksear.ch"
@@ -47,3 +31,5 @@ domain_suffix_set:
   - "privacysimplified.com"
   - "privatebrowsingmyths.com"
   - "spreadprivacy.com"
+domain_keyword_set:
+  - "duckduckgo"

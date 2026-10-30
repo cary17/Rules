@@ -1,32 +1,15 @@
 # NAME: samsung
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 27
-# TOTAL: 27
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 domain_suffix_set:
-  - ".samsung"
   - ".xn--cg4bki"
   - "galaxyappstore.com"
   - "galaxymobile.jp"
   - "game-platform.net"
   - "knoxemm.com"
   - "ospserver.net"
-  - "samsung.com"
-  - "samsung.com.cn"
-  - "samsungadhub.com"
-  - "samsungads.com"
-  - "samsungapps.com"
-  - "samsungcloud.com"
-  - "samsungcloudcn.com"
-  - "samsungconsent.com"
-  - "samsungdm.com"
-  - "samsungeshop.com.cn"
-  - "samsunggalaxyfriends.com"
-  - "samsunghealth.com"
-  - "samsunghealthcn.com"
-  - "samsungiotcloud.com"
-  - "samsungiots.com"
-  - "samsungknox.com"
-  - "samsungosp.com"
-  - "samsungqbe.com"
-  - "samsungrs.com"
   - "smartthings.com"
+domain_keyword_set:
+  - "samsung"

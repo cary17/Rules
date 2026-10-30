@@ -1,21 +1,13 @@
 # NAME: bushiroad
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 32
-# TOTAL: 32
+# DOMAIN-SUFFIX: 23
+# DOMAIN-KEYWORD: 1
+# TOTAL: 24
 domain_suffix_set:
   - "argo-bdp.com"
   - "bang-dream.com"
   - "bushi-navi.com"
   - "bushimo.jp"
-  - "bushiroad-creative.com"
-  - "bushiroad-global-online-store.com"
-  - "bushiroad-move.com"
-  - "bushiroad-music.com"
-  - "bushiroad-store.com"
-  - "bushiroad-works.com"
-  - "bushiroad.co.jp"
-  - "bushiroad.com"
-  - "bushiroadgames.com"
   - "cf-vanguard.com"
   - "comic-growl.com"
   - "comicbushi-web.com"
@@ -35,3 +27,5 @@ domain_suffix_set:
   - "ws-blau.com"
   - "ws-tcg.com"
   - "wwr-stardom.com"
+domain_keyword_set:
+  - "bushiroad"

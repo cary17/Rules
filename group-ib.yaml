@@ -1,7 +1,8 @@
 # NAME: group-ib
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 30
-# TOTAL: 30
+# DOMAIN-SUFFIX: 22
+# DOMAIN-KEYWORD: 1
+# TOTAL: 23
 domain_suffix_set:
   - "antiphishing.nl"
   - "antiphishing.ru"
@@ -22,14 +23,8 @@ domain_suffix_set:
   - "gib.sg"
   - "gibdev.net"
   - "gibtds.ru"
-  - "group-ib.ae"
-  - "group-ib.co.uk"
-  - "group-ib.com"
-  - "group-ib.de"
-  - "group-ib.eu"
-  - "group-ib.ru"
-  - "group-ib.sg"
-  - "group-ib.us"
   - "groupib.ae"
   - "groupib.sg"
   - "groupib.us"
+domain_keyword_set:
+  - "group-ib"

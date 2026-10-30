@@ -1,12 +1,12 @@
 # NAME: kuaishou
 # UPDATED: 2026-10-30
-# DOMAIN: 3
-# DOMAIN-SUFFIX: 37
-# TOTAL: 40
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 30
+# DOMAIN-KEYWORD: 1
+# TOTAL: 33
 domain_set:
   - "apilog-web.acfun.cn"
   - "log-sdk.gifshow.com"
-  - "wlog.kuaishou.com"
 domain_suffix_set:
   - "ac.fun"
   - "acfun.cn"
@@ -18,8 +18,6 @@ domain_suffix_set:
   - "adkwai.com"
   - "adukwai.com"
   - "aixifan.com"
-  - "e.kuaishou.cn"
-  - "e.kuaishou.com"
   - "eckwai.com"
   - "ecukwai.com"
   - "gifshow.com"
@@ -28,11 +26,6 @@ domain_suffix_set:
   - "ksapisrv.com"
   - "kskwai.com"
   - "kspkg.com"
-  - "kuaishou.cn"
-  - "kuaishou.com"
-  - "kuaishouapps.com"
-  - "kuaishoupay.com"
-  - "kuaishouzt.com"
   - "kwaicdn.com"
   - "kwaishop.com"
   - "kwaixiaodian.com"
@@ -45,3 +38,5 @@ domain_suffix_set:
   - "wskwai.com"
   - "wsukwai.com"
   - "yximgs.com"
+domain_keyword_set:
+  - "kuaishou"

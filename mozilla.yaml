@@ -1,15 +1,11 @@
 # NAME: mozilla
 # UPDATED: 2026-10-30
-# DOMAIN: 6
-# DOMAIN-SUFFIX: 65
-# TOTAL: 71
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 39
+# DOMAIN-KEYWORD: 1
+# TOTAL: 41
 domain_set:
-  - "ads-img.mozilla.org"
-  - "ads.mozilla.org"
   - "incoming-telemetry.thunderbird.net"
-  - "incoming.telemetry.mozilla.org"
-  - "mozilla-ohttp.fastly-edge.com"
-  - "mozilla.map.fastly.net"
 domain_suffix_set:
   - "allizom.net"
   - "allizom.org"
@@ -37,37 +33,11 @@ domain_suffix_set:
   - "mdn.dev"
   - "mdnplay.dev"
   - "mdnyalp.dev"
-  - "mecha-mozilla.org"
   - "mozaws.net"
   - "mozgcp.net"
-  - "mozilla-europe.org"
-  - "mozilla-hispano.org"
-  - "mozilla-mexico.org"
-  - "mozilla.ai"
-  - "mozilla.com"
-  - "mozilla.community"
-  - "mozilla.cz"
-  - "mozilla.de"
-  - "mozilla.jp"
-  - "mozilla.lt"
-  - "mozilla.net"
-  - "mozilla.org"
-  - "mozilla.org.uk"
-  - "mozilla.pe"
-  - "mozilla.pt"
-  - "mozilla.ro"
-  - "mozillabd.org"
-  - "mozillademos.org"
-  - "mozillafactory.org"
-  - "mozillafoundation.org"
-  - "mozillaignite.org"
-  - "mozillalabs.com"
-  - "mozillaquebec.org"
-  - "mozillazine.jp"
   - "mozillians.org"
   - "mozit.cloud"
   - "mzl.la"
-  - "onemozilla.org"
   - "opentimetable.jp"
   - "popcornjs.org"
   - "publicsuffix.org"
@@ -76,3 +46,5 @@ domain_suffix_set:
   - "thunderbird.net"
   - "thundermail.com"
   - "webmademovies.org"
+domain_keyword_set:
+  - "mozilla"

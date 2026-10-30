@@ -1,22 +1,6 @@
 # NAME: realclear
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 17
-# TOTAL: 17
-domain_suffix_set:
-  - "realclear.com"
-  - "realclearbooks.com"
-  - "realcleardefense.com"
-  - "realcleareducation.com"
-  - "realclearenergy.org"
-  - "realclearfoundation.org"
-  - "realclearhealth.com"
-  - "realclearhistory.com"
-  - "realclearinvestigations.com"
-  - "realclearlife.com"
-  - "realclearmarkets.com"
-  - "realclearpolicy.com"
-  - "realclearpolitics.com"
-  - "realclearpublicaffairs.com"
-  - "realclearreligion.org"
-  - "realclearscience.com"
-  - "realclearworld.com"
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+domain_keyword_set:
+  - "realclear"

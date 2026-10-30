@@ -1,16 +1,9 @@
 # NAME: mortein
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 domain_suffix_set:
-  - "mortein.cn"
-  - "mortein.co.in"
-  - "mortein.co.nz"
-  - "mortein.co.za"
-  - "mortein.com"
-  - "mortein.com.au"
-  - "mortein.com.br"
-  - "mortein.com.ng"
-  - "mortein.com.pk"
-  - "morteincam.com"
   - "pifpafarabia.com"
+domain_keyword_set:
+  - "mortein"

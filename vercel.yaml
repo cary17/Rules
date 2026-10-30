@@ -1,7 +1,8 @@
 # NAME: vercel
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 27
-# TOTAL: 27
+# DOMAIN-SUFFIX: 16
+# DOMAIN-KEYWORD: 1
+# TOTAL: 17
 domain_suffix_set:
   - "ai-sdk.dev"
   - "err.sh"
@@ -12,17 +13,6 @@ domain_suffix_set:
   - "static.fun"
   - "title.sh"
   - "turborepo.org"
-  - "vercel-dns.com"
-  - "vercel-status.com"
-  - "vercel.app"
-  - "vercel.blog"
-  - "vercel.com"
-  - "vercel.dev"
-  - "vercel.events"
-  - "vercel.live"
-  - "vercel.pub"
-  - "vercel.sh"
-  - "vercel.store"
   - "zeit-world.co.uk"
   - "zeit-world.com"
   - "zeit-world.net"
@@ -30,3 +20,5 @@ domain_suffix_set:
   - "zeit.co"
   - "zeit.sh"
   - "zeitworld.com"
+domain_keyword_set:
+  - "vercel"

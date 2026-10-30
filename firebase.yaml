@@ -1,30 +1,13 @@
 # NAME: firebase
 # UPDATED: 2026-10-30
-# DOMAIN: 16
-# DOMAIN-SUFFIX: 7
-# TOTAL: 23
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 4
 domain_set:
   - "crashlyticsreports-pa.googleapis.com"
-  - "firebase-settings.crashlytics.com"
-  - "firebase.googleapis.com"
-  - "firebaseappcheck.googleapis.com"
-  - "firebaseappdistribution.googleapis.com"
-  - "firebaseapptesters.googleapis.com"
-  - "firebasedynamiclinks-ipv4.googleapis.com"
-  - "firebasedynamiclinks-ipv6.googleapis.com"
-  - "firebasedynamiclinks.googleapis.com"
-  - "firebaseinappmessaging.googleapis.com"
-  - "firebaseinstallations.googleapis.com"
-  - "firebaselogging-pa.googleapis.com"
-  - "firebaselogging.googleapis.com"
-  - "firebaseperusertopics-pa.googleapis.com"
-  - "firebaseremoteconfig.googleapis.com"
   - "update.crashlytics.com"
 domain_suffix_set:
   - "crashlytics.com"
-  - "firebase.com"
-  - "firebase.dev"
-  - "firebase.google.com"
-  - "firebase.io"
-  - "firebaseapp.com"
-  - "firebaseio.com"
+domain_keyword_set:
+  - "firebase"

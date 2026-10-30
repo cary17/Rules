@@ -1,35 +1,16 @@
 # NAME: discord
 # UPDATED: 2026-10-30
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 26
-# TOTAL: 28
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 5
+# DOMAIN-KEYWORD: 1
+# TOTAL: 7
 domain_set:
-  - "discord-attachments-uploads-prd.storage.googleapis.com"
   - "hammerandchisel.ssl.zendesk.com"
 domain_suffix_set:
   - "airhorn.solutions"
   - "airhornbot.com"
   - "bigbeans.solutions"
   - "dis.gd"
-  - "discord-activities.com"
-  - "discord.co"
-  - "discord.com"
-  - "discord.design"
-  - "discord.dev"
-  - "discord.gg"
-  - "discord.gift"
-  - "discord.gifts"
-  - "discord.media"
-  - "discord.new"
-  - "discord.store"
-  - "discord.tools"
-  - "discordactivities.com"
-  - "discordapp.com"
-  - "discordapp.io"
-  - "discordapp.net"
-  - "discordcdn.com"
-  - "discordmerch.com"
-  - "discordpartygames.com"
-  - "discordsays.com"
-  - "discordstatus.com"
   - "watchanimeattheoffice.com"
+domain_keyword_set:
+  - "discord"

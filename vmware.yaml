@@ -1,10 +1,8 @@
 # NAME: vmware
 # UPDATED: 2026-10-30
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 103
-# TOTAL: 104
-domain_set:
-  - "vmware.tt.omtrdc.net"
+# DOMAIN-SUFFIX: 82
+# DOMAIN-KEYWORD: 1
+# TOTAL: 83
 domain_suffix_set:
   - "air-watch.com"
   - "airwatchexpress.com"
@@ -33,7 +31,6 @@ domain_suffix_set:
   - "cpedge.com"
   - "crit-staging.com"
   - "dockerizer.com"
-  - "experience-vmware.com"
   - "gemfire.net"
   - "geodesummit.com"
   - "getboxer.com"
@@ -51,7 +48,6 @@ domain_suffix_set:
   - "itfromtheinside.com"
   - "kubeacademy.com"
   - "kubeapps.com"
-  - "latamvmwareforum.com"
   - "nyansa.com"
   - "pivotalinitiative.com"
   - "snapvolumes.com"
@@ -67,24 +63,6 @@ domain_suffix_set:
   - "vmmark.com"
   - "vmtestdrive.com"
   - "vmw.com"
-  - "vmware-cloudmanagement.com"
-  - "vmware-techcenter.com"
-  - "vmware.com"
-  - "vmware20mosaic.com"
-  - "vmwareausnews.com"
-  - "vmwarecertificationvideos.com"
-  - "vmwarecloud.com"
-  - "vmwaredemandcenter.com"
-  - "vmwareemeablog.com"
-  - "vmwaregrid.com"
-  - "vmwarehorizon.com"
-  - "vmwareidentity.com"
-  - "vmwarelearning.com"
-  - "vmwarelearningplatform.com"
-  - "vmwarestuff.com"
-  - "vmwareusergroupstore.com"
-  - "vmwareviewpoint.com"
-  - "vmwarevmc.com"
   - "vmwdemo.com"
   - "vmwgcomms.com"
   - "vmwhorizonair.com"
@@ -104,8 +82,9 @@ domain_suffix_set:
   - "whatisworkspaceone.com"
   - "whychoosehorizon.com"
   - "whychooseview.com"
-  - "whychoosevmwareeuc.com"
   - "windowsuem.com"
   - "workspaceair.com"
   - "workspaceone.com"
   - "xlstudio.com"
+domain_keyword_set:
+  - "vmware"

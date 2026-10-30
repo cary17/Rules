@@ -1,7 +1,8 @@
 # NAME: selectel
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 24
-# TOTAL: 24
+# DOMAIN-SUFFIX: 14
+# DOMAIN-KEYWORD: 1
+# TOTAL: 15
 domain_suffix_set:
   - "chipcore.com"
   - "chipcore.ru"
@@ -10,16 +11,6 @@ domain_suffix_set:
   - "haicomgroup.ru"
   - "itirex.ru"
   - "selcdn.net"
-  - "selectel.academy"
-  - "selectel.blog"
-  - "selectel.com"
-  - "selectel.dev"
-  - "selectel.info"
-  - "selectel.io"
-  - "selectel.live"
-  - "selectel.ru"
-  - "selectelix.ru"
-  - "selectelpro.ru"
   - "servercore.com"
   - "servercore.live"
   - "slc.tl"
@@ -27,3 +18,5 @@ domain_suffix_set:
   - "vscale.blog"
   - "vscale.io"
   - "vscale.ru"
+domain_keyword_set:
+  - "selectel"

@@ -1,19 +1,12 @@
 # NAME: ifast
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 14
-# TOTAL: 14
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 1
+# TOTAL: 5
 domain_suffix_set:
   - "fsmone.com"
   - "fsmone.com.hk"
   - "fsmone.com.my"
   - "fundsupermart.com"
-  - "ifastcapital.com.my"
-  - "ifastcorp.com"
-  - "ifastfinancial.co.in"
-  - "ifastfinancial.com.hk"
-  - "ifastgb.com"
-  - "ifastgp.com"
-  - "ifastgp.com.hk"
-  - "ifastnetwork.com"
-  - "ifastps.com.cn"
-  - "ifasttv.com"
+domain_keyword_set:
+  - "ifast"

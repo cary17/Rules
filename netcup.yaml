@@ -1,7 +1,8 @@
 # NAME: netcup
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 24
-# TOTAL: 24
+# DOMAIN-SUFFIX: 16
+# DOMAIN-KEYWORD: 1
+# TOTAL: 17
 domain_suffix_set:
   - "bestsrv.de"
   - "customercontrolpanel.de"
@@ -12,14 +13,6 @@ domain_suffix_set:
   - "hotsrv.de"
   - "luckysrv.de"
   - "megasrv.de"
-  - "netcup-news.de"
-  - "netcup-sonderangebote.de"
-  - "netcup-wiki.de"
-  - "netcup.cafe"
-  - "netcup.com"
-  - "netcup.de"
-  - "netcup.eu"
-  - "netcup.net"
   - "nicesrv.de"
   - "powersrv.de"
   - "quicksrv.de"
@@ -27,3 +20,5 @@ domain_suffix_set:
   - "supersrv.de"
   - "ultrasrv.de"
   - "yourvserver.net"
+domain_keyword_set:
+  - "netcup"

@@ -1,14 +1,6 @@
 # NAME: vodafone
 # UPDATED: 2026-10-30
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
-domain_suffix_set:
-  - "myvodafone.com.au"
-  - "myvodafone.com.ws"
-  - "vodafone.co.uk"
-  - "vodafone.com"
-  - "vodafone.com.au"
-  - "vodafone.com.tr"
-  - "vodafone.de"
-  - "vodafone.it"
-  - "vodafone.nl"
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+domain_keyword_set:
+  - "vodafone"
