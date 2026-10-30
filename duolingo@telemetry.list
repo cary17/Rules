@@ -1,0 +1,6 @@
+# NAME: duolingo@telemetry
+# UPDATED: 2026-10-29
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
