@@ -1,0 +1,7 @@
+# NAME: yt
+# UPDATED: 2026-10-31 06:38:51 +08:00
+# IP-CIDR: 1
+# TOTAL: 1
+no_resolve: true
+ip_cidr_set:
+  - "41.242.116.0/22"

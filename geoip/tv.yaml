@@ -1,0 +1,11 @@
+# NAME: tv
+# UPDATED: 2026-10-31 06:38:51 +08:00
+# IP-CIDR: 1
+# IP-CIDR6: 2
+# TOTAL: 3
+no_resolve: true
+ip_cidr_set:
+  - "202.2.96.0/19"
+ip_cidr6_set:
+  - "2400:3500::/32"
+  - "2401:c720::/32"

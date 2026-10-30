@@ -1,0 +1,11 @@
+# NAME: nf
+# UPDATED: 2026-10-31 06:38:51 +08:00
+# IP-CIDR: 2
+# IP-CIDR6: 1
+# TOTAL: 3
+no_resolve: true
+ip_cidr_set:
+  - "103.43.204.0/23"
+  - "203.142.221.0/24"
+ip_cidr6_set:
+  - "2001:df0:20c::/48"
