@@ -1,8 +1,8 @@
 # NAME: category-companies
-# UPDATED: 2026-10-31 06:38:51 +08:00
+# UPDATED: 2026-10-31 15:42:02 +08:00
 # DOMAIN: 612
-# DOMAIN-SUFFIX: 7687
-# TOTAL: 8299
+# DOMAIN-SUFFIX: 7689
+# TOTAL: 8301
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -2236,6 +2236,7 @@ DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bingapistatistics.com
 DOMAIN-SUFFIX,bingparachute.com
 DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingstatic.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,binoculus.com
@@ -5990,6 +5991,7 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftnet.org
+DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,msgamesresearch.com
 DOMAIN-SUFFIX,msgamestudios.com
 DOMAIN-SUFFIX,mshome.net
