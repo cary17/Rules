@@ -1,9 +1,9 @@
 # NAME: cn
-# UPDATED: 2026-10-31 06:38:51 +08:00
+# UPDATED: 2026-10-31 15:42:02 +08:00
 # DOMAIN: 605
-# DOMAIN-SUFFIX: 8762
+# DOMAIN-SUFFIX: 8765
 # DOMAIN-REGEX: 8
-# TOTAL: 9375
+# TOTAL: 9378
 domain_set:
   - "2mdn-cn.net"
   - "2mdn.net"
@@ -3670,6 +3670,9 @@ domain_suffix_set:
   - "fastcdn.com"
   - "fastcdn.com.cn"
   - "fastcom.com.cn"
+  - "favonis.cloud"
+  - "favonis.com"
+  - "favonis.space"
   - "faxingbao.com"
   - "fbank.com"
   - "fbstatic.cn"
@@ -9374,11 +9377,11 @@ domain_suffix_set:
   - "zzzcaculator.top"
   - "zzzmap.com"
 domain_regex_set:
-  - "^.+-mihayo\\.akamaized\\.net$"
-  - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
-  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
   - "^nis.+\\.10010\\.com$"
+  - "^.+-mihayo\\.akamaized\\.net$"
   - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
+  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
   - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
   - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
   - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+  - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"

@@ -1,8 +1,8 @@
 # NAME: bytedance@!cn
-# UPDATED: 2026-10-31 06:38:51 +08:00
+# UPDATED: 2026-10-31 15:42:02 +08:00
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 44
-# TOTAL: 50
+# DOMAIN-SUFFIX: 47
+# TOTAL: 53
 domain_set:
   - "bytedance.map.fastly.net"
   - "p16-tiktokcdn-com.akamaized.net"
@@ -43,11 +43,14 @@ domain_suffix_set:
   - "tiktokglobalshopv.com"
   - "tiktokminis.us"
   - "tiktokrow-cdn.com"
+  - "tiktokshop.com"
+  - "tiktokstaticb.com"
   - "tiktokv.com"
   - "tiktokv.com.edgekey.net"
   - "tiktokv.com.edgesuite.net"
   - "tiktokv.eu"
   - "tiktokv.us"
+  - "tiktokvapp.com"
   - "tiktokw.eu"
   - "tiktokw.us"
   - "trae.ai"

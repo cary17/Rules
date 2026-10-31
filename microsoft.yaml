@@ -1,9 +1,9 @@
 # NAME: microsoft
-# UPDATED: 2026-10-31 06:38:51 +08:00
+# UPDATED: 2026-10-31 15:42:02 +08:00
 # DOMAIN: 27
-# DOMAIN-SUFFIX: 511
+# DOMAIN-SUFFIX: 513
 # DOMAIN-KEYWORD: 1
-# TOTAL: 539
+# TOTAL: 541
 domain_set:
   - "b.c2r.ts.cdn.office.net"
   - "bj1.api.bing.com"
@@ -172,6 +172,7 @@ domain_suffix_set:
   - "bingapistatistics.com"
   - "bingparachute.com"
   - "bingsandbox.com"
+  - "bingstatic.com"
   - "bingvisualsearch.com"
   - "bingworld.com"
   - "blazor.net"
@@ -348,6 +349,7 @@ domain_suffix_set:
   - "msfteducation.ca"
   - "msftncsi.com"
   - "msftnet.org"
+  - "msftstatic.com"
   - "msgamesresearch.com"
   - "msgamestudios.com"
   - "mshome.net"
