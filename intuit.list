@@ -1,8 +1,8 @@
 # NAME: intuit
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 21
-# DOMAIN-KEYWORD: 1
-# TOTAL: 22
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 9
+# DOMAIN-KEYWORD: 2
+# TOTAL: 11
 DOMAIN-SUFFIX,creditkarma.com
 DOMAIN-SUFFIX,gopayment.com
 DOMAIN-SUFFIX,gopayments.com
@@ -10,18 +10,7 @@ DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,myproseries.com
 DOMAIN-SUFFIX,payroll.com
 DOMAIN-SUFFIX,proseries.com
-DOMAIN-SUFFIX,quickbook.com.br
-DOMAIN-SUFFIX,quickbooks.co.uk
-DOMAIN-SUFFIX,quickbooks.co.za
-DOMAIN-SUFFIX,quickbooks.com
-DOMAIN-SUFFIX,quickbooks.com.au
-DOMAIN-SUFFIX,quickbooks.com.br
-DOMAIN-SUFFIX,quickbooks.fr
-DOMAIN-SUFFIX,quickbooks.in
-DOMAIN-SUFFIX,quickbooks2000.com
-DOMAIN-SUFFIX,quickbooksenligne.ca
-DOMAIN-SUFFIX,quickbooksgetconnected.co.za
-DOMAIN-SUFFIX,quickbooksonline.com
 DOMAIN-SUFFIX,turbo.com
 DOMAIN-SUFFIX,turbotax.com
 DOMAIN-KEYWORD,intuit
+DOMAIN-KEYWORD,quickbook

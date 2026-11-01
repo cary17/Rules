@@ -1,7 +1,8 @@
 # NAME: chinatelecom
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 20
-# TOTAL: 20
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 15
+# DOMAIN-KEYWORD: 1
+# TOTAL: 16
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,189cube.com
 DOMAIN-SUFFIX,189smarthome.com
@@ -13,12 +14,8 @@ DOMAIN-SUFFIX,chinatelecom.com.cn
 DOMAIN-SUFFIX,chinatelecomglobal.com
 DOMAIN-SUFFIX,chinatelecomhk.com
 DOMAIN-SUFFIX,chntel.com
-DOMAIN-SUFFIX,ctexcel.ca
-DOMAIN-SUFFIX,ctexcel.com
-DOMAIN-SUFFIX,ctexcel.com.hk
-DOMAIN-SUFFIX,ctexcel.fr
-DOMAIN-SUFFIX,ctexcel.us
 DOMAIN-SUFFIX,dlife.cn
 DOMAIN-SUFFIX,play.cn
 DOMAIN-SUFFIX,tv189.com
 DOMAIN-SUFFIX,vnet.cn
+DOMAIN-KEYWORD,ctexcel

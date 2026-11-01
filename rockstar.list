@@ -1,12 +1,8 @@
 # NAME: rockstar
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 3
-# DOMAIN-SUFFIX: 4
-# TOTAL: 7
-DOMAIN,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN,media-rockstargames-com.akamaized.net
-DOMAIN,videos-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,rockstargames.com
-DOMAIN-SUFFIX,rockstarnorth.com
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 2
+# DOMAIN-KEYWORD: 1
+# TOTAL: 3
 DOMAIN-SUFFIX,rsg.ms
 DOMAIN-SUFFIX,rsg.sc
+DOMAIN-KEYWORD,rockstar

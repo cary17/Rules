@@ -1,7 +1,8 @@
 # NAME: singtaonewscorp
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 18
-# TOTAL: 18
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 12
+# DOMAIN-KEYWORD: 1
+# TOTAL: 13
 DOMAIN-SUFFIX,bastillepost.com
 DOMAIN-SUFFIX,easttouch.com.hk
 DOMAIN-SUFFIX,eastweek.com.hk
@@ -12,11 +13,6 @@ DOMAIN-SUFFIX,jobmarket.com.hk
 DOMAIN-SUFFIX,my-magazine.me
 DOMAIN-SUFFIX,pcmarket.com.hk
 DOMAIN-SUFFIX,sing68.com
-DOMAIN-SUFFIX,singtao.com
-DOMAIN-SUFFIX,singtaobooks.com
-DOMAIN-SUFFIX,singtaola.com
-DOMAIN-SUFFIX,singtaonewscorp.com
-DOMAIN-SUFFIX,singtaoopo.com
-DOMAIN-SUFFIX,singtaousa.com
 DOMAIN-SUFFIX,stheadline.com
 DOMAIN-SUFFIX,thestandard.com.hk
+DOMAIN-KEYWORD,singtao

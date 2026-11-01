@@ -1,13 +1,7 @@
 # NAME: protonmail
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 DOMAIN-SUFFIX,pm.me
-DOMAIN-SUFFIX,proton.me
-DOMAIN-SUFFIX,protonmail.ch
-DOMAIN-SUFFIX,protonmail.com
-DOMAIN-SUFFIX,protonstatus.com
-DOMAIN-SUFFIX,protontech.ch
-DOMAIN-SUFFIX,protonvpn.ch
-DOMAIN-SUFFIX,protonvpn.com
-DOMAIN-SUFFIX,protonweb.com
+DOMAIN-KEYWORD,proton

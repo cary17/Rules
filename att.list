@@ -1,7 +1,8 @@
 # NAME: att
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 135
-# TOTAL: 135
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 84
+# DOMAIN-KEYWORD: 2
+# TOTAL: 86
 DOMAIN-SUFFIX,accbusiness.com
 DOMAIN-SUFFIX,atandt.com
 DOMAIN-SUFFIX,att-bundles.com
@@ -51,7 +52,6 @@ DOMAIN-SUFFIX,audiencenetwork.com
 DOMAIN-SUFFIX,audiencenetwork.tv
 DOMAIN-SUFFIX,bellsouth.net
 DOMAIN-SUFFIX,budatt.com
-DOMAIN-SUFFIX,cabletvdirectv.com
 DOMAIN-SUFFIX,cobatt.com
 DOMAIN-SUFFIX,currently.com
 DOMAIN-SUFFIX,currently.net
@@ -59,65 +59,16 @@ DOMAIN-SUFFIX,dierectv.com
 DOMAIN-SUFFIX,dirctv.com
 DOMAIN-SUFFIX,direcpath.com
 DOMAIN-SUFFIX,direcpath.net
-DOMAIN-SUFFIX,directtv-deals.tv
-DOMAIN-SUFFIX,directtv-dish.com
-DOMAIN-SUFFIX,directtv.net
-DOMAIN-SUFFIX,directtvdeals.tv
-DOMAIN-SUFFIX,directtvreviews.com
-DOMAIN-SUFFIX,directv-4-you.com
-DOMAIN-SUFFIX,directv-newyork.com
-DOMAIN-SUFFIX,directv.com
-DOMAIN-SUFFIX,directvadsales.com
-DOMAIN-SUFFIX,directvatlantaga.com
-DOMAIN-SUFFIX,directvboston.com
-DOMAIN-SUFFIX,directvbundles.com
-DOMAIN-SUFFIX,directvbusiness.com
-DOMAIN-SUFFIX,directvbusinessmarket.com
-DOMAIN-SUFFIX,directvcincinnatioh.com
-DOMAIN-SUFFIX,directvcinema.com
-DOMAIN-SUFFIX,directvconnect.com
-DOMAIN-SUFFIX,directvcookevilletn.com
-DOMAIN-SUFFIX,directvcrossvilletn.com
-DOMAIN-SUFFIX,directvdealer.com
-DOMAIN-SUFFIX,directvdeals.com
-DOMAIN-SUFFIX,directvdealsnow.com
-DOMAIN-SUFFIX,directvdsl.tv
-DOMAIN-SUFFIX,directvforhotels.com
-DOMAIN-SUFFIX,directvgrandslam.com
-DOMAIN-SUFFIX,directvhouston.com
-DOMAIN-SUFFIX,directvinternet.com
-DOMAIN-SUFFIX,directvkentucky.com
-DOMAIN-SUFFIX,directvlebanontn.com
-DOMAIN-SUFFIX,directvlosangeles.com
-DOMAIN-SUFFIX,directvmetropolisil.com
-DOMAIN-SUFFIX,directvmonitoring.com
-DOMAIN-SUFFIX,directvmurfreesborotn.com
-DOMAIN-SUFFIX,directvnewhampshire.com
-DOMAIN-SUFFIX,directvnow.com
-DOMAIN-SUFFIX,directvoffercodes.com
-DOMAIN-SUFFIX,directvonline.com
-DOMAIN-SUFFIX,directvplans.com
-DOMAIN-SUFFIX,directvpomise.com
-DOMAIN-SUFFIX,directvpromise.com
-DOMAIN-SUFFIX,directvpromotions.com
-DOMAIN-SUFFIX,directvrebate.com
-DOMAIN-SUFFIX,directvrichmond.com
-DOMAIN-SUFFIX,directvsavings.com
-DOMAIN-SUFFIX,directvsports.com
-DOMAIN-SUFFIX,directvsundayticket.com
 DOMAIN-SUFFIX,direectv.com
 DOMAIN-SUFFIX,diretv.com
 DOMAIN-SUFFIX,dkrecttv.com
 DOMAIN-SUFFIX,dtv2009offers.com
 DOMAIN-SUFFIX,dtvce.com
 DOMAIN-SUFFIX,enterprisepaging.com
-DOMAIN-SUFFIX,freedirecttvspecial.com
 DOMAIN-SUFFIX,getdirect.tv
-DOMAIN-SUFFIX,hddirectv.com
 DOMAIN-SUFFIX,itcanwait.com
 DOMAIN-SUFFIX,le-direct.tv
 DOMAIN-SUFFIX,mydirectgroove.com
-DOMAIN-SUFFIX,mydirectvchannels.com
 DOMAIN-SUFFIX,mymmode.com
 DOMAIN-SUFFIX,na-att-idns.net
 DOMAIN-SUFFIX,naturalvoices.com
@@ -133,7 +84,8 @@ DOMAIN-SUFFIX,sundayready.com
 DOMAIN-SUFFIX,synaptic.net
 DOMAIN-SUFFIX,thanksloyalty.com
 DOMAIN-SUFFIX,tvpromise.com
-DOMAIN-SUFFIX,txdirectv.com
 DOMAIN-SUFFIX,uverse.com
 DOMAIN-SUFFIX,webhosting.com
 DOMAIN-SUFFIX,xandr.com
+DOMAIN-KEYWORD,directtv
+DOMAIN-KEYWORD,directv

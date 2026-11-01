@@ -1,18 +1,14 @@
 # NAME: sonypictures
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 14
-# TOTAL: 14
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 8
+# DOMAIN-KEYWORD: 1
+# TOTAL: 9
 DOMAIN-SUFFIX,imageworks.com
 DOMAIN-SUFFIX,motionpictureser.com
 DOMAIN-SUFFIX,playshow.io
 DOMAIN-SUFFIX,playshowtv.com
 DOMAIN-SUFFIX,sonyclassics.com
-DOMAIN-SUFFIX,sonypictures.com
-DOMAIN-SUFFIX,sonypicturesanimation.com
-DOMAIN-SUFFIX,sonypicturesmuseum.com
-DOMAIN-SUFFIX,sonypicturesstudios.com
-DOMAIN-SUFFIX,sonypicturestelevision.com
-DOMAIN-SUFFIX,sonypicturestelevisiongames.com
 DOMAIN-SUFFIX,wheelpop.com
 DOMAIN-SUFFIX,wwtbam.com
 DOMAIN-SUFFIX,yourfantasybeginsnow.com
+DOMAIN-KEYWORD,sonypictures

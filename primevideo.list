@@ -1,23 +1,12 @@
 # NAME: primevideo
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 10
-# DOMAIN-SUFFIX: 6
-# DOMAIN-KEYWORD: 1
-# TOTAL: 17
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net
-DOMAIN,d22qjgkvxw22r6.cloudfront.net
-DOMAIN,d25xi40x97liuc.cloudfront.net
-DOMAIN,d27xxe7juh1us6.cloudfront.net
-DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN,images-eu.ssl-images-amazon.com
-DOMAIN,images-fe.ssl-images-amazon.com
-DOMAIN,images-na.ssl-images-amazon.com
-DOMAIN,msh.amazon.co.uk
-DOMAIN,static.siege-amazon.com
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 3
+# TOTAL: 7
 DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,amazonvideo.cc
-DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,prime-video.com
 DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
 DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-KEYWORD,primevideo
+DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,cloudfront

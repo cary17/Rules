@@ -1,10 +1,5 @@
 # NAME: fedora
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 6
-# TOTAL: 6
-DOMAIN-SUFFIX,fedoraforum.org
-DOMAIN-SUFFIX,fedorainfracloud.org
-DOMAIN-SUFFIX,fedoramagazine.org
-DOMAIN-SUFFIX,fedorapeople.org
-DOMAIN-SUFFIX,fedoraproject.org
-DOMAIN-SUFFIX,getfedora.org
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+DOMAIN-KEYWORD,fedora

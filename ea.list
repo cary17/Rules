@@ -1,8 +1,9 @@
 # NAME: ea
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 4
-# DOMAIN-SUFFIX: 159
-# TOTAL: 163
+# DOMAIN-SUFFIX: 122
+# DOMAIN-KEYWORD: 4
+# TOTAL: 130
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,ea.tt.omtrdc.net
 DOMAIN,eaassets-a.akamaihd.net
@@ -11,14 +12,6 @@ DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,apexlegends.com
 DOMAIN-SUFFIX,awayoutgame.com
-DOMAIN-SUFFIX,battlefield.com
-DOMAIN-SUFFIX,battlefield1943.com
-DOMAIN-SUFFIX,battlefield3.com
-DOMAIN-SUFFIX,battlefield4.com
-DOMAIN-SUFFIX,battlefield5.com
-DOMAIN-SUFFIX,battlefieldbadcompany2.com
-DOMAIN-SUFFIX,battlefieldheroes.com
-DOMAIN-SUFFIX,battlefieldv.com
 DOMAIN-SUFFIX,battlefront2.com
 DOMAIN-SUFFIX,battlefrontii.com
 DOMAIN-SUFFIX,battlelog.com
@@ -59,20 +52,11 @@ DOMAIN-SUFFIX,eacashcard.com
 DOMAIN-SUFFIX,eacodigos.com
 DOMAIN-SUFFIX,eafootballworld.com
 DOMAIN-SUFFIX,eakorea.co.kr
-DOMAIN-SUFFIX,eamirrorsedge.com
 DOMAIN-SUFFIX,eamobile.com
 DOMAIN-SUFFIX,eamythic.com
 DOMAIN-SUFFIX,eamythic.net
 DOMAIN-SUFFIX,eanordic.com
 DOMAIN-SUFFIX,eaplay.com
-DOMAIN-SUFFIX,easports.com
-DOMAIN-SUFFIX,easports.jp
-DOMAIN-SUFFIX,easportsactive.com
-DOMAIN-SUFFIX,easportsactiveonline.com
-DOMAIN-SUFFIX,easportsfootball.com
-DOMAIN-SUFFIX,easportsfootballclub.com
-DOMAIN-SUFFIX,easportsmma.com
-DOMAIN-SUFFIX,easportsworld.com
 DOMAIN-SUFFIX,eastore.com
 DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronicarts.fr
@@ -94,30 +78,11 @@ DOMAIN-SUFFIX,maddenseason.org
 DOMAIN-SUFFIX,masseffect.com
 DOMAIN-SUFFIX,masseffectarchives.com
 DOMAIN-SUFFIX,maxis.com
-DOMAIN-SUFFIX,mirrorsedge.com
-DOMAIN-SUFFIX,mirrorsedge.jp
-DOMAIN-SUFFIX,mirrorsedge.net
-DOMAIN-SUFFIX,mirrorsedge2.com
-DOMAIN-SUFFIX,mirrorsedge2d.com
 DOMAIN-SUFFIX,mysims.com
 DOMAIN-SUFFIX,mysimsracing.com
 DOMAIN-SUFFIX,mythicentertainment.com
 DOMAIN-SUFFIX,mythicentertainment.net
 DOMAIN-SUFFIX,mythicgames.com
-DOMAIN-SUFFIX,needforspeed.com
-DOMAIN-SUFFIX,needforspeedboost.com
-DOMAIN-SUFFIX,needforspeeddriftkings.com
-DOMAIN-SUFFIX,needforspeedeliminator.com
-DOMAIN-SUFFIX,needforspeedlightning.com
-DOMAIN-SUFFIX,needforspeedoverdrive.com
-DOMAIN-SUFFIX,needforspeedproven.com
-DOMAIN-SUFFIX,needforspeedredline.com
-DOMAIN-SUFFIX,needforspeedshowdown.com
-DOMAIN-SUFFIX,needforspeedstreetkings.com
-DOMAIN-SUFFIX,needforspeedtakedown.com
-DOMAIN-SUFFIX,needforspeedtherun.com
-DOMAIN-SUFFIX,needforspeedtimeattack.com
-DOMAIN-SUFFIX,needforspeedundergroundeast.com
 DOMAIN-SUFFIX,nfsworld.com
 DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,origin.tv
@@ -147,7 +112,6 @@ DOMAIN-SUFFIX,swjedifallenorder.com
 DOMAIN-SUFFIX,swjfo.com
 DOMAIN-SUFFIX,swtor.com
 DOMAIN-SUFFIX,swtor.net
-DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,thedreadwolfrises.com
 DOMAIN-SUFFIX,thesims.com
 DOMAIN-SUFFIX,thesims3.com
@@ -166,3 +130,7 @@ DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,visceralgames.com
 DOMAIN-SUFFIX,xdsummit.com
 DOMAIN-SUFFIX,yogify.com
+DOMAIN-KEYWORD,battlefield
+DOMAIN-KEYWORD,easports
+DOMAIN-KEYWORD,mirrorsedge
+DOMAIN-KEYWORD,needforspeed

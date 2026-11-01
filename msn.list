@@ -1,20 +1,10 @@
 # NAME: msn
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 10
+# DOMAIN-KEYWORD: 1
+# TOTAL: 11
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
-DOMAIN-SUFFIX,microsoftnews.cc
-DOMAIN-SUFFIX,microsoftnews.cn
-DOMAIN-SUFFIX,microsoftnews.com
-DOMAIN-SUFFIX,microsoftnews.net
-DOMAIN-SUFFIX,microsoftnews.org
-DOMAIN-SUFFIX,microsoftnewsforkids.com
-DOMAIN-SUFFIX,microsoftnewsforkids.net
-DOMAIN-SUFFIX,microsoftnewsforkids.org
-DOMAIN-SUFFIX,microsoftnewskids.com
-DOMAIN-SUFFIX,microsoftnewskids.net
-DOMAIN-SUFFIX,microsoftnewskids.org
 DOMAIN-SUFFIX,microsoftstart.com
 DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,msn.com
@@ -23,3 +13,4 @@ DOMAIN-SUFFIX,msnewskids.net
 DOMAIN-SUFFIX,msnewskids.org
 DOMAIN-SUFFIX,msnkids.com
 DOMAIN-SUFFIX,start.com
+DOMAIN-KEYWORD,microsoftnews

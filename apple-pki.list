@@ -1,12 +1,5 @@
 # NAME: apple-pki
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 8
-# TOTAL: 8
-DOMAIN,certs-lb.apple.com.akadns.net
-DOMAIN,certs.apple.com
-DOMAIN,crl-lb.apple.com.akadns.net
-DOMAIN,crl.apple.com
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2.apple.com
-DOMAIN,valid.apple.com
-DOMAIN,valid.origin-apple.com.akadns.net
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+DOMAIN-KEYWORD,apple

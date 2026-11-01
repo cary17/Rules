@@ -1,13 +1,8 @@
 # NAME: rutracker
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 2
+# DOMAIN-KEYWORD: 1
+# TOTAL: 3
 DOMAIN-SUFFIX,maintracker.org
-DOMAIN-SUFFIX,rutracker.cc
-DOMAIN-SUFFIX,rutracker.cr
-DOMAIN-SUFFIX,rutracker.me
-DOMAIN-SUFFIX,rutracker.net
-DOMAIN-SUFFIX,rutracker.nl
-DOMAIN-SUFFIX,rutracker.org
-DOMAIN-SUFFIX,rutracker.wiki
 DOMAIN-SUFFIX,rutrk.org
+DOMAIN-KEYWORD,rutracker

@@ -1,7 +1,8 @@
 # NAME: dewu
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 45
-# TOTAL: 45
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 39
+# DOMAIN-KEYWORD: 1
+# TOTAL: 40
 DOMAIN-SUFFIX,dewu-inc.com
 DOMAIN-SUFFIX,dewu-inner.com
 DOMAIN-SUFFIX,dewu-inner.net
@@ -33,17 +34,12 @@ DOMAIN-SUFFIX,growthsharetubular.cn
 DOMAIN-SUFFIX,pandarzli.com
 DOMAIN-SUFFIX,pengyoudewu.cn
 DOMAIN-SUFFIX,pengyoudewu.com
-DOMAIN-SUFFIX,poizon-inner.com
-DOMAIN-SUFFIX,poizon-inner.net
-DOMAIN-SUFFIX,poizon-support.com
-DOMAIN-SUFFIX,poizon.com
-DOMAIN-SUFFIX,poizon.net
 DOMAIN-SUFFIX,shizhuang-inc.com
 DOMAIN-SUFFIX,shizhuang-inc.net
 DOMAIN-SUFFIX,theduapp.cn
 DOMAIN-SUFFIX,theduapp.com
 DOMAIN-SUFFIX,theduapp.com.cn
-DOMAIN-SUFFIX,thepoizon.ru
 DOMAIN-SUFFIX,wodehaodewu.cn
 DOMAIN-SUFFIX,womendedw.cn
 DOMAIN-SUFFIX,womendedw.com
+DOMAIN-KEYWORD,poizon

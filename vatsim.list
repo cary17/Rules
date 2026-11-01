@@ -1,7 +1,8 @@
 # NAME: vatsim
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 25
-# TOTAL: 25
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 20
+# DOMAIN-KEYWORD: 1
+# TOTAL: 21
 DOMAIN-SUFFIX,vat-apac.com
 DOMAIN-SUFFIX,vatca.org
 DOMAIN-SUFFIX,vatcan.ca
@@ -18,12 +19,8 @@ DOMAIN-SUFFIX,vatprc.net
 DOMAIN-SUFFIX,vatroc.net
 DOMAIN-SUFFIX,vats.im
 DOMAIN-SUFFIX,vatsea.org
-DOMAIN-SUFFIX,vatsim.com.br
-DOMAIN-SUFFIX,vatsim.dev
-DOMAIN-SUFFIX,vatsim.me
-DOMAIN-SUFFIX,vatsim.net
-DOMAIN-SUFFIX,vatsim.uk
 DOMAIN-SUFFIX,vatssa.com
 DOMAIN-SUFFIX,vatsur.org
 DOMAIN-SUFFIX,vatusa.net
 DOMAIN-SUFFIX,vatwa.net
+DOMAIN-KEYWORD,vatsim

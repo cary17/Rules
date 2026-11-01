@@ -1,17 +1,10 @@
 # NAME: cisco
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 74
-# DOMAIN-KEYWORD: 1
-# TOTAL: 75
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 51
+# DOMAIN-KEYWORD: 3
+# TOTAL: 54
 DOMAIN-SUFFIX,academynetriders.com
 DOMAIN-SUFFIX,app-dynamics.com
-DOMAIN-SUFFIX,appdynamics.co.uk
-DOMAIN-SUFFIX,appdynamics.com
-DOMAIN-SUFFIX,appdynamics.de
-DOMAIN-SUFFIX,appdynamics.fr
-DOMAIN-SUFFIX,appdynamics.info
-DOMAIN-SUFFIX,appdynamics.jp
-DOMAIN-SUFFIX,appdynamics.org
 DOMAIN-SUFFIX,cciernslabs.com
 DOMAIN-SUFFIX,cciesecuritylabs.com
 DOMAIN-SUFFIX,ccievoicelabs.com
@@ -60,21 +53,7 @@ DOMAIN-SUFFIX,versly.com
 DOMAIN-SUFFIX,videochampion.com
 DOMAIN-SUFFIX,virtuata.com
 DOMAIN-SUFFIX,wballiance.com
-DOMAIN-SUFFIX,webex.ca
-DOMAIN-SUFFIX,webex.co.in
-DOMAIN-SUFFIX,webex.co.it
-DOMAIN-SUFFIX,webex.co.jp
-DOMAIN-SUFFIX,webex.co.kr
-DOMAIN-SUFFIX,webex.co.nz
-DOMAIN-SUFFIX,webex.co.uk
-DOMAIN-SUFFIX,webex.com
-DOMAIN-SUFFIX,webex.com.au
-DOMAIN-SUFFIX,webex.com.br
-DOMAIN-SUFFIX,webex.com.cn
-DOMAIN-SUFFIX,webex.com.hk
-DOMAIN-SUFFIX,webex.com.mx
-DOMAIN-SUFFIX,webex.de
-DOMAIN-SUFFIX,webex.es
-DOMAIN-SUFFIX,webex.fr
 DOMAIN-SUFFIX,wifi-mx.com
 DOMAIN-KEYWORD,cisco
+DOMAIN-KEYWORD,appdynamics
+DOMAIN-KEYWORD,webex

@@ -1,17 +1,13 @@
 # NAME: hunantv
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
-DOMAIN-SUFFIX,click.hunantv.com
-DOMAIN-SUFFIX,da.hunantv.com
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,hifuntv.com
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hnbntv.com
 DOMAIN-SUFFIX,hunaniptv.com
-DOMAIN-SUFFIX,hunantv.com
 DOMAIN-SUFFIX,imgo.tv
-DOMAIN-SUFFIX,log.hunantv.com
-DOMAIN-SUFFIX,log.v2.hunantv.com
 DOMAIN-SUFFIX,mgtv.com
-DOMAIN-SUFFIX,res.hunantv.com
+DOMAIN-KEYWORD,hunantv

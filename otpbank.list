@@ -1,16 +1,11 @@
 # NAME: otpbank
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 5
+# DOMAIN-KEYWORD: 1
+# TOTAL: 6
 DOMAIN-SUFFIX,ckb.me
 DOMAIN-SUFFIX,dskbank.bg
 DOMAIN-SUFFIX,ipotekabank.uz
 DOMAIN-SUFFIX,mobiasbanca.md
-DOMAIN-SUFFIX,otpbank.al
-DOMAIN-SUFFIX,otpbank.com.ua
-DOMAIN-SUFFIX,otpbank.hu
-DOMAIN-SUFFIX,otpbank.ru
-DOMAIN-SUFFIX,otpbanka.hr
-DOMAIN-SUFFIX,otpbanka.rs
-DOMAIN-SUFFIX,otpbanka.si
 DOMAIN-SUFFIX,otpgroup.info
+DOMAIN-KEYWORD,otpbank

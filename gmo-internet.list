@@ -1,10 +1,8 @@
 # NAME: gmo-internet
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 143
-# TOTAL: 145
-DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
-DOMAIN,crl.globalsign.net
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 126
+# DOMAIN-KEYWORD: 1
+# TOTAL: 127
 DOMAIN-SUFFIX,.gmo
 DOMAIN-SUFFIX,1-account.com
 DOMAIN-SUFFIX,30d.jp
@@ -39,23 +37,6 @@ DOMAIN-SUFFIX,fulloutsourcing.jp
 DOMAIN-SUFFIX,gaikaex.com
 DOMAIN-SUFFIX,gesoten.com
 DOMAIN-SUFFIX,get.shop
-DOMAIN-SUFFIX,globalsign-media.com
-DOMAIN-SUFFIX,globalsign.be
-DOMAIN-SUFFIX,globalsign.ch
-DOMAIN-SUFFIX,globalsign.cloud
-DOMAIN-SUFFIX,globalsign.cn
-DOMAIN-SUFFIX,globalsign.co.uk
-DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,globalsign.com.au
-DOMAIN-SUFFIX,globalsign.com.br
-DOMAIN-SUFFIX,globalsign.com.hk
-DOMAIN-SUFFIX,globalsign.com.sg
-DOMAIN-SUFFIX,globalsign.es
-DOMAIN-SUFFIX,globalsign.eu
-DOMAIN-SUFFIX,globalsign.fr
-DOMAIN-SUFFIX,globalsign.net
-DOMAIN-SUFFIX,globalsign.nl
-DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN-SUFFIX,gmo-aozora.com
 DOMAIN-SUFFIX,gmo-app.jp
 DOMAIN-SUFFIX,gmo-c.jp
@@ -148,3 +129,4 @@ DOMAIN-SUFFIX,xrea.com
 DOMAIN-SUFFIX,z.com
 DOMAIN-SUFFIX,zeibit.ai
 DOMAIN-SUFFIX,ztrendlab.com
+DOMAIN-KEYWORD,globalsign

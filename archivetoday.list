@@ -1,11 +1,5 @@
 # NAME: archivetoday
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 7
-# TOTAL: 7
-DOMAIN-SUFFIX,archive.fo
-DOMAIN-SUFFIX,archive.is
-DOMAIN-SUFFIX,archive.li
-DOMAIN-SUFFIX,archive.md
-DOMAIN-SUFFIX,archive.ph
-DOMAIN-SUFFIX,archive.today
-DOMAIN-SUFFIX,archive.vn
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+DOMAIN-KEYWORD,archive

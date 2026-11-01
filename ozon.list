@@ -1,8 +1,9 @@
 # NAME: ozon
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 18
-# DOMAIN-SUFFIX: 45
-# TOTAL: 63
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 17
+# DOMAIN-SUFFIX: 41
+# DOMAIN-KEYWORD: 1
+# TOTAL: 59
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
@@ -20,7 +21,6 @@ DOMAIN,xapi.ozon.com.by
 DOMAIN,xapi.ozon.com.kz
 DOMAIN,xapi.ozon.kz
 DOMAIN,xapi.ozon.ru
-DOMAIN,xapi.ozonru.me
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,o-courier.ru
 DOMAIN-SUFFIX,o3.ru
@@ -55,10 +55,6 @@ DOMAIN-SUFFIX,ozonpartners.by
 DOMAIN-SUFFIX,ozonpartners.ru
 DOMAIN-SUFFIX,ozonrocet.by
 DOMAIN-SUFFIX,ozonroket.by
-DOMAIN-SUFFIX,ozonru.co.il
-DOMAIN-SUFFIX,ozonru.com
-DOMAIN-SUFFIX,ozonru.eu
-DOMAIN-SUFFIX,ozonru.me
 DOMAIN-SUFFIX,ozonsport.ru
 DOMAIN-SUFFIX,ozonstatus.ru
 DOMAIN-SUFFIX,ozonusercontent.com
@@ -66,3 +62,4 @@ DOMAIN-SUFFIX,rocketozon.by
 DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
 DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
+DOMAIN-KEYWORD,ozonru

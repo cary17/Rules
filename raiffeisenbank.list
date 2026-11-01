@@ -1,20 +1,13 @@
 # NAME: raiffeisenbank
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 16
-# TOTAL: 16
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 DOMAIN-SUFFIX,aval.ua
 DOMAIN-SUFFIX,priorbank.by
-DOMAIN-SUFFIX,raiffeisen-kosovo.com
-DOMAIN-SUFFIX,raiffeisen-media.ru
-DOMAIN-SUFFIX,raiffeisen.al
-DOMAIN-SUFFIX,raiffeisen.hu
-DOMAIN-SUFFIX,raiffeisen.ro
-DOMAIN-SUFFIX,raiffeisen.ru
-DOMAIN-SUFFIX,raiffeisen.ua
-DOMAIN-SUFFIX,raiffeisenbank.ba
-DOMAIN-SUFFIX,raiffeisenbank.rs
 DOMAIN-SUFFIX,rb.cz
 DOMAIN-SUFFIX,rba.hr
 DOMAIN-SUFFIX,rbinternational.com
 DOMAIN-SUFFIX,rzb.at
 DOMAIN-SUFFIX,tatrabanka.sk
+DOMAIN-KEYWORD,raiffeisen

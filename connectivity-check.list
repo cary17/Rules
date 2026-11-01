@@ -1,16 +1,12 @@
 # NAME: connectivity-check
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 17
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 12
 # DOMAIN-SUFFIX: 11
-# TOTAL: 28
+# DOMAIN-KEYWORD: 1
+# TOTAL: 24
 DOMAIN,conn1.oppomobile.com
 DOMAIN,conn2.oppomobile.com
 DOMAIN,connect.rom.miui.com
-DOMAIN,connectivity-check.ubuntu.com
-DOMAIN,connectivity.samsung.com.cn
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,connectivitycheck.platform.hicloud.com
-DOMAIN,connectivitycheck.platform.hihonorcloud.com
 DOMAIN,edge-http.microsoft.com
 DOMAIN,networkcheck.kde.org
 DOMAIN,nmcheck.gnome.org
@@ -31,3 +27,4 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,network-test.debian.org
 DOMAIN-SUFFIX,test.steampowered.com
+DOMAIN-KEYWORD,connectivity

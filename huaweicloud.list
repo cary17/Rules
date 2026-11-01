@@ -1,8 +1,8 @@
 # NAME: huaweicloud
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 221
-# DOMAIN-KEYWORD: 1
-# TOTAL: 222
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 208
+# DOMAIN-KEYWORD: 2
+# TOTAL: 210
 DOMAIN-SUFFIX,26r9y.cn
 DOMAIN-SUFFIX,2gkjr.cn
 DOMAIN-SUFFIX,3ili6.cn
@@ -160,15 +160,6 @@ DOMAIN-SUFFIX,hwastro.cn
 DOMAIN-SUFFIX,hwastro.com
 DOMAIN-SUFFIX,hwcdnsre.cn
 DOMAIN-SUFFIX,hwcdnsre.com
-DOMAIN-SUFFIX,hwclouds-dns.cn
-DOMAIN-SUFFIX,hwclouds-dns.com
-DOMAIN-SUFFIX,hwclouds-dns.net
-DOMAIN-SUFFIX,hwclouds.cn
-DOMAIN-SUFFIX,hwclouds.com
-DOMAIN-SUFFIX,hwclouds.mobi
-DOMAIN-SUFFIX,hwclouds.org.cn
-DOMAIN-SUFFIX,hwcloudsite.cn
-DOMAIN-SUFFIX,hwcloudsite.com
 DOMAIN-SUFFIX,hwcloudvis.cn
 DOMAIN-SUFFIX,hwcloudvis.com
 DOMAIN-SUFFIX,hweventgrid.cn
@@ -204,10 +195,6 @@ DOMAIN-SUFFIX,ms2tg.cn
 DOMAIN-SUFFIX,myhwcdn.cn
 DOMAIN-SUFFIX,myhwcdn.com
 DOMAIN-SUFFIX,myhwcloudlive.com
-DOMAIN-SUFFIX,myhwclouds.cn
-DOMAIN-SUFFIX,myhwclouds.com
-DOMAIN-SUFFIX,myhwclouds.com.cn
-DOMAIN-SUFFIX,myhwclouds.net
 DOMAIN-SUFFIX,ns95c.cn
 DOMAIN-SUFFIX,o7mu8.cn
 DOMAIN-SUFFIX,pagescube.cn
@@ -225,3 +212,4 @@ DOMAIN-SUFFIX,x9exk.cn
 DOMAIN-SUFFIX,y43f6.cn
 DOMAIN-SUFFIX,z95rr.cn
 DOMAIN-KEYWORD,huaweicloud
+DOMAIN-KEYWORD,hwclouds

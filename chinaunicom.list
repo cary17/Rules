@@ -1,7 +1,8 @@
 # NAME: chinaunicom
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 25
-# TOTAL: 25
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 19
+# DOMAIN-KEYWORD: 1
+# TOTAL: 20
 DOMAIN-SUFFIX,.unicom
 DOMAIN-SUFFIX,.xn--8y0a063a
 DOMAIN-SUFFIX,10010.com
@@ -9,15 +10,9 @@ DOMAIN-SUFFIX,10010.com.cn
 DOMAIN-SUFFIX,10155.com
 DOMAIN-SUFFIX,114menhu.com
 DOMAIN-SUFFIX,169ol.com
-DOMAIN-SUFFIX,chinaunicom.cn
-DOMAIN-SUFFIX,chinaunicom.com
-DOMAIN-SUFFIX,chinaunicom.com.cn
-DOMAIN-SUFFIX,chinaunicom.com.hk
-DOMAIN-SUFFIX,chinaunicomglobal.com
 DOMAIN-SUFFIX,cuguplus.com
 DOMAIN-SUFFIX,cuniq.com
 DOMAIN-SUFFIX,cuniq.sg
-DOMAIN-SUFFIX,mychinaunicom.com
 DOMAIN-SUFFIX,smartont.net
 DOMAIN-SUFFIX,unicompayment.com
 DOMAIN-SUFFIX,wo-adv.cn
@@ -27,3 +22,4 @@ DOMAIN-SUFFIX,wo116114.com
 DOMAIN-SUFFIX,wocloud.com.cn
 DOMAIN-SUFFIX,woread.com.cn
 DOMAIN-SUFFIX,wosms.cn
+DOMAIN-KEYWORD,chinaunicom

@@ -1,9 +1,8 @@
 # NAME: broadcom
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 104
-# TOTAL: 105
-DOMAIN,vmware.tt.omtrdc.net
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 83
+# DOMAIN-KEYWORD: 1
+# TOTAL: 84
 DOMAIN-SUFFIX,air-watch.com
 DOMAIN-SUFFIX,airwatchexpress.com
 DOMAIN-SUFFIX,airwatchqa.com
@@ -32,7 +31,6 @@ DOMAIN-SUFFIX,cmpaas.com
 DOMAIN-SUFFIX,cpedge.com
 DOMAIN-SUFFIX,crit-staging.com
 DOMAIN-SUFFIX,dockerizer.com
-DOMAIN-SUFFIX,experience-vmware.com
 DOMAIN-SUFFIX,gemfire.net
 DOMAIN-SUFFIX,geodesummit.com
 DOMAIN-SUFFIX,getboxer.com
@@ -50,7 +48,6 @@ DOMAIN-SUFFIX,immidio.com
 DOMAIN-SUFFIX,itfromtheinside.com
 DOMAIN-SUFFIX,kubeacademy.com
 DOMAIN-SUFFIX,kubeapps.com
-DOMAIN-SUFFIX,latamvmwareforum.com
 DOMAIN-SUFFIX,nyansa.com
 DOMAIN-SUFFIX,pivotalinitiative.com
 DOMAIN-SUFFIX,snapvolumes.com
@@ -66,24 +63,6 @@ DOMAIN-SUFFIX,vmglobal.net
 DOMAIN-SUFFIX,vmmark.com
 DOMAIN-SUFFIX,vmtestdrive.com
 DOMAIN-SUFFIX,vmw.com
-DOMAIN-SUFFIX,vmware-cloudmanagement.com
-DOMAIN-SUFFIX,vmware-techcenter.com
-DOMAIN-SUFFIX,vmware.com
-DOMAIN-SUFFIX,vmware20mosaic.com
-DOMAIN-SUFFIX,vmwareausnews.com
-DOMAIN-SUFFIX,vmwarecertificationvideos.com
-DOMAIN-SUFFIX,vmwarecloud.com
-DOMAIN-SUFFIX,vmwaredemandcenter.com
-DOMAIN-SUFFIX,vmwareemeablog.com
-DOMAIN-SUFFIX,vmwaregrid.com
-DOMAIN-SUFFIX,vmwarehorizon.com
-DOMAIN-SUFFIX,vmwareidentity.com
-DOMAIN-SUFFIX,vmwarelearning.com
-DOMAIN-SUFFIX,vmwarelearningplatform.com
-DOMAIN-SUFFIX,vmwarestuff.com
-DOMAIN-SUFFIX,vmwareusergroupstore.com
-DOMAIN-SUFFIX,vmwareviewpoint.com
-DOMAIN-SUFFIX,vmwarevmc.com
 DOMAIN-SUFFIX,vmwdemo.com
 DOMAIN-SUFFIX,vmwgcomms.com
 DOMAIN-SUFFIX,vmwhorizonair.com
@@ -103,8 +82,8 @@ DOMAIN-SUFFIX,whatisairwatch.com
 DOMAIN-SUFFIX,whatisworkspaceone.com
 DOMAIN-SUFFIX,whychoosehorizon.com
 DOMAIN-SUFFIX,whychooseview.com
-DOMAIN-SUFFIX,whychoosevmwareeuc.com
 DOMAIN-SUFFIX,windowsuem.com
 DOMAIN-SUFFIX,workspaceair.com
 DOMAIN-SUFFIX,workspaceone.com
 DOMAIN-SUFFIX,xlstudio.com
+DOMAIN-KEYWORD,vmware

@@ -1,23 +1,19 @@
 # NAME: mailru
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 46
-# DOMAIN-SUFFIX: 252
-# TOTAL: 298
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 34
+# DOMAIN-SUFFIX: 225
+# DOMAIN-KEYWORD: 5
+# TOTAL: 264
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,ad4.mail.ru
 DOMAIN,adblogger.vk.com
 DOMAIN,adblogger.vk.ru
-DOMAIN,ads-integration.rustore.ru
 DOMAIN,ads.dahlmessenger.com
 DOMAIN,ads.icq.com
-DOMAIN,ads.rustore.ru
 DOMAIN,ads.vk.com
 DOMAIN,ads.vk.ru
 DOMAIN,adsapp.dahlmessenger.com
-DOMAIN,adsapp.stage.telega.info
-DOMAIN,adsapp.telega.info
-DOMAIN,adv.rustore.ru
 DOMAIN,adv.vk.ru
 DOMAIN,advk.vk.ru
 DOMAIN,alt-r.my.com
@@ -25,8 +21,6 @@ DOMAIN,an.mail.ru
 DOMAIN,analytics.vk.ru
 DOMAIN,b2.mail.ru
 DOMAIN,bs.mail.ru
-DOMAIN,click.rustore.ru
-DOMAIN,pixel.rustore.ru
 DOMAIN,r0.mail.ru
 DOMAIN,r0.mradx.net
 DOMAIN,r1.mail.ru
@@ -35,14 +29,9 @@ DOMAIN,rs.mail.ru
 DOMAIN,sentry-ng.g.smailru.net
 DOMAIN,sentry.dev-my.com
 DOMAIN,sentry.dev-my.games
-DOMAIN,sentry.rustore.ru
-DOMAIN,sentry.viqeo.tv
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,stacks.vk-portal.net
 DOMAIN,stats.dahlmessenger.com
-DOMAIN,stats.dev.telega.info
-DOMAIN,stats.rustore.ru
-DOMAIN,stats.telega.info
 DOMAIN,stats.vk-portal.net
 DOMAIN,t.mail.ru
 DOMAIN,target.vk.com
@@ -50,7 +39,6 @@ DOMAIN,top-staging.mail.ru
 DOMAIN,whiteline.mail.ru
 DOMAIN,xray.mail.ru
 DOMAIN-SUFFIX,ad.mail.ru
-DOMAIN-SUFFIX,ads.viqeo.tv
 DOMAIN-SUFFIX,adsadvisor.io
 DOMAIN-SUFFIX,adv.vk.com
 DOMAIN-SUFFIX,algoritmika.org
@@ -151,7 +139,6 @@ DOMAIN-SUFFIX,max.ru
 DOMAIN-SUFFIX,mcs.st
 DOMAIN-SUFFIX,mediumquality.ru
 DOMAIN-SUFFIX,memealerts.com
-DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN-SUFFIX,mirabilis.com
 DOMAIN-SUFFIX,mirandaicq.com
 DOMAIN-SUFFIX,mlbootcamp.ru
@@ -175,13 +162,6 @@ DOMAIN-SUFFIX,o-uchi.ru
 DOMAIN-SUFFIX,odkl.ru
 DOMAIN-SUFFIX,odnoklasniki.by
 DOMAIN-SUFFIX,odnoklasniki.ua
-DOMAIN-SUFFIX,odnoklassniki.am
-DOMAIN-SUFFIX,odnoklassniki.by
-DOMAIN-SUFFIX,odnoklassniki.co.ee
-DOMAIN-SUFFIX,odnoklassniki.eu
-DOMAIN-SUFFIX,odnoklassniki.lv
-DOMAIN-SUFFIX,odnoklassniki.ru
-DOMAIN-SUFFIX,odnoklassniki.tj
 DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okcdn.ru
@@ -196,9 +176,6 @@ DOMAIN-SUFFIX,radar.imgsmail.ru
 DOMAIN-SUFFIX,relap.mail.ru
 DOMAIN-SUFFIX,ruhub.tv
 DOMAIN-SUFFIX,russiandesigncup.ru
-DOMAIN-SUFFIX,rustore.ru
-DOMAIN-SUFFIX,rustore.team
-DOMAIN-SUFFIX,rustore.tv
 DOMAIN-SUFFIX,sayeasy.eu
 DOMAIN-SUFFIX,sferum-dev.ru
 DOMAIN-SUFFIX,sferum.ru
@@ -216,8 +193,6 @@ DOMAIN-SUFFIX,tarantoolplus.ru
 DOMAIN-SUFFIX,target.my.com
 DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,tech-mail.ru
-DOMAIN-SUFFIX,telega.info
-DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,tetrika-school.ru
 DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN-SUFFIX,trace-flow.ru
@@ -230,8 +205,6 @@ DOMAIN-SUFFIX,uma.media
 DOMAIN-SUFFIX,umschool.net
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,userapi.ru
-DOMAIN-SUFFIX,viqeo.tv
-DOMAIN-SUFFIX,viqeotv.com
 DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,vk-apps.com
 DOMAIN-SUFFIX,vk-apps.ru
@@ -271,17 +244,6 @@ DOMAIN-SUFFIX,vkplay-arena.ru
 DOMAIN-SUFFIX,vkplay.live
 DOMAIN-SUFFIX,vkplay.ru
 DOMAIN-SUFFIX,vktech-static.ru
-DOMAIN-SUFFIX,vkuser.net
-DOMAIN-SUFFIX,vkuseraudio.com
-DOMAIN-SUFFIX,vkuseraudio.net
-DOMAIN-SUFFIX,vkuseraudio.ru
-DOMAIN-SUFFIX,vkusercdn.ru
-DOMAIN-SUFFIX,vkuserlive.com
-DOMAIN-SUFFIX,vkuserlive.net
-DOMAIN-SUFFIX,vkuserphoto.ru
-DOMAIN-SUFFIX,vkuservideo.com
-DOMAIN-SUFFIX,vkuservideo.net
-DOMAIN-SUFFIX,vkuservideo.ru
 DOMAIN-SUFFIX,vkvideo.ru
 DOMAIN-SUFFIX,vkworkspace.kz
 DOMAIN-SUFFIX,vmailru.net
@@ -301,3 +263,8 @@ DOMAIN-SUFFIX,yaklass.ru
 DOMAIN-SUFFIX,yclients.com
 DOMAIN-SUFFIX,youla.io
 DOMAIN-SUFFIX,youla.ru
+DOMAIN-KEYWORD,odnoklassniki
+DOMAIN-KEYWORD,rustore
+DOMAIN-KEYWORD,telega
+DOMAIN-KEYWORD,viqeo
+DOMAIN-KEYWORD,vkuser

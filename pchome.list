@@ -1,17 +1,13 @@
 # NAME: pchome
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 11
-# TOTAL: 12
-DOMAIN,ecapi-pchome.cdn.hinet.net
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 DOMAIN-SUFFIX,ecimg.tw
-DOMAIN-SUFFIX,pchome.com.tw
-DOMAIN-SUFFIX,pchomeec.tw
-DOMAIN-SUFFIX,pchomeonline.com.tw
-DOMAIN-SUFFIX,pchomepay.com.tw
 DOMAIN-SUFFIX,pcloud.tw
 DOMAIN-SUFFIX,pcstore.com.tw
 DOMAIN-SUFFIX,piapp.com.tw
 DOMAIN-SUFFIX,rakuya.com.tw
 DOMAIN-SUFFIX,tagapie.com.tw
 DOMAIN-SUFFIX,toget.com.tw
+DOMAIN-KEYWORD,pchome

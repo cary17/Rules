@@ -1,7 +1,8 @@
 # NAME: tbank-ru
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 110
-# TOTAL: 110
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 94
+# DOMAIN-KEYWORD: 2
+# TOTAL: 96
 DOMAIN-SUFFIX,2w.ru
 DOMAIN-SUFFIX,4c.ru
 DOMAIN-SUFFIX,4epenaxa.com
@@ -12,7 +13,6 @@ DOMAIN-SUFFIX,bankline.ru
 DOMAIN-SUFFIX,booking-tec.ru
 DOMAIN-SUFFIX,capitalt.ru
 DOMAIN-SUFFIX,cardsmobile.ru
-DOMAIN-SUFFIX,cdn-tinkoff.ru
 DOMAIN-SUFFIX,centraluniversity.ru
 DOMAIN-SUFFIX,codeseason.by
 DOMAIN-SUFFIX,cu.ru
@@ -48,12 +48,6 @@ DOMAIN-SUFFIX,prodcontest.com
 DOMAIN-SUFFIX,rbcollect.ru
 DOMAIN-SUFFIX,rbcredit.ru
 DOMAIN-SUFFIX,rf-sim-mobile.ru
-DOMAIN-SUFFIX,rosbank-auto.ru
-DOMAIN-SUFFIX,rosbank-capital.ru
-DOMAIN-SUFFIX,rosbank-credit.com
-DOMAIN-SUFFIX,rosbank-dom.ru
-DOMAIN-SUFFIX,rosbank-leasing.ru
-DOMAIN-SUFFIX,rosbank.ru
 DOMAIN-SUFFIX,rusfinance.ru
 DOMAIN-SUFFIX,rusfinancebank.ru
 DOMAIN-SUFFIX,safeliner.tech
@@ -89,15 +83,6 @@ DOMAIN-SUFFIX,tconf.ru
 DOMAIN-SUFFIX,tcsbank.ru
 DOMAIN-SUFFIX,tdev.by
 DOMAIN-SUFFIX,time-messenger.ru
-DOMAIN-SUFFIX,tinkoff-edu.ru
-DOMAIN-SUFFIX,tinkoff-group.com
-DOMAIN-SUFFIX,tinkoff.ai
-DOMAIN-SUFFIX,tinkoff.ru
-DOMAIN-SUFFIX,tinkoffcapital.ru
-DOMAIN-SUFFIX,tinkoffinsurance.ru
-DOMAIN-SUFFIX,tinkoffinsurancefuture.ru
-DOMAIN-SUFFIX,tinkoffjournal.ru
-DOMAIN-SUFFIX,tinkoffmobile.com
 DOMAIN-SUFFIX,tinsurance.ru
 DOMAIN-SUFFIX,tinsurancefuture.ru
 DOMAIN-SUFFIX,tmiaf.ru
@@ -112,3 +97,5 @@ DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--h1ao.site
+DOMAIN-KEYWORD,rosbank
+DOMAIN-KEYWORD,tinkoff

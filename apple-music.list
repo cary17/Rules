@@ -1,22 +1,7 @@
 # NAME: apple-music
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 6
-# DOMAIN-SUFFIX: 11
-# TOTAL: 17
-DOMAIN,amp-api-edge.music.apple.com
-DOMAIN,amp-api.music.apple.com
-DOMAIN,js-cdn.music.apple.com
-DOMAIN,musicstatus.music.apple.com
-DOMAIN,play.music.apple.com
-DOMAIN,speedysub.music.apple.com
-DOMAIN-SUFFIX,applemusic.berlin
-DOMAIN-SUFFIX,applemusic.co
-DOMAIN-SUFFIX,applemusic.com
-DOMAIN-SUFFIX,applemusic.com.au
-DOMAIN-SUFFIX,applemusic.hamburg
-DOMAIN-SUFFIX,applemusic.wang
-DOMAIN-SUFFIX,applemusicconnect.com
-DOMAIN-SUFFIX,applemusicfestival.com
-DOMAIN-SUFFIX,music.apple.com
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 DOMAIN-SUFFIX,musickit.net
-DOMAIN-SUFFIX,wwwapplemusic.com
+DOMAIN-KEYWORD,apple

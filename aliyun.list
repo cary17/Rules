@@ -1,20 +1,15 @@
 # NAME: aliyun
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 40
-# DOMAIN-KEYWORD: 1
-# TOTAL: 41
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 32
+# DOMAIN-KEYWORD: 2
+# TOTAL: 34
 DOMAIN-SUFFIX,alibabadns.com
-DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloudapi.com
 DOMAIN-SUFFIX,alidayu.com
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,aligfwaf.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alikunlun.net
-DOMAIN-SUFFIX,alimama.alicdn.com
-DOMAIN-SUFFIX,atanx.alicdn.com
-DOMAIN-SUFFIX,atanx2.alicdn.com
-DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,fcapp.run
 DOMAIN-SUFFIX,hichina.com
@@ -40,7 +35,5 @@ DOMAIN-SUFFIX,kunlunta.com
 DOMAIN-SUFFIX,kunlunvi.com
 DOMAIN-SUFFIX,kunlunwe.com
 DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,myalicdn.com
-DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
-DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,alicdn

@@ -1,8 +1,8 @@
 # NAME: baidu
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 73
-# DOMAIN-KEYWORD: 1
-# TOTAL: 74
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 68
+# DOMAIN-KEYWORD: 2
+# TOTAL: 70
 DOMAIN-SUFFIX,91.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,aipage.com
@@ -33,11 +33,6 @@ DOMAIN-SUFFIX,duapp.com
 DOMAIN-SUFFIX,duapp.net
 DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,duurl.cn
-DOMAIN-SUFFIX,duxiaoman-int.com
-DOMAIN-SUFFIX,duxiaoman.com
-DOMAIN-SUFFIX,duxiaomanfintech.com
-DOMAIN-SUFFIX,duxiaomanfund.com
-DOMAIN-SUFFIX,duxiaomantech.com
 DOMAIN-SUFFIX,dwz.cn
 DOMAIN-SUFFIX,dxm-cdn.com
 DOMAIN-SUFFIX,dxm-int.com
@@ -77,3 +72,4 @@ DOMAIN-SUFFIX,xiaodutv.com
 DOMAIN-SUFFIX,yoojia.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,duxiaoman

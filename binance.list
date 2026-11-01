@@ -1,9 +1,9 @@
 # NAME: binance
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 14
-# DOMAIN-KEYWORD: 1
-# TOTAL: 17
+# DOMAIN-SUFFIX: 9
+# DOMAIN-KEYWORD: 2
+# TOTAL: 13
 DOMAIN,zftksc.cdn-settings.appsflyersdk.com
 DOMAIN,zftksc.launches.appsflyersdk.com
 DOMAIN-SUFFIX,bmwweb.solutions
@@ -15,9 +15,5 @@ DOMAIN-SUFFIX,bsappapi.cc
 DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,nftstatic.com
-DOMAIN-SUFFIX,saasexch.cc
-DOMAIN-SUFFIX,saasexch.co
-DOMAIN-SUFFIX,saasexch.com
-DOMAIN-SUFFIX,saasexch.info
-DOMAIN-SUFFIX,saasexch.io
 DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,saasexch
