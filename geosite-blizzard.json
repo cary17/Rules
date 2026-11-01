@@ -4,13 +4,7 @@
     {
       "domain": [
         "blizzard.nefficient.co.kr",
-        "blizzcon-a.akamaihd.net",
-        "blzddist1-a.akamaihd.net",
-        "blzddistkr1-a.akamaihd.net",
-        "blzmedia-a.akamaihd.net",
         "blznav.akamaized.net",
-        "bnetcmsus-a.akamaihd.net",
-        "bnetproduct-a.akamaihd.net",
         "bnetshopus.akamaized.net"
       ],
       "domain_suffix": [
@@ -30,6 +24,9 @@
         "starcraft.com",
         "starcraft2.com",
         "worldofwarcraft.com"
+      ],
+      "domain_keyword": [
+        "akamaihd"
       ]
     }
   ]

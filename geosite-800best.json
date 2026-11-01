@@ -4,14 +4,6 @@
     {
       "domain_suffix": [
         "56laile.com",
-        "800best.cn",
-        "800best.com",
-        "800best.com.cn",
-        "800best.net",
-        "800bestapi.cn",
-        "800bestapi.com",
-        "800bestapp.cn",
-        "800bestapp.com",
         "baishinetwork.com",
         "best-inc.com",
         "bestcrossborder.com",
@@ -32,6 +24,9 @@
         "youyierp.com",
         "youyitms.com",
         "youyiwms.com"
+      ],
+      "domain_keyword": [
+        "800best"
       ]
     }
   ]

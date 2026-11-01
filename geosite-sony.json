@@ -110,12 +110,6 @@
         "sonymusic.com.hk",
         "sonynetwork.co.jp",
         "sonypcl.jp",
-        "sonypictures.com",
-        "sonypicturesanimation.com",
-        "sonypicturesmuseum.com",
-        "sonypicturesstudios.com",
-        "sonypicturestelevision.com",
-        "sonypicturestelevisiongames.com",
         "sonyprotechnosupport.co.jp",
         "sonystoragemedia.co.jp",
         "sonytc.co.jp",
@@ -123,6 +117,9 @@
         "wheelpop.com",
         "wwtbam.com",
         "yourfantasybeginsnow.com"
+      ],
+      "domain_keyword": [
+        "sonypictures"
       ]
     }
   ]

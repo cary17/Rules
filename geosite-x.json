@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "ads-twitter.com",
         "cms-twdigitalassets.com",
         "grok.com",
         "grokipedia.com",
@@ -14,15 +13,6 @@
         "tweetdeck.com",
         "twimg.com",
         "twitpic.com",
-        "twitter.biz",
-        "twitter.com",
-        "twitter.jp",
-        "twitter.map.fastly.net",
-        "twittercommunity.com",
-        "twitterflightschool.com",
-        "twitterinc.com",
-        "twitteroauth.com",
-        "twitterstat.us",
         "twtrdns.net",
         "twttr.com",
         "twttr.net",
@@ -30,6 +20,9 @@
         "vine.co",
         "x.ai",
         "x.com"
+      ],
+      "domain_keyword": [
+        "twitter"
       ]
     }
   ]

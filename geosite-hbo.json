@@ -33,28 +33,10 @@
         "hboasia.com",
         "hboenterprises.com",
         "hboespana.com",
-        "hbogo.co.th",
-        "hbogo.com",
-        "hbogo.cz",
-        "hbogo.eu",
-        "hbogo.hu",
-        "hbogo.sk",
-        "hbogoasia.com",
-        "hbogoasia.hk",
-        "hbogoasia.id",
-        "hbogoasia.my",
-        "hbogoasia.ph",
-        "hbogoasia.sg",
-        "hbogoasia.tw",
         "hboinflight.com",
         "hbolacontent.net",
         "hbolaunchpad.com",
         "hbomailman.com",
-        "hbomax-images.warnermediacdn.com",
-        "hbomax.com",
-        "hbomax.eu",
-        "hbomaxcdn.com",
-        "hbomaxdash.s.llnwi.net",
         "hbomediarelations.com",
         "hbonordic.com",
         "hbonordic.tv",
@@ -68,6 +50,10 @@
         "max.com",
         "maxgo.com",
         "redbyhbo.com"
+      ],
+      "domain_keyword": [
+        "hbogo",
+        "hbomax"
       ]
     }
   ]

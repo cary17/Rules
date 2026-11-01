@@ -19,8 +19,7 @@
         "xapi.ozon.com.by",
         "xapi.ozon.com.kz",
         "xapi.ozon.kz",
-        "xapi.ozon.ru",
-        "xapi.ozonru.me"
+        "xapi.ozon.ru"
       ],
       "domain_suffix": [
         "ewisdom.us.kg",
@@ -57,10 +56,6 @@
         "ozonpartners.ru",
         "ozonrocet.by",
         "ozonroket.by",
-        "ozonru.co.il",
-        "ozonru.com",
-        "ozonru.eu",
-        "ozonru.me",
         "ozonsport.ru",
         "ozonstatus.ru",
         "ozonusercontent.com",
@@ -68,6 +63,9 @@
         "xn----8sbahiqzthbd0bn.xn--p1ai",
         "xn--80aafgovrgbc7am.xn--p1ai",
         "xn--e1adjldbbpv.xn--90ais"
+      ],
+      "domain_keyword": [
+        "ozonru"
       ]
     }
   ]

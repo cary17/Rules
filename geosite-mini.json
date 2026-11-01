@@ -14,28 +14,6 @@
         "mini-bahrain.com",
         "mini-bosnia.com",
         "mini-clubs-international.com",
-        "mini-connected.at",
-        "mini-connected.be",
-        "mini-connected.ch",
-        "mini-connected.co.uk",
-        "mini-connected.com",
-        "mini-connected.cz",
-        "mini-connected.de",
-        "mini-connected.dk",
-        "mini-connected.ee",
-        "mini-connected.es",
-        "mini-connected.fi",
-        "mini-connected.fr",
-        "mini-connected.ie",
-        "mini-connected.it",
-        "mini-connected.lt",
-        "mini-connected.lu",
-        "mini-connected.lv",
-        "mini-connected.nl",
-        "mini-connected.no",
-        "mini-connected.pl",
-        "mini-connected.pt",
-        "mini-connected.se",
         "mini-corporate-sales.com",
         "mini-coupe.ca",
         "mini-dubai.com",
@@ -217,6 +195,9 @@
         "southfloridamini.com",
         "trmini.com",
         "troisrivieresmini.com"
+      ],
+      "domain_keyword": [
+        "mini-connected"
       ]
     }
   ]

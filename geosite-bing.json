@@ -3,8 +3,7 @@
   "rules": [
     {
       "domain": [
-        "bj1.api.bing.com",
-        "location.microsoft.com"
+        "bj1.api.bing.com"
       ],
       "domain_suffix": [
         ".bing",
@@ -26,19 +25,11 @@
         "cn.bing.net",
         "cn.mm.bing.net",
         "copilot-stg.com",
-        "copilot.cloud.microsoft",
         "copilot.com",
-        "copilot.microsoft.com",
         "dictate.ms",
         "ditu.live.com",
         "flipwithsurface.com",
         "masalladeloslimites.com",
-        "microsoft-give.com",
-        "microsoftcloudsummit.com",
-        "microsoftdiplomados.com",
-        "microsoftlatamholiday.com",
-        "microsoftmxfilantropia.com",
-        "microsoftpartnersolutions.com",
         "msunlimitedcloudsummit.com",
         "office365love.com",
         "office365tw.com",
@@ -46,6 +37,9 @@
         "renovacionoffice.com",
         "sprinklesapp.com",
         "th.bing.com"
+      ],
+      "domain_keyword": [
+        "microsoft"
       ]
     }
   ]

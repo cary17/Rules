@@ -13,7 +13,6 @@
         "cheapnikedunks.com",
         "cheapnikeoutlet.com",
         "classicnike.com",
-        "cnnikebrand.com",
         "customnikeshoes.com",
         "easynike.com",
         "eenike.com",
@@ -61,18 +60,6 @@
         "nikeasia.com",
         "nikeaustralia.com",
         "nikeaw77.com",
-        "nikeb.com",
-        "nikebbn.com",
-        "nikebetrue.com",
-        "nikebetterworld.cn",
-        "nikebetterworld.com",
-        "nikebetterworld.com.cn",
-        "nikebetterworld.info",
-        "nikebetterworld.net",
-        "nikebetterworld.org",
-        "nikebiz.info",
-        "nikebuy.com",
-        "nikeby.com",
         "nikecdn.com",
         "nikechina.cn",
         "nikechosen.com",
@@ -199,6 +186,9 @@
         "verygoodnike.com",
         "womensnikeshox.com",
         "xn--74q035i.xn--hxt814e"
+      ],
+      "domain_keyword": [
+        "nikeb"
       ]
     }
   ]

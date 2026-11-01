@@ -5,14 +5,10 @@
       "domain_suffix": [
         "hbabit.com",
         "hbfile.net",
-        "htx.com",
-        "huobi.com",
-        "huobi.me",
-        "huobi.pro",
-        "huobi.sc",
-        "huobiasia.vip",
-        "huobigroup.com",
-        "huobitoken.com"
+        "htx.com"
+      ],
+      "domain_keyword": [
+        "huobi"
       ]
     }
   ]

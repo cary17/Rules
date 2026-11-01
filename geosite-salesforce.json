@@ -14,12 +14,8 @@
         "data.com",
         "demandware.com",
         "desk.com",
-        "documentforce.com",
-        "dreamforce.com",
         "einstein.com",
         "exacttarget.com",
-        "force.com",
-        "govforce.com",
         "gravitytank.com",
         "heywire.com",
         "krux.com",
@@ -29,21 +25,17 @@
         "quotable.com",
         "radian6.com",
         "relateiq.com",
-        "salesforce-setup.com",
-        "salesforce-sites.com",
-        "salesforce.com",
-        "salesforce.org",
-        "salesforceiq.com",
-        "salesforceliveagent.com",
-        "salesforcemarketingcloud.com",
         "sequence.com",
         "sfdcstatic.com",
-        "sforce.com",
         "site.com",
         "social.com",
         "steelbrick.com",
         "twinprime.com",
         "weinvoiceit.com"
+      ],
+      "domain_keyword": [
+        "salesforce",
+        "force"
       ]
     }
   ]

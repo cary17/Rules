@@ -3,13 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "gismeteo.by",
-        "gismeteo.com",
-        "gismeteo.net",
-        "gismeteo.ru",
-        "gismeteo.st",
         "meteofor.com",
         "meteofor.st"
+      ],
+      "domain_keyword": [
+        "gismeteo"
       ]
     }
   ]

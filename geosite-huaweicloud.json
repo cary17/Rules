@@ -160,15 +160,6 @@
         "hwastro.com",
         "hwcdnsre.cn",
         "hwcdnsre.com",
-        "hwclouds-dns.cn",
-        "hwclouds-dns.com",
-        "hwclouds-dns.net",
-        "hwclouds.cn",
-        "hwclouds.com",
-        "hwclouds.mobi",
-        "hwclouds.org.cn",
-        "hwcloudsite.cn",
-        "hwcloudsite.com",
         "hwcloudvis.cn",
         "hwcloudvis.com",
         "hweventgrid.cn",
@@ -204,10 +195,6 @@
         "myhwcdn.cn",
         "myhwcdn.com",
         "myhwcloudlive.com",
-        "myhwclouds.cn",
-        "myhwclouds.com",
-        "myhwclouds.com.cn",
-        "myhwclouds.net",
         "ns95c.cn",
         "o7mu8.cn",
         "pagescube.cn",
@@ -226,7 +213,8 @@
         "z95rr.cn"
       ],
       "domain_keyword": [
-        "huaweicloud"
+        "huaweicloud",
+        "hwclouds"
       ]
     }
   ]

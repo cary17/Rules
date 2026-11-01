@@ -2,26 +2,32 @@
   "version": 1,
   "rules": [
     {
-      "domain": "servd-anthropic-website.b-cdn.net",
+      "domain": [
+        "servd-anthropic-website.b-cdn.net"
+      ],
       "domain_suffix": [
         "ant.dev",
         "anthropic.com",
         "anthropic.team",
         "antspace.dev",
-        "chatbotclaude.com",
         "clau.de",
-        "claude.ai",
-        "claude.app",
-        "claude.com",
-        "claude.dev",
-        "claude.new",
-        "claude.site",
-        "claudeacademy.com",
-        "claudemcpclient.com",
-        "claudemcpcontent.com",
-        "claudepages.dev",
-        "claudestudio.com",
-        "claudeusercontent.com"
+        "sentry.io",
+        "statsigapi.net",
+        "intercom.io",
+        "intercomcdn.com",
+        "cdn.usefathom.com"
+      ],
+      "domain_keyword": [
+        "claude",
+        "stripe",
+        "anthropic",
+        "datadog",
+        "sift"
+      ],
+      "ip_cidr": [
+        "160.79.104.0/23",
+        "2607:6bc0:11::/48",
+        "2607:6bc0::/48"
       ]
     }
   ]

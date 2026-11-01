@@ -2,13 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "nikkei-cnbc.co.jp",
-        "nikkei.co.jp",
-        "nikkei.com",
-        "nikkei.jp",
-        "nikkei4946.com",
-        "nikkeibp.co.jp"
+      "domain_keyword": [
+        "nikkei"
       ]
     }
   ]

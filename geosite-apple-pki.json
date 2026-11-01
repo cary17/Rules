@@ -2,15 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "certs-lb.apple.com.akadns.net",
-        "certs.apple.com",
-        "crl-lb.apple.com.akadns.net",
-        "crl.apple.com",
-        "ocsp.apple.com",
-        "ocsp2.apple.com",
-        "valid.apple.com",
-        "valid.origin-apple.com.akadns.net"
+      "domain_keyword": [
+        "apple"
       ]
     }
   ]

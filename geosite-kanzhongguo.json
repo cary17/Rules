@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "es-visiontimes.com",
         "kannewyork.com",
         "kanzhongguo.com",
         "kanzhongguo.eu",
@@ -11,14 +10,11 @@
         "trithucvn.net",
         "trithucvn.org",
         "vct.news",
-        "visiontimes.com",
-        "visiontimes.de",
-        "visiontimes.fr",
-        "visiontimes.it",
-        "visiontimes.net",
-        "visiontimesjp.com",
         "vtvan.com",
         "watchinese.com"
+      ],
+      "domain_keyword": [
+        "visiontimes"
       ]
     }
   ]

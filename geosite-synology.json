@@ -17,12 +17,10 @@
         "i234.me",
         "myds.me",
         "quickconnect.cn",
-        "quickconnect.to",
-        "synology.cn",
-        "synology.com",
-        "synology.me",
-        "synologydownload.com",
-        "synologyupdate.com"
+        "quickconnect.to"
+      ],
+      "domain_keyword": [
+        "synology"
       ]
     }
   ]

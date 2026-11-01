@@ -101,7 +101,8 @@
         "www.gstatic.com",
         "www.pxcc.com",
         "www.recaptcha-cn.net",
-        "www.recaptcha.net"
+        "www.recaptcha.net",
+        "antigravity-unleash.goog"
       ],
       "domain_suffix": [
         ".android",
@@ -943,6 +944,18 @@
         "yt.be",
         "ytimg.com",
         "zukunftswerkstatt.de"
+      ],
+      "domain_keyword": [
+        "colab",
+        "developerprofiles",
+        "generativelanguage",
+        "gemini",
+        "youtube",
+        "gmail",
+        "google",
+        "appspot",
+        "blogspot",
+        "recaptcha"
       ],
       "domain_regex": [
         "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",

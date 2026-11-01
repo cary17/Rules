@@ -3,8 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "bjctyiptv.cn",
-        "cqctyiptv.cn",
         "ctacdn.cn",
         "ctadns.cn",
         "ctaigw.cn",
@@ -41,26 +39,18 @@
         "ctycdn.net.cn",
         "ctydoh.cn",
         "ctyecx.cn",
-        "ctyiptv.cn",
         "ctzcdn.cn",
         "ctzcdn.com",
         "edgecloudx.cn",
         "faasapp.cn",
         "faasdev.cn",
-        "fjctyiptv.cn",
-        "gdctyiptv.cn",
-        "gsctyiptv.cn",
         "gsjtyiptv.cn",
-        "gzctyiptv.cn",
-        "jsctyiptv.cn",
         "modelers.cn",
-        "scctyiptv.cn",
-        "snctyiptv.cn",
-        "ynctyiptv.cn",
         "ynjtyiptv.cn"
       ],
       "domain_keyword": [
-        "ctyun"
+        "ctyun",
+        "ctyiptv"
       ]
     }
   ]

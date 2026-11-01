@@ -4,12 +4,10 @@
     {
       "domain_suffix": [
         "bbtv.cn",
-        "bestv.com.cn",
-        "bestvcdn.cn",
-        "bestvcdn.com",
-        "bestvcdn.com.cn",
-        "bestvcdn.net",
         "smgbb.cn"
+      ],
+      "domain_keyword": [
+        "bestv"
       ]
     }
   ]

@@ -87,11 +87,6 @@
         "rtespanol.com",
         "rtfestival.ru",
         "rtfrance.tv",
-        "rtnewsde.com",
-        "rtnewsde.online",
-        "rtnewsde.pro",
-        "rtnewsde.site",
-        "rtnewsde.tech",
         "rtnewsru.com",
         "rtrunews.com",
         "rttv.com",
@@ -115,6 +110,9 @@
         "swentr.site",
         "watchingthehawks.com",
         "worldcuprussia.com"
+      ],
+      "domain_keyword": [
+        "rtnewsde"
       ]
     }
   ]

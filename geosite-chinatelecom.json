@@ -14,15 +14,13 @@
         "chinatelecomglobal.com",
         "chinatelecomhk.com",
         "chntel.com",
-        "ctexcel.ca",
-        "ctexcel.com",
-        "ctexcel.com.hk",
-        "ctexcel.fr",
-        "ctexcel.us",
         "dlife.cn",
         "play.cn",
         "tv189.com",
         "vnet.cn"
+      ],
+      "domain_keyword": [
+        "ctexcel"
       ]
     }
   ]

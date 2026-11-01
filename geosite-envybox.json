@@ -9,11 +9,6 @@
         "bimsaas.ru",
         "callbackkiller.com",
         "cbkiller.com",
-        "envybox.company",
-        "envybox.family",
-        "envybox.io",
-        "envybox.kg",
-        "envybox.su",
         "envycdp.com",
         "envycdp.ru",
         "envycrm.com",
@@ -24,6 +19,9 @@
         "saas-support.com",
         "whitesaas.com",
         "xn--90absjljw3g.xn--p1ai"
+      ],
+      "domain_keyword": [
+        "envybox"
       ]
     }
   ]

@@ -7,15 +7,11 @@
         "ipv6.uz",
         "ipv6ready.me",
         "sixte.st",
-        "test.version6.ru",
-        "testipv6.be",
-        "testipv6.ca",
-        "testipv6.cn",
-        "testipv6.de",
-        "testipv6.net"
+        "test.version6.ru"
       ],
       "domain_keyword": [
-        "test-ipv6"
+        "test-ipv6",
+        "testipv6"
       ]
     }
   ]

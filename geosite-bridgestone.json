@@ -5,7 +5,6 @@
       "domain_suffix": [
         "bandag.cc",
         "bandag.com",
-        "bastropfirestone.com",
         "blizzak-juken.jp",
         "bs-adreview.com",
         "bs-awh.ne.jp",
@@ -13,28 +12,8 @@
         "bsw.jp",
         "carcare-and-tireshop.jp",
         "cfna.com",
-        "crossfitfirestone.com",
         "daytontrucktires.com",
         "ecoforme.jp",
-        "firestone.cl",
-        "firestone.co.cr",
-        "firestone.com.ar",
-        "firestone.com.br",
-        "firestone.com.co",
-        "firestone.com.mx",
-        "firestonebpco.com",
-        "firestonecomercial.cl",
-        "firestonecomercial.co.cr",
-        "firestonecomercial.com.ar",
-        "firestonecomercial.com.br",
-        "firestonecomercial.com.co",
-        "firestonecomercial.com.mx",
-        "firestonecompleteautocare.com",
-        "firestonedrivestore.com",
-        "firestoneip.com",
-        "firestonerewards.com",
-        "firestonetire.ca",
-        "firestonetire.com",
         "gcrtires.com",
         "hibdontire.com",
         "menshin-channel.com",
@@ -50,7 +29,8 @@
         "wheelworks.net"
       ],
       "domain_keyword": [
-        "bridgestone"
+        "bridgestone",
+        "firestone"
       ]
     }
   ]

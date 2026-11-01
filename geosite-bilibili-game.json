@@ -2,13 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "bilibiligame.cn",
-        "bilibiligame.co",
-        "bilibiligame.net",
-        "biligame.co",
-        "biligame.com",
-        "biligame.net"
+      "domain_keyword": [
+        "biligame"
       ]
     }
   ]

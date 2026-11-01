@@ -2,7 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "domain": "venmo.s3.amazonaws.com",
       "domain_suffix": [
         "anfutong.cn",
         "anfutong.com",
@@ -17,11 +16,6 @@
         "bml.info",
         "braintreegateway.com",
         "braintreegateway.tv",
-        "braintreepayments.com",
-        "braintreepayments.info",
-        "braintreepayments.org",
-        "braintreepayments.tv",
-        "braintreepaymentsolutions.com",
         "braintreeps.com",
         "briantreepayments.net",
         "briantreepayments.tv",
@@ -68,11 +62,6 @@
         "swiftfinancial.info",
         "swiftfinancial.net",
         "theshoppingexpresslane.net",
-        "venmo-touch.com",
-        "venmo.com",
-        "venmo.info",
-        "venmo.net",
-        "venmo.org",
         "webmoneyinfo.com",
         "wiremoneytoirelandwithxoomeasierandcheaper.com",
         "wwwxoom.com",
@@ -85,7 +74,9 @@
         "xoomcom.com"
       ],
       "domain_keyword": [
-        "paypal"
+        "paypal",
+        "braintreepayments",
+        "venmo"
       ]
     }
   ]

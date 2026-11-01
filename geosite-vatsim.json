@@ -19,15 +19,13 @@
         "vatroc.net",
         "vats.im",
         "vatsea.org",
-        "vatsim.com.br",
-        "vatsim.dev",
-        "vatsim.me",
-        "vatsim.net",
-        "vatsim.uk",
         "vatssa.com",
         "vatsur.org",
         "vatusa.net",
         "vatwa.net"
+      ],
+      "domain_keyword": [
+        "vatsim"
       ]
     }
   ]

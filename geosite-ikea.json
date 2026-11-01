@@ -91,13 +91,10 @@
         "ikea.si",
         "ikea.sk",
         "ikea.ua",
-        "ikea.us",
-        "ingka-dt.cn",
-        "ingka-internal.cn",
-        "ingka-system.cn",
-        "ingka.com",
-        "ingka.dev",
-        "ingkacentres.com"
+        "ikea.us"
+      ],
+      "domain_keyword": [
+        "ingka"
       ]
     }
   ]

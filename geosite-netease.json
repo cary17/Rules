@@ -20,8 +20,6 @@
         "188.com",
         "321fenx.com",
         "a.youdao.com",
-        "admusicpic.music.126.net",
-        "ads.music.126.net",
         "analytics.163.com",
         "crash.163.com",
         "crashlytics.163.com",
@@ -30,8 +28,6 @@
         "haowu.link",
         "iadmat.nosdn.127.net",
         "iadmatapk.nosdn.127.net",
-        "iadmusicmat.music.126.net",
-        "iadmusicmatvideo.music.126.net",
         "icourse163.org",
         "kada.com",
         "lf126.net",
@@ -45,7 +41,6 @@
         "qiyukf.com",
         "qiyukf.net",
         "qiyukf.net.cn",
-        "sentry.music.163.com",
         "static163.net",
         "weiyang.cn",
         "ydstatic.com",
@@ -57,6 +52,9 @@
         "yunxinfw.com",
         "yysls.cn",
         "zhuanzfx.com"
+      ],
+      "domain_keyword": [
+        "music"
       ]
     }
   ]

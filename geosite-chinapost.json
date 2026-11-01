@@ -5,12 +5,6 @@
       "domain_suffix": [
         "11183.com.cn",
         "11185.cn",
-        "chinapost-life.com",
-        "chinapost.cn",
-        "chinapost.com.cn",
-        "chinapostdaily.com.cn",
-        "chinapostnews.cn",
-        "chinapostnews.com.cn",
         "chnppmuseum.com",
         "cnpsec.com",
         "cptu.cn",
@@ -22,6 +16,9 @@
         "psbc.com",
         "ule.com",
         "ulecdn.com"
+      ],
+      "domain_keyword": [
+        "chinapost"
       ]
     }
   ]

@@ -6,11 +6,6 @@
         "conn1.oppomobile.com",
         "conn2.oppomobile.com",
         "connect.rom.miui.com",
-        "connectivity-check.ubuntu.com",
-        "connectivity.samsung.com.cn",
-        "connectivitycheck.gstatic.com",
-        "connectivitycheck.platform.hicloud.com",
-        "connectivitycheck.platform.hihonorcloud.com",
         "edge-http.microsoft.com",
         "networkcheck.kde.org",
         "nmcheck.gnome.org",
@@ -33,6 +28,9 @@
         "msftncsi.com",
         "network-test.debian.org",
         "test.steampowered.com"
+      ],
+      "domain_keyword": [
+        "connectivity"
       ]
     }
   ]

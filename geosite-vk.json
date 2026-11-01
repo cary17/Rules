@@ -45,18 +45,10 @@
         "vkpay.com",
         "vkpay.io",
         "vkpay.ru",
-        "vktech-static.ru",
-        "vkuser.net",
-        "vkuseraudio.com",
-        "vkuseraudio.net",
-        "vkuseraudio.ru",
-        "vkusercdn.ru",
-        "vkuserlive.com",
-        "vkuserlive.net",
-        "vkuserphoto.ru",
-        "vkuservideo.com",
-        "vkuservideo.net",
-        "vkuservideo.ru"
+        "vktech-static.ru"
+      ],
+      "domain_keyword": [
+        "vkuser"
       ]
     }
   ]

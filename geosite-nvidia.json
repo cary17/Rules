@@ -3,31 +3,15 @@
   "rules": [
     {
       "domain_suffix": [
-        "geforce.cn",
-        "geforce.co.kr",
-        "geforce.co.uk",
-        "geforce.com",
-        "geforce.com.tw",
-        "gputechconf.cn",
-        "gputechconf.co.kr",
-        "gputechconf.com",
-        "gputechconf.com.au",
-        "gputechconf.com.tw",
-        "gputechconf.eu",
-        "gputechconf.in",
-        "gputechconf.jp",
         "hf.co",
         "hf.space",
-        "huggingface.co",
-        "shotwithgeforce.com",
-        "tegrazone.co",
-        "tegrazone.co.kr",
-        "tegrazone.com",
-        "tegrazone.jp",
-        "tegrazone.kr"
+        "huggingface.co"
       ],
       "domain_keyword": [
-        "nvidia"
+        "nvidia",
+        "geforce",
+        "gputechconf",
+        "tegrazone"
       ]
     }
   ]

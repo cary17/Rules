@@ -4,17 +4,12 @@
     {
       "domain_suffix": [
         "alibabadns.com",
-        "alicdn.com",
         "alicloudapi.com",
         "alidayu.com",
         "alidns.com",
         "aligfwaf.com",
         "alikunlun.com",
         "alikunlun.net",
-        "alimama.alicdn.com",
-        "atanx.alicdn.com",
-        "atanx2.alicdn.com",
-        "baichuan-sdk.alicdn.com",
         "cdngslb.com",
         "fcapp.run",
         "hichina.com",
@@ -39,13 +34,11 @@
         "kunlunta.com",
         "kunlunvi.com",
         "kunlunwe.com",
-        "mxhichina.com",
-        "myalicdn.com",
-        "nbsdk-baichuan.alicdn.com",
-        "tce.alicdn.com"
+        "mxhichina.com"
       ],
       "domain_keyword": [
-        "aliyun"
+        "aliyun",
+        "alicdn"
       ]
     }
   ]

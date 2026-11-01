@@ -2,14 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "woolite.ca",
-        "woolite.cn",
-        "woolite.com",
-        "woolite.com.cn",
-        "woolite.pl",
-        "woolite.us",
-        "woolitecarpet.com"
+      "domain_keyword": [
+        "woolite"
       ]
     }
   ]

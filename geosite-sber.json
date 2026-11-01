@@ -3,12 +3,9 @@
   "rules": [
     {
       "domain": [
-        "error-tracking.megamarket.tech",
         "metrics.21-school.ru",
         "sberpro.vedomosti.ru",
-        "sentry.sberauto.com",
-        "tracing-http.megamarket.tech",
-        "visor.sberbank.ru"
+        "sentry.sberauto.com"
       ],
       "domain_suffix": [
         "21-school.ru",
@@ -29,9 +26,7 @@
         "accesspoint.uz",
         "ads.sber.ru",
         "afisha.ru",
-        "bps-sberbank.by",
         "citydrive.ru",
-        "clickstream.sberbank.ru",
         "cloud.ru",
         "cloudru.cn",
         "cplsb.ru",
@@ -43,22 +38,9 @@
         "id.ru",
         "jivo.chat",
         "jivo.ru",
-        "jivochat.co.in",
-        "jivochat.co.za",
-        "jivochat.com",
-        "jivochat.com.br",
-        "jivochat.com.co",
-        "jivochat.com.pe",
-        "jivochat.com.tr",
-        "jivochat.de",
-        "jivochat.es",
-        "jivochat.ng",
-        "jivochat.ru",
         "jivosite.com",
         "jivosite.ru",
         "kuper.ru",
-        "megamarket.ru",
-        "megamarket.tech",
         "neon.click",
         "okko.sport",
         "okko.tv",
@@ -73,12 +55,6 @@
         "sber.pro",
         "sber.ru",
         "sberauto.com",
-        "sberbank-insurance.ru",
-        "sberbank-tele.com",
-        "sberbank.com",
-        "sberbank.ru",
-        "sberbankaktivno.ru",
-        "sberbankins.ru",
         "sbercloud.ru",
         "sbercloud.tech",
         "sberdevices.ru",
@@ -89,22 +65,21 @@
         "sberleasing.ru",
         "sberlogistics.ru",
         "sbermarketing.ru",
-        "sbermegamarket.ru",
         "sbermobile.ru",
         "sberpb.ru",
-        "sberspasibo.ru",
         "sbertech.ru",
         "sbertroika.ru",
         "sbrf.ru",
-        "spasibo.digital",
-        "spasibo.market",
-        "spasibobonus.ru",
-        "spasibosb.ru",
-        "spasibosberbank.ru",
         "yookassa.ru",
         "yoomoney.ru",
         "zvuk-b2b.com",
         "zvuk.com"
+      ],
+      "domain_keyword": [
+        "jivochat",
+        "megamarket",
+        "sberbank",
+        "spasibo"
       ]
     }
   ]

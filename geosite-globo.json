@@ -22,20 +22,16 @@
         "revistapegn.com",
         "revistapegn.com.br",
         "revistaquem.com.br",
-        "revistavalor.com.br",
         "sgr.com.br",
         "techtudo.com",
         "techtudo.com.br",
         "umsoplaneta.com",
         "umsoplaneta.com.br",
-        "valor.com.br",
-        "valoreconomico.com.br",
-        "valorinveste.com",
-        "valorinveste.com.br",
         "xuxaverso.com.br"
       ],
       "domain_keyword": [
-        "globo"
+        "globo",
+        "valor"
       ]
     }
   ]

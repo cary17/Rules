@@ -10,15 +10,9 @@
         "10155.com",
         "114menhu.com",
         "169ol.com",
-        "chinaunicom.cn",
-        "chinaunicom.com",
-        "chinaunicom.com.cn",
-        "chinaunicom.com.hk",
-        "chinaunicomglobal.com",
         "cuguplus.com",
         "cuniq.com",
         "cuniq.sg",
-        "mychinaunicom.com",
         "smartont.net",
         "unicompayment.com",
         "wo-adv.cn",
@@ -28,6 +22,9 @@
         "wocloud.com.cn",
         "woread.com.cn",
         "wosms.cn"
+      ],
+      "domain_keyword": [
+        "chinaunicom"
       ]
     }
   ]

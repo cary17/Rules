@@ -9,11 +9,6 @@
         "cdn30.org",
         "cdnmg.com",
         "chinanetcenter.com",
-        "lxdns.cn",
-        "lxdns.com",
-        "lxdns.info",
-        "lxdns.net",
-        "lxdns.org",
         "mwcdns.com",
         "mwcloudcdn.com",
         "npsv6.com",
@@ -32,6 +27,9 @@
         "wsglb.net",
         "wswebcdn.com",
         "wswebpic.com"
+      ],
+      "domain_keyword": [
+        "lxdns"
       ]
     }
   ]

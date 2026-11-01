@@ -3,16 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "clickedu.co.uk",
-        "deepfreeze.co.uk",
-        "deepfreeze.com",
-        "deepfreeze.com.br",
-        "deepfreeze.eu",
-        "deepfreeze.net",
-        "deepfreeze.tech"
+        "clickedu.co.uk"
       ],
       "domain_keyword": [
-        "faronics"
+        "faronics",
+        "deepfreeze"
       ]
     }
   ]

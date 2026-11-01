@@ -42,15 +42,12 @@
         "singlelogin.me",
         "singlelogin.re",
         "singlelogin.site",
-        "z-lib.fm",
-        "z-lib.gd",
-        "z-lib.gl",
-        "z-lib.org",
-        "z-library.se",
-        "z-library.sk",
         "zlib.life",
         "zlibcdn.com",
         "zlibcdn2.com"
+      ],
+      "domain_keyword": [
+        "z-lib"
       ]
     }
   ]

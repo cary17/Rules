@@ -2,21 +2,17 @@
   "version": 1,
   "rules": [
     {
-      "domain": "fontshop-prod-responsive-images.s3.amazonaws.com",
       "domain_suffix": [
         "bitstream.com",
         "fontbook.com",
         "fontexplorerx.com",
-        "fonts.com",
-        "fonts.net",
-        "fontshop.com",
         "fstopimages.com",
-        "itcfonts.com",
         "linotype.com",
         "monotype.com",
-        "monotypeimaging.com",
-        "myfonts.com",
-        "myfonts.net"
+        "monotypeimaging.com"
+      ],
+      "domain_keyword": [
+        "fonts"
       ]
     }
   ]

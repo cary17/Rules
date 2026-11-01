@@ -10,14 +10,9 @@
         "56img.com",
         "adnet.sohu.com",
         "ads.sohu.com",
-        "adv-sv-show.focus.cn",
-        "adv-sv-stat.focus.cn",
         "assp.sohu.com",
-        "bdu.focus.cn",
         "changyou.com",
         "cy.com",
-        "focus-img.cn",
-        "focus.cn",
         "fpb.sohu.com",
         "imp.go.sohu.com",
         "itc.cn",
@@ -35,6 +30,9 @@
         "track.sohu.com",
         "yeyou.com",
         "yeyoucdn.com"
+      ],
+      "domain_keyword": [
+        "focus"
       ]
     }
   ]

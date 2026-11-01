@@ -21,18 +21,6 @@
         "geek-squad.net",
         "geek-squad.org",
         "geek-squads.net",
-        "geeksquad.ca",
-        "geeksquad.cc",
-        "geeksquad.com",
-        "geeksquad.net",
-        "geeksquad.tv",
-        "geeksquadcares.com",
-        "geeksquadcentral.com",
-        "geeksquadforums.com",
-        "geeksquadonline.com",
-        "geeksquadprotectionplan.org",
-        "geeksquadservices.org",
-        "geeksquadwebroot.org",
         "gscanada.info",
         "gsccdn.com",
         "gslink.us",
@@ -40,14 +28,14 @@
         "magnoliaav.com.cn",
         "myrewardzone.com",
         "myrz.com",
-        "onlinegeeksquad.com",
         "pacifickitchenandhome.com",
         "rocketfishproducts.com",
         "techliquidators.com",
         "unbrandedproducts.com"
       ],
       "domain_keyword": [
-        "bestbuy"
+        "bestbuy",
+        "geeksquad"
       ]
     }
   ]

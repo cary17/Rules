@@ -3,30 +3,14 @@
   "rules": [
     {
       "domain": [
-        "blizzard.nefficient.co.kr",
-        "blizzcon-a.akamaihd.net",
-        "blzddist1-a.akamaihd.net",
-        "blzddistkr1-a.akamaihd.net",
-        "blzmedia-a.akamaihd.net",
         "blznav.akamaized.net",
-        "bnetcmsus-a.akamaihd.net",
-        "bnetproduct-a.akamaihd.net",
         "bnetshopus.akamaized.net"
       ],
       "domain_suffix": [
         "activision.com",
-        "activisionblizzard.com",
-        "activisionblizzardmedia.com",
         "battle.net",
         "benefitsforeveryworld.com",
-        "blizzard.com",
-        "blizzardgearstore.com",
         "blz-contentstack.com",
-        "callofduty.com",
-        "callofdutyendowment.com",
-        "callofdutyendowment.org",
-        "callofdutyleague.com",
-        "callofdutymobile.com",
         "candycrush.com",
         "crashbandicoot.com",
         "demonware.net",
@@ -57,6 +41,11 @@
         "treyarch.com",
         "worldofwarcraft.com",
         "worldseriesofwarzone.com"
+      ],
+      "domain_keyword": [
+        "akamaihd",
+        "blizzard",
+        "callofduty"
       ]
     }
   ]

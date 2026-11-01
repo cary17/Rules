@@ -2,7 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "domain": "prodforza.blob.core.windows.net",
       "domain_suffix": [
         ".xbox",
         "beth.games",
@@ -12,10 +11,6 @@
         "callersbane.com",
         "doom.com",
         "elderscrolls.com",
-        "forza.net",
-        "forzamotorsport.net",
-        "forzaracingchampionship.com",
-        "forzarc.com",
         "gamepass.com",
         "minecraft-services.net",
         "minecraft.net",
@@ -45,6 +40,9 @@
         "xboxservices.com",
         "xboxstudios.com",
         "xbx.lv"
+      ],
+      "domain_keyword": [
+        "forza"
       ]
     }
   ]

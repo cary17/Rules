@@ -15,15 +15,11 @@
         "bsappapi.cc",
         "bsappapi.com",
         "bscdnweb.com",
-        "nftstatic.com",
-        "saasexch.cc",
-        "saasexch.co",
-        "saasexch.com",
-        "saasexch.info",
-        "saasexch.io"
+        "nftstatic.com"
       ],
       "domain_keyword": [
-        "binance"
+        "binance",
+        "saasexch"
       ]
     }
   ]

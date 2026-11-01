@@ -7,11 +7,6 @@
         "enanyang.my",
         "guangming.com.my",
         "mediachinese.com",
-        "mingpao.com",
-        "mingpaocanada.com",
-        "mingpaomonthly.com",
-        "mingpaotor.com",
-        "mingpaovan.com",
         "mings-fashion.com",
         "mings.hk",
         "mingshengbao.com",
@@ -24,6 +19,9 @@
         "sinchew.my",
         "soccerfanz.com.my",
         "yzzk.com"
+      ],
+      "domain_keyword": [
+        "mingpao"
       ]
     }
   ]

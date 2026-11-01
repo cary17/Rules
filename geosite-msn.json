@@ -5,17 +5,6 @@
       "domain_suffix": [
         "browser.events.data.msn.cn",
         "browser.events.data.msn.com",
-        "microsoftnews.cc",
-        "microsoftnews.cn",
-        "microsoftnews.com",
-        "microsoftnews.net",
-        "microsoftnews.org",
-        "microsoftnewsforkids.com",
-        "microsoftnewsforkids.net",
-        "microsoftnewsforkids.org",
-        "microsoftnewskids.com",
-        "microsoftnewskids.net",
-        "microsoftnewskids.org",
         "microsoftstart.com",
         "msn.cn",
         "msn.com",
@@ -24,6 +13,9 @@
         "msnewskids.org",
         "msnkids.com",
         "start.com"
+      ],
+      "domain_keyword": [
+        "microsoftnews"
       ]
     }
   ]

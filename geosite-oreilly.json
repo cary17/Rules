@@ -3,12 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "oreil.ly",
-        "oreilly.com",
-        "oreilly.com.cn",
-        "oreilly.review",
-        "oreillystatic.com",
         "orl.ly"
+      ],
+      "domain_keyword": [
+        "oreil"
       ]
     }
   ]

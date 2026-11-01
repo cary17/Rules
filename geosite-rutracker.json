@@ -4,14 +4,10 @@
     {
       "domain_suffix": [
         "maintracker.org",
-        "rutracker.cc",
-        "rutracker.cr",
-        "rutracker.me",
-        "rutracker.net",
-        "rutracker.nl",
-        "rutracker.org",
-        "rutracker.wiki",
         "rutrk.org"
+      ],
+      "domain_keyword": [
+        "rutracker"
       ]
     }
   ]

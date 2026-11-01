@@ -5,11 +5,6 @@
       "domain_suffix": [
         "anm.co.uk",
         "dailym.ai",
-        "dailymail.co.uk",
-        "dailymail.com",
-        "dailymail.com.au",
-        "dailymail.dk",
-        "dailymailonline.com",
         "dmgmediaprivacy.co.uk",
         "mailhealth.com",
         "mailonline.co.uk",
@@ -20,6 +15,9 @@
         "mol.im",
         "thisismoney.co.uk",
         "thismon.ee"
+      ],
+      "domain_keyword": [
+        "dailymail"
       ]
     }
   ]

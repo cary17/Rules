@@ -13,7 +13,6 @@
         "booking-tec.ru",
         "capitalt.ru",
         "cardsmobile.ru",
-        "cdn-tinkoff.ru",
         "centraluniversity.ru",
         "codeseason.by",
         "cu.ru",
@@ -49,12 +48,6 @@
         "rbcollect.ru",
         "rbcredit.ru",
         "rf-sim-mobile.ru",
-        "rosbank-auto.ru",
-        "rosbank-capital.ru",
-        "rosbank-credit.com",
-        "rosbank-dom.ru",
-        "rosbank-leasing.ru",
-        "rosbank.ru",
         "rusfinance.ru",
         "rusfinancebank.ru",
         "safeliner.tech",
@@ -90,15 +83,6 @@
         "tcsbank.ru",
         "tdev.by",
         "time-messenger.ru",
-        "tinkoff-edu.ru",
-        "tinkoff-group.com",
-        "tinkoff.ai",
-        "tinkoff.ru",
-        "tinkoffcapital.ru",
-        "tinkoffinsurance.ru",
-        "tinkoffinsurancefuture.ru",
-        "tinkoffjournal.ru",
-        "tinkoffmobile.com",
         "tinsurance.ru",
         "tinsurancefuture.ru",
         "tmiaf.ru",
@@ -113,6 +97,10 @@
         "xn--b1aechhj6bof8g5a.site",
         "xn--d1abkf4ap.fun",
         "xn--h1ao.site"
+      ],
+      "domain_keyword": [
+        "rosbank",
+        "tinkoff"
       ]
     }
   ]

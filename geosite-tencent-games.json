@@ -13,9 +13,6 @@
         "gamebonfire.com",
         "gameitop.com",
         "gameloop.com",
-        "gcloudcs.com",
-        "gcloudcstest.com",
-        "gcloudcstestonly.com",
         "gclouddolphin.com",
         "gcloudsdk.com",
         "gcloudsvcs.com",
@@ -29,7 +26,6 @@
         "happyhlddz.com",
         "haydaypop.cn",
         "hdyxgame.com",
-        "hkgcloudcs.com",
         "ihappystudio.cn",
         "ihappystudio.com",
         "in.th",
@@ -45,7 +41,6 @@
         "mszdld.cn",
         "mszdld.com",
         "mszdld.net",
-        "nagcloudcs.com",
         "nextstudios.com",
         "nextworkshop.net",
         "proximabeta.com",
@@ -88,6 +83,9 @@
         "yzyxgame.com",
         "zcjbgame.com",
         "zhuoyuegame.com"
+      ],
+      "domain_keyword": [
+        "gcloudcs"
       ]
     }
   ]

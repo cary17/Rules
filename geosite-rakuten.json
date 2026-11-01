@@ -5,17 +5,12 @@
       "domain_suffix": [
         "bfads.net",
         "buyservices.com",
-        "ebates.ca",
-        "ebates.kr",
-        "ebates.sg",
-        "ebatescanada.com",
         "ecbsn.com",
         "fatwallet.com",
         "kobo.com",
         "r10s.com",
         "r10s.jp",
         "rclon.com",
-        "rebates.jp",
         "rrcbsn.com",
         "vbcdn.com",
         "vbcdn.net",
@@ -25,7 +20,8 @@
         "viki.com"
       ],
       "domain_keyword": [
-        "rakuten"
+        "rakuten",
+        "ebates"
       ]
     }
   ]

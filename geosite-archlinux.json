@@ -3,12 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "archlinux.de",
-        "archlinux.org",
-        "archlinux.page",
-        "archlinuxarm.org",
-        "archlinuxcn.org",
         "pkgbuild.com"
+      ],
+      "domain_keyword": [
+        "archlinux"
       ]
     }
   ]

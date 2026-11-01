@@ -2,12 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "framer.com",
-        "framer.website",
-        "framercanvas.com",
-        "framerstatic.com",
-        "framerusercontent.com"
+      "domain_keyword": [
+        "framer"
       ]
     }
   ]

@@ -3,16 +3,12 @@
   "rules": [
     {
       "domain": [
-        "ads.yango.com",
-        "clck.yango.com",
         "kp-config-smart-tv.akamaized.net",
-        "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com",
-        "mc.yango.com"
+        "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com"
       ],
       "domain_suffix": [
         "adfox.ru",
         "admetrica.ru",
-        "appmetrica.yango.com",
         "berizaryad.ru",
         "beru.ru",
         "bookmate.ru",
@@ -54,20 +50,6 @@
         "ya.ru",
         "yadi.sk",
         "yads.tech",
-        "yango-ads.com",
-        "yango-b2b.com",
-        "yango-team.com",
-        "yango-tech.com",
-        "yango.africa",
-        "yango.ao",
-        "yango.bh",
-        "yango.co.il",
-        "yango.com",
-        "yango.fi",
-        "yango.qa",
-        "yango.taxi",
-        "yango.tech",
-        "yangofellowship.com",
         "yastat.net",
         "yastatic-net.ru",
         "yastatic.net",
@@ -76,7 +58,8 @@
         "yndx.net"
       ],
       "domain_keyword": [
-        "yandex"
+        "yandex",
+        "yango"
       ]
     }
   ]

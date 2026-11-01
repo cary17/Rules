@@ -2,7 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "domain": "developers.facebook.com",
       "domain_suffix": [
         "accountkit.com",
         "atscaleconference.com",
@@ -12,11 +11,6 @@
         "componentkit.org",
         "draftjs.org",
         "f8.com",
-        "facebookappcenter.info",
-        "facebookappcenter.net",
-        "facebookappcenter.org",
-        "facebookconnect.com",
-        "facebookdevelopergarage.com",
         "faciometrics.com",
         "fasttext.cc",
         "fbf8.com",
@@ -47,6 +41,9 @@
         "rocksdb.net",
         "rocksdb.org",
         "yogalayout.com"
+      ],
+      "domain_keyword": [
+        "facebook"
       ]
     }
   ]

@@ -33,11 +33,6 @@
         "duapp.net",
         "duapps.com",
         "duurl.cn",
-        "duxiaoman-int.com",
-        "duxiaoman.com",
-        "duxiaomanfintech.com",
-        "duxiaomanfund.com",
-        "duxiaomantech.com",
         "dwz.cn",
         "dxm-cdn.com",
         "dxm-int.com",
@@ -78,7 +73,8 @@
         "zz.bdstatic.com"
       ],
       "domain_keyword": [
-        "baidu"
+        "baidu",
+        "duxiaoman"
       ]
     }
   ]

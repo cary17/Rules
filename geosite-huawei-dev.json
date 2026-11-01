@@ -6,11 +6,6 @@
         "bisheng.cn",
         "bishengcompiler.cn",
         "devui.design",
-        "gneec.com",
-        "gneec.com.cn",
-        "gneec3.com",
-        "gneec4.com",
-        "gneec7.com",
         "harmonyos.com",
         "hiascend.cn",
         "hiascend.com",
@@ -26,6 +21,9 @@
         "owsgo.com",
         "saasops.tech",
         "teleows.com"
+      ],
+      "domain_keyword": [
+        "gneec"
       ]
     }
   ]

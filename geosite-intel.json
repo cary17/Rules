@@ -80,12 +80,6 @@
         "silicon-mobility.com",
         "siliconmobility.com",
         "siport.com",
-        "smart-edge.com",
-        "smart-edge.info",
-        "smart-edge.io",
-        "smart-edge.net",
-        "smart-edge.org",
-        "smart-edge.systems",
         "smartedge.info",
         "snap-telemetry.io",
         "storageclassmemory.io",
@@ -103,7 +97,8 @@
         "xscale.com"
       ],
       "domain_keyword": [
-        "intel"
+        "intel",
+        "smart-edge"
       ]
     }
   ]

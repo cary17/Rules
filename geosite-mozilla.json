@@ -12,13 +12,7 @@
         "detodosparatodos.org",
         "discovershiretoko.org",
         "ecmascript.org",
-        "extendfirefox.com",
         "extensionworkshop.com",
-        "firefox-portal-detection.com",
-        "firefox.com",
-        "firefox.hu",
-        "firefoxtweetmachine.com",
-        "firefoxusercontent.com",
         "foxkeh.com",
         "foxkeh.jp",
         "getfirebug.com",
@@ -47,7 +41,8 @@
         "webmademovies.org"
       ],
       "domain_keyword": [
-        "mozilla"
+        "mozilla",
+        "firefox"
       ]
     }
   ]

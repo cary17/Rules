@@ -3,14 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "signal.art",
-        "signal.group",
-        "signal.link",
-        "signal.me",
-        "signal.org",
-        "signal.tube",
-        "signalusers.org",
         "whispersystems.org"
+      ],
+      "domain_keyword": [
+        "signal"
       ]
     }
   ]

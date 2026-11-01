@@ -6,11 +6,6 @@
         "boombeach.com",
         "brawlstars.com",
         "brawlstarsgame.com",
-        "clash.com",
-        "clashmini.com",
-        "clashofclans.com",
-        "clashroyale.com",
-        "clashroyaleapp.com",
         "gamesfirsthelsinki.com",
         "hayday.com",
         "haydaygame.com",
@@ -20,7 +15,8 @@
         "supr.cl"
       ],
       "domain_keyword": [
-        "supercell"
+        "supercell",
+        "clash"
       ]
     }
   ]
