@@ -1,7 +1,8 @@
 # NAME: stackexchange
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 25
-# TOTAL: 25
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 14
+# DOMAIN-KEYWORD: 1
+# TOTAL: 15
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,blogoverflow.com
 DOMAIN-SUFFIX,codeforaliving.io
@@ -12,18 +13,8 @@ DOMAIN-SUFFIX,stackapps.com
 DOMAIN-SUFFIX,stackauth.com
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,stackmod.blog
-DOMAIN-SUFFIX,stackoverflow.blog
-DOMAIN-SUFFIX,stackoverflow.co
-DOMAIN-SUFFIX,stackoverflow.com
-DOMAIN-SUFFIX,stackoverflow.email
-DOMAIN-SUFFIX,stackoverflow.help
-DOMAIN-SUFFIX,stackoverflow.net
-DOMAIN-SUFFIX,stackoverflowbusiness.com
-DOMAIN-SUFFIX,stackoverflowcareers.com
-DOMAIN-SUFFIX,stackoverflowjobs.com
-DOMAIN-SUFFIX,stackoverflowsolutions.com
-DOMAIN-SUFFIX,stackoverflowteams.com
 DOMAIN-SUFFIX,stacksnippets.net
 DOMAIN-SUFFIX,superuser.com
 DOMAIN-SUFFIX,tex-talk.net
 DOMAIN-SUFFIX,thesffblog.com
+DOMAIN-KEYWORD,stackoverflow

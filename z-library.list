@@ -1,7 +1,8 @@
 # NAME: z-library
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 48
-# TOTAL: 48
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 42
+# DOMAIN-KEYWORD: 1
+# TOTAL: 43
 DOMAIN-SUFFIX,1lib.cloud
 DOMAIN-SUFFIX,1lib.cz
 DOMAIN-SUFFIX,1lib.domains
@@ -41,12 +42,7 @@ DOMAIN-SUFFIX,singlelogin.app
 DOMAIN-SUFFIX,singlelogin.me
 DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,singlelogin.site
-DOMAIN-SUFFIX,z-lib.fm
-DOMAIN-SUFFIX,z-lib.gd
-DOMAIN-SUFFIX,z-lib.gl
-DOMAIN-SUFFIX,z-lib.org
-DOMAIN-SUFFIX,z-library.se
-DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,zlib.life
 DOMAIN-SUFFIX,zlibcdn.com
 DOMAIN-SUFFIX,zlibcdn2.com
+DOMAIN-KEYWORD,z-lib

@@ -1,10 +1,8 @@
 # NAME: paypal
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 79
-# DOMAIN-KEYWORD: 1
-# TOTAL: 81
-DOMAIN,venmo.s3.amazonaws.com
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 69
+# DOMAIN-KEYWORD: 3
+# TOTAL: 72
 DOMAIN-SUFFIX,anfutong.cn
 DOMAIN-SUFFIX,anfutong.com
 DOMAIN-SUFFIX,anfutong.com.cn
@@ -18,11 +16,6 @@ DOMAIN-SUFFIX,billmelater.net
 DOMAIN-SUFFIX,bml.info
 DOMAIN-SUFFIX,braintreegateway.com
 DOMAIN-SUFFIX,braintreegateway.tv
-DOMAIN-SUFFIX,braintreepayments.com
-DOMAIN-SUFFIX,braintreepayments.info
-DOMAIN-SUFFIX,braintreepayments.org
-DOMAIN-SUFFIX,braintreepayments.tv
-DOMAIN-SUFFIX,braintreepaymentsolutions.com
 DOMAIN-SUFFIX,braintreeps.com
 DOMAIN-SUFFIX,briantreepayments.net
 DOMAIN-SUFFIX,briantreepayments.tv
@@ -69,11 +62,6 @@ DOMAIN-SUFFIX,swiftfinancial.com
 DOMAIN-SUFFIX,swiftfinancial.info
 DOMAIN-SUFFIX,swiftfinancial.net
 DOMAIN-SUFFIX,theshoppingexpresslane.net
-DOMAIN-SUFFIX,venmo-touch.com
-DOMAIN-SUFFIX,venmo.com
-DOMAIN-SUFFIX,venmo.info
-DOMAIN-SUFFIX,venmo.net
-DOMAIN-SUFFIX,venmo.org
 DOMAIN-SUFFIX,webmoneyinfo.com
 DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
 DOMAIN-SUFFIX,wwwxoom.com
@@ -85,3 +73,5 @@ DOMAIN-SUFFIX,xoom.net.cn
 DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
 DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,braintreepayments
+DOMAIN-KEYWORD,venmo

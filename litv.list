@@ -1,16 +1,9 @@
 # NAME: litv
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 8
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN-SUFFIX: 3
-# TOTAL: 11
-DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
-DOMAIN,ntdfreepc-tgc.cdn.hinet.net
-DOMAIN,ntdfreetv-tgc.cdn.hinet.net
-DOMAIN,ntdfreevcpc-tgc.cdn.hinet.net
-DOMAIN,ntdofifreemobile-tgc.cdn.hinet.net
-DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
-DOMAIN,ntdofifreetv-tgc.cdn.hinet.net
-DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
+# DOMAIN-KEYWORD: 1
+# TOTAL: 4
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,litvfreepc.akamaized.net
 DOMAIN-SUFFIX,ofiii.com
+DOMAIN-KEYWORD,hinet

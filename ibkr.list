@@ -1,7 +1,8 @@
 # NAME: ibkr
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 11
+# DOMAIN-KEYWORD: 1
+# TOTAL: 12
 DOMAIN-SUFFIX,ibkr.ca
 DOMAIN-SUFFIX,ibkr.co.in
 DOMAIN-SUFFIX,ibkr.co.uk
@@ -13,13 +14,4 @@ DOMAIN-SUFFIX,ibkr.eu
 DOMAIN-SUFFIX,ibkr.ie
 DOMAIN-SUFFIX,ibkrguides.com
 DOMAIN-SUFFIX,ibllc.com
-DOMAIN-SUFFIX,interactivebrokers.ca
-DOMAIN-SUFFIX,interactivebrokers.co.in
-DOMAIN-SUFFIX,interactivebrokers.co.jp
-DOMAIN-SUFFIX,interactivebrokers.co.uk
-DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,interactivebrokers.com.au
-DOMAIN-SUFFIX,interactivebrokers.com.hk
-DOMAIN-SUFFIX,interactivebrokers.com.sg
-DOMAIN-SUFFIX,interactivebrokers.eu
-DOMAIN-SUFFIX,interactivebrokers.ie
+DOMAIN-KEYWORD,interactivebrokers

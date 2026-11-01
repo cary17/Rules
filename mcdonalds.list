@@ -1,8 +1,8 @@
 # NAME: mcdonalds
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 19
-# DOMAIN-KEYWORD: 1
-# TOTAL: 20
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 11
+# DOMAIN-KEYWORD: 2
+# TOTAL: 13
 DOMAIN-SUFFIX,4008-517-517.cn
 DOMAIN-SUFFIX,happymeal.co.nz
 DOMAIN-SUFFIX,happymeal.com
@@ -12,14 +12,7 @@ DOMAIN-SUFFIX,mcd-holdings.co.jp
 DOMAIN-SUFFIX,mcd.cn
 DOMAIN-SUFFIX,mcd.com
 DOMAIN-SUFFIX,mcdchina.net
-DOMAIN-SUFFIX,mcdelivery.co.id
-DOMAIN-SUFFIX,mcdelivery.co.in
-DOMAIN-SUFFIX,mcdelivery.co.kr
-DOMAIN-SUFFIX,mcdelivery.com.au
-DOMAIN-SUFFIX,mcdelivery.com.my
-DOMAIN-SUFFIX,mcdelivery.com.ph
-DOMAIN-SUFFIX,mcdelivery.com.sg
-DOMAIN-SUFFIX,mcdelivery.com.tw
 DOMAIN-SUFFIX,mcdindia.com
 DOMAIN-SUFFIX,mcdindonesia.com
 DOMAIN-KEYWORD,mcdonalds
+DOMAIN-KEYWORD,mcdelivery

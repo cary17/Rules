@@ -1,10 +1,5 @@
 # NAME: teamviewer
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 3
-# TOTAL: 5
-DOMAIN,client-teamviewer-com.trafficmanager.net
-DOMAIN,teamviewer.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,teamviewer.cn
-DOMAIN-SUFFIX,teamviewer.com
-DOMAIN-SUFFIX,teamviewer.us
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+DOMAIN-KEYWORD,teamviewer

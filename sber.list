@@ -1,14 +1,12 @@
 # NAME: sber
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 6
-# DOMAIN-SUFFIX: 94
-# TOTAL: 100
-DOMAIN,error-tracking.megamarket.tech
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 66
+# DOMAIN-KEYWORD: 4
+# TOTAL: 73
 DOMAIN,metrics.21-school.ru
 DOMAIN,sberpro.vedomosti.ru
 DOMAIN,sentry.sberauto.com
-DOMAIN,tracing-http.megamarket.tech
-DOMAIN,visor.sberbank.ru
 DOMAIN-SUFFIX,21-school.ru
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.am
@@ -27,9 +25,7 @@ DOMAIN-SUFFIX,2gis.uz
 DOMAIN-SUFFIX,accesspoint.uz
 DOMAIN-SUFFIX,ads.sber.ru
 DOMAIN-SUFFIX,afisha.ru
-DOMAIN-SUFFIX,bps-sberbank.by
 DOMAIN-SUFFIX,citydrive.ru
-DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,cloud.ru
 DOMAIN-SUFFIX,cloudru.cn
 DOMAIN-SUFFIX,cplsb.ru
@@ -41,22 +37,9 @@ DOMAIN-SUFFIX,gitverse.ru
 DOMAIN-SUFFIX,id.ru
 DOMAIN-SUFFIX,jivo.chat
 DOMAIN-SUFFIX,jivo.ru
-DOMAIN-SUFFIX,jivochat.co.in
-DOMAIN-SUFFIX,jivochat.co.za
-DOMAIN-SUFFIX,jivochat.com
-DOMAIN-SUFFIX,jivochat.com.br
-DOMAIN-SUFFIX,jivochat.com.co
-DOMAIN-SUFFIX,jivochat.com.pe
-DOMAIN-SUFFIX,jivochat.com.tr
-DOMAIN-SUFFIX,jivochat.de
-DOMAIN-SUFFIX,jivochat.es
-DOMAIN-SUFFIX,jivochat.ng
-DOMAIN-SUFFIX,jivochat.ru
 DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,kuper.ru
-DOMAIN-SUFFIX,megamarket.ru
-DOMAIN-SUFFIX,megamarket.tech
 DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
@@ -71,12 +54,6 @@ DOMAIN-SUFFIX,sber-bank.by
 DOMAIN-SUFFIX,sber.pro
 DOMAIN-SUFFIX,sber.ru
 DOMAIN-SUFFIX,sberauto.com
-DOMAIN-SUFFIX,sberbank-insurance.ru
-DOMAIN-SUFFIX,sberbank-tele.com
-DOMAIN-SUFFIX,sberbank.com
-DOMAIN-SUFFIX,sberbank.ru
-DOMAIN-SUFFIX,sberbankaktivno.ru
-DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sbercloud.ru
 DOMAIN-SUFFIX,sbercloud.tech
 DOMAIN-SUFFIX,sberdevices.ru
@@ -87,19 +64,16 @@ DOMAIN-SUFFIX,sberindex.ru
 DOMAIN-SUFFIX,sberleasing.ru
 DOMAIN-SUFFIX,sberlogistics.ru
 DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN-SUFFIX,sbermegamarket.ru
 DOMAIN-SUFFIX,sbermobile.ru
 DOMAIN-SUFFIX,sberpb.ru
-DOMAIN-SUFFIX,sberspasibo.ru
 DOMAIN-SUFFIX,sbertech.ru
 DOMAIN-SUFFIX,sbertroika.ru
 DOMAIN-SUFFIX,sbrf.ru
-DOMAIN-SUFFIX,spasibo.digital
-DOMAIN-SUFFIX,spasibo.market
-DOMAIN-SUFFIX,spasibobonus.ru
-DOMAIN-SUFFIX,spasibosb.ru
-DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,yookassa.ru
 DOMAIN-SUFFIX,yoomoney.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
+DOMAIN-KEYWORD,jivochat
+DOMAIN-KEYWORD,megamarket
+DOMAIN-KEYWORD,sberbank
+DOMAIN-KEYWORD,spasibo

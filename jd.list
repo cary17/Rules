@@ -1,15 +1,11 @@
 # NAME: jd
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 255
-# TOTAL: 255
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 184
+# DOMAIN-KEYWORD: 3
+# TOTAL: 187
 DOMAIN-SUFFIX,1huizhan.com
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,300hu.com
-DOMAIN-SUFFIX,360buy.cn
-DOMAIN-SUFFIX,360buy.com
-DOMAIN-SUFFIX,360buy.com.cn
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,360buyinternational.com
 DOMAIN-SUFFIX,360top.com
 DOMAIN-SUFFIX,51epei.com
 DOMAIN-SUFFIX,51yipei.com
@@ -98,7 +94,6 @@ DOMAIN-SUFFIX,cloudyuncheng.com
 DOMAIN-SUFFIX,cloudyuxi.com
 DOMAIN-SUFFIX,cloudzhongshan.com
 DOMAIN-SUFFIX,cloudzhuhai.com
-DOMAIN-SUFFIX,cps.360buy.com
 DOMAIN-SUFFIX,dao123.com
 DOMAIN-SUFFIX,dd-advisor.com
 DOMAIN-SUFFIX,duiou.com.cn
@@ -108,39 +103,7 @@ DOMAIN-SUFFIX,goselling.com
 DOMAIN-SUFFIX,healthjd.com
 DOMAIN-SUFFIX,imdada.cn
 DOMAIN-SUFFIX,img-x.jd.com
-DOMAIN-SUFFIX,isvjcloud.com
 DOMAIN-SUFFIX,isvjd.com
-DOMAIN-SUFFIX,jcloud-cache.com
-DOMAIN-SUFFIX,jcloud-cache.net
-DOMAIN-SUFFIX,jcloud-cdn.com
-DOMAIN-SUFFIX,jcloud-live.com
-DOMAIN-SUFFIX,jcloud-oss.com
-DOMAIN-SUFFIX,jcloud.com
-DOMAIN-SUFFIX,jcloudcache.com
-DOMAIN-SUFFIX,jcloudcache.net
-DOMAIN-SUFFIX,jcloudcs.com
-DOMAIN-SUFFIX,jclouddn.com
-DOMAIN-SUFFIX,jclouddns.com
-DOMAIN-SUFFIX,jclouddns.net
-DOMAIN-SUFFIX,jcloudec.com
-DOMAIN-SUFFIX,jcloudedge.com
-DOMAIN-SUFFIX,jcloudedge.net
-DOMAIN-SUFFIX,jcloudgslb.com
-DOMAIN-SUFFIX,jcloudgslb.net
-DOMAIN-SUFFIX,jcloudimg.com
-DOMAIN-SUFFIX,jcloudimg.net
-DOMAIN-SUFFIX,jcloudlb.com
-DOMAIN-SUFFIX,jcloudlb.net
-DOMAIN-SUFFIX,jcloudlive.com
-DOMAIN-SUFFIX,jcloudlv.com
-DOMAIN-SUFFIX,jcloudoss.com
-DOMAIN-SUFFIX,jcloudresolve.com
-DOMAIN-SUFFIX,jcloudresolve.net
-DOMAIN-SUFFIX,jcloudss.com
-DOMAIN-SUFFIX,jcloudstatic.com
-DOMAIN-SUFFIX,jcloudstatic.net
-DOMAIN-SUFFIX,jcloudvideo.com
-DOMAIN-SUFFIX,jcloudvideo.net
 DOMAIN-SUFFIX,jclps.com
 DOMAIN-SUFFIX,jd-app.com
 DOMAIN-SUFFIX,jd-ex.cn
@@ -159,39 +122,6 @@ DOMAIN-SUFFIX,jdallianz.com
 DOMAIN-SUFFIX,jdbusiness.com
 DOMAIN-SUFFIX,jdcache.com
 DOMAIN-SUFFIX,jdcdn.com
-DOMAIN-SUFFIX,jdcloud-api.com
-DOMAIN-SUFFIX,jdcloud-api.net
-DOMAIN-SUFFIX,jdcloud-edu.com
-DOMAIN-SUFFIX,jdcloud-elite.com
-DOMAIN-SUFFIX,jdcloud-elive.com
-DOMAIN-SUFFIX,jdcloud-livebuy.com
-DOMAIN-SUFFIX,jdcloud-mail.com
-DOMAIN-SUFFIX,jdcloud-openapi.com
-DOMAIN-SUFFIX,jdcloud-oss.com
-DOMAIN-SUFFIX,jdcloud.com
-DOMAIN-SUFFIX,jdcloudcache.com
-DOMAIN-SUFFIX,jdcloudcache.net
-DOMAIN-SUFFIX,jdcloudcdn.com
-DOMAIN-SUFFIX,jdcloudcdn.net
-DOMAIN-SUFFIX,jdcloudcs.com
-DOMAIN-SUFFIX,jdclouddns.com
-DOMAIN-SUFFIX,jdclouddns.net
-DOMAIN-SUFFIX,jdcloudedge.com
-DOMAIN-SUFFIX,jdcloudedge.net
-DOMAIN-SUFFIX,jdcloudlb.com
-DOMAIN-SUFFIX,jdcloudlb.net
-DOMAIN-SUFFIX,jdcloudlive.com
-DOMAIN-SUFFIX,jdcloudlive.net
-DOMAIN-SUFFIX,jdcloudresolve.com
-DOMAIN-SUFFIX,jdcloudresolve.net
-DOMAIN-SUFFIX,jdcloudsite.com
-DOMAIN-SUFFIX,jdcloudstatic.com
-DOMAIN-SUFFIX,jdcloudstatic.net
-DOMAIN-SUFFIX,jdcloudstatus.com
-DOMAIN-SUFFIX,jdcloudstatus.net
-DOMAIN-SUFFIX,jdcloudvideo.com
-DOMAIN-SUFFIX,jdcloudvideo.net
-DOMAIN-SUFFIX,jdcloudwaf.com
 DOMAIN-SUFFIX,jddapeigou.com
 DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,jddglobal.com
@@ -257,3 +187,6 @@ DOMAIN-SUFFIX,yizhitou.com
 DOMAIN-SUFFIX,yunpei.com
 DOMAIN-SUFFIX,yunxiu.com
 DOMAIN-SUFFIX,zhongyouex.com
+DOMAIN-KEYWORD,360buy
+DOMAIN-KEYWORD,jcloud
+DOMAIN-KEYWORD,jdcloud

@@ -1,17 +1,12 @@
 # NAME: kurogames
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 6
+# DOMAIN-KEYWORD: 1
+# TOTAL: 7
 DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,aki-game.net
 DOMAIN-SUFFIX,aki-game2.com
 DOMAIN-SUFFIX,aki-game2.net
 DOMAIN-SUFFIX,kurobbs.com
-DOMAIN-SUFFIX,kurogame-service.com
-DOMAIN-SUFFIX,kurogame.com
-DOMAIN-SUFFIX,kurogame.net
-DOMAIN-SUFFIX,kurogame.xyz
-DOMAIN-SUFFIX,kurogames-ads.com
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,kurogames.net
 DOMAIN-SUFFIX,wutheringwaves.cn
+DOMAIN-KEYWORD,kurogame

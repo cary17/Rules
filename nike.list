@@ -1,7 +1,8 @@
 # NAME: nike
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 196
-# TOTAL: 196
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 183
+# DOMAIN-KEYWORD: 1
+# TOTAL: 184
 DOMAIN-SUFFIX,.nike
 DOMAIN-SUFFIX,air-nike-shoes.com
 DOMAIN-SUFFIX,airmax360.com
@@ -12,7 +13,6 @@ DOMAIN-SUFFIX,cheap-nike.com
 DOMAIN-SUFFIX,cheapnikedunks.com
 DOMAIN-SUFFIX,cheapnikeoutlet.com
 DOMAIN-SUFFIX,classicnike.com
-DOMAIN-SUFFIX,cnnikebrand.com
 DOMAIN-SUFFIX,customnikeshoes.com
 DOMAIN-SUFFIX,easynike.com
 DOMAIN-SUFFIX,eenike.com
@@ -60,18 +60,6 @@ DOMAIN-SUFFIX,nikeairrift.com
 DOMAIN-SUFFIX,nikeasia.com
 DOMAIN-SUFFIX,nikeaustralia.com
 DOMAIN-SUFFIX,nikeaw77.com
-DOMAIN-SUFFIX,nikeb.com
-DOMAIN-SUFFIX,nikebbn.com
-DOMAIN-SUFFIX,nikebetrue.com
-DOMAIN-SUFFIX,nikebetterworld.cn
-DOMAIN-SUFFIX,nikebetterworld.com
-DOMAIN-SUFFIX,nikebetterworld.com.cn
-DOMAIN-SUFFIX,nikebetterworld.info
-DOMAIN-SUFFIX,nikebetterworld.net
-DOMAIN-SUFFIX,nikebetterworld.org
-DOMAIN-SUFFIX,nikebiz.info
-DOMAIN-SUFFIX,nikebuy.com
-DOMAIN-SUFFIX,nikeby.com
 DOMAIN-SUFFIX,nikecdn.com
 DOMAIN-SUFFIX,nikechina.cn
 DOMAIN-SUFFIX,nikechosen.com
@@ -198,3 +186,4 @@ DOMAIN-SUFFIX,thedailysnkr.com
 DOMAIN-SUFFIX,verygoodnike.com
 DOMAIN-SUFFIX,womensnikeshox.com
 DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e
+DOMAIN-KEYWORD,nikeb

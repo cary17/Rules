@@ -1,19 +1,13 @@
 # NAME: monotype
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 13
-# TOTAL: 14
-DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 DOMAIN-SUFFIX,bitstream.com
 DOMAIN-SUFFIX,fontbook.com
 DOMAIN-SUFFIX,fontexplorerx.com
-DOMAIN-SUFFIX,fonts.com
-DOMAIN-SUFFIX,fonts.net
-DOMAIN-SUFFIX,fontshop.com
 DOMAIN-SUFFIX,fstopimages.com
-DOMAIN-SUFFIX,itcfonts.com
 DOMAIN-SUFFIX,linotype.com
 DOMAIN-SUFFIX,monotype.com
 DOMAIN-SUFFIX,monotypeimaging.com
-DOMAIN-SUFFIX,myfonts.com
-DOMAIN-SUFFIX,myfonts.net
+DOMAIN-KEYWORD,fonts

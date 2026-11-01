@@ -1,8 +1,8 @@
 # NAME: huawei
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 256
-# DOMAIN-KEYWORD: 1
-# TOTAL: 257
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 229
+# DOMAIN-KEYWORD: 4
+# TOTAL: 233
 DOMAIN-SUFFIX,26r9y.cn
 DOMAIN-SUFFIX,2gkjr.cn
 DOMAIN-SUFFIX,3ili6.cn
@@ -142,24 +142,10 @@ DOMAIN-SUFFIX,cdnhwcztu09.com
 DOMAIN-SUFFIX,cdnhwczxh101.com
 DOMAIN-SUFFIX,chaspark.com
 DOMAIN-SUFFIX,cza84.cn
-DOMAIN-SUFFIX,dbank.com
-DOMAIN-SUFFIX,dbankcdn.cn
-DOMAIN-SUFFIX,dbankcdn.com
-DOMAIN-SUFFIX,dbankcloud.cn
-DOMAIN-SUFFIX,dbankcloud.com
-DOMAIN-SUFFIX,dbankcloud.ru
-DOMAIN-SUFFIX,dbankedge.cn
-DOMAIN-SUFFIX,dbankedge.net
 DOMAIN-SUFFIX,devui.design
-DOMAIN-SUFFIX,dt.dbankcloud.ru
 DOMAIN-SUFFIX,eduapaashwc.com
 DOMAIN-SUFFIX,fpxyo.cn
 DOMAIN-SUFFIX,functiongraph.run
-DOMAIN-SUFFIX,gneec.com
-DOMAIN-SUFFIX,gneec.com.cn
-DOMAIN-SUFFIX,gneec3.com
-DOMAIN-SUFFIX,gneec4.com
-DOMAIN-SUFFIX,gneec7.com
 DOMAIN-SUFFIX,harmonyos.com
 DOMAIN-SUFFIX,hc-cdn.cn
 DOMAIN-SUFFIX,hc-cdn.com
@@ -183,15 +169,6 @@ DOMAIN-SUFFIX,hwccpc.cn
 DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,hwcdnsre.cn
 DOMAIN-SUFFIX,hwcdnsre.com
-DOMAIN-SUFFIX,hwclouds-dns.cn
-DOMAIN-SUFFIX,hwclouds-dns.com
-DOMAIN-SUFFIX,hwclouds-dns.net
-DOMAIN-SUFFIX,hwclouds.cn
-DOMAIN-SUFFIX,hwclouds.com
-DOMAIN-SUFFIX,hwclouds.mobi
-DOMAIN-SUFFIX,hwclouds.org.cn
-DOMAIN-SUFFIX,hwcloudsite.cn
-DOMAIN-SUFFIX,hwcloudsite.com
 DOMAIN-SUFFIX,hwcloudvis.cn
 DOMAIN-SUFFIX,hwcloudvis.com
 DOMAIN-SUFFIX,hweventgrid.cn
@@ -231,10 +208,6 @@ DOMAIN-SUFFIX,ms2tg.cn
 DOMAIN-SUFFIX,myhwcdn.cn
 DOMAIN-SUFFIX,myhwcdn.com
 DOMAIN-SUFFIX,myhwcloudlive.com
-DOMAIN-SUFFIX,myhwclouds.cn
-DOMAIN-SUFFIX,myhwclouds.com
-DOMAIN-SUFFIX,myhwclouds.com.cn
-DOMAIN-SUFFIX,myhwclouds.net
 DOMAIN-SUFFIX,ns95c.cn
 DOMAIN-SUFFIX,o7mu8.cn
 DOMAIN-SUFFIX,owsgo.com
@@ -260,3 +233,6 @@ DOMAIN-SUFFIX,x9exk.cn
 DOMAIN-SUFFIX,y43f6.cn
 DOMAIN-SUFFIX,z95rr.cn
 DOMAIN-KEYWORD,huawei
+DOMAIN-KEYWORD,dbank
+DOMAIN-KEYWORD,gneec
+DOMAIN-KEYWORD,hwclouds

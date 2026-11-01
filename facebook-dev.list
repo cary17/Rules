@@ -1,9 +1,8 @@
 # NAME: facebook-dev
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 43
-# TOTAL: 44
-DOMAIN,developers.facebook.com
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 38
+# DOMAIN-KEYWORD: 1
+# TOTAL: 39
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,atscaleconference.com
 DOMAIN-SUFFIX,botorch.org
@@ -12,11 +11,6 @@ DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,componentkit.org
 DOMAIN-SUFFIX,draftjs.org
 DOMAIN-SUFFIX,f8.com
-DOMAIN-SUFFIX,facebookappcenter.info
-DOMAIN-SUFFIX,facebookappcenter.net
-DOMAIN-SUFFIX,facebookappcenter.org
-DOMAIN-SUFFIX,facebookconnect.com
-DOMAIN-SUFFIX,facebookdevelopergarage.com
 DOMAIN-SUFFIX,faciometrics.com
 DOMAIN-SUFFIX,fasttext.cc
 DOMAIN-SUFFIX,fbf8.com
@@ -47,3 +41,4 @@ DOMAIN-SUFFIX,rocksdb.com
 DOMAIN-SUFFIX,rocksdb.net
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,yogalayout.com
+DOMAIN-KEYWORD,facebook

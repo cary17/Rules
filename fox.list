@@ -1,9 +1,8 @@
 # NAME: fox
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 244
-# TOTAL: 245
-DOMAIN,foxnewsplayer-a.akamaihd.net
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 175
+# DOMAIN-KEYWORD: 4
+# TOTAL: 179
 DOMAIN-SUFFIX,.fox
 DOMAIN-SUFFIX,afewmomentswith.com
 DOMAIN-SUFFIX,anidom.com
@@ -91,28 +90,6 @@ DOMAIN-SUFFIX,foxneo.com
 DOMAIN-SUFFIX,foxneodigital.com
 DOMAIN-SUFFIX,foxnetworks.info
 DOMAIN-SUFFIX,foxnetworksinfo.com
-DOMAIN-SUFFIX,foxnews.cc
-DOMAIN-SUFFIX,foxnews.com
-DOMAIN-SUFFIX,foxnews.net
-DOMAIN-SUFFIX,foxnews.org
-DOMAIN-SUFFIX,foxnews.tv
-DOMAIN-SUFFIX,foxnewsaffiliates.com
-DOMAIN-SUFFIX,foxnewsaroundtheworld.com
-DOMAIN-SUFFIX,foxnewsb2b.com
-DOMAIN-SUFFIX,foxnewschannel.com
-DOMAIN-SUFFIX,foxnewsgo.net
-DOMAIN-SUFFIX,foxnewsgo.org
-DOMAIN-SUFFIX,foxnewsgo.tv
-DOMAIN-SUFFIX,foxnewshealth.com
-DOMAIN-SUFFIX,foxnewslatino.com
-DOMAIN-SUFFIX,foxnewsmagazine.com
-DOMAIN-SUFFIX,foxnewsnetwork.com
-DOMAIN-SUFFIX,foxnewsopinion.com
-DOMAIN-SUFFIX,foxnewspodcasts.com
-DOMAIN-SUFFIX,foxnewspolitics.com
-DOMAIN-SUFFIX,foxnewsradio.com
-DOMAIN-SUFFIX,foxnewsrundown.com
-DOMAIN-SUFFIX,foxnewssunday.com
 DOMAIN-SUFFIX,foxon.com
 DOMAIN-SUFFIX,foxphiladelphia.com
 DOMAIN-SUFFIX,foxplus.com
@@ -125,48 +102,6 @@ DOMAIN-SUFFIX,foxrobots.com
 DOMAIN-SUFFIX,foxsmallbusinesscenter.com
 DOMAIN-SUFFIX,foxsmallbusinesscenter.net
 DOMAIN-SUFFIX,foxsmallbusinesscenter.org
-DOMAIN-SUFFIX,foxsoccer.net
-DOMAIN-SUFFIX,foxsoccer.tv
-DOMAIN-SUFFIX,foxsoccermatchpass.com
-DOMAIN-SUFFIX,foxsoccerplus.com
-DOMAIN-SUFFIX,foxsoccerplus.net
-DOMAIN-SUFFIX,foxsoccerplus.tv
-DOMAIN-SUFFIX,foxsoccershop.com
-DOMAIN-SUFFIX,foxsports-chicago.com
-DOMAIN-SUFFIX,foxsports-newyork.com
-DOMAIN-SUFFIX,foxsports-world.com
-DOMAIN-SUFFIX,foxsports.cl
-DOMAIN-SUFFIX,foxsports.co
-DOMAIN-SUFFIX,foxsports.co.ve
-DOMAIN-SUFFIX,foxsports.com
-DOMAIN-SUFFIX,foxsports.com.ar
-DOMAIN-SUFFIX,foxsports.com.bo
-DOMAIN-SUFFIX,foxsports.com.br
-DOMAIN-SUFFIX,foxsports.com.co
-DOMAIN-SUFFIX,foxsports.com.ec
-DOMAIN-SUFFIX,foxsports.com.gt
-DOMAIN-SUFFIX,foxsports.com.mx
-DOMAIN-SUFFIX,foxsports.com.pe
-DOMAIN-SUFFIX,foxsports.com.py
-DOMAIN-SUFFIX,foxsports.com.uy
-DOMAIN-SUFFIX,foxsports.com.ve
-DOMAIN-SUFFIX,foxsports.gt
-DOMAIN-SUFFIX,foxsports.info
-DOMAIN-SUFFIX,foxsports.net
-DOMAIN-SUFFIX,foxsports.net.br
-DOMAIN-SUFFIX,foxsports.pe
-DOMAIN-SUFFIX,foxsports.sv
-DOMAIN-SUFFIX,foxsports.uy
-DOMAIN-SUFFIX,foxsports2.com
-DOMAIN-SUFFIX,foxsportsflorida.com
-DOMAIN-SUFFIX,foxsportsgo.com
-DOMAIN-SUFFIX,foxsportsla.com
-DOMAIN-SUFFIX,foxsportsnetmilwaukee.com
-DOMAIN-SUFFIX,foxsportsneworleans.com
-DOMAIN-SUFFIX,foxsportsracing.com
-DOMAIN-SUFFIX,foxsportssupports.com
-DOMAIN-SUFFIX,foxsportsuniversity.com
-DOMAIN-SUFFIX,foxsportsworld.com
 DOMAIN-SUFFIX,foxstudiolot.com
 DOMAIN-SUFFIX,foxsuper6.com
 DOMAIN-SUFFIX,foxtel.com
@@ -221,11 +156,6 @@ DOMAIN-SUFFIX,orlandohurricane.com
 DOMAIN-SUFFIX,paradisehotelquizfox.com
 DOMAIN-SUFFIX,q13.com
 DOMAIN-SUFFIX,q13fox.com
-DOMAIN-SUFFIX,realamericanstories.com
-DOMAIN-SUFFIX,realamericanstories.info
-DOMAIN-SUFFIX,realamericanstories.net
-DOMAIN-SUFFIX,realamericanstories.org
-DOMAIN-SUFFIX,realamericanstories.tv
 DOMAIN-SUFFIX,realmilwaukeenow.com
 DOMAIN-SUFFIX,rprimelab.com
 DOMAIN-SUFFIX,shopspeedtv.com
@@ -248,3 +178,7 @@ DOMAIN-SUFFIX,whosthehost.com
 DOMAIN-SUFFIX,wofl.tv
 DOMAIN-SUFFIX,woflthenewsstation.com
 DOMAIN-SUFFIX,wogx.com
+DOMAIN-KEYWORD,foxnews
+DOMAIN-KEYWORD,foxsoccer
+DOMAIN-KEYWORD,foxsports
+DOMAIN-KEYWORD,realamericanstories

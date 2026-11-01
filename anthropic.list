@@ -1,24 +1,27 @@
 # NAME: anthropic
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 18
+# DOMAIN-SUFFIX: 10
+# DOMAIN-KEYWORD: 5
+# IP-CIDR: 1
+# IP-CIDR6: 2
 # TOTAL: 19
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,anthropic.team
 DOMAIN-SUFFIX,antspace.dev
-DOMAIN-SUFFIX,chatbotclaude.com
 DOMAIN-SUFFIX,clau.de
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.app
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claude.dev
-DOMAIN-SUFFIX,claude.new
-DOMAIN-SUFFIX,claude.site
-DOMAIN-SUFFIX,claudeacademy.com
-DOMAIN-SUFFIX,claudemcpclient.com
-DOMAIN-SUFFIX,claudemcpcontent.com
-DOMAIN-SUFFIX,claudepages.dev
-DOMAIN-SUFFIX,claudestudio.com
-DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,cdn.usefathom.com
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,stripe
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,datadog
+DOMAIN-KEYWORD,sift
+IP-CIDR,160.79.104.0/23
+IP-CIDR6,2607:6bc0:11::/48
+IP-CIDR6,2607:6bc0::/48

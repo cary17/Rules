@@ -1,16 +1,11 @@
 # NAME: supercell
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 15
-# DOMAIN-KEYWORD: 1
-# TOTAL: 16
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 10
+# DOMAIN-KEYWORD: 2
+# TOTAL: 12
 DOMAIN-SUFFIX,boombeach.com
 DOMAIN-SUFFIX,brawlstars.com
 DOMAIN-SUFFIX,brawlstarsgame.com
-DOMAIN-SUFFIX,clash.com
-DOMAIN-SUFFIX,clashmini.com
-DOMAIN-SUFFIX,clashofclans.com
-DOMAIN-SUFFIX,clashroyale.com
-DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
 DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
@@ -19,3 +14,4 @@ DOMAIN-SUFFIX,seeurlpcl.com
 DOMAIN-SUFFIX,squadbusters.com
 DOMAIN-SUFFIX,supr.cl
 DOMAIN-KEYWORD,supercell
+DOMAIN-KEYWORD,clash

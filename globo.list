@@ -1,8 +1,8 @@
 # NAME: globo
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 30
-# DOMAIN-KEYWORD: 1
-# TOTAL: 31
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 25
+# DOMAIN-KEYWORD: 2
+# TOTAL: 27
 DOMAIN-SUFFIX,autoesporte.com
 DOMAIN-SUFFIX,autoesporte.com.br
 DOMAIN-SUFFIX,bhfm.com.br
@@ -22,15 +22,11 @@ DOMAIN-SUFFIX,revistagalileu.com.br
 DOMAIN-SUFFIX,revistapegn.com
 DOMAIN-SUFFIX,revistapegn.com.br
 DOMAIN-SUFFIX,revistaquem.com.br
-DOMAIN-SUFFIX,revistavalor.com.br
 DOMAIN-SUFFIX,sgr.com.br
 DOMAIN-SUFFIX,techtudo.com
 DOMAIN-SUFFIX,techtudo.com.br
 DOMAIN-SUFFIX,umsoplaneta.com
 DOMAIN-SUFFIX,umsoplaneta.com.br
-DOMAIN-SUFFIX,valor.com.br
-DOMAIN-SUFFIX,valoreconomico.com.br
-DOMAIN-SUFFIX,valorinveste.com
-DOMAIN-SUFFIX,valorinveste.com.br
 DOMAIN-SUFFIX,xuxaverso.com.br
 DOMAIN-KEYWORD,globo
+DOMAIN-KEYWORD,valor

@@ -1,12 +1,11 @@
 # NAME: adobe
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 80
-# DOMAIN-KEYWORD: 1
-# TOTAL: 83
+# DOMAIN-SUFFIX: 60
+# DOMAIN-KEYWORD: 4
+# TOTAL: 66
 DOMAIN,crl.versign.net
 DOMAIN,ood.opsource.net
-DOMAIN-SUFFIX,10xfotolia.com
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,acrobat.com
 DOMAIN-SUFFIX,adbecrsl.com
@@ -29,43 +28,25 @@ DOMAIN-SUFFIX,douwriteright.com
 DOMAIN-SUFFIX,echocdn.com
 DOMAIN-SUFFIX,echosign.com
 DOMAIN-SUFFIX,edgefonts.net
-DOMAIN-SUFFIX,ffotolia.com
 DOMAIN-SUFFIX,fiotolia.com
 DOMAIN-SUFFIX,foftolia.com
 DOMAIN-SUFFIX,fonolia.com
 DOMAIN-SUFFIX,fotiolia.com
 DOMAIN-SUFFIX,fotoiia.com
-DOMAIN-SUFFIX,fotolia-noticias.com
-DOMAIN-SUFFIX,fotolia.cc
-DOMAIN-SUFFIX,fotolia.com
-DOMAIN-SUFFIX,fotolia.tv
 DOMAIN-SUFFIX,fotolja.com
 DOMAIN-SUFFIX,fptolia.com
 DOMAIN-SUFFIX,ftcdn.net
-DOMAIN-SUFFIX,gfotolia.com
 DOMAIN-SUFFIX,gostorego.com
 DOMAIN-SUFFIX,imagineecommerce.com
 DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,mageconf.com
 DOMAIN-SUFFIX,mageconf.com.ua
-DOMAIN-SUFFIX,magento.com
-DOMAIN-SUFFIX,magento.net
-DOMAIN-SUFFIX,magentocommerce.com
-DOMAIN-SUFFIX,magentoliveconference.com
-DOMAIN-SUFFIX,magentomobile.com
 DOMAIN-SUFFIX,marketing-cloud.com
 DOMAIN-SUFFIX,marketing-nirvana.com
-DOMAIN-SUFFIX,marketo.co.uk
-DOMAIN-SUFFIX,marketo.com
-DOMAIN-SUFFIX,marketo.net
-DOMAIN-SUFFIX,marketo.tv
-DOMAIN-SUFFIX,marketodesigner.com
-DOMAIN-SUFFIX,marketolive.com
 DOMAIN-SUFFIX,mktdns.com
 DOMAIN-SUFFIX,mkto-c0100.com
 DOMAIN-SUFFIX,mktorest.com
 DOMAIN-SUFFIX,mktroute.com
-DOMAIN-SUFFIX,mobilemarketo.com
 DOMAIN-SUFFIX,motolia.com
 DOMAIN-SUFFIX,omniture.com
 DOMAIN-SUFFIX,omtrdc.net
@@ -78,7 +59,6 @@ DOMAIN-SUFFIX,s2stagehance.com
 DOMAIN-SUFFIX,scene7.com
 DOMAIN-SUFFIX,sign.new
 DOMAIN-SUFFIX,sundanceignite2016.com
-DOMAIN-SUFFIX,tenbyfotolia.com
 DOMAIN-SUFFIX,toutapp.com
 DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,typekit.com
@@ -87,3 +67,6 @@ DOMAIN-SUFFIX,votolia.com
 DOMAIN-SUFFIX,worldsecureemail.com
 DOMAIN-SUFFIX,worldsecuresystems.com
 DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,fotolia
+DOMAIN-KEYWORD,magento
+DOMAIN-KEYWORD,marketo

@@ -1,13 +1,7 @@
 # NAME: unitychina
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
-DOMAIN-SUFFIX,ads.unitychina.cn
-DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
-DOMAIN-SUFFIX,splash-ads.unitychina.cn
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 DOMAIN-SUFFIX,u3d.cn
-DOMAIN-SUFFIX,unity.cn
-DOMAIN-SUFFIX,unity3dcloud.cn
-DOMAIN-SUFFIX,unityads.unity.cn
-DOMAIN-SUFFIX,unityads.unitychina.cn
-DOMAIN-SUFFIX,unitychina.cn
+DOMAIN-KEYWORD,unity

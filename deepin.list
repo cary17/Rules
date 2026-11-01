@@ -1,19 +1,16 @@
 # NAME: deepin
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 15
-# TOTAL: 15
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 10
+# DOMAIN-KEYWORD: 1
+# TOTAL: 11
 DOMAIN-SUFFIX,51changxie.com
 DOMAIN-SUFFIX,51jianxie.cn
 DOMAIN-SUFFIX,91changxie.com
 DOMAIN-SUFFIX,changxie.com
 DOMAIN-SUFFIX,chinauos.com
-DOMAIN-SUFFIX,deepin.cn
-DOMAIN-SUFFIX,deepin.com
-DOMAIN-SUFFIX,deepin.io
-DOMAIN-SUFFIX,deepin.org
-DOMAIN-SUFFIX,deepin.org.cn
 DOMAIN-SUFFIX,linglong.space
 DOMAIN-SUFFIX,linyaps.org.cn
 DOMAIN-SUFFIX,sndu.cn
 DOMAIN-SUFFIX,uniontech.cn
 DOMAIN-SUFFIX,uniontech.com
+DOMAIN-KEYWORD,deepin

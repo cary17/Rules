@@ -1,16 +1,10 @@
 # NAME: zdns
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 1
+# TOTAL: 5
 DOMAIN-SUFFIX,zcmbc.com.cn
 DOMAIN-SUFFIX,zdns.cn
 DOMAIN-SUFFIX,zdns.net.cn
 DOMAIN-SUFFIX,zdns.org.cn
-DOMAIN-SUFFIX,zdnscloud.biz
-DOMAIN-SUFFIX,zdnscloud.cn
-DOMAIN-SUFFIX,zdnscloud.com
-DOMAIN-SUFFIX,zdnscloud.com.cn
-DOMAIN-SUFFIX,zdnscloud.info
-DOMAIN-SUFFIX,zdnscloud.net
-DOMAIN-SUFFIX,zdnscloud.net.cn
-DOMAIN-SUFFIX,zdnscloud.org.cn
+DOMAIN-KEYWORD,zdnscloud

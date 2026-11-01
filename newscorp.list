@@ -1,7 +1,8 @@
 # NAME: newscorp
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 152
-# TOTAL: 152
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 141
+# DOMAIN-KEYWORD: 1
+# TOTAL: 142
 DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,adelaidenow.com.au
 DOMAIN-SUFFIX,adhelpnews.com
@@ -18,8 +19,6 @@ DOMAIN-SUFFIX,cairnspost.com.au
 DOMAIN-SUFFIX,careerjournal.com
 DOMAIN-SUFFIX,cnivogue.com.au
 DOMAIN-SUFFIX,collegejournal.com
-DOMAIN-SUFFIX,collins.co.uk
-DOMAIN-SUFFIX,collins.in
 DOMAIN-SUFFIX,couriermail.com.au
 DOMAIN-SUFFIX,dailytelegraph.com.au
 DOMAIN-SUFFIX,delicious.com.au
@@ -40,15 +39,6 @@ DOMAIN-SUFFIX,goldcoastbulletin.com.au
 DOMAIN-SUFFIX,hackday.com.au
 DOMAIN-SUFFIX,harperacademic.com
 DOMAIN-SUFFIX,harperapps.com
-DOMAIN-SUFFIX,harpercollins.ca
-DOMAIN-SUFFIX,harpercollins.co.in
-DOMAIN-SUFFIX,harpercollins.co.uk
-DOMAIN-SUFFIX,harpercollins.com
-DOMAIN-SUFFIX,harpercollins.com.au
-DOMAIN-SUFFIX,harpercollinsadvantage.com
-DOMAIN-SUFFIX,harpercollinschildrensbooks.co.uk
-DOMAIN-SUFFIX,harpercollinschristian.com
-DOMAIN-SUFFIX,harpercollinsspeakersbureau.com
 DOMAIN-SUFFIX,hcpdts.com
 DOMAIN-SUFFIX,heraldsun.com.au
 DOMAIN-SUFFIX,hometrack.com.au
@@ -154,3 +144,4 @@ DOMAIN-SUFFIX,wsjmediakit.com
 DOMAIN-SUFFIX,wsjplus.com
 DOMAIN-SUFFIX,wsjshop.com
 DOMAIN-SUFFIX,wsjwine.com
+DOMAIN-KEYWORD,collins

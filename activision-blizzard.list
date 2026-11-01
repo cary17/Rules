@@ -1,30 +1,15 @@
 # NAME: activision-blizzard
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 9
-# DOMAIN-SUFFIX: 43
-# TOTAL: 52
-DOMAIN,blizzard.nefficient.co.kr
-DOMAIN,blizzcon-a.akamaihd.net
-DOMAIN,blzddist1-a.akamaihd.net
-DOMAIN,blzddistkr1-a.akamaihd.net
-DOMAIN,blzmedia-a.akamaihd.net
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 34
+# DOMAIN-KEYWORD: 3
+# TOTAL: 39
 DOMAIN,blznav.akamaized.net
-DOMAIN,bnetcmsus-a.akamaihd.net
-DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
 DOMAIN-SUFFIX,activision.com
-DOMAIN-SUFFIX,activisionblizzard.com
-DOMAIN-SUFFIX,activisionblizzardmedia.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,benefitsforeveryworld.com
-DOMAIN-SUFFIX,blizzard.com
-DOMAIN-SUFFIX,blizzardgearstore.com
 DOMAIN-SUFFIX,blz-contentstack.com
-DOMAIN-SUFFIX,callofduty.com
-DOMAIN-SUFFIX,callofdutyendowment.com
-DOMAIN-SUFFIX,callofdutyendowment.org
-DOMAIN-SUFFIX,callofdutyleague.com
-DOMAIN-SUFFIX,callofdutymobile.com
 DOMAIN-SUFFIX,candycrush.com
 DOMAIN-SUFFIX,crashbandicoot.com
 DOMAIN-SUFFIX,demonware.net
@@ -55,3 +40,6 @@ DOMAIN-SUFFIX,tonyhawkthegame.com
 DOMAIN-SUFFIX,treyarch.com
 DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,worldseriesofwarzone.com
+DOMAIN-KEYWORD,akamaihd
+DOMAIN-KEYWORD,blizzard
+DOMAIN-KEYWORD,callofduty

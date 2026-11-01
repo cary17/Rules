@@ -1,23 +1,14 @@
 # NAME: sberbank
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 17
-# TOTAL: 18
-DOMAIN,visor.sberbank.ru
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 2
+# TOTAL: 9
 DOMAIN-SUFFIX,ads.sber.ru
-DOMAIN-SUFFIX,bps-sberbank.by
-DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,cplsb.ru
 DOMAIN-SUFFIX,sber-bank.by
 DOMAIN-SUFFIX,sber.ru
-DOMAIN-SUFFIX,sberbank.com
-DOMAIN-SUFFIX,sberbank.ru
-DOMAIN-SUFFIX,sberspasibo.ru
 DOMAIN-SUFFIX,sbrf.ru
-DOMAIN-SUFFIX,spasibo.digital
-DOMAIN-SUFFIX,spasibo.market
-DOMAIN-SUFFIX,spasibobonus.ru
-DOMAIN-SUFFIX,spasibosb.ru
-DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,yookassa.ru
 DOMAIN-SUFFIX,yoomoney.ru
+DOMAIN-KEYWORD,sberbank
+DOMAIN-KEYWORD,spasibo

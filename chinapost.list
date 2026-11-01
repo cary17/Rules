@@ -1,15 +1,10 @@
 # NAME: chinapost
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 13
+# DOMAIN-KEYWORD: 1
+# TOTAL: 14
 DOMAIN-SUFFIX,11183.com.cn
 DOMAIN-SUFFIX,11185.cn
-DOMAIN-SUFFIX,chinapost-life.com
-DOMAIN-SUFFIX,chinapost.cn
-DOMAIN-SUFFIX,chinapost.com.cn
-DOMAIN-SUFFIX,chinapostdaily.com.cn
-DOMAIN-SUFFIX,chinapostnews.cn
-DOMAIN-SUFFIX,chinapostnews.com.cn
 DOMAIN-SUFFIX,chnppmuseum.com
 DOMAIN-SUFFIX,cnpsec.com
 DOMAIN-SUFFIX,cptu.cn
@@ -21,3 +16,4 @@ DOMAIN-SUFFIX,postoa.com.cn
 DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,ule.com
 DOMAIN-SUFFIX,ulecdn.com
+DOMAIN-KEYWORD,chinapost

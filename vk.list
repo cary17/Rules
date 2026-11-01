@@ -1,8 +1,9 @@
 # NAME: vk
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 9
-# DOMAIN-SUFFIX: 43
-# TOTAL: 52
+# DOMAIN-SUFFIX: 32
+# DOMAIN-KEYWORD: 1
+# TOTAL: 42
 DOMAIN,adblogger.vk.com
 DOMAIN,adblogger.vk.ru
 DOMAIN,ads.vk.com
@@ -44,14 +45,4 @@ DOMAIN-SUFFIX,vkpay.com
 DOMAIN-SUFFIX,vkpay.io
 DOMAIN-SUFFIX,vkpay.ru
 DOMAIN-SUFFIX,vktech-static.ru
-DOMAIN-SUFFIX,vkuser.net
-DOMAIN-SUFFIX,vkuseraudio.com
-DOMAIN-SUFFIX,vkuseraudio.net
-DOMAIN-SUFFIX,vkuseraudio.ru
-DOMAIN-SUFFIX,vkusercdn.ru
-DOMAIN-SUFFIX,vkuserlive.com
-DOMAIN-SUFFIX,vkuserlive.net
-DOMAIN-SUFFIX,vkuserphoto.ru
-DOMAIN-SUFFIX,vkuservideo.com
-DOMAIN-SUFFIX,vkuservideo.net
-DOMAIN-SUFFIX,vkuservideo.ru
+DOMAIN-KEYWORD,vkuser

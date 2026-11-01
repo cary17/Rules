@@ -1,33 +1,12 @@
 # NAME: qcloud
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 298
-# DOMAIN-KEYWORD: 1
-# TOTAL: 299
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 217
+# DOMAIN-KEYWORD: 7
+# TOTAL: 224
 DOMAIN-SUFFIX,acctdns.com
 DOMAIN-SUFFIX,acctdns.net
 DOMAIN-SUFFIX,aegis.qq.com
 DOMAIN-SUFFIX,aitransfy.com
-DOMAIN-SUFFIX,ap-bangkok.tencentcos.cn
-DOMAIN-SUFFIX,ap-bangkok.tencentcos.com
-DOMAIN-SUFFIX,ap-bangkok.tencentcos.com.cn
-DOMAIN-SUFFIX,ap-hongkong.tencentcos.cn
-DOMAIN-SUFFIX,ap-hongkong.tencentcos.com
-DOMAIN-SUFFIX,ap-hongkong.tencentcos.com.cn
-DOMAIN-SUFFIX,ap-jakarta.tencentcos.cn
-DOMAIN-SUFFIX,ap-jakarta.tencentcos.com
-DOMAIN-SUFFIX,ap-jakarta.tencentcos.com.cn
-DOMAIN-SUFFIX,ap-mumbai.tencentcos.cn
-DOMAIN-SUFFIX,ap-mumbai.tencentcos.com
-DOMAIN-SUFFIX,ap-mumbai.tencentcos.com.cn
-DOMAIN-SUFFIX,ap-seoul.tencentcos.cn
-DOMAIN-SUFFIX,ap-seoul.tencentcos.com
-DOMAIN-SUFFIX,ap-seoul.tencentcos.com.cn
-DOMAIN-SUFFIX,ap-singapore.tencentcos.cn
-DOMAIN-SUFFIX,ap-singapore.tencentcos.com
-DOMAIN-SUFFIX,ap-singapore.tencentcos.com.cn
-DOMAIN-SUFFIX,ap-tokyo.tencentcos.cn
-DOMAIN-SUFFIX,ap-tokyo.tencentcos.com
-DOMAIN-SUFFIX,ap-tokyo.tencentcos.com.cn
 DOMAIN-SUFFIX,apaas-zone-test.com
 DOMAIN-SUFFIX,apdcdn.com
 DOMAIN-SUFFIX,apdcdn.net
@@ -41,15 +20,10 @@ DOMAIN-SUFFIX,byodonline.com
 DOMAIN-SUFFIX,cdn-go.cn
 DOMAIN-SUFFIX,cdndoctor.com
 DOMAIN-SUFFIX,cdngot.com
-DOMAIN-SUFFIX,cdntip.com
-DOMAIN-SUFFIX,cdntips.com
-DOMAIN-SUFFIX,cdntips.net
 DOMAIN-SUFFIX,cdnv1.cn
 DOMAIN-SUFFIX,cdnv2.cn
 DOMAIN-SUFFIX,cdnv3.cn
 DOMAIN-SUFFIX,cloud-industry-delivery.site
-DOMAIN-SUFFIX,cloudbase.cn
-DOMAIN-SUFFIX,cloudbase.net
 DOMAIN-SUFFIX,cloudidaas.com
 DOMAIN-SUFFIX,cloudsite.vip
 DOMAIN-SUFFIX,computeinit.com
@@ -79,14 +53,6 @@ DOMAIN-SUFFIX,dnse4.cn
 DOMAIN-SUFFIX,dnse4.com
 DOMAIN-SUFFIX,dnse5.cn
 DOMAIN-SUFFIX,dnse5.com
-DOMAIN-SUFFIX,dnspod.cn
-DOMAIN-SUFFIX,dnspod.com
-DOMAIN-SUFFIX,dnspod.com.cn
-DOMAIN-SUFFIX,dnspod.mobi
-DOMAIN-SUFFIX,dnspod.net
-DOMAIN-SUFFIX,dnspod.org
-DOMAIN-SUFFIX,dnsv1.com
-DOMAIN-SUFFIX,dnsv1.com.cn
 DOMAIN-SUFFIX,dnsv2.com
 DOMAIN-SUFFIX,dnsv3.com
 DOMAIN-SUFFIX,dnsv4.com
@@ -99,12 +65,6 @@ DOMAIN-SUFFIX,ectencent.com.cn
 DOMAIN-SUFFIX,edgeone.cool
 DOMAIN-SUFFIX,edgeonedy1.com
 DOMAIN-SUFFIX,essurl.com
-DOMAIN-SUFFIX,eu-frankfurt.tencentcos.cn
-DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com
-DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com.cn
-DOMAIN-SUFFIX,eu-moscow.tencentcos.cn
-DOMAIN-SUFFIX,eu-moscow.tencentcos.com
-DOMAIN-SUFFIX,eu-moscow.tencentcos.com.cn
 DOMAIN-SUFFIX,exmailgz.com
 DOMAIN-SUFFIX,fsphere.cn
 DOMAIN-SUFFIX,gitdrone.cn
@@ -116,7 +76,6 @@ DOMAIN-SUFFIX,idcgcloudcs.com
 DOMAIN-SUFFIX,iemiq.com
 DOMAIN-SUFFIX,igtm-meeting-tencent.com
 DOMAIN-SUFFIX,igtm.pub
-DOMAIN-SUFFIX,intltencentcos.com
 DOMAIN-SUFFIX,isd.com
 DOMAIN-SUFFIX,itopsdk.com
 DOMAIN-SUFFIX,jrzk.net.cn
@@ -126,22 +85,8 @@ DOMAIN-SUFFIX,m9.run
 DOMAIN-SUFFIX,ma.run
 DOMAIN-SUFFIX,my-imcloud.com
 DOMAIN-SUFFIX,myelasticsearch.com
-DOMAIN-SUFFIX,na-ashburn.tencentcos.cn
-DOMAIN-SUFFIX,na-ashburn.tencentcos.com
-DOMAIN-SUFFIX,na-ashburn.tencentcos.com.cn
-DOMAIN-SUFFIX,na-siliconvalley.tencentcos.cn
-DOMAIN-SUFFIX,na-siliconvalley.tencentcos.com
-DOMAIN-SUFFIX,na-siliconvalley.tencentcos.com.cn
-DOMAIN-SUFFIX,na-toronto.tencentcos.cn
-DOMAIN-SUFFIX,na-toronto.tencentcos.com
-DOMAIN-SUFFIX,na-toronto.tencentcos.com.cn
 DOMAIN-SUFFIX,onexmail.com
 DOMAIN-SUFFIX,openapp.run
-DOMAIN-SUFFIX,oracle-tencent.cn
-DOMAIN-SUFFIX,oracle-tencent.com
-DOMAIN-SUFFIX,oracle-tencent.com.cn
-DOMAIN-SUFFIX,oracle-tencent.net
-DOMAIN-SUFFIX,oracle-tencent.net.cn
 DOMAIN-SUFFIX,ovscdns.com
 DOMAIN-SUFFIX,ovscdns.net
 DOMAIN-SUFFIX,pn1waq.com
@@ -154,14 +99,9 @@ DOMAIN-SUFFIX,qyunapp.com
 DOMAIN-SUFFIX,rumt-sg.com
 DOMAIN-SUFFIX,rumt-us.com
 DOMAIN-SUFFIX,rumt-zh.com
-DOMAIN-SUFFIX,sa-saopaulo.tencentcos.cn
-DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com
-DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com.cn
 DOMAIN-SUFFIX,serverlesscloud.cn
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,smtcdns.net
-DOMAIN-SUFFIX,spcdntip.com
-DOMAIN-SUFFIX,spcdntipbak.com
 DOMAIN-SUFFIX,spcloudhw.com
 DOMAIN-SUFFIX,spcloudhw.net
 DOMAIN-SUFFIX,srmkp.cn
@@ -176,12 +116,8 @@ DOMAIN-SUFFIX,tcdnlivebak1.com
 DOMAIN-SUFFIX,tcdnlivebak2.com
 DOMAIN-SUFFIX,tcdnos.com
 DOMAIN-SUFFIX,tcdnos.net
-DOMAIN-SUFFIX,tcdntip.com
 DOMAIN-SUFFIX,tcdnvod.com
 DOMAIN-SUFFIX,tcdnvodbak.com
-DOMAIN-SUFFIX,tcloudbase.com
-DOMAIN-SUFFIX,tcloudbase.net
-DOMAIN-SUFFIX,tcloudbaseapp.com
 DOMAIN-SUFFIX,tcloudbi.com
 DOMAIN-SUFFIX,tclouddrive.com
 DOMAIN-SUFFIX,tcloudedu.com
@@ -190,20 +126,6 @@ DOMAIN-SUFFIX,tcloudhw.net
 DOMAIN-SUFFIX,tcloudscdn.com
 DOMAIN-SUFFIX,tcloudscdn.net
 DOMAIN-SUFFIX,tdnsstic1.cn
-DOMAIN-SUFFIX,tdnsv1.com
-DOMAIN-SUFFIX,tdnsv1.net
-DOMAIN-SUFFIX,tdnsv10.com
-DOMAIN-SUFFIX,tdnsv10.net
-DOMAIN-SUFFIX,tdnsv11.com
-DOMAIN-SUFFIX,tdnsv11.net
-DOMAIN-SUFFIX,tdnsv12.com
-DOMAIN-SUFFIX,tdnsv12.net
-DOMAIN-SUFFIX,tdnsv13.com
-DOMAIN-SUFFIX,tdnsv13.net
-DOMAIN-SUFFIX,tdnsv14.com
-DOMAIN-SUFFIX,tdnsv14.net
-DOMAIN-SUFFIX,tdnsv15.com
-DOMAIN-SUFFIX,tdnsv15.net
 DOMAIN-SUFFIX,tdnsv2.com
 DOMAIN-SUFFIX,tdnsv2.net
 DOMAIN-SUFFIX,tdnsv3.com
@@ -244,9 +166,6 @@ DOMAIN-SUFFIX,tencentcloudmarket.com
 DOMAIN-SUFFIX,tencentcloudns.com
 DOMAIN-SUFFIX,tencentcloudsec.com
 DOMAIN-SUFFIX,tencentcloudses.com
-DOMAIN-SUFFIX,tencentcos.cn
-DOMAIN-SUFFIX,tencentcos.com
-DOMAIN-SUFFIX,tencentcos.com.cn
 DOMAIN-SUFFIX,tencentcs.cn
 DOMAIN-SUFFIX,tencentcs.com
 DOMAIN-SUFFIX,tencentdayu.com
@@ -302,3 +221,9 @@ DOMAIN-SUFFIX,yufuid.com.cn
 DOMAIN-SUFFIX,yufuid.net
 DOMAIN-SUFFIX,yunjitele.com
 DOMAIN-KEYWORD,qcloud
+DOMAIN-KEYWORD,cdntip
+DOMAIN-KEYWORD,cloudbase
+DOMAIN-KEYWORD,dnspod
+DOMAIN-KEYWORD,dnsv1
+DOMAIN-KEYWORD,oracle-tencent
+DOMAIN-KEYWORD,tencentcos

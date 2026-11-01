@@ -1,13 +1,10 @@
 # NAME: genotek-ru
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 1
+# TOTAL: 5
 DOMAIN-SUFFIX,eligens.cl
 DOMAIN-SUFFIX,eligens.com.br
 DOMAIN-SUFFIX,eligens.io
 DOMAIN-SUFFIX,genetic-technologies.am
-DOMAIN-SUFFIX,genotek.am
-DOMAIN-SUFFIX,genotek.es
-DOMAIN-SUFFIX,genotek.eu
-DOMAIN-SUFFIX,genotek.health
-DOMAIN-SUFFIX,genotek.ru
+DOMAIN-KEYWORD,genotek

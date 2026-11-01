@@ -1,9 +1,9 @@
 # NAME: mozilla
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 39
-# DOMAIN-KEYWORD: 1
-# TOTAL: 41
+# DOMAIN-SUFFIX: 33
+# DOMAIN-KEYWORD: 2
+# TOTAL: 36
 DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,allizom.net
 DOMAIN-SUFFIX,allizom.org
@@ -11,13 +11,7 @@ DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,detodosparatodos.org
 DOMAIN-SUFFIX,discovershiretoko.org
 DOMAIN-SUFFIX,ecmascript.org
-DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,extensionworkshop.com
-DOMAIN-SUFFIX,firefox-portal-detection.com
-DOMAIN-SUFFIX,firefox.com
-DOMAIN-SUFFIX,firefox.hu
-DOMAIN-SUFFIX,firefoxtweetmachine.com
-DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,foxkeh.com
 DOMAIN-SUFFIX,foxkeh.jp
 DOMAIN-SUFFIX,getfirebug.com
@@ -45,3 +39,4 @@ DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,thundermail.com
 DOMAIN-SUFFIX,webmademovies.org
 DOMAIN-KEYWORD,mozilla
+DOMAIN-KEYWORD,firefox

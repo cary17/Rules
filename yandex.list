@@ -1,17 +1,13 @@
 # NAME: yandex
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 5
-# DOMAIN-SUFFIX: 64
-# DOMAIN-KEYWORD: 1
-# TOTAL: 70
-DOMAIN,ads.yango.com
-DOMAIN,clck.yango.com
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 49
+# DOMAIN-KEYWORD: 2
+# TOTAL: 53
 DOMAIN,kp-config-smart-tv.akamaized.net
 DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
-DOMAIN,mc.yango.com
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,admetrica.ru
-DOMAIN-SUFFIX,appmetrica.yango.com
 DOMAIN-SUFFIX,berizaryad.ru
 DOMAIN-SUFFIX,beru.ru
 DOMAIN-SUFFIX,bookmate.ru
@@ -53,20 +49,6 @@ DOMAIN-SUFFIX,ya.cc
 DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yads.tech
-DOMAIN-SUFFIX,yango-ads.com
-DOMAIN-SUFFIX,yango-b2b.com
-DOMAIN-SUFFIX,yango-team.com
-DOMAIN-SUFFIX,yango-tech.com
-DOMAIN-SUFFIX,yango.africa
-DOMAIN-SUFFIX,yango.ao
-DOMAIN-SUFFIX,yango.bh
-DOMAIN-SUFFIX,yango.co.il
-DOMAIN-SUFFIX,yango.com
-DOMAIN-SUFFIX,yango.fi
-DOMAIN-SUFFIX,yango.qa
-DOMAIN-SUFFIX,yango.taxi
-DOMAIN-SUFFIX,yango.tech
-DOMAIN-SUFFIX,yangofellowship.com
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
@@ -74,3 +56,4 @@ DOMAIN-SUFFIX,yccdn.ru
 DOMAIN-SUFFIX,ydb.tech
 DOMAIN-SUFFIX,yndx.net
 DOMAIN-KEYWORD,yandex
+DOMAIN-KEYWORD,yango

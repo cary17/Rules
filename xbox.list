@@ -1,9 +1,8 @@
 # NAME: xbox
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 41
-# TOTAL: 42
-DOMAIN,prodforza.blob.core.windows.net
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 37
+# DOMAIN-KEYWORD: 1
+# TOTAL: 38
 DOMAIN-SUFFIX,.xbox
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
@@ -12,10 +11,6 @@ DOMAIN-SUFFIX,bethsoft.com
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,elderscrolls.com
-DOMAIN-SUFFIX,forza.net
-DOMAIN-SUFFIX,forzamotorsport.net
-DOMAIN-SUFFIX,forzaracingchampionship.com
-DOMAIN-SUFFIX,forzarc.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraft.net
@@ -45,3 +40,4 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
+DOMAIN-KEYWORD,forza

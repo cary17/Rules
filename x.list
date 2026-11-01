@@ -1,8 +1,8 @@
 # NAME: x
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 27
-# TOTAL: 27
-DOMAIN-SUFFIX,ads-twitter.com
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 17
+# DOMAIN-KEYWORD: 1
+# TOTAL: 18
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grokipedia.com
@@ -13,15 +13,6 @@ DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.biz
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,twitter.map.fastly.net
-DOMAIN-SUFFIX,twittercommunity.com
-DOMAIN-SUFFIX,twitterflightschool.com
-DOMAIN-SUFFIX,twitterinc.com
-DOMAIN-SUFFIX,twitteroauth.com
-DOMAIN-SUFFIX,twitterstat.us
 DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
@@ -29,3 +20,4 @@ DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter

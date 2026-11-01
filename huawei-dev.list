@@ -1,15 +1,11 @@
 # NAME: huawei-dev
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 23
-# TOTAL: 23
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 18
+# DOMAIN-KEYWORD: 1
+# TOTAL: 19
 DOMAIN-SUFFIX,bisheng.cn
 DOMAIN-SUFFIX,bishengcompiler.cn
 DOMAIN-SUFFIX,devui.design
-DOMAIN-SUFFIX,gneec.com
-DOMAIN-SUFFIX,gneec.com.cn
-DOMAIN-SUFFIX,gneec3.com
-DOMAIN-SUFFIX,gneec4.com
-DOMAIN-SUFFIX,gneec7.com
 DOMAIN-SUFFIX,harmonyos.com
 DOMAIN-SUFFIX,hiascend.cn
 DOMAIN-SUFFIX,hiascend.com
@@ -25,3 +21,4 @@ DOMAIN-SUFFIX,mindspore.cn
 DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,saasops.tech
 DOMAIN-SUFFIX,teleows.com
+DOMAIN-KEYWORD,gneec

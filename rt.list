@@ -1,7 +1,8 @@
 # NAME: rt
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 112
-# TOTAL: 112
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 107
+# DOMAIN-KEYWORD: 1
+# TOTAL: 108
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,actualidad-rt.com
 DOMAIN-SUFFIX,ahilesva.info
@@ -86,11 +87,6 @@ DOMAIN-SUFFIX,rtenfrance.tv
 DOMAIN-SUFFIX,rtespanol.com
 DOMAIN-SUFFIX,rtfestival.ru
 DOMAIN-SUFFIX,rtfrance.tv
-DOMAIN-SUFFIX,rtnewsde.com
-DOMAIN-SUFFIX,rtnewsde.online
-DOMAIN-SUFFIX,rtnewsde.pro
-DOMAIN-SUFFIX,rtnewsde.site
-DOMAIN-SUFFIX,rtnewsde.tech
 DOMAIN-SUFFIX,rtnewsru.com
 DOMAIN-SUFFIX,rtrunews.com
 DOMAIN-SUFFIX,rttv.com
@@ -114,3 +110,4 @@ DOMAIN-SUFFIX,sn-esp.site
 DOMAIN-SUFFIX,swentr.site
 DOMAIN-SUFFIX,watchingthehawks.com
 DOMAIN-SUFFIX,worldcuprussia.com
+DOMAIN-KEYWORD,rtnewsde
