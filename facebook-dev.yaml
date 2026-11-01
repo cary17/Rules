@@ -1,5 +1,4 @@
 payload:
-    - "DOMAIN,developers.facebook.com"
     - "DOMAIN-SUFFIX,accountkit.com"
     - "DOMAIN-SUFFIX,atscaleconference.com"
     - "DOMAIN-SUFFIX,botorch.org"
@@ -8,11 +7,6 @@ payload:
     - "DOMAIN-SUFFIX,componentkit.org"
     - "DOMAIN-SUFFIX,draftjs.org"
     - "DOMAIN-SUFFIX,f8.com"
-    - "DOMAIN-SUFFIX,facebookappcenter.info"
-    - "DOMAIN-SUFFIX,facebookappcenter.net"
-    - "DOMAIN-SUFFIX,facebookappcenter.org"
-    - "DOMAIN-SUFFIX,facebookconnect.com"
-    - "DOMAIN-SUFFIX,facebookdevelopergarage.com"
     - "DOMAIN-SUFFIX,faciometrics.com"
     - "DOMAIN-SUFFIX,fasttext.cc"
     - "DOMAIN-SUFFIX,fbf8.com"
@@ -43,3 +37,4 @@ payload:
     - "DOMAIN-SUFFIX,rocksdb.net"
     - "DOMAIN-SUFFIX,rocksdb.org"
     - "DOMAIN-SUFFIX,yogalayout.com"
+    - "DOMAIN-KEYWORD,facebook"

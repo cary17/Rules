@@ -5,13 +5,7 @@ DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,detodosparatodos.org
 DOMAIN-SUFFIX,discovershiretoko.org
 DOMAIN-SUFFIX,ecmascript.org
-DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,extensionworkshop.com
-DOMAIN-SUFFIX,firefox-portal-detection.com
-DOMAIN-SUFFIX,firefox.com
-DOMAIN-SUFFIX,firefox.hu
-DOMAIN-SUFFIX,firefoxtweetmachine.com
-DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,foxkeh.com
 DOMAIN-SUFFIX,foxkeh.jp
 DOMAIN-SUFFIX,getfirebug.com
@@ -39,3 +33,4 @@ DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,thundermail.com
 DOMAIN-SUFFIX,webmademovies.org
 DOMAIN-KEYWORD,mozilla
+DOMAIN-KEYWORD,firefox

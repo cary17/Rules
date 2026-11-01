@@ -87,9 +87,4 @@ DOMAIN-SUFFIX,ikea.si
 DOMAIN-SUFFIX,ikea.sk
 DOMAIN-SUFFIX,ikea.ua
 DOMAIN-SUFFIX,ikea.us
-DOMAIN-SUFFIX,ingka-dt.cn
-DOMAIN-SUFFIX,ingka-internal.cn
-DOMAIN-SUFFIX,ingka-system.cn
-DOMAIN-SUFFIX,ingka.com
-DOMAIN-SUFFIX,ingka.dev
-DOMAIN-SUFFIX,ingkacentres.com
+DOMAIN-KEYWORD,ingka

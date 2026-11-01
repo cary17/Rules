@@ -1,11 +1,6 @@
 payload:
     - "DOMAIN-SUFFIX,anm.co.uk"
     - "DOMAIN-SUFFIX,dailym.ai"
-    - "DOMAIN-SUFFIX,dailymail.co.uk"
-    - "DOMAIN-SUFFIX,dailymail.com"
-    - "DOMAIN-SUFFIX,dailymail.com.au"
-    - "DOMAIN-SUFFIX,dailymail.dk"
-    - "DOMAIN-SUFFIX,dailymailonline.com"
     - "DOMAIN-SUFFIX,dmgmediaprivacy.co.uk"
     - "DOMAIN-SUFFIX,mailhealth.com"
     - "DOMAIN-SUFFIX,mailonline.co.uk"
@@ -16,3 +11,4 @@ payload:
     - "DOMAIN-SUFFIX,mol.im"
     - "DOMAIN-SUFFIX,thisismoney.co.uk"
     - "DOMAIN-SUFFIX,thismon.ee"
+    - "DOMAIN-KEYWORD,dailymail"

@@ -15,8 +15,6 @@ DOMAIN-SUFFIX,166.net
 DOMAIN-SUFFIX,188.com
 DOMAIN-SUFFIX,321fenx.com
 DOMAIN-SUFFIX,a.youdao.com
-DOMAIN-SUFFIX,admusicpic.music.126.net
-DOMAIN-SUFFIX,ads.music.126.net
 DOMAIN-SUFFIX,analytics.163.com
 DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,crashlytics.163.com
@@ -25,8 +23,6 @@ DOMAIN-SUFFIX,g.163.com
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,iadmat.nosdn.127.net
 DOMAIN-SUFFIX,iadmatapk.nosdn.127.net
-DOMAIN-SUFFIX,iadmusicmat.music.126.net
-DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,kada.com
 DOMAIN-SUFFIX,lf126.net
@@ -40,7 +36,6 @@ DOMAIN-SUFFIX,netstatic.net
 DOMAIN-SUFFIX,qiyukf.com
 DOMAIN-SUFFIX,qiyukf.net
 DOMAIN-SUFFIX,qiyukf.net.cn
-DOMAIN-SUFFIX,sentry.music.163.com
 DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,weiyang.cn
 DOMAIN-SUFFIX,ydstatic.com
@@ -52,3 +47,4 @@ DOMAIN-SUFFIX,yunxindns.com
 DOMAIN-SUFFIX,yunxinfw.com
 DOMAIN-SUFFIX,yysls.cn
 DOMAIN-SUFFIX,zhuanzfx.com
+DOMAIN-KEYWORD,music

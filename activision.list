@@ -1,9 +1,4 @@
 DOMAIN-SUFFIX,activision.com
-DOMAIN-SUFFIX,callofduty.com
-DOMAIN-SUFFIX,callofdutyendowment.com
-DOMAIN-SUFFIX,callofdutyendowment.org
-DOMAIN-SUFFIX,callofdutyleague.com
-DOMAIN-SUFFIX,callofdutymobile.com
 DOMAIN-SUFFIX,crashbandicoot.com
 DOMAIN-SUFFIX,demonware.net
 DOMAIN-SUFFIX,highmoonstudios.com
@@ -19,3 +14,4 @@ DOMAIN-SUFFIX,tonyhawk.com
 DOMAIN-SUFFIX,tonyhawkthegame.com
 DOMAIN-SUFFIX,treyarch.com
 DOMAIN-SUFFIX,worldseriesofwarzone.com
+DOMAIN-KEYWORD,callofduty

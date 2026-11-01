@@ -8,9 +8,6 @@ DOMAIN-SUFFIX,ffbuddy.com
 DOMAIN-SUFFIX,gamebonfire.com
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
-DOMAIN-SUFFIX,gcloudcs.com
-DOMAIN-SUFFIX,gcloudcstest.com
-DOMAIN-SUFFIX,gcloudcstestonly.com
 DOMAIN-SUFFIX,gclouddolphin.com
 DOMAIN-SUFFIX,gcloudsdk.com
 DOMAIN-SUFFIX,gcloudsvcs.com
@@ -24,7 +21,6 @@ DOMAIN-SUFFIX,gtgres.com
 DOMAIN-SUFFIX,happyhlddz.com
 DOMAIN-SUFFIX,haydaypop.cn
 DOMAIN-SUFFIX,hdyxgame.com
-DOMAIN-SUFFIX,hkgcloudcs.com
 DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
 DOMAIN-SUFFIX,in.th
@@ -40,7 +36,6 @@ DOMAIN-SUFFIX,midasbuy.com
 DOMAIN-SUFFIX,mszdld.cn
 DOMAIN-SUFFIX,mszdld.com
 DOMAIN-SUFFIX,mszdld.net
-DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
 DOMAIN-SUFFIX,proximabeta.com
@@ -83,3 +78,4 @@ DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,zcjbgame.com
 DOMAIN-SUFFIX,zhuoyuegame.com
+DOMAIN-KEYWORD,gcloudcs

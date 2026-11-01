@@ -14,14 +14,6 @@ DOMAIN-SUFFIX,happysrv.de
 DOMAIN-SUFFIX,hotsrv.de
 DOMAIN-SUFFIX,luckysrv.de
 DOMAIN-SUFFIX,megasrv.de
-DOMAIN-SUFFIX,netcup-news.de
-DOMAIN-SUFFIX,netcup-sonderangebote.de
-DOMAIN-SUFFIX,netcup-wiki.de
-DOMAIN-SUFFIX,netcup.cafe
-DOMAIN-SUFFIX,netcup.com
-DOMAIN-SUFFIX,netcup.de
-DOMAIN-SUFFIX,netcup.eu
-DOMAIN-SUFFIX,netcup.net
 DOMAIN-SUFFIX,nicesrv.de
 DOMAIN-SUFFIX,powersrv.de
 DOMAIN-SUFFIX,quicksrv.de
@@ -31,3 +23,4 @@ DOMAIN-SUFFIX,supersrv.de
 DOMAIN-SUFFIX,thirdns.de
 DOMAIN-SUFFIX,ultrasrv.de
 DOMAIN-SUFFIX,yourvserver.net
+DOMAIN-KEYWORD,netcup

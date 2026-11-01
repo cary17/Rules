@@ -75,12 +75,6 @@ DOMAIN-SUFFIX,sigopt.com
 DOMAIN-SUFFIX,silicon-mobility.com
 DOMAIN-SUFFIX,siliconmobility.com
 DOMAIN-SUFFIX,siport.com
-DOMAIN-SUFFIX,smart-edge.com
-DOMAIN-SUFFIX,smart-edge.info
-DOMAIN-SUFFIX,smart-edge.io
-DOMAIN-SUFFIX,smart-edge.net
-DOMAIN-SUFFIX,smart-edge.org
-DOMAIN-SUFFIX,smart-edge.systems
 DOMAIN-SUFFIX,smartedge.info
 DOMAIN-SUFFIX,snap-telemetry.io
 DOMAIN-SUFFIX,storageclassmemory.io
@@ -97,3 +91,4 @@ DOMAIN-SUFFIX,xeon.com
 DOMAIN-SUFFIX,xn--ztsq84g.cn
 DOMAIN-SUFFIX,xscale.com
 DOMAIN-KEYWORD,intel
+DOMAIN-KEYWORD,smart-edge

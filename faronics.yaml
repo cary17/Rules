@@ -1,9 +1,4 @@
 payload:
     - "DOMAIN-SUFFIX,clickedu.co.uk"
-    - "DOMAIN-SUFFIX,deepfreeze.co.uk"
-    - "DOMAIN-SUFFIX,deepfreeze.com"
-    - "DOMAIN-SUFFIX,deepfreeze.com.br"
-    - "DOMAIN-SUFFIX,deepfreeze.eu"
-    - "DOMAIN-SUFFIX,deepfreeze.net"
-    - "DOMAIN-SUFFIX,deepfreeze.tech"
     - "DOMAIN-KEYWORD,faronics"
+    - "DOMAIN-KEYWORD,deepfreeze"

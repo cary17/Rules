@@ -105,12 +105,6 @@ DOMAIN-SUFFIX,sonylatvija.com
 DOMAIN-SUFFIX,sonymusic.com.hk
 DOMAIN-SUFFIX,sonynetwork.co.jp
 DOMAIN-SUFFIX,sonypcl.jp
-DOMAIN-SUFFIX,sonypictures.com
-DOMAIN-SUFFIX,sonypicturesanimation.com
-DOMAIN-SUFFIX,sonypicturesmuseum.com
-DOMAIN-SUFFIX,sonypicturesstudios.com
-DOMAIN-SUFFIX,sonypicturestelevision.com
-DOMAIN-SUFFIX,sonypicturestelevisiongames.com
 DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
 DOMAIN-SUFFIX,sonystoragemedia.co.jp
 DOMAIN-SUFFIX,sonytc.co.jp
@@ -118,3 +112,4 @@ DOMAIN-SUFFIX,sovec.net
 DOMAIN-SUFFIX,wheelpop.com
 DOMAIN-SUFFIX,wwtbam.com
 DOMAIN-SUFFIX,yourfantasybeginsnow.com
+DOMAIN-KEYWORD,sonypictures

@@ -1,11 +1,6 @@
 DOMAIN,conn1.oppomobile.com
 DOMAIN,conn2.oppomobile.com
 DOMAIN,connect.rom.miui.com
-DOMAIN,connectivity-check.ubuntu.com
-DOMAIN,connectivity.samsung.com.cn
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,connectivitycheck.platform.hicloud.com
-DOMAIN,connectivitycheck.platform.hihonorcloud.com
 DOMAIN,edge-http.microsoft.com
 DOMAIN,networkcheck.kde.org
 DOMAIN,nmcheck.gnome.org
@@ -26,3 +21,4 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,network-test.debian.org
 DOMAIN-SUFFIX,test.steampowered.com
+DOMAIN-KEYWORD,connectivity

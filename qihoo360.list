@@ -25,11 +25,6 @@ DOMAIN-SUFFIX,360safe.com
 DOMAIN-SUFFIX,360scdn.com
 DOMAIN-SUFFIX,360shouji.com
 DOMAIN-SUFFIX,360sjyh.cn
-DOMAIN-SUFFIX,360so.com
-DOMAIN-SUFFIX,360sou.cn
-DOMAIN-SUFFIX,360sou.com
-DOMAIN-SUFFIX,360sou.com.cn
-DOMAIN-SUFFIX,360sou.net
 DOMAIN-SUFFIX,360taojin.com
 DOMAIN-SUFFIX,360totalsecurity.com
 DOMAIN-SUFFIX,360tpcdn.com
@@ -61,14 +56,6 @@ DOMAIN-SUFFIX,nzwgs.com
 DOMAIN-SUFFIX,qftexpay.cn
 DOMAIN-SUFFIX,qh-cdn.com
 DOMAIN-SUFFIX,qhcdn.com
-DOMAIN-SUFFIX,qhimg.com
-DOMAIN-SUFFIX,qhimgs0.com
-DOMAIN-SUFFIX,qhimgs1.com
-DOMAIN-SUFFIX,qhimgs2.com
-DOMAIN-SUFFIX,qhimgs3.com
-DOMAIN-SUFFIX,qhimgs4.com
-DOMAIN-SUFFIX,qhimgs5.com
-DOMAIN-SUFFIX,qhimgs6.com
 DOMAIN-SUFFIX,qhmsg.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhres2.com
@@ -110,3 +97,5 @@ DOMAIN-SUFFIX,youhua.com
 DOMAIN-SUFFIX,yunpan.cn
 DOMAIN-SUFFIX,zhaomi.cn
 DOMAIN-SUFFIX,zhaomishijie.com
+DOMAIN-KEYWORD,360so
+DOMAIN-KEYWORD,qhimg

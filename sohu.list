@@ -5,14 +5,9 @@ DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,56img.com
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
-DOMAIN-SUFFIX,adv-sv-show.focus.cn
-DOMAIN-SUFFIX,adv-sv-stat.focus.cn
 DOMAIN-SUFFIX,assp.sohu.com
-DOMAIN-SUFFIX,bdu.focus.cn
 DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,cy.com
-DOMAIN-SUFFIX,focus-img.cn
-DOMAIN-SUFFIX,focus.cn
 DOMAIN-SUFFIX,fpb.sohu.com
 DOMAIN-SUFFIX,imp.go.sohu.com
 DOMAIN-SUFFIX,itc.cn
@@ -30,3 +25,4 @@ DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,track.sohu.com
 DOMAIN-SUFFIX,yeyou.com
 DOMAIN-SUFFIX,yeyoucdn.com
+DOMAIN-KEYWORD,focus

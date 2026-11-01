@@ -1,4 +1,3 @@
-DOMAIN,prodforza.blob.core.windows.net
 DOMAIN-WILDCARD,*.xbox
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
@@ -7,10 +6,6 @@ DOMAIN-SUFFIX,bethsoft.com
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,elderscrolls.com
-DOMAIN-SUFFIX,forza.net
-DOMAIN-SUFFIX,forzamotorsport.net
-DOMAIN-SUFFIX,forzaracingchampionship.com
-DOMAIN-SUFFIX,forzarc.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraft.net
@@ -40,3 +35,4 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
+DOMAIN-KEYWORD,forza
