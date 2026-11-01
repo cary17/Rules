@@ -1,17 +1,12 @@
 # NAME: blizzard
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 9
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 3
 # DOMAIN-SUFFIX: 16
-# TOTAL: 25
+# DOMAIN-KEYWORD: 1
+# TOTAL: 20
 domain_set:
   - "blizzard.nefficient.co.kr"
-  - "blizzcon-a.akamaihd.net"
-  - "blzddist1-a.akamaihd.net"
-  - "blzddistkr1-a.akamaihd.net"
-  - "blzmedia-a.akamaihd.net"
   - "blznav.akamaized.net"
-  - "bnetcmsus-a.akamaihd.net"
-  - "bnetproduct-a.akamaihd.net"
   - "bnetshopus.akamaized.net"
 domain_suffix_set:
   - "battle.net"
@@ -30,3 +25,5 @@ domain_suffix_set:
   - "starcraft.com"
   - "starcraft2.com"
   - "worldofwarcraft.com"
+domain_keyword_set:
+  - "akamaihd"

@@ -1,17 +1,13 @@
 # NAME: mediachinesegroup
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 16
+# DOMAIN-KEYWORD: 1
+# TOTAL: 17
 domain_suffix_set:
   - "chinapress.com.my"
   - "enanyang.my"
   - "guangming.com.my"
   - "mediachinese.com"
-  - "mingpao.com"
-  - "mingpaocanada.com"
-  - "mingpaomonthly.com"
-  - "mingpaotor.com"
-  - "mingpaovan.com"
   - "mings-fashion.com"
   - "mings.hk"
   - "mingshengbao.com"
@@ -24,3 +20,5 @@ domain_suffix_set:
   - "sinchew.my"
   - "soccerfanz.com.my"
   - "yzzk.com"
+domain_keyword_set:
+  - "mingpao"

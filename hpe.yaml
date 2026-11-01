@@ -1,23 +1,16 @@
 # NAME: hpe
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 15
-# TOTAL: 16
+# DOMAIN-SUFFIX: 5
+# DOMAIN-KEYWORD: 1
+# TOTAL: 7
 domain_set:
   - "hpefonts.s3.amazonaws.com"
 domain_suffix_set:
   - "greenlakeaas.com"
   - "greenlakehybridcloud.com"
-  - "hewlett-packard.asia"
-  - "hewlett-packard.ch"
-  - "hewlett-packard.co"
-  - "hewlett-packard.co.il"
-  - "hewlett-packard.co.uk"
-  - "hewlett-packard.com.cn"
-  - "hewlett-packard.com.mx"
-  - "hewlett-packard.com.sg"
-  - "hewlett-packard.jp"
-  - "hewlett-packard.mobi"
   - "hewlettpackard.enterprises"
   - "hpe.com"
   - "hpecyber.com"
+domain_keyword_set:
+  - "hewlett-packard"

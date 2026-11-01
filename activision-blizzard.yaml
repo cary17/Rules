@@ -1,32 +1,17 @@
 # NAME: activision-blizzard
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 9
-# DOMAIN-SUFFIX: 43
-# TOTAL: 52
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 34
+# DOMAIN-KEYWORD: 3
+# TOTAL: 39
 domain_set:
-  - "blizzard.nefficient.co.kr"
-  - "blizzcon-a.akamaihd.net"
-  - "blzddist1-a.akamaihd.net"
-  - "blzddistkr1-a.akamaihd.net"
-  - "blzmedia-a.akamaihd.net"
   - "blznav.akamaized.net"
-  - "bnetcmsus-a.akamaihd.net"
-  - "bnetproduct-a.akamaihd.net"
   - "bnetshopus.akamaized.net"
 domain_suffix_set:
   - "activision.com"
-  - "activisionblizzard.com"
-  - "activisionblizzardmedia.com"
   - "battle.net"
   - "benefitsforeveryworld.com"
-  - "blizzard.com"
-  - "blizzardgearstore.com"
   - "blz-contentstack.com"
-  - "callofduty.com"
-  - "callofdutyendowment.com"
-  - "callofdutyendowment.org"
-  - "callofdutyleague.com"
-  - "callofdutymobile.com"
   - "candycrush.com"
   - "crashbandicoot.com"
   - "demonware.net"
@@ -57,3 +42,7 @@ domain_suffix_set:
   - "treyarch.com"
   - "worldofwarcraft.com"
   - "worldseriesofwarzone.com"
+domain_keyword_set:
+  - "akamaihd"
+  - "blizzard"
+  - "callofduty"

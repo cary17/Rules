@@ -1,7 +1,8 @@
 # NAME: stackexchange
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 25
-# TOTAL: 25
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 14
+# DOMAIN-KEYWORD: 1
+# TOTAL: 15
 domain_suffix_set:
   - "askubuntu.com"
   - "blogoverflow.com"
@@ -13,18 +14,9 @@ domain_suffix_set:
   - "stackauth.com"
   - "stackexchange.com"
   - "stackmod.blog"
-  - "stackoverflow.blog"
-  - "stackoverflow.co"
-  - "stackoverflow.com"
-  - "stackoverflow.email"
-  - "stackoverflow.help"
-  - "stackoverflow.net"
-  - "stackoverflowbusiness.com"
-  - "stackoverflowcareers.com"
-  - "stackoverflowjobs.com"
-  - "stackoverflowsolutions.com"
-  - "stackoverflowteams.com"
   - "stacksnippets.net"
   - "superuser.com"
   - "tex-talk.net"
   - "thesffblog.com"
+domain_keyword_set:
+  - "stackoverflow"

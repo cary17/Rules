@@ -1,7 +1,8 @@
 # NAME: mini
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 214
-# TOTAL: 214
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 192
+# DOMAIN-KEYWORD: 1
+# TOTAL: 193
 domain_suffix_set:
   - ".mini"
   - "4myminicard.com"
@@ -14,28 +15,6 @@ domain_suffix_set:
   - "mini-bahrain.com"
   - "mini-bosnia.com"
   - "mini-clubs-international.com"
-  - "mini-connected.at"
-  - "mini-connected.be"
-  - "mini-connected.ch"
-  - "mini-connected.co.uk"
-  - "mini-connected.com"
-  - "mini-connected.cz"
-  - "mini-connected.de"
-  - "mini-connected.dk"
-  - "mini-connected.ee"
-  - "mini-connected.es"
-  - "mini-connected.fi"
-  - "mini-connected.fr"
-  - "mini-connected.ie"
-  - "mini-connected.it"
-  - "mini-connected.lt"
-  - "mini-connected.lu"
-  - "mini-connected.lv"
-  - "mini-connected.nl"
-  - "mini-connected.no"
-  - "mini-connected.pl"
-  - "mini-connected.pt"
-  - "mini-connected.se"
   - "mini-corporate-sales.com"
   - "mini-coupe.ca"
   - "mini-dubai.com"
@@ -217,3 +196,5 @@ domain_suffix_set:
   - "southfloridamini.com"
   - "trmini.com"
   - "troisrivieresmini.com"
+domain_keyword_set:
+  - "mini-connected"

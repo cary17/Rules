@@ -1,7 +1,8 @@
 # NAME: lark-global
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 31
-# TOTAL: 31
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 12
+# DOMAIN-KEYWORD: 2
+# TOTAL: 14
 domain_suffix_set:
   - "frontier-lark-lb-v3.lf.bytelb.net"
   - "lark-passport-qa-sg.net"
@@ -11,26 +12,10 @@ domain_suffix_set:
   - "larkfn.com"
   - "larkmeetings.cn"
   - "larkmeetings.com"
-  - "larkoffice.com"
-  - "larkoffice.com.bytedns1.com"
-  - "larkofficeapp-boe.com"
-  - "larkofficeapp-pre.com"
-  - "larkofficeapp.com"
-  - "larkofficeboe.com"
-  - "larkofficecdn.com"
-  - "larkofficeimg.com"
-  - "larkofficepkg.com"
-  - "larkofficepre.com"
   - "larkrooms.cn"
   - "larkrooms.com"
-  - "larksuite-pre.com"
-  - "larksuite.com"
-  - "larksuite.com.ttdns1.com"
-  - "larksuite.com.ttdns2.com"
-  - "larksuitecdn.com"
-  - "larksuiteimg-boe.com"
-  - "larksuiteimg-pre.com"
-  - "larksuiteimg.com"
   - "larkvc.com"
-  - "statuslarkoffice.com"
   - "thelarkcloud.com"
+domain_keyword_set:
+  - "larkoffice"
+  - "larksuite"

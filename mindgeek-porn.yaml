@@ -1,7 +1,8 @@
 # NAME: mindgeek-porn
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 46
-# TOTAL: 46
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 41
+# DOMAIN-KEYWORD: 1
+# TOTAL: 42
 domain_suffix_set:
   - "babes.com"
   - "brazzer.com"
@@ -23,11 +24,6 @@ domain_suffix_set:
   - "phncdn.com"
   - "phprcdn.com"
   - "porngub.com"
-  - "pornhub-deutsch.net"
-  - "pornhub.com"
-  - "pornhub.org"
-  - "pornhubapparel.com"
-  - "pornhubpremium.com"
   - "porniq.com"
   - "pornmd.com"
   - "rdtcdn.com"
@@ -49,3 +45,5 @@ domain_suffix_set:
   - "youpornpremium.com"
   - "youpornru.com"
   - "ypncdn.com"
+domain_keyword_set:
+  - "pornhub"

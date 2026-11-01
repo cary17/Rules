@@ -1,7 +1,8 @@
 # NAME: chinaunicom
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 25
-# TOTAL: 25
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 19
+# DOMAIN-KEYWORD: 1
+# TOTAL: 20
 domain_suffix_set:
   - ".unicom"
   - ".xn--8y0a063a"
@@ -10,15 +11,9 @@ domain_suffix_set:
   - "10155.com"
   - "114menhu.com"
   - "169ol.com"
-  - "chinaunicom.cn"
-  - "chinaunicom.com"
-  - "chinaunicom.com.cn"
-  - "chinaunicom.com.hk"
-  - "chinaunicomglobal.com"
   - "cuguplus.com"
   - "cuniq.com"
   - "cuniq.sg"
-  - "mychinaunicom.com"
   - "smartont.net"
   - "unicompayment.com"
   - "wo-adv.cn"
@@ -28,3 +23,5 @@ domain_suffix_set:
   - "wocloud.com.cn"
   - "woread.com.cn"
   - "wosms.cn"
+domain_keyword_set:
+  - "chinaunicom"

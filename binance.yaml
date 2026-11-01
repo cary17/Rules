@@ -1,9 +1,9 @@
 # NAME: binance
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 14
-# DOMAIN-KEYWORD: 1
-# TOTAL: 17
+# DOMAIN-SUFFIX: 9
+# DOMAIN-KEYWORD: 2
+# TOTAL: 13
 domain_set:
   - "zftksc.cdn-settings.appsflyersdk.com"
   - "zftksc.launches.appsflyersdk.com"
@@ -17,10 +17,6 @@ domain_suffix_set:
   - "bsappapi.com"
   - "bscdnweb.com"
   - "nftstatic.com"
-  - "saasexch.cc"
-  - "saasexch.co"
-  - "saasexch.com"
-  - "saasexch.info"
-  - "saasexch.io"
 domain_keyword_set:
   - "binance"
+  - "saasexch"

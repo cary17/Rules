@@ -1,8 +1,8 @@
 # NAME: intel
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 98
-# DOMAIN-KEYWORD: 1
-# TOTAL: 99
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 92
+# DOMAIN-KEYWORD: 2
+# TOTAL: 94
 domain_suffix_set:
   - "01.org"
   - "acpica.com"
@@ -81,12 +81,6 @@ domain_suffix_set:
   - "silicon-mobility.com"
   - "siliconmobility.com"
   - "siport.com"
-  - "smart-edge.com"
-  - "smart-edge.info"
-  - "smart-edge.io"
-  - "smart-edge.net"
-  - "smart-edge.org"
-  - "smart-edge.systems"
   - "smartedge.info"
   - "snap-telemetry.io"
   - "storageclassmemory.io"
@@ -104,3 +98,4 @@ domain_suffix_set:
   - "xscale.com"
 domain_keyword_set:
   - "intel"
+  - "smart-edge"

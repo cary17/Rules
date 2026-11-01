@@ -1,28 +1,12 @@
 # NAME: westerndigital
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 23
-# TOTAL: 23
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 1
+# TOTAL: 5
 domain_suffix_set:
   - "g-technology.com"
-  - "sandisk.ae"
-  - "sandisk.cn"
-  - "sandisk.co.jp"
-  - "sandisk.co.kr"
-  - "sandisk.co.uk"
-  - "sandisk.com"
-  - "sandisk.com.au"
-  - "sandisk.com.br"
-  - "sandisk.com.tr"
-  - "sandisk.com.tw"
-  - "sandisk.de"
-  - "sandisk.es"
-  - "sandisk.fr"
-  - "sandisk.hk"
-  - "sandisk.id"
-  - "sandisk.in"
-  - "sandisk.it"
-  - "sandisk.nl"
-  - "sandisk.sg"
   - "wd.com"
   - "wdc.com"
   - "westerndigital.com"
+domain_keyword_set:
+  - "sandisk"

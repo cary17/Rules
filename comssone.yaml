@@ -1,14 +1,6 @@
 # NAME: comssone
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
-domain_suffix_set:
-  - "comss.club"
-  - "comss.info"
-  - "comss.me"
-  - "comss.net"
-  - "comss.news"
-  - "comss.one"
-  - "comss.online"
-  - "comss.org"
-  - "comss.ru"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+domain_keyword_set:
+  - "comss"

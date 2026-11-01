@@ -1,7 +1,8 @@
 # NAME: qihoo360
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 112
-# TOTAL: 112
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 99
+# DOMAIN-KEYWORD: 2
+# TOTAL: 101
 domain_suffix_set:
   - ".anquan"
   - ".shouji"
@@ -30,11 +31,6 @@ domain_suffix_set:
   - "360scdn.com"
   - "360shouji.com"
   - "360sjyh.cn"
-  - "360so.com"
-  - "360sou.cn"
-  - "360sou.com"
-  - "360sou.com.cn"
-  - "360sou.net"
   - "360taojin.com"
   - "360totalsecurity.com"
   - "360tpcdn.com"
@@ -66,14 +62,6 @@ domain_suffix_set:
   - "qftexpay.cn"
   - "qh-cdn.com"
   - "qhcdn.com"
-  - "qhimg.com"
-  - "qhimgs0.com"
-  - "qhimgs1.com"
-  - "qhimgs2.com"
-  - "qhimgs3.com"
-  - "qhimgs4.com"
-  - "qhimgs5.com"
-  - "qhimgs6.com"
   - "qhmsg.com"
   - "qhres.com"
   - "qhres2.com"
@@ -115,3 +103,6 @@ domain_suffix_set:
   - "yunpan.cn"
   - "zhaomi.cn"
   - "zhaomishijie.com"
+domain_keyword_set:
+  - "360so"
+  - "qhimg"

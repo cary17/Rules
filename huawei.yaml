@@ -1,8 +1,8 @@
 # NAME: huawei
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 256
-# DOMAIN-KEYWORD: 1
-# TOTAL: 257
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 229
+# DOMAIN-KEYWORD: 4
+# TOTAL: 233
 domain_suffix_set:
   - "26r9y.cn"
   - "2gkjr.cn"
@@ -143,24 +143,10 @@ domain_suffix_set:
   - "cdnhwczxh101.com"
   - "chaspark.com"
   - "cza84.cn"
-  - "dbank.com"
-  - "dbankcdn.cn"
-  - "dbankcdn.com"
-  - "dbankcloud.cn"
-  - "dbankcloud.com"
-  - "dbankcloud.ru"
-  - "dbankedge.cn"
-  - "dbankedge.net"
   - "devui.design"
-  - "dt.dbankcloud.ru"
   - "eduapaashwc.com"
   - "fpxyo.cn"
   - "functiongraph.run"
-  - "gneec.com"
-  - "gneec.com.cn"
-  - "gneec3.com"
-  - "gneec4.com"
-  - "gneec7.com"
   - "harmonyos.com"
   - "hc-cdn.cn"
   - "hc-cdn.com"
@@ -184,15 +170,6 @@ domain_suffix_set:
   - "hwccpc.com"
   - "hwcdnsre.cn"
   - "hwcdnsre.com"
-  - "hwclouds-dns.cn"
-  - "hwclouds-dns.com"
-  - "hwclouds-dns.net"
-  - "hwclouds.cn"
-  - "hwclouds.com"
-  - "hwclouds.mobi"
-  - "hwclouds.org.cn"
-  - "hwcloudsite.cn"
-  - "hwcloudsite.com"
   - "hwcloudvis.cn"
   - "hwcloudvis.com"
   - "hweventgrid.cn"
@@ -232,10 +209,6 @@ domain_suffix_set:
   - "myhwcdn.cn"
   - "myhwcdn.com"
   - "myhwcloudlive.com"
-  - "myhwclouds.cn"
-  - "myhwclouds.com"
-  - "myhwclouds.com.cn"
-  - "myhwclouds.net"
   - "ns95c.cn"
   - "o7mu8.cn"
   - "owsgo.com"
@@ -262,3 +235,6 @@ domain_suffix_set:
   - "z95rr.cn"
 domain_keyword_set:
   - "huawei"
+  - "dbank"
+  - "gneec"
+  - "hwclouds"

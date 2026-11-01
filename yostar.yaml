@@ -1,14 +1,12 @@
 # NAME: yostar
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 1
+# TOTAL: 5
 domain_suffix_set:
   - "stargazer-games.com"
   - "stellasora.global"
   - "stellasora.jp"
   - "yo-star.com"
-  - "yostar-pictures.co.jp"
-  - "yostar.cn"
-  - "yostar.co.jp"
-  - "yostar.net"
-  - "yostarplat.com"
+domain_keyword_set:
+  - "yostar"

@@ -1,17 +1,14 @@
 # NAME: tencent-tme
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 45
-# TOTAL: 45
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 24
+# DOMAIN-KEYWORD: 2
+# TOTAL: 26
 domain_suffix_set:
   - "97ting.com"
-  - "ad.tencentmusic.com"
   - "adbehavior.ximalaya.com"
-  - "ads.service.kugou.com"
   - "adse.wsa.ximalaya.com"
   - "adse.ximalaya.com"
   - "adserviceretry.kglink.cn"
-  - "adserviceretry.kugou.com"
-  - "adstats.tencentmusic.com"
   - "fanxingliveshow.com"
   - "kg.qq.com"
   - "kgimg.com"
@@ -20,31 +17,17 @@ domain_suffix_set:
   - "koowo.com"
   - "ktv.com"
   - "kugoo.com"
-  - "kugou.com"
-  - "kugou.net"
-  - "kugouaudio.com"
-  - "kugouipv6.com"
-  - "kugoukid.com"
-  - "kugouliveshow.com"
-  - "kugouringtone.com"
-  - "kugousenior.com"
-  - "kugoustore.com"
-  - "kugouvoice.com"
-  - "kugouyouth.com"
   - "kuwo.cn"
   - "lrts.me"
-  - "monitor.music.qq.com"
   - "mting.info"
-  - "music.qq.com"
-  - "qqmusic.com"
-  - "report.tencentmusic.com"
   - "stat.y.qq.com"
-  - "tencentmusic.com"
   - "tingmall.com"
   - "tmead.y.qq.com"
   - "tmeadcomm.y.qq.com"
-  - "ultimatemusic.cn"
   - "wting.info"
   - "ximalaya.com"
   - "xmcdn.com"
   - "y.qq.com"
+domain_keyword_set:
+  - "kugou"
+  - "music"

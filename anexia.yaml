@@ -1,7 +1,8 @@
 # NAME: anexia
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 33
-# TOTAL: 33
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 25
+# DOMAIN-KEYWORD: 1
+# TOTAL: 26
 domain_suffix_set:
   - "anexia-engine.com"
   - "anexia-it.com"
@@ -19,14 +20,6 @@ domain_suffix_set:
   - "hotsrv.de"
   - "luckysrv.de"
   - "megasrv.de"
-  - "netcup-news.de"
-  - "netcup-sonderangebote.de"
-  - "netcup-wiki.de"
-  - "netcup.cafe"
-  - "netcup.com"
-  - "netcup.de"
-  - "netcup.eu"
-  - "netcup.net"
   - "nicesrv.de"
   - "powersrv.de"
   - "quicksrv.de"
@@ -36,3 +29,5 @@ domain_suffix_set:
   - "thirdns.de"
   - "ultrasrv.de"
   - "yourvserver.net"
+domain_keyword_set:
+  - "netcup"

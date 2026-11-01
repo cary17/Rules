@@ -1,7 +1,8 @@
 # NAME: wangsu
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 29
-# TOTAL: 29
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 24
+# DOMAIN-KEYWORD: 1
+# TOTAL: 25
 domain_suffix_set:
   - "51cdn.com"
   - "8686c.com"
@@ -9,11 +10,6 @@ domain_suffix_set:
   - "cdn30.org"
   - "cdnmg.com"
   - "chinanetcenter.com"
-  - "lxdns.cn"
-  - "lxdns.com"
-  - "lxdns.info"
-  - "lxdns.net"
-  - "lxdns.org"
   - "mwcdns.com"
   - "mwcloudcdn.com"
   - "npsv6.com"
@@ -32,3 +28,5 @@ domain_suffix_set:
   - "wsglb.net"
   - "wswebcdn.com"
   - "wswebpic.com"
+domain_keyword_set:
+  - "lxdns"

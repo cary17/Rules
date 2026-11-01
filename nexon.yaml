@@ -1,11 +1,6 @@
 # NAME: nexon
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 6
-# TOTAL: 6
-domain_suffix_set:
-  - "nexon.co.jp"
-  - "nexon.com"
-  - "nexon.io"
-  - "nexon.net"
-  - "nexoncdn.co.kr"
-  - "nexongames.co.kr"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+domain_keyword_set:
+  - "nexon"

@@ -1,11 +1,8 @@
 # NAME: gmo-internet
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 143
-# TOTAL: 145
-domain_set:
-  - "cdn.globalsigncdn.com.cdn.cloudflare.net"
-  - "crl.globalsign.net"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 126
+# DOMAIN-KEYWORD: 1
+# TOTAL: 127
 domain_suffix_set:
   - ".gmo"
   - "1-account.com"
@@ -41,23 +38,6 @@ domain_suffix_set:
   - "gaikaex.com"
   - "gesoten.com"
   - "get.shop"
-  - "globalsign-media.com"
-  - "globalsign.be"
-  - "globalsign.ch"
-  - "globalsign.cloud"
-  - "globalsign.cn"
-  - "globalsign.co.uk"
-  - "globalsign.com"
-  - "globalsign.com.au"
-  - "globalsign.com.br"
-  - "globalsign.com.hk"
-  - "globalsign.com.sg"
-  - "globalsign.es"
-  - "globalsign.eu"
-  - "globalsign.fr"
-  - "globalsign.net"
-  - "globalsign.nl"
-  - "globalsigncdn.com"
   - "gmo-aozora.com"
   - "gmo-app.jp"
   - "gmo-c.jp"
@@ -150,3 +130,5 @@ domain_suffix_set:
   - "z.com"
   - "zeibit.ai"
   - "ztrendlab.com"
+domain_keyword_set:
+  - "globalsign"

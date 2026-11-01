@@ -1,7 +1,8 @@
 # NAME: rt
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 112
-# TOTAL: 112
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 107
+# DOMAIN-KEYWORD: 1
+# TOTAL: 108
 domain_suffix_set:
   - "1917live.red"
   - "actualidad-rt.com"
@@ -87,11 +88,6 @@ domain_suffix_set:
   - "rtespanol.com"
   - "rtfestival.ru"
   - "rtfrance.tv"
-  - "rtnewsde.com"
-  - "rtnewsde.online"
-  - "rtnewsde.pro"
-  - "rtnewsde.site"
-  - "rtnewsde.tech"
   - "rtnewsru.com"
   - "rtrunews.com"
   - "rttv.com"
@@ -115,3 +111,5 @@ domain_suffix_set:
   - "swentr.site"
   - "watchingthehawks.com"
   - "worldcuprussia.com"
+domain_keyword_set:
+  - "rtnewsde"

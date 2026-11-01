@@ -1,7 +1,8 @@
 # NAME: netease
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 54
-# TOTAL: 54
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 49
+# DOMAIN-KEYWORD: 1
+# TOTAL: 50
 domain_suffix_set:
   - "126.com"
   - "126.link"
@@ -20,8 +21,6 @@ domain_suffix_set:
   - "188.com"
   - "321fenx.com"
   - "a.youdao.com"
-  - "admusicpic.music.126.net"
-  - "ads.music.126.net"
   - "analytics.163.com"
   - "crash.163.com"
   - "crashlytics.163.com"
@@ -30,8 +29,6 @@ domain_suffix_set:
   - "haowu.link"
   - "iadmat.nosdn.127.net"
   - "iadmatapk.nosdn.127.net"
-  - "iadmusicmat.music.126.net"
-  - "iadmusicmatvideo.music.126.net"
   - "icourse163.org"
   - "kada.com"
   - "lf126.net"
@@ -45,7 +42,6 @@ domain_suffix_set:
   - "qiyukf.com"
   - "qiyukf.net"
   - "qiyukf.net.cn"
-  - "sentry.music.163.com"
   - "static163.net"
   - "weiyang.cn"
   - "ydstatic.com"
@@ -57,3 +53,5 @@ domain_suffix_set:
   - "yunxinfw.com"
   - "yysls.cn"
   - "zhuanzfx.com"
+domain_keyword_set:
+  - "music"

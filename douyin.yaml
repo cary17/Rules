@@ -1,8 +1,8 @@
 # NAME: douyin
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 51
-# DOMAIN-KEYWORD: 1
-# TOTAL: 52
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 25
+# DOMAIN-KEYWORD: 3
+# TOTAL: 28
 domain_suffix_set:
   - "activity-wbsj.com"
   - "aihst8.com"
@@ -16,44 +16,20 @@ domain_suffix_set:
   - "betastar.cn"
   - "cookicut.com"
   - "duoshan.com"
-  - "huoshan.com"
-  - "huoshancdn.com"
-  - "huoshangroup.com"
-  - "huoshanimg.com"
-  - "huoshanlive.com"
-  - "huoshanparty.com"
-  - "huoshanstatic.com"
-  - "huoshante8.com"
-  - "huoshanvideo.cn"
-  - "huoshanvideo.net"
-  - "huoshanvod.com"
-  - "huoshanxiaoshipin.cn"
-  - "huoshanxiaoshipin.net"
-  - "huoshanzhibo.cn"
-  - "huoshanzhibo.com"
-  - "huoshanzhibo.net"
   - "hypercachenode.com"
   - "ieshuodong.cn"
   - "ieshuodong.net"
   - "ihst8.com"
-  - "ihuoshanimg.com"
-  - "ihuoshanlive.com"
-  - "ihuoshanstatic.com"
-  - "ihuoshanvod.com"
   - "kolbuyer.cn"
   - "lifexue.com"
   - "nextvid.net"
   - "ppkankan01.com"
-  - "qishui.cn"
-  - "qishui.com"
-  - "qishui.com.cn"
-  - "qishuimusic.cn"
-  - "qishuimusic.com.cn"
   - "supercachenet.com"
   - "supercachenode.com"
   - "ulpay.com"
   - "ultracachenode.com"
-  - "woaihuoshan.com"
   - "wohst8.com"
 domain_keyword_set:
   - "douyin"
+  - "huoshan"
+  - "qishui"

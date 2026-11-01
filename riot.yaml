@@ -1,8 +1,9 @@
 # NAME: riot
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 53
-# TOTAL: 54
+# DOMAIN-SUFFIX: 38
+# DOMAIN-KEYWORD: 2
+# TOTAL: 41
 domain_set:
   - "lolstatic-a.akamaihd.net"
 domain_suffix_set:
@@ -14,15 +15,6 @@ domain_suffix_set:
   - "instituteofwar.org"
   - "lcsmerch.com"
   - "leaguehighschool.com"
-  - "leagueoflegends.ca"
-  - "leagueoflegends.cn"
-  - "leagueoflegends.co.kr"
-  - "leagueoflegends.com"
-  - "leagueoflegends.info"
-  - "leagueoflegends.kr"
-  - "leagueoflegends.net"
-  - "leagueoflegends.org"
-  - "leagueoflegendsscripts.com"
   - "leaguesharp.info"
   - "leaguoflegends.com"
   - "learnwithleague.com"
@@ -46,12 +38,6 @@ domain_suffix_set:
   - "riot.net"
   - "riotcdn.net"
   - "riotforgegames.com"
-  - "riotgames.co.kr"
-  - "riotgames.com"
-  - "riotgames.info"
-  - "riotgames.jp"
-  - "riotgames.net"
-  - "riotgames.tv"
   - "riotpin.com"
   - "riotpoints.com"
   - "rstatic.net"
@@ -59,3 +45,6 @@ domain_suffix_set:
   - "supremacy.com"
   - "supremacy.net"
   - "ulol.com"
+domain_keyword_set:
+  - "leagueoflegends"
+  - "riotgames"

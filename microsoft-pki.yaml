@@ -1,13 +1,9 @@
 # NAME: microsoft-pki
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 5
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN-SUFFIX: 1
-# TOTAL: 6
-domain_set:
-  - "crl.microsoft.com"
-  - "mscrl.microsoft.com"
-  - "ocsp.microsoft.com"
-  - "oneocsp.microsoft.com"
-  - "www.microsoft.com"
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 domain_suffix_set:
   - "msocsp.com"
+domain_keyword_set:
+  - "microsoft"

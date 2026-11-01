@@ -1,8 +1,8 @@
 # NAME: bestbuy
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 42
-# DOMAIN-KEYWORD: 1
-# TOTAL: 43
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 29
+# DOMAIN-KEYWORD: 2
+# TOTAL: 31
 domain_suffix_set:
   - "bby.com"
   - "bbycastatic.ca"
@@ -22,18 +22,6 @@ domain_suffix_set:
   - "geek-squad.net"
   - "geek-squad.org"
   - "geek-squads.net"
-  - "geeksquad.ca"
-  - "geeksquad.cc"
-  - "geeksquad.com"
-  - "geeksquad.net"
-  - "geeksquad.tv"
-  - "geeksquadcares.com"
-  - "geeksquadcentral.com"
-  - "geeksquadforums.com"
-  - "geeksquadonline.com"
-  - "geeksquadprotectionplan.org"
-  - "geeksquadservices.org"
-  - "geeksquadwebroot.org"
   - "gscanada.info"
   - "gsccdn.com"
   - "gslink.us"
@@ -41,10 +29,10 @@ domain_suffix_set:
   - "magnoliaav.com.cn"
   - "myrewardzone.com"
   - "myrz.com"
-  - "onlinegeeksquad.com"
   - "pacifickitchenandhome.com"
   - "rocketfishproducts.com"
   - "techliquidators.com"
   - "unbrandedproducts.com"
 domain_keyword_set:
   - "bestbuy"
+  - "geeksquad"

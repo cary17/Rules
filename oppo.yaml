@@ -1,10 +1,8 @@
 # NAME: oppo
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 44
-# TOTAL: 45
-domain_set:
-  - "community.oneplus.com"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 34
+# DOMAIN-KEYWORD: 2
+# TOTAL: 36
 domain_suffix_set:
   - "allawnfs.com"
   - "allawno.com"
@@ -13,21 +11,11 @@ domain_suffix_set:
   - "coloros.net"
   - "finzfin.com"
   - "h2os.com"
-  - "heytap.com"
-  - "heytapcs.com"
-  - "heytapdownload.com"
-  - "heytapimage.com"
-  - "heytapmobi.com"
   - "ioppo.com.cn"
   - "ioppo.net"
   - "keke.cn"
   - "myoppo.com"
   - "nearme.com.cn"
-  - "oneplus.cn"
-  - "oneplus.com"
-  - "oneplus.net"
-  - "oneplusbbs.com"
-  - "oneplusmobile.com"
   - "opdwz.cn"
   - "oppo.cn"
   - "oppo.com"
@@ -50,3 +38,6 @@ domain_suffix_set:
   - "shopoppo.cn"
   - "shopoppo.com.cn"
   - "wanyol.com"
+domain_keyword_set:
+  - "heytap"
+  - "oneplus"

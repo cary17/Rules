@@ -1,17 +1,15 @@
 # NAME: canonical
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 domain_suffix_set:
   - "canonical.com"
-  - "launchpad.net"
-  - "launchpadcontent.net"
-  - "launchpadlibrarian.com"
-  - "launchpadlibrarian.net"
-  - "launchpadlibrarian.org"
   - "snapcraft.io"
   - "snapstore.io"
   - "ubuntu-touch.io"
   - "ubuntu.com"
   - "ubuntu.net"
   - "ubuntuforums.org"
+domain_keyword_set:
+  - "launchpad"

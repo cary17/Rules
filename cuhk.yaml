@@ -1,13 +1,10 @@
 # NAME: cuhk
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 8
-# TOTAL: 8
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 2
+# DOMAIN-KEYWORD: 1
+# TOTAL: 3
 domain_suffix_set:
   - "cuhk.edu.hk"
   - "cuhk.hk"
-  - "xn--fiq80y.hk"
-  - "xn--fiq80y.xn--j6w193g"
-  - "xn--fiq80y3xbiwr.hk"
-  - "xn--fiq80y3xbiwr.xn--j6w193g"
-  - "xn--fiq80y3xbiwrs0kiu9d.hk"
-  - "xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g"
+domain_keyword_set:
+  - "xn--fiq80y"

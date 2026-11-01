@@ -1,7 +1,8 @@
 # NAME: chinatelecom
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 20
-# TOTAL: 20
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 15
+# DOMAIN-KEYWORD: 1
+# TOTAL: 16
 domain_suffix_set:
   - "189.cn"
   - "189cube.com"
@@ -14,12 +15,9 @@ domain_suffix_set:
   - "chinatelecomglobal.com"
   - "chinatelecomhk.com"
   - "chntel.com"
-  - "ctexcel.ca"
-  - "ctexcel.com"
-  - "ctexcel.com.hk"
-  - "ctexcel.fr"
-  - "ctexcel.us"
   - "dlife.cn"
   - "play.cn"
   - "tv189.com"
   - "vnet.cn"
+domain_keyword_set:
+  - "ctexcel"

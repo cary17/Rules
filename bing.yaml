@@ -1,11 +1,11 @@
 # NAME: bing
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 39
-# TOTAL: 41
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 31
+# DOMAIN-KEYWORD: 1
+# TOTAL: 33
 domain_set:
   - "bj1.api.bing.com"
-  - "location.microsoft.com"
 domain_suffix_set:
   - ".bing"
   - "bing.com"
@@ -26,19 +26,11 @@ domain_suffix_set:
   - "cn.bing.net"
   - "cn.mm.bing.net"
   - "copilot-stg.com"
-  - "copilot.cloud.microsoft"
   - "copilot.com"
-  - "copilot.microsoft.com"
   - "dictate.ms"
   - "ditu.live.com"
   - "flipwithsurface.com"
   - "masalladeloslimites.com"
-  - "microsoft-give.com"
-  - "microsoftcloudsummit.com"
-  - "microsoftdiplomados.com"
-  - "microsoftlatamholiday.com"
-  - "microsoftmxfilantropia.com"
-  - "microsoftpartnersolutions.com"
   - "msunlimitedcloudsummit.com"
   - "office365love.com"
   - "office365tw.com"
@@ -46,3 +38,5 @@ domain_suffix_set:
   - "renovacionoffice.com"
   - "sprinklesapp.com"
   - "th.bing.com"
+domain_keyword_set:
+  - "microsoft"

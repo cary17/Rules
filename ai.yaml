@@ -1,0 +1,67 @@
+# NAME: ai
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 36
+# DOMAIN-KEYWORD: 7
+# IP-CIDR: 1
+# IP-CIDR6: 1
+# IP-ASN: 1
+# TOTAL: 51
+no_resolve: true
+domain_set:
+  - "browser-intake-datadoghq.com"
+  - "static.cloudflareinsights.com"
+  - "cdn.usefathom.com"
+  - "gateway.ai.cloudflare.com"
+  - "pplx-res.cloudinary.com"
+domain_suffix_set:
+  - "livekit.cloud"
+  - "ai.com"
+  - "client-api.arkoselabs.com"
+  - "auth0.com"
+  - "identrust.com"
+  - "intercomcdn.com"
+  - "launchdarkly.com"
+  - "oaistatic.com"
+  - "oaiusercontent.com"
+  - "api.statsig.com"
+  - "stripe.com"
+  - "intercom.io"
+  - "segment.io"
+  - "sentry.io"
+  - "algolia.net"
+  - "observeit.net"
+  - "events.statsigapi.net"
+  - "featuregates.org"
+  - "chat.com"
+  - "sora.com"
+  - "clau.de"
+  - "statsigapi.net"
+  - "openrouter.ai"
+  - "cursor-cdn.com"
+  - "cursor.com"
+  - "cursor.sh"
+  - "cursorapi.com"
+  - "grazie.ai"
+  - "perplexity.ai"
+  - "pplx.ai"
+  - "groq.com"
+  - "commandcode.ai"
+  - "deepseek.com"
+  - "z.ai"
+  - "kimi.ai"
+  - "kimi.com"
+domain_keyword_set:
+  - "openai"
+  - "chatgpt"
+  - "datadog"
+  - "sift"
+  - "stripe"
+  - "anthropic"
+  - "claude"
+ip_cidr_set:
+  - "160.79.104.0/21"
+ip_cidr6_set:
+  - "2607:6bc0::/32"
+asn_set:
+  - "399358"

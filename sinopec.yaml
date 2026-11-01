@@ -1,10 +1,6 @@
 # NAME: sinopec
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
-domain_suffix_set:
-  - "sinopec-usa.com"
-  - "sinopec.com"
-  - "sinopecgroup.com"
-  - "sinopecnews.com.cn"
-  - "sinopecsales.com"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+domain_keyword_set:
+  - "sinopec"

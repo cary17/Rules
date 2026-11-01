@@ -1,7 +1,8 @@
 # NAME: singtaonewscorp
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 18
-# TOTAL: 18
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 12
+# DOMAIN-KEYWORD: 1
+# TOTAL: 13
 domain_suffix_set:
   - "bastillepost.com"
   - "easttouch.com.hk"
@@ -13,11 +14,7 @@ domain_suffix_set:
   - "my-magazine.me"
   - "pcmarket.com.hk"
   - "sing68.com"
-  - "singtao.com"
-  - "singtaobooks.com"
-  - "singtaola.com"
-  - "singtaonewscorp.com"
-  - "singtaoopo.com"
-  - "singtaousa.com"
   - "stheadline.com"
   - "thestandard.com.hk"
+domain_keyword_set:
+  - "singtao"

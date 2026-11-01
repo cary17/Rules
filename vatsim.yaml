@@ -1,7 +1,8 @@
 # NAME: vatsim
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 25
-# TOTAL: 25
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 20
+# DOMAIN-KEYWORD: 1
+# TOTAL: 21
 domain_suffix_set:
   - "vat-apac.com"
   - "vatca.org"
@@ -19,12 +20,9 @@ domain_suffix_set:
   - "vatroc.net"
   - "vats.im"
   - "vatsea.org"
-  - "vatsim.com.br"
-  - "vatsim.dev"
-  - "vatsim.me"
-  - "vatsim.net"
-  - "vatsim.uk"
   - "vatssa.com"
   - "vatsur.org"
   - "vatusa.net"
   - "vatwa.net"
+domain_keyword_set:
+  - "vatsim"

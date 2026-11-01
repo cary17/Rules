@@ -1,7 +1,8 @@
 # NAME: yto-express
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 43
-# TOTAL: 43
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 31
+# DOMAIN-KEYWORD: 2
+# TOTAL: 33
 domain_suffix_set:
   - "gpall.cn"
   - "gpall.net"
@@ -9,13 +10,6 @@ domain_suffix_set:
   - "mamayz.cn"
   - "mamayz.com"
   - "mumbuy365.com"
-  - "nellit.cn"
-  - "nellit.com.cn"
-  - "nellit.info"
-  - "nellit.net"
-  - "nellit.net.cn"
-  - "nellit.org.cn"
-  - "nellit.xyz"
   - "sxgou.cn"
   - "tianxiajiameng.cn"
   - "tianxiajiameng.com"
@@ -35,14 +29,12 @@ domain_suffix_set:
   - "ytoexpress.com"
   - "ytoholding.com"
   - "ytojg.com.cn"
-  - "ytokj.cn"
-  - "ytokj.com"
-  - "ytokj.com.cn"
-  - "ytokj.net"
-  - "ytokj.net.cn"
   - "ytoluohan.cn"
   - "ytoluohan.com"
   - "ytoluohan.net"
   - "ytoluohan.xin"
   - "yuantongyizhan.cn"
   - "yuantongyizhan.com"
+domain_keyword_set:
+  - "nellit"
+  - "ytokj"

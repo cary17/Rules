@@ -1,16 +1,9 @@
 # NAME: ctrip
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 28
-# DOMAIN-KEYWORD: 1
-# TOTAL: 29
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 19
+# DOMAIN-KEYWORD: 2
+# TOTAL: 21
 domain_suffix_set:
-  - "ak-p.tripcdn.com"
-  - "ak-s-cw.tripcdn.com"
-  - "ak-s.tripcdn.com"
-  - "akatest.tripcdn.com"
-  - "aw-d.tripcdn.com"
-  - "aw-p.tripcdn.com"
-  - "aw-s.tripcdn.com"
   - "colinker.com"
   - "doticloud.com"
   - "easytrip.com"
@@ -29,8 +22,7 @@ domain_suffix_set:
   - "toptown.cn"
   - "toursbms.com"
   - "trip.com"
-  - "tripcdn.cn"
-  - "tripcdn.com"
   - "vipdlt.com"
 domain_keyword_set:
   - "ctrip"
+  - "tripcdn"

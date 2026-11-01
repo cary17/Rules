@@ -1,16 +1,12 @@
 # NAME: onedrive
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 1
+# TOTAL: 5
 domain_suffix_set:
   - "1drv.com"
   - "1drv.ms"
   - "livefilestore.com"
-  - "onedrive.co"
-  - "onedrive.co.uk"
-  - "onedrive.com"
-  - "onedrive.eu"
-  - "onedrive.live.com"
-  - "onedrive.net"
-  - "onedrive.org"
   - "storage.live.com"
+domain_keyword_set:
+  - "onedrive"

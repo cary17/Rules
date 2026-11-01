@@ -1,17 +1,13 @@
 # NAME: otpbank
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 5
+# DOMAIN-KEYWORD: 1
+# TOTAL: 6
 domain_suffix_set:
   - "ckb.me"
   - "dskbank.bg"
   - "ipotekabank.uz"
   - "mobiasbanca.md"
-  - "otpbank.al"
-  - "otpbank.com.ua"
-  - "otpbank.hu"
-  - "otpbank.ru"
-  - "otpbanka.hr"
-  - "otpbanka.rs"
-  - "otpbanka.si"
   - "otpgroup.info"
+domain_keyword_set:
+  - "otpbank"

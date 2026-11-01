@@ -1,15 +1,11 @@
 # NAME: huobi
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 3
+# DOMAIN-KEYWORD: 1
+# TOTAL: 4
 domain_suffix_set:
   - "hbabit.com"
   - "hbfile.net"
   - "htx.com"
-  - "huobi.com"
-  - "huobi.me"
-  - "huobi.pro"
-  - "huobi.sc"
-  - "huobiasia.vip"
-  - "huobigroup.com"
-  - "huobitoken.com"
+domain_keyword_set:
+  - "huobi"

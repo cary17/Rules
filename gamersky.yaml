@@ -1,11 +1,6 @@
 # NAME: gamersky
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 6
-# TOTAL: 6
-domain_suffix_set:
-  - "click.gamersky.com"
-  - "gamersky.com"
-  - "ja.gamersky.com"
-  - "ja1.gamersky.com"
-  - "ja2.gamersky.com"
-  - "wmbd.gamersky.com"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+domain_keyword_set:
+  - "gamersky"

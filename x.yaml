@@ -1,9 +1,9 @@
 # NAME: x
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 27
-# TOTAL: 27
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 17
+# DOMAIN-KEYWORD: 1
+# TOTAL: 18
 domain_suffix_set:
-  - "ads-twitter.com"
   - "cms-twdigitalassets.com"
   - "grok.com"
   - "grokipedia.com"
@@ -14,15 +14,6 @@ domain_suffix_set:
   - "tweetdeck.com"
   - "twimg.com"
   - "twitpic.com"
-  - "twitter.biz"
-  - "twitter.com"
-  - "twitter.jp"
-  - "twitter.map.fastly.net"
-  - "twittercommunity.com"
-  - "twitterflightschool.com"
-  - "twitterinc.com"
-  - "twitteroauth.com"
-  - "twitterstat.us"
   - "twtrdns.net"
   - "twttr.com"
   - "twttr.net"
@@ -30,3 +21,5 @@ domain_suffix_set:
   - "vine.co"
   - "x.ai"
   - "x.com"
+domain_keyword_set:
+  - "twitter"

@@ -1,7 +1,8 @@
 # NAME: newscorp
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 152
-# TOTAL: 152
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 141
+# DOMAIN-KEYWORD: 1
+# TOTAL: 142
 domain_suffix_set:
   - "1degree.com.au"
   - "adelaidenow.com.au"
@@ -19,8 +20,6 @@ domain_suffix_set:
   - "careerjournal.com"
   - "cnivogue.com.au"
   - "collegejournal.com"
-  - "collins.co.uk"
-  - "collins.in"
   - "couriermail.com.au"
   - "dailytelegraph.com.au"
   - "delicious.com.au"
@@ -41,15 +40,6 @@ domain_suffix_set:
   - "hackday.com.au"
   - "harperacademic.com"
   - "harperapps.com"
-  - "harpercollins.ca"
-  - "harpercollins.co.in"
-  - "harpercollins.co.uk"
-  - "harpercollins.com"
-  - "harpercollins.com.au"
-  - "harpercollinsadvantage.com"
-  - "harpercollinschildrensbooks.co.uk"
-  - "harpercollinschristian.com"
-  - "harpercollinsspeakersbureau.com"
   - "hcpdts.com"
   - "heraldsun.com.au"
   - "hometrack.com.au"
@@ -155,3 +145,5 @@ domain_suffix_set:
   - "wsjplus.com"
   - "wsjshop.com"
   - "wsjwine.com"
+domain_keyword_set:
+  - "collins"

@@ -1,8 +1,8 @@
 # NAME: mcdonalds
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 19
-# DOMAIN-KEYWORD: 1
-# TOTAL: 20
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 11
+# DOMAIN-KEYWORD: 2
+# TOTAL: 13
 domain_suffix_set:
   - "4008-517-517.cn"
   - "happymeal.co.nz"
@@ -13,15 +13,8 @@ domain_suffix_set:
   - "mcd.cn"
   - "mcd.com"
   - "mcdchina.net"
-  - "mcdelivery.co.id"
-  - "mcdelivery.co.in"
-  - "mcdelivery.co.kr"
-  - "mcdelivery.com.au"
-  - "mcdelivery.com.my"
-  - "mcdelivery.com.ph"
-  - "mcdelivery.com.sg"
-  - "mcdelivery.com.tw"
   - "mcdindia.com"
   - "mcdindonesia.com"
 domain_keyword_set:
   - "mcdonalds"
+  - "mcdelivery"

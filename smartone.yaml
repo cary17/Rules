@@ -1,20 +1,16 @@
 # NAME: smartone
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 15
-# TOTAL: 15
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 8
+# DOMAIN-KEYWORD: 1
+# TOTAL: 9
 domain_suffix_set:
-  - "barkadahansasmartone.com"
   - "healthreach.hk"
   - "hkcircleapp.com"
   - "homephoneplus.com"
   - "ip73.com"
   - "s-cashonmobile.com"
   - "s-rewards.hk"
-  - "sahabatsetiasmartone.com"
-  - "smartone.com"
-  - "smartoneholdings.com"
-  - "smartonerobotics.com"
-  - "smartonesolutions.com.hk"
-  - "smartonesolutions.hk"
   - "valuegb.com"
   - "wise-research.com"
+domain_keyword_set:
+  - "smartone"

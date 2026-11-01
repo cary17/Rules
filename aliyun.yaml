@@ -1,21 +1,16 @@
 # NAME: aliyun
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 40
-# DOMAIN-KEYWORD: 1
-# TOTAL: 41
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 32
+# DOMAIN-KEYWORD: 2
+# TOTAL: 34
 domain_suffix_set:
   - "alibabadns.com"
-  - "alicdn.com"
   - "alicloudapi.com"
   - "alidayu.com"
   - "alidns.com"
   - "aligfwaf.com"
   - "alikunlun.com"
   - "alikunlun.net"
-  - "alimama.alicdn.com"
-  - "atanx.alicdn.com"
-  - "atanx2.alicdn.com"
-  - "baichuan-sdk.alicdn.com"
   - "cdngslb.com"
   - "fcapp.run"
   - "hichina.com"
@@ -41,8 +36,6 @@ domain_suffix_set:
   - "kunlunvi.com"
   - "kunlunwe.com"
   - "mxhichina.com"
-  - "myalicdn.com"
-  - "nbsdk-baichuan.alicdn.com"
-  - "tce.alicdn.com"
 domain_keyword_set:
   - "aliyun"
+  - "alicdn"

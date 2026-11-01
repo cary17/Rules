@@ -1,19 +1,15 @@
 # NAME: yandex
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 5
-# DOMAIN-SUFFIX: 64
-# DOMAIN-KEYWORD: 1
-# TOTAL: 70
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 49
+# DOMAIN-KEYWORD: 2
+# TOTAL: 53
 domain_set:
-  - "ads.yango.com"
-  - "clck.yango.com"
   - "kp-config-smart-tv.akamaized.net"
   - "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com"
-  - "mc.yango.com"
 domain_suffix_set:
   - "adfox.ru"
   - "admetrica.ru"
-  - "appmetrica.yango.com"
   - "berizaryad.ru"
   - "beru.ru"
   - "bookmate.ru"
@@ -55,20 +51,6 @@ domain_suffix_set:
   - "ya.ru"
   - "yadi.sk"
   - "yads.tech"
-  - "yango-ads.com"
-  - "yango-b2b.com"
-  - "yango-team.com"
-  - "yango-tech.com"
-  - "yango.africa"
-  - "yango.ao"
-  - "yango.bh"
-  - "yango.co.il"
-  - "yango.com"
-  - "yango.fi"
-  - "yango.qa"
-  - "yango.taxi"
-  - "yango.tech"
-  - "yangofellowship.com"
   - "yastat.net"
   - "yastatic-net.ru"
   - "yastatic.net"
@@ -77,3 +59,4 @@ domain_suffix_set:
   - "yndx.net"
 domain_keyword_set:
   - "yandex"
+  - "yango"

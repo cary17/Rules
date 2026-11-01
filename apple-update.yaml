@@ -1,26 +1,6 @@
 # NAME: apple-update
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
-domain_suffix_set:
-  - "appldnld.apple.com"
-  - "configuration.apple.com"
-  - "fcs-keys-pub-prod.cdn-apple.com"
-  - "gdmf-ados.apple.com"
-  - "gdmf.apple.com"
-  - "gg.apple.com"
-  - "gs.apple.com"
-  - "gsra.apple.com"
-  - "ig.apple.com"
-  - "mesu.apple.com"
-  - "oscdn.apple.com"
-  - "osrecovery.apple.com"
-  - "skl.apple.com"
-  - "swcdn.apple.com"
-  - "swdist.apple.com"
-  - "swdownload.apple.com"
-  - "swscan.apple.com"
-  - "updates-http.cdn-apple.com"
-  - "updates.cdn-apple.com"
-  - "wkms-public.apple.com"
-  - "xp.apple.com"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+domain_keyword_set:
+  - "apple"

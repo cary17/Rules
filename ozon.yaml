@@ -1,8 +1,9 @@
 # NAME: ozon
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 18
-# DOMAIN-SUFFIX: 45
-# TOTAL: 63
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 17
+# DOMAIN-SUFFIX: 41
+# DOMAIN-KEYWORD: 1
+# TOTAL: 59
 domain_set:
   - "ad.ozone.ru"
   - "adv.ozon.ru"
@@ -21,7 +22,6 @@ domain_set:
   - "xapi.ozon.com.kz"
   - "xapi.ozon.kz"
   - "xapi.ozon.ru"
-  - "xapi.ozonru.me"
 domain_suffix_set:
   - "ewisdom.us.kg"
   - "o-courier.ru"
@@ -57,10 +57,6 @@ domain_suffix_set:
   - "ozonpartners.ru"
   - "ozonrocet.by"
   - "ozonroket.by"
-  - "ozonru.co.il"
-  - "ozonru.com"
-  - "ozonru.eu"
-  - "ozonru.me"
   - "ozonsport.ru"
   - "ozonstatus.ru"
   - "ozonusercontent.com"
@@ -68,3 +64,5 @@ domain_suffix_set:
   - "xn----8sbahiqzthbd0bn.xn--p1ai"
   - "xn--80aafgovrgbc7am.xn--p1ai"
   - "xn--e1adjldbbpv.xn--90ais"
+domain_keyword_set:
+  - "ozonru"

@@ -1,13 +1,9 @@
 # NAME: docker
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 4
-# TOTAL: 6
-domain_set:
-  - "docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com"
-  - "docker-pinata-support.s3.amazonaws.com"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 domain_suffix_set:
   - "compose-spec.io"
-  - "docker.com"
-  - "docker.io"
-  - "dockerstatic.com"
+domain_keyword_set:
+  - "docker"

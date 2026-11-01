@@ -1,9 +1,10 @@
 # NAME: google
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 99
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 100
 # DOMAIN-SUFFIX: 839
+# DOMAIN-KEYWORD: 10
 # DOMAIN-REGEX: 2
-# TOTAL: 940
+# TOTAL: 951
 domain_set:
   - "alt1-mtalk.google.com"
   - "alt2-mtalk.google.com"
@@ -104,6 +105,7 @@ domain_set:
   - "www.pxcc.com"
   - "www.recaptcha-cn.net"
   - "www.recaptcha.net"
+  - "antigravity-unleash.goog"
 domain_suffix_set:
   - ".android"
   - ".chrome"
@@ -944,6 +946,17 @@ domain_suffix_set:
   - "yt.be"
   - "ytimg.com"
   - "zukunftswerkstatt.de"
+domain_keyword_set:
+  - "colab"
+  - "developerprofiles"
+  - "generativelanguage"
+  - "gemini"
+  - "youtube"
+  - "gmail"
+  - "google"
+  - "appspot"
+  - "blogspot"
+  - "recaptcha"
 domain_regex_set:
   - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
   - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"

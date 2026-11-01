@@ -1,16 +1,14 @@
 # NAME: chinamobile
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 35
-# TOTAL: 35
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 30
+# DOMAIN-KEYWORD: 1
+# TOTAL: 31
 domain_suffix_set:
   - "10086.cn"
   - "139.com"
   - "5gxcx.net"
   - "andfx.cn"
   - "andfx.net"
-  - "chinamobile.com"
-  - "chinamobiledevice.com"
-  - "chinamobileltd.com"
   - "cmcc-cs.cn"
   - "cmdcxls.com"
   - "cmft.com.cn"
@@ -35,6 +33,6 @@ domain_suffix_set:
   - "mmarket.com"
   - "mmarket6.com"
   - "online-cmcc.cn"
-  - "speedtest.hk.chinamobile.com"
-  - "speedtestbb.hk.chinamobile.com"
   - "zdsdp.com"
+domain_keyword_set:
+  - "chinamobile"

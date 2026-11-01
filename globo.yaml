@@ -1,8 +1,8 @@
 # NAME: globo
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 30
-# DOMAIN-KEYWORD: 1
-# TOTAL: 31
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 25
+# DOMAIN-KEYWORD: 2
+# TOTAL: 27
 domain_suffix_set:
   - "autoesporte.com"
   - "autoesporte.com.br"
@@ -23,16 +23,12 @@ domain_suffix_set:
   - "revistapegn.com"
   - "revistapegn.com.br"
   - "revistaquem.com.br"
-  - "revistavalor.com.br"
   - "sgr.com.br"
   - "techtudo.com"
   - "techtudo.com.br"
   - "umsoplaneta.com"
   - "umsoplaneta.com.br"
-  - "valor.com.br"
-  - "valoreconomico.com.br"
-  - "valorinveste.com"
-  - "valorinveste.com.br"
   - "xuxaverso.com.br"
 domain_keyword_set:
   - "globo"
+  - "valor"

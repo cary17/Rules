@@ -1,13 +1,9 @@
 # NAME: stripe
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 8
-# TOTAL: 8
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 2
 domain_suffix_set:
   - "link.com"
-  - "stripe-terminal-local-reader.net"
-  - "stripe.com"
-  - "stripe.dev"
-  - "stripe.events"
-  - "stripe.global"
-  - "stripe.network"
-  - "stripecdn.com"
+domain_keyword_set:
+  - "stripe"

@@ -1,31 +1,8 @@
 # NAME: github
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 21
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN-SUFFIX: 13
-# DOMAIN-KEYWORD: 1
-# TOTAL: 35
-domain_set:
-  - "copilotprodattachments.blob.core.windows.net"
-  - "productionresultssa0.blob.core.windows.net"
-  - "productionresultssa1.blob.core.windows.net"
-  - "productionresultssa10.blob.core.windows.net"
-  - "productionresultssa11.blob.core.windows.net"
-  - "productionresultssa12.blob.core.windows.net"
-  - "productionresultssa13.blob.core.windows.net"
-  - "productionresultssa14.blob.core.windows.net"
-  - "productionresultssa15.blob.core.windows.net"
-  - "productionresultssa16.blob.core.windows.net"
-  - "productionresultssa17.blob.core.windows.net"
-  - "productionresultssa18.blob.core.windows.net"
-  - "productionresultssa19.blob.core.windows.net"
-  - "productionresultssa2.blob.core.windows.net"
-  - "productionresultssa3.blob.core.windows.net"
-  - "productionresultssa4.blob.core.windows.net"
-  - "productionresultssa5.blob.core.windows.net"
-  - "productionresultssa6.blob.core.windows.net"
-  - "productionresultssa7.blob.core.windows.net"
-  - "productionresultssa8.blob.core.windows.net"
-  - "productionresultssa9.blob.core.windows.net"
+# DOMAIN-KEYWORD: 3
+# TOTAL: 16
 domain_suffix_set:
   - "atom.io"
   - "dependabot.com"
@@ -42,3 +19,5 @@ domain_suffix_set:
   - "repo.new"
 domain_keyword_set:
   - "github"
+  - "productionresultssa1"
+  - "windows"

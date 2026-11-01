@@ -1,7 +1,8 @@
 # NAME: sohu
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 32
-# TOTAL: 32
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 27
+# DOMAIN-KEYWORD: 1
+# TOTAL: 28
 domain_suffix_set:
   - ".sohu"
   - "17173.com"
@@ -10,14 +11,9 @@ domain_suffix_set:
   - "56img.com"
   - "adnet.sohu.com"
   - "ads.sohu.com"
-  - "adv-sv-show.focus.cn"
-  - "adv-sv-stat.focus.cn"
   - "assp.sohu.com"
-  - "bdu.focus.cn"
   - "changyou.com"
   - "cy.com"
-  - "focus-img.cn"
-  - "focus.cn"
   - "fpb.sohu.com"
   - "imp.go.sohu.com"
   - "itc.cn"
@@ -35,3 +31,5 @@ domain_suffix_set:
   - "track.sohu.com"
   - "yeyou.com"
   - "yeyoucdn.com"
+domain_keyword_set:
+  - "focus"

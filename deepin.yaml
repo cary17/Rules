@@ -1,20 +1,18 @@
 # NAME: deepin
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 15
-# TOTAL: 15
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 10
+# DOMAIN-KEYWORD: 1
+# TOTAL: 11
 domain_suffix_set:
   - "51changxie.com"
   - "51jianxie.cn"
   - "91changxie.com"
   - "changxie.com"
   - "chinauos.com"
-  - "deepin.cn"
-  - "deepin.com"
-  - "deepin.io"
-  - "deepin.org"
-  - "deepin.org.cn"
   - "linglong.space"
   - "linyaps.org.cn"
   - "sndu.cn"
   - "uniontech.cn"
   - "uniontech.com"
+domain_keyword_set:
+  - "deepin"

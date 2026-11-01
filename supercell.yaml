@@ -1,17 +1,12 @@
 # NAME: supercell
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 15
-# DOMAIN-KEYWORD: 1
-# TOTAL: 16
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 10
+# DOMAIN-KEYWORD: 2
+# TOTAL: 12
 domain_suffix_set:
   - "boombeach.com"
   - "brawlstars.com"
   - "brawlstarsgame.com"
-  - "clash.com"
-  - "clashmini.com"
-  - "clashofclans.com"
-  - "clashroyale.com"
-  - "clashroyaleapp.com"
   - "gamesfirsthelsinki.com"
   - "hayday.com"
   - "haydaygame.com"
@@ -21,3 +16,4 @@ domain_suffix_set:
   - "supr.cl"
 domain_keyword_set:
   - "supercell"
+  - "clash"

@@ -1,49 +1,13 @@
 # NAME: dell
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 209
-# TOTAL: 210
+# DOMAIN-SUFFIX: 171
+# DOMAIN-KEYWORD: 1
+# TOTAL: 173
 domain_set:
   - "dell.my.site.com"
 domain_suffix_set:
   - ".dell"
-  - "alienware.ae"
-  - "alienware.at"
-  - "alienware.be"
-  - "alienware.biz"
-  - "alienware.ca"
-  - "alienware.ch"
-  - "alienware.co.cr"
-  - "alienware.co.il"
-  - "alienware.co.in"
-  - "alienware.co.nz"
-  - "alienware.co.uk"
-  - "alienware.com"
-  - "alienware.com.au"
-  - "alienware.com.es"
-  - "alienware.com.my"
-  - "alienware.com.sg"
-  - "alienware.cz"
-  - "alienware.de"
-  - "alienware.dk"
-  - "alienware.es"
-  - "alienware.eu"
-  - "alienware.fr"
-  - "alienware.gr"
-  - "alienware.hk"
-  - "alienware.ie"
-  - "alienware.it"
-  - "alienware.jp"
-  - "alienware.kr"
-  - "alienware.lv"
-  - "alienware.net"
-  - "alienware.nl"
-  - "alienware.ph"
-  - "alienware.pl"
-  - "alienware.ps"
-  - "alienware.ro"
-  - "alienware.se"
-  - "alienware.us"
   - "dataframeworks.com"
   - "del.com"
   - "del.com.br"
@@ -211,7 +175,8 @@ domain_suffix_set:
   - "earthdell.com"
   - "emc.com"
   - "platform.dell.com"
-  - "shopalienware.com"
   - "solutionstation.com"
   - "studiodell.com"
   - "vce.com"
+domain_keyword_set:
+  - "alienware"

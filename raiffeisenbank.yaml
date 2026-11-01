@@ -1,21 +1,15 @@
 # NAME: raiffeisenbank
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 16
-# TOTAL: 16
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 domain_suffix_set:
   - "aval.ua"
   - "priorbank.by"
-  - "raiffeisen-kosovo.com"
-  - "raiffeisen-media.ru"
-  - "raiffeisen.al"
-  - "raiffeisen.hu"
-  - "raiffeisen.ro"
-  - "raiffeisen.ru"
-  - "raiffeisen.ua"
-  - "raiffeisenbank.ba"
-  - "raiffeisenbank.rs"
   - "rb.cz"
   - "rba.hr"
   - "rbinternational.com"
   - "rzb.at"
   - "tatrabanka.sk"
+domain_keyword_set:
+  - "raiffeisen"

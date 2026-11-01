@@ -1,36 +1,21 @@
 # NAME: enfa
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 31
-# TOTAL: 31
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 11
+# DOMAIN-KEYWORD: 3
+# TOTAL: 14
 domain_suffix_set:
   - "bebepremium3.com.bo"
   - "enfa.co.id"
   - "enfa.com.vn"
   - "enfaaplus.com"
   - "enfababy.com"
-  - "enfabebe.com"
-  - "enfabebe.com.br"
-  - "enfabebe.com.co"
-  - "enfabebe.com.do"
-  - "enfabebe.com.ec"
-  - "enfabebe.com.mx"
-  - "enfabebe.com.pe"
-  - "enfabebe.com.ve"
-  - "enfabebe3.com.ar"
-  - "enfagrow.co.in"
-  - "enfagrow.com.bn"
-  - "enfagrow.com.my"
-  - "enfagrow.com.ph"
-  - "enfagrow.com.sg"
-  - "enfagrow4.com"
   - "enfamama.com.ar"
   - "enfamama.com.ph"
-  - "enfamil.ca"
-  - "enfamil.com"
-  - "enfamil.es"
-  - "enfamil.pl"
-  - "enfamil.pt"
   - "enfasmart.com"
   - "enspireformula.com"
   - "nutramigen.net"
   - "nutramigen.pl"
+domain_keyword_set:
+  - "enfabebe"
+  - "enfagrow"
+  - "enfamil"

@@ -1,8 +1,8 @@
 # NAME: akamai
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 41
-# DOMAIN-KEYWORD: 1
-# TOTAL: 42
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 36
+# DOMAIN-KEYWORD: 2
+# TOTAL: 38
 domain_suffix_set:
   - "accdn.com.cn"
   - "ak1.net"
@@ -10,11 +10,6 @@ domain_suffix_set:
   - "aka-ai.net"
   - "akacrypto.net"
   - "akadeem.net"
-  - "akadns.com"
-  - "akadns.net"
-  - "akadns6.net"
-  - "akadns88.net"
-  - "akadns99.net"
   - "akaeai.com"
   - "akafms.net"
   - "akagtm.org"
@@ -47,3 +42,4 @@ domain_suffix_set:
   - "tl88.net"
 domain_keyword_set:
   - "akamai"
+  - "akadns"

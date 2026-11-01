@@ -1,18 +1,11 @@
 # NAME: cisco
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 74
-# DOMAIN-KEYWORD: 1
-# TOTAL: 75
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 51
+# DOMAIN-KEYWORD: 3
+# TOTAL: 54
 domain_suffix_set:
   - "academynetriders.com"
   - "app-dynamics.com"
-  - "appdynamics.co.uk"
-  - "appdynamics.com"
-  - "appdynamics.de"
-  - "appdynamics.fr"
-  - "appdynamics.info"
-  - "appdynamics.jp"
-  - "appdynamics.org"
   - "cciernslabs.com"
   - "cciesecuritylabs.com"
   - "ccievoicelabs.com"
@@ -61,22 +54,8 @@ domain_suffix_set:
   - "videochampion.com"
   - "virtuata.com"
   - "wballiance.com"
-  - "webex.ca"
-  - "webex.co.in"
-  - "webex.co.it"
-  - "webex.co.jp"
-  - "webex.co.kr"
-  - "webex.co.nz"
-  - "webex.co.uk"
-  - "webex.com"
-  - "webex.com.au"
-  - "webex.com.br"
-  - "webex.com.cn"
-  - "webex.com.hk"
-  - "webex.com.mx"
-  - "webex.de"
-  - "webex.es"
-  - "webex.fr"
   - "wifi-mx.com"
 domain_keyword_set:
   - "cisco"
+  - "appdynamics"
+  - "webex"

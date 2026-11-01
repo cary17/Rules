@@ -1,15 +1,11 @@
 # NAME: dailymail
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 17
-# TOTAL: 17
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 12
+# DOMAIN-KEYWORD: 1
+# TOTAL: 13
 domain_suffix_set:
   - "anm.co.uk"
   - "dailym.ai"
-  - "dailymail.co.uk"
-  - "dailymail.com"
-  - "dailymail.com.au"
-  - "dailymail.dk"
-  - "dailymailonline.com"
   - "dmgmediaprivacy.co.uk"
   - "mailhealth.com"
   - "mailonline.co.uk"
@@ -20,3 +16,5 @@ domain_suffix_set:
   - "mol.im"
   - "thisismoney.co.uk"
   - "thismon.ee"
+domain_keyword_set:
+  - "dailymail"

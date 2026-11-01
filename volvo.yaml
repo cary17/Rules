@@ -1,8 +1,8 @@
 # NAME: volvo
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 45
-# DOMAIN-KEYWORD: 1
-# TOTAL: 46
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 2
+# TOTAL: 9
 domain_suffix_set:
   - "dynafleetonline.com"
   - "escandinavia-arg.com"
@@ -10,44 +10,7 @@ domain_suffix_set:
   - "road-crew.com"
   - "udfs.com"
   - "udtrucksmeena.com"
-  - "vfsco.at"
-  - "vfsco.be"
-  - "vfsco.bg"
-  - "vfsco.ca"
-  - "vfsco.ch"
-  - "vfsco.cl"
-  - "vfsco.co.uk"
-  - "vfsco.co.za"
-  - "vfsco.com"
-  - "vfsco.com.au"
-  - "vfsco.com.br"
-  - "vfsco.com.cn"
-  - "vfsco.com.tr"
-  - "vfsco.cz"
-  - "vfsco.de"
-  - "vfsco.dk"
-  - "vfsco.ee"
-  - "vfsco.es"
-  - "vfsco.fi"
-  - "vfsco.fr"
-  - "vfsco.hu"
-  - "vfsco.ie"
-  - "vfsco.in"
-  - "vfsco.it"
-  - "vfsco.jp"
-  - "vfsco.kr"
-  - "vfsco.lt"
-  - "vfsco.lv"
-  - "vfsco.mx"
-  - "vfsco.nl"
-  - "vfsco.no"
-  - "vfsco.pe"
-  - "vfsco.pl"
-  - "vfsco.ro"
-  - "vfsco.ru"
-  - "vfsco.se"
-  - "vfsco.sk"
-  - "vfsco.us"
   - "vgcareers.net"
 domain_keyword_set:
   - "volvo"
+  - "vfsco"

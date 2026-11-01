@@ -1,7 +1,8 @@
 # NAME: tencent-games
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 85
-# TOTAL: 85
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 80
+# DOMAIN-KEYWORD: 1
+# TOTAL: 81
 domain_suffix_set:
   - "17roco.com"
   - "anticheatexpert.com"
@@ -13,9 +14,6 @@ domain_suffix_set:
   - "gamebonfire.com"
   - "gameitop.com"
   - "gameloop.com"
-  - "gcloudcs.com"
-  - "gcloudcstest.com"
-  - "gcloudcstestonly.com"
   - "gclouddolphin.com"
   - "gcloudsdk.com"
   - "gcloudsvcs.com"
@@ -29,7 +27,6 @@ domain_suffix_set:
   - "happyhlddz.com"
   - "haydaypop.cn"
   - "hdyxgame.com"
-  - "hkgcloudcs.com"
   - "ihappystudio.cn"
   - "ihappystudio.com"
   - "in.th"
@@ -45,7 +42,6 @@ domain_suffix_set:
   - "mszdld.cn"
   - "mszdld.com"
   - "mszdld.net"
-  - "nagcloudcs.com"
   - "nextstudios.com"
   - "nextworkshop.net"
   - "proximabeta.com"
@@ -88,3 +84,5 @@ domain_suffix_set:
   - "yzyxgame.com"
   - "zcjbgame.com"
   - "zhuoyuegame.com"
+domain_keyword_set:
+  - "gcloudcs"

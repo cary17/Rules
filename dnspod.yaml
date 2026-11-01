@@ -1,19 +1,16 @@
 # NAME: dnspod
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 14
-# TOTAL: 14
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 8
+# DOMAIN-KEYWORD: 1
+# TOTAL: 9
 domain_suffix_set:
   - "dns.pub"
   - "dnsapi.cn"
-  - "dnspod.cn"
-  - "dnspod.com"
-  - "dnspod.com.cn"
-  - "dnspod.mobi"
-  - "dnspod.net"
-  - "dnspod.org"
   - "dnsv2.com"
   - "dnsv3.com"
   - "dnsv4.com"
   - "dnsv5.com"
   - "doh.pub"
   - "dot.pub"
+domain_keyword_set:
+  - "dnspod"

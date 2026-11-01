@@ -1,15 +1,13 @@
 # NAME: cainiao
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 5
+# DOMAIN-KEYWORD: 1
+# TOTAL: 6
 domain_suffix_set:
   - "56xiniao.com"
-  - "cainiao-inc.com"
-  - "cainiao.com"
-  - "cainiao.com.cn"
-  - "cainiaoyizhan.com"
   - "danniao.com"
   - "dianwoda.cn"
   - "dianwoda.com"
   - "guoguo-app.com"
-  - "v6-adashx.ut.cainiao.com"
+domain_keyword_set:
+  - "cainiao"

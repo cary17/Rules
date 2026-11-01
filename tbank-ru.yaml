@@ -1,7 +1,8 @@
 # NAME: tbank-ru
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 110
-# TOTAL: 110
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 94
+# DOMAIN-KEYWORD: 2
+# TOTAL: 96
 domain_suffix_set:
   - "2w.ru"
   - "4c.ru"
@@ -13,7 +14,6 @@ domain_suffix_set:
   - "booking-tec.ru"
   - "capitalt.ru"
   - "cardsmobile.ru"
-  - "cdn-tinkoff.ru"
   - "centraluniversity.ru"
   - "codeseason.by"
   - "cu.ru"
@@ -49,12 +49,6 @@ domain_suffix_set:
   - "rbcollect.ru"
   - "rbcredit.ru"
   - "rf-sim-mobile.ru"
-  - "rosbank-auto.ru"
-  - "rosbank-capital.ru"
-  - "rosbank-credit.com"
-  - "rosbank-dom.ru"
-  - "rosbank-leasing.ru"
-  - "rosbank.ru"
   - "rusfinance.ru"
   - "rusfinancebank.ru"
   - "safeliner.tech"
@@ -90,15 +84,6 @@ domain_suffix_set:
   - "tcsbank.ru"
   - "tdev.by"
   - "time-messenger.ru"
-  - "tinkoff-edu.ru"
-  - "tinkoff-group.com"
-  - "tinkoff.ai"
-  - "tinkoff.ru"
-  - "tinkoffcapital.ru"
-  - "tinkoffinsurance.ru"
-  - "tinkoffinsurancefuture.ru"
-  - "tinkoffjournal.ru"
-  - "tinkoffmobile.com"
   - "tinsurance.ru"
   - "tinsurancefuture.ru"
   - "tmiaf.ru"
@@ -113,3 +98,6 @@ domain_suffix_set:
   - "xn--b1aechhj6bof8g5a.site"
   - "xn--d1abkf4ap.fun"
   - "xn--h1ao.site"
+domain_keyword_set:
+  - "rosbank"
+  - "tinkoff"

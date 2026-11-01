@@ -1,8 +1,8 @@
 # NAME: nintendo
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 83
-# DOMAIN-KEYWORD: 1
-# TOTAL: 84
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 55
+# DOMAIN-KEYWORD: 3
+# TOTAL: 58
 domain_suffix_set:
   - "100classicbooks.com"
   - "ac-pocketcamp.com"
@@ -36,38 +36,10 @@ domain_suffix_set:
   - "miitomo.com.cn"
   - "miiverse.com"
   - "nentindo.net"
-  - "newsupermariobrosu.com"
   - "personaltrainermath.com"
   - "pokedex3d.com"
-  - "pokemon-moon.com"
-  - "pokemon-sun.com"
-  - "pokemon-sunmoon.com"
-  - "pokemon-unitepgame.com"
-  - "pokemon.com"
-  - "pokemonbank.com"
-  - "pokemonblackwhite.com"
-  - "pokemonbw.com"
-  - "pokemonchampionships.com"
-  - "pokemongoldsilver.com"
-  - "pokemonhome.com"
-  - "pokemonletsgoeevee.com"
-  - "pokemonletsgopikachu.com"
-  - "pokemonmysterydungeon.com"
-  - "pokemonpicross.com"
-  - "pokemonplatinum.com"
-  - "pokemonrubysapphire.com"
-  - "pokemonsunmoon.com"
-  - "pokemonswordshield.com"
-  - "pokemonultrasunmoon.com"
-  - "pokemonvgc.com"
-  - "pokemonwifi.net"
   - "splatoon2tournament.com"
   - "starfox.com"
-  - "supermario.com"
-  - "supermario3dworld.com"
-  - "supermariobros.com.cn"
-  - "supermariogalaxy.com"
-  - "supermariorun.com"
   - "superpapermario.com"
   - "supersmashbros.cn"
   - "supersmashbros.com.cn"
@@ -89,3 +61,5 @@ domain_suffix_set:
   - "yoshisnewisland.com"
 domain_keyword_set:
   - "nintendo"
+  - "pokemon"
+  - "supermario"

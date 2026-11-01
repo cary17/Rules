@@ -1,11 +1,8 @@
 # NAME: paypal
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 79
-# DOMAIN-KEYWORD: 1
-# TOTAL: 81
-domain_set:
-  - "venmo.s3.amazonaws.com"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 69
+# DOMAIN-KEYWORD: 3
+# TOTAL: 72
 domain_suffix_set:
   - "anfutong.cn"
   - "anfutong.com"
@@ -20,11 +17,6 @@ domain_suffix_set:
   - "bml.info"
   - "braintreegateway.com"
   - "braintreegateway.tv"
-  - "braintreepayments.com"
-  - "braintreepayments.info"
-  - "braintreepayments.org"
-  - "braintreepayments.tv"
-  - "braintreepaymentsolutions.com"
   - "braintreeps.com"
   - "briantreepayments.net"
   - "briantreepayments.tv"
@@ -71,11 +63,6 @@ domain_suffix_set:
   - "swiftfinancial.info"
   - "swiftfinancial.net"
   - "theshoppingexpresslane.net"
-  - "venmo-touch.com"
-  - "venmo.com"
-  - "venmo.info"
-  - "venmo.net"
-  - "venmo.org"
   - "webmoneyinfo.com"
   - "wiremoneytoirelandwithxoomeasierandcheaper.com"
   - "wwwxoom.com"
@@ -88,3 +75,5 @@ domain_suffix_set:
   - "xoomcom.com"
 domain_keyword_set:
   - "paypal"
+  - "braintreepayments"
+  - "venmo"

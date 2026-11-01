@@ -1,9 +1,9 @@
 # NAME: mozilla
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 39
-# DOMAIN-KEYWORD: 1
-# TOTAL: 41
+# DOMAIN-SUFFIX: 33
+# DOMAIN-KEYWORD: 2
+# TOTAL: 36
 domain_set:
   - "incoming-telemetry.thunderbird.net"
 domain_suffix_set:
@@ -13,13 +13,7 @@ domain_suffix_set:
   - "detodosparatodos.org"
   - "discovershiretoko.org"
   - "ecmascript.org"
-  - "extendfirefox.com"
   - "extensionworkshop.com"
-  - "firefox-portal-detection.com"
-  - "firefox.com"
-  - "firefox.hu"
-  - "firefoxtweetmachine.com"
-  - "firefoxusercontent.com"
   - "foxkeh.com"
   - "foxkeh.jp"
   - "getfirebug.com"
@@ -48,3 +42,4 @@ domain_suffix_set:
   - "webmademovies.org"
 domain_keyword_set:
   - "mozilla"
+  - "firefox"

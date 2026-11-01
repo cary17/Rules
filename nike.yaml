@@ -1,7 +1,8 @@
 # NAME: nike
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 196
-# TOTAL: 196
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 183
+# DOMAIN-KEYWORD: 1
+# TOTAL: 184
 domain_suffix_set:
   - ".nike"
   - "air-nike-shoes.com"
@@ -13,7 +14,6 @@ domain_suffix_set:
   - "cheapnikedunks.com"
   - "cheapnikeoutlet.com"
   - "classicnike.com"
-  - "cnnikebrand.com"
   - "customnikeshoes.com"
   - "easynike.com"
   - "eenike.com"
@@ -61,18 +61,6 @@ domain_suffix_set:
   - "nikeasia.com"
   - "nikeaustralia.com"
   - "nikeaw77.com"
-  - "nikeb.com"
-  - "nikebbn.com"
-  - "nikebetrue.com"
-  - "nikebetterworld.cn"
-  - "nikebetterworld.com"
-  - "nikebetterworld.com.cn"
-  - "nikebetterworld.info"
-  - "nikebetterworld.net"
-  - "nikebetterworld.org"
-  - "nikebiz.info"
-  - "nikebuy.com"
-  - "nikeby.com"
   - "nikecdn.com"
   - "nikechina.cn"
   - "nikechosen.com"
@@ -199,3 +187,5 @@ domain_suffix_set:
   - "verygoodnike.com"
   - "womensnikeshox.com"
   - "xn--74q035i.xn--hxt814e"
+domain_keyword_set:
+  - "nikeb"

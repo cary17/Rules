@@ -1,18 +1,10 @@
 # NAME: hetzner
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 14
-# TOTAL: 15
-domain_set:
-  - "sentry.hetzner.company"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 8
+# DOMAIN-KEYWORD: 1
+# TOTAL: 9
 domain_suffix_set:
   - "first-ns.de"
-  - "hetzner-cloud.de"
-  - "hetzner.cloud"
-  - "hetzner.com"
-  - "hetzner.company"
-  - "hetzner.de"
-  - "hetzner.social"
   - "htznr.li"
   - "second-ns.com"
   - "second-ns.de"
@@ -20,3 +12,5 @@ domain_suffix_set:
   - "your-server.de"
   - "your-storagebox.de"
   - "your-storageshare.de"
+domain_keyword_set:
+  - "hetzner"

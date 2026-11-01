@@ -1,21 +1,11 @@
 # NAME: msn
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 10
+# DOMAIN-KEYWORD: 1
+# TOTAL: 11
 domain_suffix_set:
   - "browser.events.data.msn.cn"
   - "browser.events.data.msn.com"
-  - "microsoftnews.cc"
-  - "microsoftnews.cn"
-  - "microsoftnews.com"
-  - "microsoftnews.net"
-  - "microsoftnews.org"
-  - "microsoftnewsforkids.com"
-  - "microsoftnewsforkids.net"
-  - "microsoftnewsforkids.org"
-  - "microsoftnewskids.com"
-  - "microsoftnewskids.net"
-  - "microsoftnewskids.org"
   - "microsoftstart.com"
   - "msn.cn"
   - "msn.com"
@@ -24,3 +14,5 @@ domain_suffix_set:
   - "msnewskids.org"
   - "msnkids.com"
   - "start.com"
+domain_keyword_set:
+  - "microsoftnews"

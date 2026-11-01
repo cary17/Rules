@@ -1,7 +1,8 @@
 # NAME: sky
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 8
+# DOMAIN-KEYWORD: 1
+# TOTAL: 9
 domain_suffix_set:
   - ".sky"
   - "cn-cdn1.skymansion.net"
@@ -11,8 +12,5 @@ domain_suffix_set:
   - "skyoceanrescue.com"
   - "skyoceanrescue.de"
   - "skyoceanrescue.it"
-  - "skysports.com"
-  - "skysports.fr"
-  - "skysports.ie"
-  - "skysportsonline.com"
-  - "skysportsracing.com"
+domain_keyword_set:
+  - "skysports"

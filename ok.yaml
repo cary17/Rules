@@ -1,8 +1,9 @@
 # NAME: ok
-# UPDATED: 2026-10-31 15:42:02 +08:00
+# UPDATED: 2026-11-01 13:05:02 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 17
-# TOTAL: 19
+# DOMAIN-SUFFIX: 10
+# DOMAIN-KEYWORD: 1
+# TOTAL: 13
 domain_set:
   - "st-ok-pts.cdn-vk.ru"
   - "st-ok.cdn-vk.ru"
@@ -12,15 +13,10 @@ domain_suffix_set:
   - "odkl.ru"
   - "odnoklasniki.by"
   - "odnoklasniki.ua"
-  - "odnoklassniki.am"
-  - "odnoklassniki.by"
-  - "odnoklassniki.co.ee"
-  - "odnoklassniki.eu"
-  - "odnoklassniki.lv"
-  - "odnoklassniki.ru"
-  - "odnoklassniki.tj"
   - "ok.me"
   - "ok.ru"
   - "okcdn.ru"
   - "okl.lt"
   - "oktech.ru"
+domain_keyword_set:
+  - "odnoklassniki"

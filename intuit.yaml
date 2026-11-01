@@ -1,8 +1,8 @@
 # NAME: intuit
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 21
-# DOMAIN-KEYWORD: 1
-# TOTAL: 22
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 9
+# DOMAIN-KEYWORD: 2
+# TOTAL: 11
 domain_suffix_set:
   - "creditkarma.com"
   - "gopayment.com"
@@ -11,19 +11,8 @@ domain_suffix_set:
   - "myproseries.com"
   - "payroll.com"
   - "proseries.com"
-  - "quickbook.com.br"
-  - "quickbooks.co.uk"
-  - "quickbooks.co.za"
-  - "quickbooks.com"
-  - "quickbooks.com.au"
-  - "quickbooks.com.br"
-  - "quickbooks.fr"
-  - "quickbooks.in"
-  - "quickbooks2000.com"
-  - "quickbooksenligne.ca"
-  - "quickbooksgetconnected.co.za"
-  - "quickbooksonline.com"
   - "turbo.com"
   - "turbotax.com"
 domain_keyword_set:
   - "intuit"
+  - "quickbook"

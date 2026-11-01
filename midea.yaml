@@ -1,15 +1,13 @@
 # NAME: midea
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 5
+# DOMAIN-KEYWORD: 1
+# TOTAL: 6
 domain_suffix_set:
   - "irsnp.com"
   - "mdcdn.cn"
-  - "midea.cn"
-  - "midea.com"
-  - "midea.com.cn"
-  - "mideaepayuat.com"
   - "msmartlife.cn"
   - "msmartlife.com"
-  - "smartmidea.net"
   - "xiaomaigui.com"
+domain_keyword_set:
+  - "midea"

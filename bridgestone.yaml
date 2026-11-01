@@ -1,12 +1,11 @@
 # NAME: bridgestone
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 45
-# DOMAIN-KEYWORD: 1
-# TOTAL: 46
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 24
+# DOMAIN-KEYWORD: 2
+# TOTAL: 26
 domain_suffix_set:
   - "bandag.cc"
   - "bandag.com"
-  - "bastropfirestone.com"
   - "blizzak-juken.jp"
   - "bs-adreview.com"
   - "bs-awh.ne.jp"
@@ -14,28 +13,8 @@ domain_suffix_set:
   - "bsw.jp"
   - "carcare-and-tireshop.jp"
   - "cfna.com"
-  - "crossfitfirestone.com"
   - "daytontrucktires.com"
   - "ecoforme.jp"
-  - "firestone.cl"
-  - "firestone.co.cr"
-  - "firestone.com.ar"
-  - "firestone.com.br"
-  - "firestone.com.co"
-  - "firestone.com.mx"
-  - "firestonebpco.com"
-  - "firestonecomercial.cl"
-  - "firestonecomercial.co.cr"
-  - "firestonecomercial.com.ar"
-  - "firestonecomercial.com.br"
-  - "firestonecomercial.com.co"
-  - "firestonecomercial.com.mx"
-  - "firestonecompleteautocare.com"
-  - "firestonedrivestore.com"
-  - "firestoneip.com"
-  - "firestonerewards.com"
-  - "firestonetire.ca"
-  - "firestonetire.com"
   - "gcrtires.com"
   - "hibdontire.com"
   - "menshin-channel.com"
@@ -51,3 +30,4 @@ domain_suffix_set:
   - "wheelworks.net"
 domain_keyword_set:
   - "bridgestone"
+  - "firestone"

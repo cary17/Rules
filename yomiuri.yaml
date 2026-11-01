@@ -1,18 +1,15 @@
 # NAME: yomiuri
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 1
+# TOTAL: 8
 domain_suffix_set:
   - "chuokoron.jp"
   - "fujinkoron.jp"
   - "hochi.news"
-  - "ryokoyomiuri.co.jp"
   - "the-japan-news.com"
   - "ync.ne.jp"
   - "yomikyo.or.jp"
   - "yomilogi.com"
-  - "yomiuri-johkai.co.jp"
-  - "yomiuri-ryokou.co.jp"
-  - "yomiuri-shimbun.pressreader.com"
-  - "yomiuri-systec.co.jp"
-  - "yomiuri.co.jp"
+domain_keyword_set:
+  - "yomiuri"

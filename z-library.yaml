@@ -1,7 +1,8 @@
 # NAME: z-library
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN-SUFFIX: 48
-# TOTAL: 48
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 42
+# DOMAIN-KEYWORD: 1
+# TOTAL: 43
 domain_suffix_set:
   - "1lib.cloud"
   - "1lib.cz"
@@ -42,12 +43,8 @@ domain_suffix_set:
   - "singlelogin.me"
   - "singlelogin.re"
   - "singlelogin.site"
-  - "z-lib.fm"
-  - "z-lib.gd"
-  - "z-lib.gl"
-  - "z-lib.org"
-  - "z-library.se"
-  - "z-library.sk"
   - "zlib.life"
   - "zlibcdn.com"
   - "zlibcdn2.com"
+domain_keyword_set:
+  - "z-lib"

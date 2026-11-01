@@ -1,23 +1,17 @@
 # NAME: bybit
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 14
-# TOTAL: 16
-domain_set:
-  - "bybit-exchange.github.io"
-  - "bybit.ada.support"
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN-SUFFIX: 9
+# DOMAIN-KEYWORD: 1
+# TOTAL: 10
 domain_suffix_set:
   - "byabcde.com"
   - "byapis.com"
   - "byapps.net"
   - "bybdc6.com"
-  - "bybit-global.com"
-  - "bybit.biz"
-  - "bybit.cloud"
-  - "bybit.com"
-  - "bybitglobal.com"
   - "bycbe.com"
   - "bycsi.com"
   - "byd3c3.com"
   - "bymj.io"
   - "bytick.com"
+domain_keyword_set:
+  - "bybit"

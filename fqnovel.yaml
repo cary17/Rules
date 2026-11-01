@@ -1,19 +1,14 @@
 # NAME: fqnovel
-# UPDATED: 2026-10-31 15:42:02 +08:00
-# DOMAIN: 9
+# UPDATED: 2026-11-01 13:05:02 +08:00
+# DOMAIN: 4
 # DOMAIN-SUFFIX: 23
-# DOMAIN-KEYWORD: 1
-# TOTAL: 33
+# DOMAIN-KEYWORD: 2
+# TOTAL: 29
 domain_set:
   - "ads3-normal-hl.zijieapi.com"
   - "ads3-normal.zijieapi.com"
   - "ads5-normal-hl.zijieapi.com"
   - "ads5-normal.zijieapi.com"
-  - "p3-ad-sign.byteimg.com"
-  - "p3-novel.byteimg.com"
-  - "p6-ad-sign.byteimg.com"
-  - "p6-novel.byteimg.com"
-  - "p9-ad-sign.byteimg.com"
 domain_suffix_set:
   - "activity-zhendingtech.com"
   - "changdunovel.com"
@@ -40,3 +35,4 @@ domain_suffix_set:
   - "qznovelvod.com"
 domain_keyword_set:
   - "fqnovel"
+  - "byteimg"
