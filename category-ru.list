@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-11-03 08:08:13 +08:00
+# UPDATED: 2026-11-04 06:28:57 +08:00
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 921
-# TOTAL: 1145
+# DOMAIN-SUFFIX: 922
+# TOTAL: 1146
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,activate.activation-v2.kaspersky.com
@@ -1146,5 +1146,6 @@ DOMAIN-SUFFIX,ydb.tech
 DOMAIN-SUFFIX,yndx.net
 DOMAIN-SUFFIX,youla.io
 DOMAIN-SUFFIX,yourgood.app
+DOMAIN-SUFFIX,zapishu.me
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
