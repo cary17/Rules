@@ -2,6 +2,9 @@
   "version": 1,
   "rules": [
     {
+      "domain_suffix": [
+        "ziggo.nl"
+      ],
       "domain_keyword": [
         "vodafone"
       ]
