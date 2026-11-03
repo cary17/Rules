@@ -1,8 +1,8 @@
 # NAME: category-games-!cn
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
 # DOMAIN: 91
-# DOMAIN-SUFFIX: 747
-# TOTAL: 838
+# DOMAIN-SUFFIX: 748
+# TOTAL: 839
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,assets.ppy.sh
@@ -704,6 +704,7 @@ DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steaminventoryhelper.com
 DOMAIN-SUFFIX,steamos.cloud
+DOMAIN-SUFFIX,steampeek.hu
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com

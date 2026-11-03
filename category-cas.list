@@ -1,8 +1,8 @@
 # NAME: category-cas
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
 # DOMAIN: 27
-# DOMAIN-SUFFIX: 230
-# TOTAL: 257
+# DOMAIN-SUFFIX: 232
+# TOTAL: 259
 DOMAIN,c.pki.goog
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,certs-lb.apple.com.akadns.net
@@ -252,6 +252,7 @@ DOMAIN-SUFFIX,vodafone.com.tr
 DOMAIN-SUFFIX,vodafone.de
 DOMAIN-SUFFIX,vodafone.it
 DOMAIN-SUFFIX,vodafone.nl
+DOMAIN-SUFFIX,vodafoneziggo.nl
 DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiseid.com
 DOMAIN-SUFFIX,wisekey.com
@@ -260,3 +261,4 @@ DOMAIN-SUFFIX,ws.symantec.com
 DOMAIN-SUFFIX,wsimg.com
 DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,zert.ch
+DOMAIN-SUFFIX,ziggo.nl

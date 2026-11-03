@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
 # DOMAIN: 97
-# DOMAIN-SUFFIX: 1058
+# DOMAIN-SUFFIX: 1059
 # DOMAIN-WILDCARD: 1
-# TOTAL: 1156
+# TOTAL: 1157
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -935,6 +935,7 @@ DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steaminventoryhelper.com
 DOMAIN-SUFFIX,steamos.cloud
+DOMAIN-SUFFIX,steampeek.hu
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamserver.net

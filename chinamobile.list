@@ -1,8 +1,8 @@
 # NAME: chinamobile
-# UPDATED: 2026-11-02 05:21:14 +08:00
-# DOMAIN-SUFFIX: 30
+# UPDATED: 2026-11-03 08:08:13 +08:00
+# DOMAIN-SUFFIX: 34
 # DOMAIN-KEYWORD: 1
-# TOTAL: 31
+# TOTAL: 35
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,5gxcx.net
@@ -31,6 +31,10 @@ DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,mmarket.com
 DOMAIN-SUFFIX,mmarket6.com
+DOMAIN-SUFFIX,mnc000.mcc460.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc460.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc460.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc460.pub.3gppnetwork.org
 DOMAIN-SUFFIX,online-cmcc.cn
 DOMAIN-SUFFIX,zdsdp.com
 DOMAIN-KEYWORD,chinamobile
