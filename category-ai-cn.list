@@ -1,8 +1,8 @@
 # NAME: category-ai-cn
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 117
-# TOTAL: 119
+# DOMAIN-SUFFIX: 118
+# TOTAL: 120
 DOMAIN,ai.zhaomi.cn
 DOMAIN,cueme-api.quark.cn
 DOMAIN-SUFFIX,aispeech.com
@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,deepseeksvc.com
 DOMAIN-SUFFIX,diandianlife.top
 DOMAIN-SUFFIX,doubao-dev.com
 DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaoapps.com
 DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,doudou.com
 DOMAIN-SUFFIX,dui.ai
