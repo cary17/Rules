@@ -1,8 +1,8 @@
 # NAME: alibaba
-# UPDATED: 2026-11-02 05:21:14 +08:00
-# DOMAIN-SUFFIX: 269
+# UPDATED: 2026-11-03 08:08:13 +08:00
+# DOMAIN-SUFFIX: 272
 # DOMAIN-KEYWORD: 11
-# TOTAL: 280
+# TOTAL: 283
 domain_suffix_set:
   - "11222.cn"
   - "1688.com"
@@ -62,6 +62,7 @@ domain_suffix_set:
   - "alitianji.com"
   - "alitrip.com"
   - "aliunicorn.com"
+  - "alivecdn.com"
   - "aliway.com"
   - "aliwork.com"
   - "aliwx.com.cn"
@@ -138,6 +139,7 @@ domain_suffix_set:
   - "hemaos.com"
   - "hemashare.cn"
   - "hichina.com"
+  - "hmxs.cn"
   - "hupan.com"
   - "hzchengdun.com"
   - "hzchengdun.net"
@@ -195,6 +197,7 @@ domain_suffix_set:
   - "maitix.com"
   - "mappcloud.com"
   - "mashort.cn"
+  - "mayibao.cn"
   - "mdeer.com"
   - "mei.com"
   - "miaostreet.com"

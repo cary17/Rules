@@ -1,8 +1,8 @@
 # NAME: category-ai-cn
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 117
-# TOTAL: 119
+# DOMAIN-SUFFIX: 118
+# TOTAL: 120
 domain_set:
   - "ai.zhaomi.cn"
   - "cueme-api.quark.cn"
@@ -43,6 +43,7 @@ domain_suffix_set:
   - "diandianlife.top"
   - "doubao-dev.com"
   - "doubao.com"
+  - "doubaoapps.com"
   - "doubaocdn.com"
   - "doudou.com"
   - "dui.ai"

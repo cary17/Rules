@@ -1,8 +1,8 @@
 # NAME: category-cas
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
 # DOMAIN: 27
-# DOMAIN-SUFFIX: 230
-# TOTAL: 257
+# DOMAIN-SUFFIX: 232
+# TOTAL: 259
 domain_set:
   - "c.pki.goog"
   - "cdn.globalsigncdn.com.cdn.cloudflare.net"
@@ -254,6 +254,7 @@ domain_suffix_set:
   - "vodafone.de"
   - "vodafone.it"
   - "vodafone.nl"
+  - "vodafoneziggo.nl"
   - "wisecoin.com"
   - "wiseid.com"
   - "wisekey.com"
@@ -262,3 +263,4 @@ domain_suffix_set:
   - "wsimg.com"
   - "x.co"
   - "zert.ch"
+  - "ziggo.nl"

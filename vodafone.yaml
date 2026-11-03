@@ -1,6 +1,9 @@
 # NAME: vodafone
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
+# DOMAIN-SUFFIX: 1
 # DOMAIN-KEYWORD: 1
-# TOTAL: 1
+# TOTAL: 2
+domain_suffix_set:
+  - "ziggo.nl"
 domain_keyword_set:
   - "vodafone"

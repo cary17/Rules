@@ -1,9 +1,9 @@
 # NAME: tencent
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 442
+# DOMAIN-SUFFIX: 445
 # DOMAIN-KEYWORD: 12
-# TOTAL: 455
+# TOTAL: 458
 domain_set:
   - "wetv.qq.com"
 domain_suffix_set:
@@ -355,6 +355,7 @@ domain_suffix_set:
   - "tendis.net"
   - "tengmed.com"
   - "tenpay.com"
+  - "tenpayglobal.com"
   - "testjrzk.net.cn"
   - "testmeet.cn"
   - "testwaf.com"
@@ -410,6 +411,8 @@ domain_suffix_set:
   - "weishi.com"
   - "weiyun.com"
   - "werepository.com.cn"
+  - "wesure.cn"
+  - "wesure100.com"
   - "wetv.vip"
   - "wetvinfo.com"
   - "weui.io"

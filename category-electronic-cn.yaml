@@ -1,14 +1,16 @@
 # NAME: category-electronic-cn
-# UPDATED: 2026-11-02 05:21:14 +08:00
-# DOMAIN-SUFFIX: 92
-# TOTAL: 92
+# UPDATED: 2026-11-03 08:08:13 +08:00
+# DOMAIN-SUFFIX: 97
+# TOTAL: 97
 domain_suffix_set:
+  - "allwinnertech.com"
   - "analog.com"
   - "arrow.cn"
   - "avermedia.cn"
   - "boe.com"
   - "boe.com.cn"
   - "bouffalolab.com"
+  - "cambricon.com"
   - "cxmt.com"
   - "eda.cn"
   - "elecfans.com"
@@ -62,6 +64,7 @@ domain_suffix_set:
   - "listenai.com"
   - "maixhub.com"
   - "moedu.com"
+  - "mthreads.com"
   - "nanocorechip.com"
   - "oshwhub.com"
   - "quecmall.cn"
@@ -73,9 +76,11 @@ domain_suffix_set:
   - "seeed.com.cn"
   - "seeedstudio.com.cn"
   - "sipeed.com"
+  - "southchip.com"
   - "sz-jlc.com"
   - "szjlc.cn"
   - "szlcsc.com"
+  - "t-head.cn"
   - "thunis.com"
   - "ti.com.cn"
   - "tsinghuaic.com"

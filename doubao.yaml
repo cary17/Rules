@@ -1,7 +1,7 @@
 # NAME: doubao
-# UPDATED: 2026-11-02 05:21:14 +08:00
-# DOMAIN-SUFFIX: 32
-# TOTAL: 32
+# UPDATED: 2026-11-03 08:08:13 +08:00
+# DOMAIN-SUFFIX: 33
+# TOTAL: 33
 domain_suffix_set:
   - "api-building.fun"
   - "building.fun"
@@ -25,6 +25,7 @@ domain_suffix_set:
   - "dbbuilding.fun"
   - "doubao-dev.com"
   - "doubao.com"
+  - "doubaoapps.com"
   - "doubaocdn.com"
   - "hi-butterfly.cn"
   - "instreet.com"

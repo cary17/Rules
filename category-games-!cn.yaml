@@ -1,9 +1,9 @@
 # NAME: category-games-!cn
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
 # DOMAIN: 91
-# DOMAIN-SUFFIX: 747
+# DOMAIN-SUFFIX: 748
 # DOMAIN-REGEX: 1
-# TOTAL: 839
+# TOTAL: 840
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -707,6 +707,7 @@ domain_suffix_set:
   - "steamgames.com"
   - "steaminventoryhelper.com"
   - "steamos.cloud"
+  - "steampeek.hu"
   - "steampowered.com"
   - "steamserver.net"
   - "steamstatic.com"

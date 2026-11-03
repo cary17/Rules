@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-11-02 05:21:14 +08:00
+# UPDATED: 2026-11-03 08:08:13 +08:00
 # DOMAIN: 273
-# DOMAIN-SUFFIX: 1867
+# DOMAIN-SUFFIX: 1868
 # DOMAIN-REGEX: 10
-# TOTAL: 2150
+# TOTAL: 2151
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -1701,6 +1701,7 @@ domain_suffix_set:
   - "steamgames.com"
   - "steaminventoryhelper.com"
   - "steamos.cloud"
+  - "steampeek.hu"
   - "steampowered.com"
   - "steampowered.com.8686c.com"
   - "steamserver.net"
