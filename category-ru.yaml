@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-11-03 08:08:13 +08:00
+# UPDATED: 2026-11-04 06:28:57 +08:00
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 921
-# TOTAL: 1145
+# DOMAIN-SUFFIX: 922
+# TOTAL: 1146
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -1148,5 +1148,6 @@ domain_suffix_set:
   - "yndx.net"
   - "youla.io"
   - "yourgood.app"
+  - "zapishu.me"
   - "zvuk-b2b.com"
   - "zvuk.com"
