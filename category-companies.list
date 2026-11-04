@@ -1,8 +1,8 @@
 # NAME: category-companies
-# UPDATED: 2026-11-04 06:28:57 +08:00
+# UPDATED: 2026-11-05 06:49:11 +08:00
 # DOMAIN: 612
-# DOMAIN-SUFFIX: 7689
-# TOTAL: 8301
+# DOMAIN-SUFFIX: 7690
+# TOTAL: 8302
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -2182,6 +2182,7 @@ DOMAIN-SUFFIX,beget.app
 DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,beget.com
 DOMAIN-SUFFIX,beget.de
+DOMAIN-SUFFIX,beget.email
 DOMAIN-SUFFIX,beget.hosting
 DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,beget.ru

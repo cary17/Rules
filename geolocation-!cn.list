@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-11-04 06:28:57 +08:00
+# UPDATED: 2026-11-05 06:49:11 +08:00
 # DOMAIN: 246
-# DOMAIN-SUFFIX: 23682
-# TOTAL: 23928
+# DOMAIN-SUFFIX: 23683
+# TOTAL: 23929
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -3484,6 +3484,7 @@ DOMAIN-SUFFIX,beget.app
 DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,beget.com
 DOMAIN-SUFFIX,beget.de
+DOMAIN-SUFFIX,beget.email
 DOMAIN-SUFFIX,beget.hosting
 DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,beget.ru
