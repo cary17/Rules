@@ -1,9 +1,9 @@
 # NAME: category-games-!cn
-# UPDATED: 2026-11-05 06:49:11 +08:00
+# UPDATED: 2026-11-06 06:52:39 +08:00
 # DOMAIN: 91
-# DOMAIN-SUFFIX: 748
+# DOMAIN-SUFFIX: 753
 # DOMAIN-REGEX: 1
-# TOTAL: 840
+# TOTAL: 845
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -384,6 +384,9 @@ domain_suffix_set:
   - "leaguesharp.info"
   - "leaguoflegends.com"
   - "learnwithleague.com"
+  - "limbuscompany.global"
+  - "limbuscompanyapi.com"
+  - "limbuscompanycdn.org"
   - "log-upload-os.hoyoverse.com"
   - "lol-europe.com"
   - "lolclub.org"
@@ -567,6 +570,7 @@ domain_suffix_set:
   - "priconne-redive.jp"
   - "prismlauncher.org"
   - "projectapex.com"
+  - "projectmoon.studio"
   - "protondb.com"
   - "pubg.com"
   - "pvp.net"
@@ -661,6 +665,7 @@ domain_suffix_set:
   - "simcity.com"
   - "skate2.com"
   - "sketchfab.com"
+  - "skinswap.com"
   - "skylanders.com"
   - "sledgehammergames.com"
   - "snk-corp.co.jp"

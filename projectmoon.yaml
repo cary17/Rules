@@ -1,0 +1,9 @@
+# NAME: projectmoon
+# UPDATED: 2026-11-06 06:52:39 +08:00
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+domain_suffix_set:
+  - "limbuscompany.global"
+  - "limbuscompanyapi.com"
+  - "limbuscompanycdn.org"
+  - "projectmoon.studio"

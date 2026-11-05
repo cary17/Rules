@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-11-05 06:49:11 +08:00
+# UPDATED: 2026-11-06 06:52:39 +08:00
 # DOMAIN: 97
-# DOMAIN-SUFFIX: 1059
+# DOMAIN-SUFFIX: 1064
 # DOMAIN-REGEX: 4
-# TOTAL: 1160
+# TOTAL: 1165
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -535,6 +535,9 @@ domain_suffix_set:
   - "legendofzelda.cn"
   - "legendofzelda.com.cn"
   - "leyuansu.com"
+  - "limbuscompany.global"
+  - "limbuscompanyapi.com"
+  - "limbuscompanycdn.org"
   - "lingxigames.com"
   - "log-upload-os.hoyoverse.com"
   - "log-upload.mihoyo.com"
@@ -765,6 +768,7 @@ domain_suffix_set:
   - "priconne-redive.jp"
   - "prismlauncher.org"
   - "projectapex.com"
+  - "projectmoon.studio"
   - "protondb.com"
   - "proximabeta.com"
   - "pubg.com"
@@ -885,6 +889,7 @@ domain_suffix_set:
   - "simcity.com"
   - "skate2.com"
   - "sketchfab.com"
+  - "skinswap.com"
   - "skydweller.cn"
   - "skylanders.com"
   - "sl916.com"

@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-11-05 06:49:11 +08:00
+# UPDATED: 2026-11-06 06:52:39 +08:00
 # DOMAIN: 273
-# DOMAIN-SUFFIX: 1868
+# DOMAIN-SUFFIX: 1873
 # DOMAIN-REGEX: 10
-# TOTAL: 2151
+# TOTAL: 2156
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -1121,6 +1121,9 @@ domain_suffix_set:
   - "likeeapp.ru"
   - "likeevideo.com"
   - "likeevideo.ru"
+  - "limbuscompany.global"
+  - "limbuscompanyapi.com"
+  - "limbuscompanycdn.org"
   - "linetv.tw"
   - "litbus-anime.com"
   - "litv.tv"
@@ -1474,6 +1477,7 @@ domain_suffix_set:
   - "prod.service.minerva.devices.a2z.com"
   - "product.co.jp"
   - "projectapex.com"
+  - "projectmoon.studio"
   - "promodj.com"
   - "protondb.com"
   - "pscdn.co"
@@ -1609,6 +1613,7 @@ domain_suffix_set:
   - "simg.jp"
   - "skate2.com"
   - "sketchfab.com"
+  - "skinswap.com"
   - "skylanders.com"
   - "sledgehammergames.com"
   - "sling.com"
