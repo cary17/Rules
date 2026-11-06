@@ -1405,6 +1405,7 @@ DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,alizhaopin.com
 DOMAIN-SUFFIX,allawnfs.com
 DOMAIN-SUFFIX,allawno.com
+DOMAIN-SUFFIX,allawnofs.com
 DOMAIN-SUFFIX,allawntech.com
 DOMAIN-SUFFIX,allday.work
 DOMAIN-SUFFIX,allflow.cn
@@ -9391,11 +9392,11 @@ DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,zzzcaculator.top
 DOMAIN-SUFFIX,zzzmap.com
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-DOMAIN-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-DOMAIN-REGEX,^nis.+\.10010\.com$
-DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
+DOMAIN-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+DOMAIN-REGEX,^nis.+\.10010\.com$
+DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
