@@ -1,9 +1,9 @@
 # NAME: cn
-# UPDATED: 2026-11-06 06:52:39 +08:00
+# UPDATED: 2026-11-07 06:13:03 +08:00
 # DOMAIN: 605
-# DOMAIN-SUFFIX: 8789
+# DOMAIN-SUFFIX: 8790
 # DOMAIN-WILDCARD: 2
-# TOTAL: 9396
+# TOTAL: 9397
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -1411,6 +1411,7 @@ DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,alizhaopin.com
 DOMAIN-SUFFIX,allawnfs.com
 DOMAIN-SUFFIX,allawno.com
+DOMAIN-SUFFIX,allawnofs.com
 DOMAIN-SUFFIX,allawntech.com
 DOMAIN-SUFFIX,allday.work
 DOMAIN-SUFFIX,allflow.cn
@@ -9398,5 +9399,5 @@ DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,zzzcaculator.top
 DOMAIN-SUFFIX,zzzmap.com
-DOMAIN-WILDCARD,nis?*.10010.com
 DOMAIN-WILDCARD,?*-mihayo.akamaized.net
+DOMAIN-WILDCARD,nis?*.10010.com
