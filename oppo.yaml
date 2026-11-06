@@ -1,11 +1,12 @@
 # NAME: oppo
-# UPDATED: 2026-11-06 06:52:39 +08:00
-# DOMAIN-SUFFIX: 34
+# UPDATED: 2026-11-07 06:13:03 +08:00
+# DOMAIN-SUFFIX: 35
 # DOMAIN-KEYWORD: 2
-# TOTAL: 36
+# TOTAL: 37
 domain_suffix_set:
   - "allawnfs.com"
   - "allawno.com"
+  - "allawnofs.com"
   - "allawntech.com"
   - "coloros.com"
   - "coloros.net"
