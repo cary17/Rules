@@ -1,9 +1,9 @@
 # NAME: tencent
-# UPDATED: 2026-11-07 06:13:03 +08:00
+# UPDATED: 2026-11-08 04:59:51 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 445
+# DOMAIN-SUFFIX: 446
 # DOMAIN-KEYWORD: 12
-# TOTAL: 458
+# TOTAL: 459
 domain_set:
   - "wetv.qq.com"
 domain_suffix_set:
@@ -174,7 +174,6 @@ domain_suffix_set:
   - "ihappystudio.com"
   - "imqq.com"
   - "imweb.io"
-  - "in.th"
   - "isd.com"
   - "isdspeed.qq.com"
   - "itopsdk.com"
@@ -188,6 +187,7 @@ domain_suffix_set:
   - "kugoo.com"
   - "kuwo.cn"
   - "labycore.cn"
+  - "levelinfinite.com"
   - "log.tbs.qq.com"
   - "lrts.me"
   - "ludosuperstar.cn"
@@ -217,6 +217,7 @@ domain_suffix_set:
   - "myelasticsearch.com"
   - "nextstudios.com"
   - "nextworkshop.net"
+  - "nikke-en.com"
   - "onexmail.com"
   - "openapp.run"
   - "openmidas.com"

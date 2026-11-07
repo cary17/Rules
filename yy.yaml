@@ -1,9 +1,10 @@
 # NAME: yy
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 domain_suffix_set:
   - "duowan.com"
   - "dwstatic.com"
   - "yy.com"
+  - "yyeshop.cn"
   - "yystatic.com"

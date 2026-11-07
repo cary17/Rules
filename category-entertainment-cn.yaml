@@ -1,5 +1,5 @@
 # NAME: category-entertainment-cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
+# UPDATED: 2026-11-08 04:59:51 +08:00
 # DOMAIN: 23
 # DOMAIN-SUFFIX: 903
 # DOMAIN-REGEX: 1
@@ -497,7 +497,6 @@ domain_suffix_set:
   - "img-space.com"
   - "img4399.com"
   - "imgo.tv"
-  - "in.th"
   - "inke.cn"
   - "inkuai.com"
   - "inkwai.com"
@@ -918,6 +917,7 @@ domain_suffix_set:
   - "yximgs.com"
   - "yxwsgame.com"
   - "yy.com"
+  - "yyeshop.cn"
   - "yysls.cn"
   - "yystatic.com"
   - "yystv.cn"

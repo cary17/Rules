@@ -1,8 +1,8 @@
 # NAME: category-education-cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
+# UPDATED: 2026-11-08 04:59:51 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 195
-# TOTAL: 196
+# DOMAIN-SUFFIX: 199
+# TOTAL: 200
 domain_set:
   - "study.163.com"
 domain_suffix_set:
@@ -52,6 +52,7 @@ domain_suffix_set:
   - "dearedu.com"
   - "dgjy.net"
   - "dict.cn"
+  - "diyifanwen.com"
   - "duifene.com"
   - "edu.cn"
   - "eduei.com"
@@ -66,6 +67,8 @@ domain_suffix_set:
   - "fenbike.com"
   - "fenbilantian.cn"
   - "fenbilantian.com"
+  - "gaodun.com"
+  - "gaodunwangxiao.com"
   - "gaojidata.com"
   - "gaokao.cn"
   - "gaokao.com"
@@ -198,6 +201,7 @@ domain_suffix_set:
   - "zuowenwang.net"
   - "zuoyebang.cc"
   - "zuoyebang.com"
+  - "zww.com.cn"
   - "zxxk.com"
   - "zybang.com"
   - "zysn.net"

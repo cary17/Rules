@@ -1,7 +1,7 @@
 # NAME: category-securities-cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN-SUFFIX: 164
-# TOTAL: 164
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN-SUFFIX: 171
+# TOTAL: 171
 domain_suffix_set:
   - "5ifund.com"
   - "99fund.com"
@@ -13,6 +13,8 @@ domain_suffix_set:
   - "bobbns.com"
   - "boscam.com.cn"
   - "bosera.com"
+  - "bse.cn"
+  - "bseinfo.net"
   - "ccfund.com.cn"
   - "ccnew.com"
   - "cczq.com"
@@ -23,6 +25,7 @@ domain_suffix_set:
   - "cgws.com"
   - "changanfunds.com"
   - "chinaclear.cn"
+  - "chinahtz.com"
   - "chinalions.com"
   - "chinanature.com.cn"
   - "chinastock.com.cn"
@@ -33,10 +36,12 @@ domain_suffix_set:
   - "cjsc.com"
   - "cnhbstock.com"
   - "cnht.com.cn"
+  - "cnindex.com.cn"
   - "cninfo.com.cn"
   - "cryuantafund.com"
   - "csco.com.cn"
   - "csfounder.com"
+  - "csindex.com.cn"
   - "ctfund.com"
   - "ctsec.com"
   - "daton.com.cn"
@@ -133,11 +138,13 @@ domain_suffix_set:
   - "shzq.com"
   - "sse.com.cn"
   - "sseinfo.com"
+  - "ssetech.com.cn"
   - "stocke.com.cn"
   - "swhysc.com"
   - "swsc.com.cn"
   - "swsmu.com"
   - "szse.cn"
+  - "szsi.cn"
   - "taipingfund.com.cn"
   - "tebon.com.cn"
   - "tfzq.com"

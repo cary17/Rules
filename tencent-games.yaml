@@ -1,8 +1,8 @@
 # NAME: tencent-games
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN-SUFFIX: 80
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN-SUFFIX: 82
 # DOMAIN-KEYWORD: 1
-# TOTAL: 81
+# TOTAL: 83
 domain_suffix_set:
   - "17roco.com"
   - "anticheatexpert.com"
@@ -29,8 +29,8 @@ domain_suffix_set:
   - "hdyxgame.com"
   - "ihappystudio.cn"
   - "ihappystudio.com"
-  - "in.th"
   - "labycore.cn"
+  - "levelinfinite.com"
   - "ludosuperstar.cn"
   - "ludoworld.net"
   - "mahjongai.net"
@@ -44,6 +44,7 @@ domain_suffix_set:
   - "mszdld.net"
   - "nextstudios.com"
   - "nextworkshop.net"
+  - "nikke-en.com"
   - "proximabeta.com"
   - "pubghelper.com"
   - "pubgno1.cn"
@@ -66,6 +67,7 @@ domain_suffix_set:
   - "syxlgame.com"
   - "tcfmglobal.com"
   - "tencent-gcloud.com"
+  - "tencentgames.com"
   - "tencentstart.com"
   - "texasholdemcup.cn"
   - "texasholdemcup.com"

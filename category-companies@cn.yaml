@@ -1,9 +1,9 @@
 # NAME: category-companies@cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN: 506
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN: 507
 # DOMAIN-SUFFIX: 332
 # DOMAIN-REGEX: 4
-# TOTAL: 842
+# TOTAL: 843
 domain_set:
   - "2mdn-cn.net"
   - "2mdn.net"
@@ -376,6 +376,7 @@ domain_set:
   - "publicassets.cdn-apple.com"
   - "qiao-cn.com"
   - "qpx.googleflights.net"
+  - "radio.itunes.apple.com"
   - "recaptcha-cn.net"
   - "recaptcha.net"
   - "redirector.bdn.dev"

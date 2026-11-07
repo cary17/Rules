@@ -1,9 +1,9 @@
 # NAME: category-entertainment@cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN: 58
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN: 59
 # DOMAIN-SUFFIX: 40
 # DOMAIN-REGEX: 2
-# TOTAL: 100
+# TOTAL: 101
 domain_set:
   - "alibaba.cdn.steampipe.steamcontent.com"
   - "amp-api-edge-lb-cn.itunes-apple.com.akadns.net"
@@ -50,6 +50,7 @@ domain_set:
   - "play.music.apple.com"
   - "podcasts.apple.com"
   - "podcasts.itunes.apple.com"
+  - "radio.itunes.apple.com"
   - "se-edge.itunes.apple.com"
   - "se2.itunes.apple.com"
   - "search.itunes.apple.com"

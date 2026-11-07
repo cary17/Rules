@@ -1,8 +1,8 @@
 # NAME: apple@cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN: 236
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN: 237
 # DOMAIN-SUFFIX: 61
-# TOTAL: 297
+# TOTAL: 298
 domain_set:
   - "a1.mzstatic.com"
   - "a2.mzstatic.com"
@@ -175,6 +175,7 @@ domain_set:
   - "probe.siri.apple.com"
   - "prod-support.apple-support.akadns.net"
   - "publicassets.cdn-apple.com"
+  - "radio.itunes.apple.com"
   - "s.mzstatic.com"
   - "s1.mzstatic.com"
   - "s2.mzstatic.com"

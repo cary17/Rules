@@ -1,9 +1,9 @@
 # NAME: category-entertainment
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN: 273
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN: 274
 # DOMAIN-SUFFIX: 1873
 # DOMAIN-REGEX: 10
-# TOTAL: 2156
+# TOTAL: 2157
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -193,6 +193,7 @@ domain_set:
   - "pubg1.battleye.com"
   - "pvr-hamivideo.cdn.hinet.net"
   - "q676790b.pmhcjk.com"
+  - "radio.itunes.apple.com"
   - "roblox-load-generator-configuration.s3.us-east-2.amazonaws.com"
   - "roblox-poc.global.ssl.fastly.net"
   - "robloxcorp.s.llnwi.net"

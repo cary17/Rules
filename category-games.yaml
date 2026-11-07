@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-11-07 06:13:03 +08:00
+# UPDATED: 2026-11-08 04:59:51 +08:00
 # DOMAIN: 97
-# DOMAIN-SUFFIX: 1064
+# DOMAIN-SUFFIX: 1063
 # DOMAIN-REGEX: 4
-# TOTAL: 1165
+# TOTAL: 1164
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -477,7 +477,6 @@ domain_suffix_set:
   - "ihappystudio.com"
   - "ihykb.com"
   - "img4399.com"
-  - "in.th"
   - "industrialtoys.com"
   - "infinityward.com"
   - "insights-collector.gog.com"

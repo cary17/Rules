@@ -1,8 +1,8 @@
 # NAME: geolocation-cn@ads
-# UPDATED: 2026-11-07 06:13:03 +08:00
+# UPDATED: 2026-11-08 04:59:51 +08:00
 # DOMAIN: 18
-# DOMAIN-SUFFIX: 434
-# TOTAL: 452
+# DOMAIN-SUFFIX: 438
+# TOTAL: 456
 domain_set:
   - "ads3-normal-hl.zijieapi.com"
   - "ads3-normal.zijieapi.com"
@@ -73,6 +73,9 @@ domain_suffix_set:
   - "adnet.sohu.com"
   - "adping.qq.com"
   - "adpm.app.qq.com"
+  - "ads-api-o.api.leiniao.com"
+  - "ads-api-t.my7v.com"
+  - "ads-o.res.leiniao.com"
   - "ads-union.jd.com"
   - "ads-uo.api.leiniao.com"
   - "ads-ut.api.leiniao.com"
@@ -281,6 +284,7 @@ domain_suffix_set:
   - "inte.sogou.com"
   - "inte.sogoucdn.com"
   - "isdspeed.qq.com"
+  - "isms-o.api.my7v.com"
   - "iwanad.baidu.com"
   - "ja.gamersky.com"
   - "ja1.gamersky.com"

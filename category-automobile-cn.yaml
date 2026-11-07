@@ -1,7 +1,7 @@
 # NAME: category-automobile-cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN-SUFFIX: 39
-# TOTAL: 39
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN-SUFFIX: 51
+# TOTAL: 51
 domain_suffix_set:
   - "12365auto.com"
   - "1hai.cn"
@@ -13,6 +13,7 @@ domain_suffix_set:
   - "bitauto.com"
   - "bitautoimg.com"
   - "byd.com"
+  - "chery.cn"
   - "cheyisou.com"
   - "dcarapi.com"
   - "dcarimg.com"
@@ -22,6 +23,7 @@ domain_suffix_set:
   - "dcdapp.com"
   - "dongchedi.com"
   - "dongchediapp.com"
+  - "faw.cn"
   - "geely.com"
   - "guazi.com"
   - "guazi.net"
@@ -30,10 +32,20 @@ domain_suffix_set:
   - "gzurl.cn"
   - "izuche.com"
   - "izuchebao.com"
+  - "jac.com.cn"
+  - "jiakaobaodian.com"
+  - "kakamobi.com"
   - "lixiang.com"
+  - "lynkco-test.com"
+  - "lynkco.com"
+  - "lynkco.com.cn"
+  - "maiche.com"
+  - "mc-cdn.cn"
+  - "mucang.cn"
   - "nio.cn"
   - "nio.com"
   - "niohome.com"
+  - "seres.cn"
   - "wkzuche.com"
   - "xiaopeng.com"
   - "yccdn.com"

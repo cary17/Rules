@@ -1,13 +1,14 @@
 # NAME: category-bank-cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN-SUFFIX: 139
-# TOTAL: 139
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN-SUFFIX: 140
+# TOTAL: 140
 domain_suffix_set:
   - ".citic"
   - ".icbc"
   - ".xn--fiq64b"
   - "8008205555.cn"
   - "8008205555.com"
+  - "95508.com"
   - "95516.com"
   - "95516.net"
   - "95588.com"
