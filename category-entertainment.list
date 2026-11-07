@@ -1,8 +1,8 @@
 # NAME: category-entertainment
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN: 273
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN: 274
 # DOMAIN-SUFFIX: 1873
-# TOTAL: 2146
+# TOTAL: 2147
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,abematv.akamaized.net
@@ -191,6 +191,7 @@ DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,pubg1.battleye.com
 DOMAIN,pvr-hamivideo.cdn.hinet.net
 DOMAIN,q676790b.pmhcjk.com
+DOMAIN,radio.itunes.apple.com
 DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 DOMAIN,roblox-poc.global.ssl.fastly.net
 DOMAIN,robloxcorp.s.llnwi.net

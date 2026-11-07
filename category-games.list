@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-11-07 06:13:03 +08:00
+# UPDATED: 2026-11-08 04:59:51 +08:00
 # DOMAIN: 97
-# DOMAIN-SUFFIX: 1064
+# DOMAIN-SUFFIX: 1063
 # DOMAIN-WILDCARD: 1
-# TOTAL: 1162
+# TOTAL: 1161
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -475,7 +475,6 @@ DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
 DOMAIN-SUFFIX,ihykb.com
 DOMAIN-SUFFIX,img4399.com
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,industrialtoys.com
 DOMAIN-SUFFIX,infinityward.com
 DOMAIN-SUFFIX,insights-collector.gog.com

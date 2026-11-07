@@ -1,8 +1,8 @@
 # NAME: category-entertainment@cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN: 58
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN: 59
 # DOMAIN-SUFFIX: 40
-# TOTAL: 98
+# TOTAL: 99
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -48,6 +48,7 @@ DOMAIN,play.itunes.apple.com
 DOMAIN,play.music.apple.com
 DOMAIN,podcasts.apple.com
 DOMAIN,podcasts.itunes.apple.com
+DOMAIN,radio.itunes.apple.com
 DOMAIN,se-edge.itunes.apple.com
 DOMAIN,se2.itunes.apple.com
 DOMAIN,search.itunes.apple.com

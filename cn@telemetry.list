@@ -1,8 +1,8 @@
 # NAME: cn@telemetry
-# UPDATED: 2026-11-07 06:13:03 +08:00
+# UPDATED: 2026-11-08 04:59:51 +08:00
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 103
-# TOTAL: 114
+# DOMAIN-SUFFIX: 112
+# TOTAL: 123
 DOMAIN,apilog-web.acfun.cn
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,log3-applog-hl.fqnovel.com
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,alogus.umeng.com
 DOMAIN-SUFFIX,analytics.163.com
 DOMAIN-SUFFIX,applogcdn.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
+DOMAIN-SUFFIX,base.api.my7v.com
 DOMAIN-SUFFIX,beacon.cdn.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beacon.sina.com.cn
@@ -53,6 +54,12 @@ DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.xiaomi.com
+DOMAIN-SUFFIX,dc-conf-o.api.leiniao.com
+DOMAIN-SUFFIX,dc-conf-t.api.leiniao.com
+DOMAIN-SUFFIX,dc-o.api.leiniao.com
+DOMAIN-SUFFIX,dc-t.api.leiniao.com
+DOMAIN-SUFFIX,dc-uo.api.leiniao.com
+DOMAIN-SUFFIX,dc-ut.api.leiniao.com
 DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,e.stat.ykimg.com
 DOMAIN-SUFFIX,extlog.snssdk.com
@@ -85,6 +92,8 @@ DOMAIN-SUFFIX,p-log.ykimg.com
 DOMAIN-SUFFIX,passport-log.youku.com
 DOMAIN-SUFFIX,pimlog.baidu.com
 DOMAIN-SUFFIX,plbslog.umeng.com
+DOMAIN-SUFFIX,qms-report-o.api.leiniao.com
+DOMAIN-SUFFIX,qms-report-t.api.leiniao.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
 DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,retcode.taobao.com

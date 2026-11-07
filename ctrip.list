@@ -1,8 +1,8 @@
 # NAME: ctrip
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN-SUFFIX: 19
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN-SUFFIX: 21
 # DOMAIN-KEYWORD: 2
-# TOTAL: 21
+# TOTAL: 23
 DOMAIN-SUFFIX,colinker.com
 DOMAIN-SUFFIX,doticloud.com
 DOMAIN-SUFFIX,easytrip.com
@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,hhtravel.com
 DOMAIN-SUFFIX,hhtravel.com.tw
 DOMAIN-SUFFIX,izuchebao.com
 DOMAIN-SUFFIX,lvtds.com
+DOMAIN-SUFFIX,opsai.cn
+DOMAIN-SUFFIX,qunaer.com
 DOMAIN-SUFFIX,qunar.com
 DOMAIN-SUFFIX,qunarcdn.com
 DOMAIN-SUFFIX,qunarzz.com

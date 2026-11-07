@@ -1,5 +1,5 @@
 # NAME: category-entertainment-cn
-# UPDATED: 2026-11-07 06:13:03 +08:00
+# UPDATED: 2026-11-08 04:59:51 +08:00
 # DOMAIN: 23
 # DOMAIN-SUFFIX: 903
 # DOMAIN-WILDCARD: 1
@@ -495,7 +495,6 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,img-space.com
 DOMAIN-SUFFIX,img4399.com
 DOMAIN-SUFFIX,imgo.tv
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,inke.cn
 DOMAIN-SUFFIX,inkuai.com
 DOMAIN-SUFFIX,inkwai.com
@@ -916,6 +915,7 @@ DOMAIN-SUFFIX,yximg.cn
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yyeshop.cn
 DOMAIN-SUFFIX,yysls.cn
 DOMAIN-SUFFIX,yystatic.com
 DOMAIN-SUFFIX,yystv.cn
