@@ -3,18 +3,20 @@
   "rules": [
     {
       "domain_suffix": [
-        "ads-uo.api.leiniao.com",
-        "ads-ut.api.leiniao.com",
+        "ads-api-t.my7v.com",
         "ads.api.my7v.com",
-        "euads-o.api.leiniao.com",
+        "base.api.my7v.com",
         "hwads-t.api.my7v.com",
-        "leiniao.com",
+        "isms-o.api.my7v.com",
         "my7v.com",
         "tcl.com",
         "tcl.com.cn",
         "tclai.top",
         "tcltech.com",
         "testads.api.my7v.com"
+      ],
+      "domain_keyword": [
+        "leiniao"
       ]
     }
   ]
