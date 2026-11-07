@@ -1,8 +1,8 @@
 # NAME: category-companies
-# UPDATED: 2026-11-07 06:13:03 +08:00
-# DOMAIN: 612
+# UPDATED: 2026-11-08 04:59:51 +08:00
+# DOMAIN: 613
 # DOMAIN-SUFFIX: 7690
-# TOTAL: 8302
+# TOTAL: 8303
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -446,6 +446,7 @@ DOMAIN,qpx.googleflights.net
 DOMAIN,r0.mail.ru
 DOMAIN,r0.mradx.net
 DOMAIN,r1.mail.ru
+DOMAIN,radio.itunes.apple.com
 DOMAIN,recaptcha-cn.net
 DOMAIN,recaptcha.net
 DOMAIN,redirector.bdn.dev

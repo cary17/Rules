@@ -1,9 +1,9 @@
 # NAME: tencent
-# UPDATED: 2026-11-07 06:13:03 +08:00
+# UPDATED: 2026-11-08 04:59:51 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 445
+# DOMAIN-SUFFIX: 446
 # DOMAIN-KEYWORD: 12
-# TOTAL: 458
+# TOTAL: 459
 DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,97ting.com
@@ -172,7 +172,6 @@ DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
 DOMAIN-SUFFIX,imqq.com
 DOMAIN-SUFFIX,imweb.io
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,isd.com
 DOMAIN-SUFFIX,isdspeed.qq.com
 DOMAIN-SUFFIX,itopsdk.com
@@ -186,6 +185,7 @@ DOMAIN-SUFFIX,ktv.com
 DOMAIN-SUFFIX,kugoo.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,labycore.cn
+DOMAIN-SUFFIX,levelinfinite.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,ludosuperstar.cn
@@ -215,6 +215,7 @@ DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myelasticsearch.com
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
+DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,onexmail.com
 DOMAIN-SUFFIX,openapp.run
 DOMAIN-SUFFIX,openmidas.com
