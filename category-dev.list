@@ -1,8 +1,8 @@
 # NAME: category-dev
-# UPDATED: 2026-11-08 04:59:51 +08:00
-# DOMAIN: 87
+# UPDATED: 2026-11-09 05:21:20 +08:00
+# DOMAIN: 88
 # DOMAIN-SUFFIX: 597
-# TOTAL: 684
+# TOTAL: 685
 DOMAIN,amp.akamaized.net
 DOMAIN,android.googlesource.com
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -60,6 +60,7 @@ DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
 DOMAIN,p-events-delivery.akamaized.net
 DOMAIN,packages.microsoft.com
 DOMAIN,poshtestgallery.cloudapp.net
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,productionresultssa0.blob.core.windows.net
 DOMAIN,productionresultssa1.blob.core.windows.net
 DOMAIN,productionresultssa10.blob.core.windows.net

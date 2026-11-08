@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-11-08 04:59:51 +08:00
+# UPDATED: 2026-11-09 05:21:20 +08:00
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 923
-# TOTAL: 1147
+# DOMAIN-SUFFIX: 924
+# TOTAL: 1148
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,activate.activation-v2.kaspersky.com
@@ -704,6 +704,7 @@ DOMAIN-SUFFIX,okolo.app
 DOMAIN-SUFFIX,opennet.dev
 DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,ostin.com
+DOMAIN-SUFFIX,otzovik.com
 DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com

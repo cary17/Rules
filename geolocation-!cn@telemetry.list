@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn@telemetry
-# UPDATED: 2026-11-08 04:59:51 +08:00
-# DOMAIN: 46
+# UPDATED: 2026-11-09 05:21:20 +08:00
+# DOMAIN: 48
 # DOMAIN-SUFFIX: 41
-# TOTAL: 87
+# TOTAL: 89
 DOMAIN,analytics-stage.wildberries.ru
 DOMAIN,analytics.mobile.yandex.net
 DOMAIN,analytics.wildberries.ru
@@ -16,6 +16,7 @@ DOMAIN,disney.my.sentry.io
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
 DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,live.applicationinsights.azure.com
@@ -24,6 +25,7 @@ DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
+DOMAIN,o1158394.ingest.us.sentry.io
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,o4504926511693824.ingest.sentry.io
