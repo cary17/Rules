@@ -1,5 +1,5 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-11-08 04:59:51 +08:00
+# UPDATED: 2026-11-09 05:21:20 +08:00
 # DOMAIN: 606
 # DOMAIN-SUFFIX: 8895
 # DOMAIN-REGEX: 8
@@ -9508,11 +9508,11 @@ domain_suffix_set:
   - "zzzcaculator.top"
   - "zzzmap.com"
 domain_regex_set:
-  - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
-  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
-  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
-  - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
-  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
   - "^.+-mihayo\\.akamaized\\.net$"
-  - "^nis.+\\.10010\\.com$"
+  - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
+  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
   - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
+  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
+  - "^nis.+\\.10010\\.com$"

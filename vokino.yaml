@@ -1,7 +1,7 @@
 # NAME: vokino
-# UPDATED: 2026-11-08 04:59:51 +08:00
-# DOMAIN-SUFFIX: 24
-# TOTAL: 24
+# UPDATED: 2026-11-09 05:21:20 +08:00
+# DOMAIN-SUFFIX: 25
+# TOTAL: 25
 domain_suffix_set:
   - "85b6b2.ws"
   - "ashdi.vip"
@@ -20,6 +20,7 @@ domain_suffix_set:
   - "stream-balancer-allo-1.live"
   - "stream-balancer-allo-1.site"
   - "ukrtelcdn.net"
+  - "userplay.live"
   - "videobase.biz"
   - "vkvideo.cloud"
   - "voidboost.one"

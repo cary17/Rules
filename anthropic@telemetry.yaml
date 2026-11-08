@@ -1,0 +1,7 @@
+# NAME: anthropic@telemetry
+# UPDATED: 2026-11-09 05:21:20 +08:00
+# DOMAIN: 2
+# TOTAL: 2
+domain_set:
+  - "http-intake.logs.us5.datadoghq.com"
+  - "o1158394.ingest.us.sentry.io"

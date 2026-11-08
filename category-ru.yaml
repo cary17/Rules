@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-11-08 04:59:51 +08:00
+# UPDATED: 2026-11-09 05:21:20 +08:00
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 923
-# TOTAL: 1147
+# DOMAIN-SUFFIX: 924
+# TOTAL: 1148
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -706,6 +706,7 @@ domain_suffix_set:
   - "opennet.dev"
   - "oskelly.co"
   - "ostin.com"
+  - "otzovik.com"
   - "ozon.app"
   - "ozon.by"
   - "ozon.com"
