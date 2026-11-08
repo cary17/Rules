@@ -1,11 +1,12 @@
 # NAME: github-copilot
-# UPDATED: 2026-11-08 04:59:51 +08:00
-# DOMAIN: 5
+# UPDATED: 2026-11-09 05:21:20 +08:00
+# DOMAIN: 6
 # DOMAIN-SUFFIX: 1
-# TOTAL: 6
+# TOTAL: 7
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN-SUFFIX,githubcopilot.com
