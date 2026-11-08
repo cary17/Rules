@@ -2,6 +2,9 @@
   "version": 1,
   "rules": [
     {
+      "domain": [
+        "production-copilot-host-westus.webpubsub.azure.com"
+      ],
       "domain_suffix": [
         "atom.io",
         "dependabot.com",
