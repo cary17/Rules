@@ -1,9 +1,9 @@
 # NAME: category-speedtest
-# UPDATED: 2026-11-10 08:55:22 +08:00
+# UPDATED: 2026-11-11 06:29:45 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 325
+# DOMAIN-SUFFIX: 326
 # DOMAIN-REGEX: 1
-# TOTAL: 328
+# TOTAL: 329
 domain_set:
   - "hk-global-bgp.hkg.speedtest.yecaoyun.com"
   - "www.speedtest.net.cdn.cloudflare.net"
@@ -78,6 +78,7 @@ domain_suffix_set:
   - "measurement-lab.org"
   - "measurementlab.net"
   - "medidor-de-velocidad.movistar.com.ar"
+  - "megabitus.com"
   - "meter.net"
   - "metercustom.net"
   - "minhaconexao.com.br"

@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-11-10 08:55:22 +08:00
+# UPDATED: 2026-11-11 06:29:45 +08:00
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 924
-# TOTAL: 1148
+# DOMAIN-SUFFIX: 925
+# TOTAL: 1149
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -636,6 +636,7 @@ domain_suffix_set:
   - "medrocket.me"
   - "medsi.com"
   - "medsi.pro"
+  - "megabitus.com"
   - "megafon.com"
   - "megamarket.tech"
   - "mel.fm"

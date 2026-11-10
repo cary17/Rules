@@ -1,9 +1,9 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-11-10 08:55:22 +08:00
+# UPDATED: 2026-11-11 06:29:45 +08:00
 # DOMAIN: 606
-# DOMAIN-SUFFIX: 8895
+# DOMAIN-SUFFIX: 8896
 # DOMAIN-REGEX: 8
-# TOTAL: 9509
+# TOTAL: 9510
 domain_set:
   - "2mdn-cn.net"
   - "2mdn.net"
@@ -6360,6 +6360,7 @@ domain_suffix_set:
   - "nga.cn"
   - "ngabbs.com"
   - "ngacn.cc"
+  - "nia-teams.com"
   - "nic.xin"
   - "nicaifu.com"
   - "nicezhuanye.com"
@@ -9509,10 +9510,10 @@ domain_suffix_set:
   - "zzzmap.com"
 domain_regex_set:
   - "^.+-mihayo\\.akamaized\\.net$"
-  - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
-  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
-  - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
-  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
-  - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
-  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
   - "^nis.+\\.10010\\.com$"
+  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
+  - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
+  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
+  - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+  - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"

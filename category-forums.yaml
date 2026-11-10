@@ -1,8 +1,8 @@
 # NAME: category-forums
-# UPDATED: 2026-11-10 08:55:22 +08:00
+# UPDATED: 2026-11-11 06:29:45 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 109
-# TOTAL: 111
+# DOMAIN-SUFFIX: 112
+# TOTAL: 114
 domain_set:
   - "bbs.boingboing.net"
   - "www.quora.com.cdn.cloudflare.net"
@@ -84,6 +84,7 @@ domain_suffix_set:
   - "ptt2.cc"
   - "ptt3.cc"
   - "qr.ae"
+  - "questionablequesting.com"
   - "quora.com"
   - "quoracdn.net"
   - "redd.it"
@@ -110,6 +111,8 @@ domain_suffix_set:
   - "sis001.com"
   - "soyjak.party"
   - "soyjak.st"
+  - "spacebattles.com"
+  - "v2ex.co"
   - "v2ex.com"
   - "xda-cdn.com"
   - "xda-developers.com"

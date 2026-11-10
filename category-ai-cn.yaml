@@ -1,8 +1,8 @@
 # NAME: category-ai-cn
-# UPDATED: 2026-11-10 08:55:22 +08:00
+# UPDATED: 2026-11-11 06:29:45 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 126
-# TOTAL: 128
+# DOMAIN-SUFFIX: 127
+# TOTAL: 129
 domain_set:
   - "ai.zhaomi.cn"
   - "cueme-api.quark.cn"
@@ -87,6 +87,7 @@ domain_suffix_set:
   - "myparallelstory.com"
   - "n.cn"
   - "namiso.com"
+  - "nia-teams.com"
   - "obriccloud.com"
   - "obricclouddw.com"
   - "oceancloudapi.com"
