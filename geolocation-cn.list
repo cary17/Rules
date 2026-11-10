@@ -1,9 +1,9 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-11-10 08:55:22 +08:00
+# UPDATED: 2026-11-11 06:29:45 +08:00
 # DOMAIN: 606
-# DOMAIN-SUFFIX: 8895
+# DOMAIN-SUFFIX: 8896
 # DOMAIN-WILDCARD: 2
-# TOTAL: 9503
+# TOTAL: 9504
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -6358,6 +6358,7 @@ DOMAIN-SUFFIX,nfpeople.com
 DOMAIN-SUFFIX,nga.cn
 DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,ngacn.cc
+DOMAIN-SUFFIX,nia-teams.com
 DOMAIN-SUFFIX,nic.xin
 DOMAIN-SUFFIX,nicaifu.com
 DOMAIN-SUFFIX,nicezhuanye.com
