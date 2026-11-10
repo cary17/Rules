@@ -1,8 +1,8 @@
 # NAME: category-ai-cn
-# UPDATED: 2026-11-10 08:55:22 +08:00
+# UPDATED: 2026-11-11 06:29:45 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 126
-# TOTAL: 128
+# DOMAIN-SUFFIX: 127
+# TOTAL: 129
 DOMAIN,ai.zhaomi.cn
 DOMAIN,cueme-api.quark.cn
 DOMAIN-SUFFIX,ai-indeed.com
@@ -85,6 +85,7 @@ DOMAIN-SUFFIX,moonshot.cn
 DOMAIN-SUFFIX,myparallelstory.com
 DOMAIN-SUFFIX,n.cn
 DOMAIN-SUFFIX,namiso.com
+DOMAIN-SUFFIX,nia-teams.com
 DOMAIN-SUFFIX,obriccloud.com
 DOMAIN-SUFFIX,obricclouddw.com
 DOMAIN-SUFFIX,oceancloudapi.com

@@ -1,9 +1,9 @@
 # NAME: category-speedtest
-# UPDATED: 2026-11-10 08:55:22 +08:00
+# UPDATED: 2026-11-11 06:29:45 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 325
+# DOMAIN-SUFFIX: 326
 # DOMAIN-WILDCARD: 10
-# TOTAL: 337
+# TOTAL: 338
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
 DOMAIN-SUFFIX,afasttest.com
@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,liveinternetspeed.com
 DOMAIN-SUFFIX,measurement-lab.org
 DOMAIN-SUFFIX,measurementlab.net
 DOMAIN-SUFFIX,medidor-de-velocidad.movistar.com.ar
+DOMAIN-SUFFIX,megabitus.com
 DOMAIN-SUFFIX,meter.net
 DOMAIN-SUFFIX,metercustom.net
 DOMAIN-SUFFIX,minhaconexao.com.br

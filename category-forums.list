@@ -1,8 +1,8 @@
 # NAME: category-forums
-# UPDATED: 2026-11-10 08:55:22 +08:00
+# UPDATED: 2026-11-11 06:29:45 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 109
-# TOTAL: 111
+# DOMAIN-SUFFIX: 112
+# TOTAL: 114
 DOMAIN,bbs.boingboing.net
 DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,18p2p.com
@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,ptt2.cc
 DOMAIN-SUFFIX,ptt3.cc
 DOMAIN-SUFFIX,qr.ae
+DOMAIN-SUFFIX,questionablequesting.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,redd.it
@@ -108,6 +109,8 @@ DOMAIN-SUFFIX,safechat.com
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
+DOMAIN-SUFFIX,spacebattles.com
+DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,xda-cdn.com
 DOMAIN-SUFFIX,xda-developers.com
