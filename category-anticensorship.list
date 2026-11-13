@@ -1,8 +1,8 @@
 # NAME: category-anticensorship
-# UPDATED: 2026-11-13 06:58:16 +08:00
+# UPDATED: 2026-11-14 06:41:08 +08:00
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 120
-# TOTAL: 126
+# DOMAIN-SUFFIX: 121
+# TOTAL: 127
 DOMAIN,matsuridayo.github.io
 DOMAIN,metacubex.github.io
 DOMAIN,rabbit-hole-1.gitbook.io
@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,karing.app
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,log.rw
 DOMAIN-SUFFIX,lokinet.org
+DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,nsloon.com

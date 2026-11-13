@@ -1,7 +1,7 @@
 # NAME: greatfire
-# UPDATED: 2026-11-13 06:58:16 +08:00
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# UPDATED: 2026-11-14 06:41:08 +08:00
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freewechat.com
@@ -11,5 +11,6 @@ DOMAIN-SUFFIX,googlecensorship.org
 DOMAIN-SUFFIX,googleplaycensorship.com
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,greatfirevpn.com
+DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,wikiunblocked.org
