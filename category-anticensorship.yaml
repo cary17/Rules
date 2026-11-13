@@ -1,8 +1,8 @@
 # NAME: category-anticensorship
-# UPDATED: 2026-11-13 06:58:16 +08:00
+# UPDATED: 2026-11-14 06:41:08 +08:00
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 120
-# TOTAL: 126
+# DOMAIN-SUFFIX: 121
+# TOTAL: 127
 domain_set:
   - "matsuridayo.github.io"
   - "metacubex.github.io"
@@ -80,6 +80,7 @@ domain_suffix_set:
   - "lantern.io"
   - "log.rw"
   - "lokinet.org"
+  - "manyvoices.news"
   - "metacubex.one"
   - "nftstorage.link"
   - "nsloon.com"
