@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-11-13 06:58:16 +08:00
+# UPDATED: 2026-11-14 06:41:08 +08:00
 # DOMAIN: 248
-# DOMAIN-SUFFIX: 23694
-# TOTAL: 23942
+# DOMAIN-SUFFIX: 23695
+# TOTAL: 23943
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -13457,6 +13457,7 @@ DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,manytoon.com
 DOMAIN-SUFFIX,manyvids.com
+DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,maomi-shipin.com
 DOMAIN-SUFFIX,maomiav.one
 DOMAIN-SUFFIX,maomiav.top
