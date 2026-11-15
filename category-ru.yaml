@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-11-15 05:26:30 +08:00
+# UPDATED: 2026-11-16 05:50:17 +08:00
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 925
-# TOTAL: 1149
+# DOMAIN-SUFFIX: 926
+# TOTAL: 1150
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -978,6 +978,7 @@ domain_suffix_set:
   - "unirest.tech"
   - "userapi.com"
   - "usocial.pro"
+  - "vigo.tech"
   - "vimu.tv"
   - "viqeo.tv"
   - "viqeotv.com"
