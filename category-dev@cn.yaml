@@ -14,6 +14,7 @@ payload:
     - "DOMAIN,download.visualstudio.microsoft.com"
     - "DOMAIN,firebase-settings.crashlytics.com"
     - "DOMAIN,update.crashlytics.com"
+    - "DOMAIN,vscode.download.prss.microsoft.com"
     - "DOMAIN-SUFFIX,cdn.jetbrains.com"
     - "DOMAIN-SUFFIX,jetbrains.com.cn"
     - "DOMAIN-SUFFIX,microsoftreactor.cn"
