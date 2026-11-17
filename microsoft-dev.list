@@ -1,11 +1,10 @@
 # NAME: microsoft-dev
-# UPDATED: 2026-11-16 05:50:17 +08:00
-# DOMAIN: 9
+# UPDATED: 2026-11-17 10:41:04 +08:00
+# DOMAIN: 8
 # DOMAIN-SUFFIX: 34
-# DOMAIN-KEYWORD: 3
+# DOMAIN-KEYWORD: 4
 # TOTAL: 46
 DOMAIN,az764295.vo.msecnd.net
-DOMAIN,bingsettingssearch.trafficmanager.net
 DOMAIN,default.exp-tas.com
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,poshtestgallery.cloudapp.net
@@ -48,5 +47,6 @@ DOMAIN-SUFFIX,vfsforgit.org
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,trafficmanager
 DOMAIN-KEYWORD,visualstudio
 DOMAIN-KEYWORD,vscode

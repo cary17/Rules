@@ -1,8 +1,8 @@
 # NAME: category-bank-ru
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 353
-# TOTAL: 354
+# DOMAIN-SUFFIX: 355
+# TOTAL: 356
 DOMAIN,visor.sberbank.ru
 DOMAIN-SUFFIX,2w.ru
 DOMAIN-SUFFIX,4c.ru
@@ -351,6 +351,8 @@ DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--h1ao.site
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yoobusiness.ru
 DOMAIN-SUFFIX,yookassa.ru
 DOMAIN-SUFFIX,yoomoney.ru

@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 248
-# DOMAIN-SUFFIX: 23695
-# TOTAL: 23943
+# DOMAIN-SUFFIX: 23699
+# TOTAL: 23947
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -5955,6 +5955,7 @@ DOMAIN-SUFFIX,cybertrust.co.jp
 DOMAIN-SUFFIX,cybertrust.ne.jp
 DOMAIN-SUFFIX,cyberx.com
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cylink.pro
@@ -6105,6 +6106,7 @@ DOMAIN-SUFFIX,dealtree.org
 DOMAIN-SUFFIX,deasians.com
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,debugproject.com
 DOMAIN-SUFFIX,decentr.net
@@ -17954,6 +17956,7 @@ DOMAIN-SUFFIX,reiporno.com
 DOMAIN-SUFFIX,relap.mail.ru
 DOMAIN-SUFFIX,relateiq.com
 DOMAIN-SUFFIX,remirepo.net
+DOMAIN-SUFFIX,remna.dev
 DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,renchead.com
@@ -23433,6 +23436,7 @@ DOMAIN-SUFFIX,yavtube.com
 DOMAIN-SUFFIX,yaya.cyou
 DOMAIN-SUFFIX,yayadizhi.xyz
 DOMAIN-SUFFIX,yazhouse8.com
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yccdn.ru
 DOMAIN-SUFFIX,yclients.com
 DOMAIN-SUFFIX,ycombinator.com

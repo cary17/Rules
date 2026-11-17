@@ -1,8 +1,8 @@
 # NAME: category-finance
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 656
-# TOTAL: 659
+# DOMAIN-SUFFIX: 658
+# TOTAL: 661
 DOMAIN,standchartbank.sc.omtrdc.net
 DOMAIN,standchartbank.tt.omtrdc.net
 DOMAIN,visor.sberbank.ru
@@ -653,6 +653,8 @@ DOMAIN-SUFFIX,xn--h1ao.site
 DOMAIN-SUFFIX,yamagatabank.co.jp
 DOMAIN-SUFFIX,yamaguchibank.co.jp
 DOMAIN-SUFFIX,yamanashibank.co.jp
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yokohamabank.co.jp
 DOMAIN-SUFFIX,yomabank.com
 DOMAIN-SUFFIX,yoobusiness.ru
