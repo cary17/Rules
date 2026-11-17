@@ -4,7 +4,6 @@
     {
       "domain": [
         "az764295.vo.msecnd.net",
-        "bingsettingssearch.trafficmanager.net",
         "default.exp-tas.com",
         "dtlgalleryint.cloudapp.net",
         "poshtestgallery.cloudapp.net",
@@ -51,6 +50,7 @@
       ],
       "domain_keyword": [
         "microsoft",
+        "trafficmanager",
         "visualstudio",
         "vscode"
       ]
