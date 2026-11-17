@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 97
-# DOMAIN-SUFFIX: 1063
+# DOMAIN-SUFFIX: 1076
 # DOMAIN-WILDCARD: 1
-# TOTAL: 1161
+# TOTAL: 1174
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -178,6 +178,8 @@ DOMAIN-SUFFIX,apexlegends.com
 DOMAIN-SUFFIX,appeeres.com
 DOMAIN-SUFFIX,arcaea.cn
 DOMAIN-SUFFIX,arcraiders.com
+DOMAIN-SUFFIX,arknights.com
+DOMAIN-SUFFIX,arknights.com.cn
 DOMAIN-SUFFIX,arma3.com
 DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,artstation.com
@@ -282,6 +284,7 @@ DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,cy.com
 DOMAIN-SUFFIX,cyberpunk.net
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,daoc.net
 DOMAIN-SUFFIX,darkageofcamelot.com
@@ -456,6 +459,7 @@ DOMAIN-SUFFIX,heroesofdragonage.com
 DOMAIN-SUFFIX,heroesofthestorm.com
 DOMAIN-SUFFIX,heroesports.com
 DOMAIN-SUFFIX,herogame.com
+DOMAIN-SUFFIX,hgto.cc
 DOMAIN-SUFFIX,highmoonstudios.com
 DOMAIN-SUFFIX,historyofdota.com
 DOMAIN-SUFFIX,historyofdota.net
@@ -469,6 +473,12 @@ DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,humancoexperience.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,hutpromos.com
+DOMAIN-SUFFIX,hycdn.cn
+DOMAIN-SUFFIX,hycdn.com
+DOMAIN-SUFFIX,hypergryph.cn
+DOMAIN-SUFFIX,hypergryph.com
+DOMAIN-SUFFIX,hypergryph.com.cn
+DOMAIN-SUFFIX,hypergryph.net
 DOMAIN-SUFFIX,hyprsense.com
 DOMAIN-SUFFIX,i3839.com
 DOMAIN-SUFFIX,ihappystudio.cn
@@ -702,6 +712,7 @@ DOMAIN-SUFFIX,nintendoswitchtogether.com
 DOMAIN-SUFFIX,nintendowii.com
 DOMAIN-SUFFIX,noxygames.com
 DOMAIN-SUFFIX,nzsiteres.com
+DOMAIN-SUFFIX,octavedge.com
 DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
 DOMAIN-SUFFIX,op.gg
@@ -887,6 +898,8 @@ DOMAIN-SUFFIX,simcity.com
 DOMAIN-SUFFIX,skate2.com
 DOMAIN-SUFFIX,sketchfab.com
 DOMAIN-SUFFIX,skinswap.com
+DOMAIN-SUFFIX,skland.com
+DOMAIN-SUFFIX,skland.net
 DOMAIN-SUFFIX,skydweller.cn
 DOMAIN-SUFFIX,skylanders.com
 DOMAIN-SUFFIX,sl916.com
