@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 97
-# DOMAIN-SUFFIX: 1063
+# DOMAIN-SUFFIX: 1076
 # DOMAIN-REGEX: 4
-# TOTAL: 1164
+# TOTAL: 1177
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -180,6 +180,8 @@ domain_suffix_set:
   - "appeeres.com"
   - "arcaea.cn"
   - "arcraiders.com"
+  - "arknights.com"
+  - "arknights.com.cn"
   - "arma3.com"
   - "armaplatform.com"
   - "artstation.com"
@@ -284,6 +286,7 @@ domain_suffix_set:
   - "cy.com"
   - "cyberpunk.net"
   - "cygames.co.jp"
+  - "cygames.com"
   - "cygames.jp"
   - "daoc.net"
   - "darkageofcamelot.com"
@@ -458,6 +461,7 @@ domain_suffix_set:
   - "heroesofthestorm.com"
   - "heroesports.com"
   - "herogame.com"
+  - "hgto.cc"
   - "highmoonstudios.com"
   - "historyofdota.com"
   - "historyofdota.net"
@@ -471,6 +475,12 @@ domain_suffix_set:
   - "humancoexperience.com"
   - "humblebundle.com"
   - "hutpromos.com"
+  - "hycdn.cn"
+  - "hycdn.com"
+  - "hypergryph.cn"
+  - "hypergryph.com"
+  - "hypergryph.com.cn"
+  - "hypergryph.net"
   - "hyprsense.com"
   - "i3839.com"
   - "ihappystudio.cn"
@@ -704,6 +714,7 @@ domain_suffix_set:
   - "nintendowii.com"
   - "noxygames.com"
   - "nzsiteres.com"
+  - "octavedge.com"
   - "offworldindustries.com"
   - "offworldindustries.net"
   - "op.gg"
@@ -889,6 +900,8 @@ domain_suffix_set:
   - "skate2.com"
   - "sketchfab.com"
   - "skinswap.com"
+  - "skland.com"
+  - "skland.net"
   - "skydweller.cn"
   - "skylanders.com"
   - "sl916.com"

@@ -1,9 +1,10 @@
 # NAME: cygames
-# UPDATED: 2026-11-16 05:50:17 +08:00
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# UPDATED: 2026-11-17 10:41:04 +08:00
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
 domain_suffix_set:
   - "cygames.co.jp"
+  - "cygames.com"
   - "cygames.jp"
   - "umamusume.akamaized.net"
   - "worldflipper.akamaized.net"

@@ -1,8 +1,8 @@
 # NAME: itunes@cn
-# UPDATED: 2026-11-16 05:50:17 +08:00
-# DOMAIN: 46
+# UPDATED: 2026-11-17 10:41:04 +08:00
+# DOMAIN: 48
 # DOMAIN-SUFFIX: 5
-# TOTAL: 51
+# TOTAL: 53
 domain_set:
   - "amp-api-edge-lb-cn.itunes-apple.com.akadns.net"
   - "amp-api-edge-lb.itunes-apple.com.akadns.net"
@@ -28,8 +28,10 @@ domain_set:
   - "itunes.apple.com"
   - "itunesconnect.apple.com"
   - "misc-assets.itunes.apple.com"
+  - "musicstatus.itunes.apple.com"
   - "mvod.itunes.apple.com"
   - "myapp.itunes.apple.com"
+  - "mzstorekit.itunes.apple.com"
   - "np-edge.itunes.apple.com"
   - "osxapps.itunes.apple.com"
   - "osxapps.itunes.g.aaplimg.com"

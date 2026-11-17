@@ -1,9 +1,9 @@
 # NAME: category-games-cn
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 279
+# DOMAIN-SUFFIX: 291
 # DOMAIN-REGEX: 1
-# TOTAL: 282
+# TOTAL: 294
 domain_set:
   - "end-api.shallow.ink"
   - "end.shallow.ink"
@@ -62,6 +62,8 @@ domain_suffix_set:
   - "anticheatexpert.com"
   - "appeeres.com"
   - "arcaea.cn"
+  - "arknights.com"
+  - "arknights.com.cn"
   - "astral-vector.com"
   - "battlecare.net"
   - "bcfmglobal.com"
@@ -122,7 +124,14 @@ domain_suffix_set:
   - "hero.com"
   - "heroesports.com"
   - "herogame.com"
+  - "hgto.cc"
   - "hkgcloudcs.com"
+  - "hycdn.cn"
+  - "hycdn.com"
+  - "hypergryph.cn"
+  - "hypergryph.com"
+  - "hypergryph.com.cn"
+  - "hypergryph.net"
   - "i3839.com"
   - "ihappystudio.cn"
   - "ihappystudio.com"
@@ -177,6 +186,7 @@ domain_suffix_set:
   - "nikkigames.cn"
   - "nikkigames.com.cn"
   - "nzsiteres.com"
+  - "octavedge.com"
   - "papegames.cn"
   - "papegames.com"
   - "phira.cn"
@@ -207,6 +217,8 @@ domain_suffix_set:
   - "seasunwbl.com"
   - "shengqugames.com"
   - "shyxhy.com"
+  - "skland.com"
+  - "skland.net"
   - "skydweller.cn"
   - "sl916.com"
   - "supercellcommunity.cn"

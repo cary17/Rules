@@ -1,12 +1,11 @@
 # NAME: microsoft-dev
-# UPDATED: 2026-11-16 05:50:17 +08:00
-# DOMAIN: 9
+# UPDATED: 2026-11-17 10:41:04 +08:00
+# DOMAIN: 8
 # DOMAIN-SUFFIX: 34
-# DOMAIN-KEYWORD: 3
+# DOMAIN-KEYWORD: 4
 # TOTAL: 46
 domain_set:
   - "az764295.vo.msecnd.net"
-  - "bingsettingssearch.trafficmanager.net"
   - "default.exp-tas.com"
   - "dtlgalleryint.cloudapp.net"
   - "poshtestgallery.cloudapp.net"
@@ -51,5 +50,6 @@ domain_suffix_set:
   - "xamarin.com"
 domain_keyword_set:
   - "microsoft"
+  - "trafficmanager"
   - "visualstudio"
   - "vscode"

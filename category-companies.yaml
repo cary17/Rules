@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-11-16 05:50:17 +08:00
-# DOMAIN: 613
-# DOMAIN-SUFFIX: 7690
+# UPDATED: 2026-11-17 10:41:04 +08:00
+# DOMAIN: 616
+# DOMAIN-SUFFIX: 7692
 # DOMAIN-REGEX: 6
-# TOTAL: 8309
+# TOTAL: 8314
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -169,6 +169,7 @@ domain_set:
   - "configuration-lb.ls-apple.com.akadns.net"
   - "configuration.apple.com"
   - "configuration.apple.com.akadns.net"
+  - "configuration.ls.apple.com"
   - "connectivitycheck.gstatic.com"
   - "copilot-telemetry-service.githubusercontent.com"
   - "copilot-telemetry.githubusercontent.com"
@@ -379,11 +380,13 @@ domain_set:
   - "msproduct.download.prss.microsoft.com"
   - "mtalk.google.com"
   - "music.apple.com"
+  - "musicstatus.itunes.apple.com"
   - "musicstatus.music.apple.com"
   - "mvod.itunes.apple.com"
   - "mwf-service.akamaized.net"
   - "myapp.itunes.apple.com"
   - "myvs.download.prss.microsoft.com"
+  - "mzstorekit.itunes.apple.com"
   - "np-edge.itunes.apple.com"
   - "o.pki.goog"
   - "ocsp.apple.com"
@@ -2512,6 +2515,7 @@ domain_suffix_set:
   - "canva.com"
   - "canvastatus.com"
   - "capitalg.com"
+  - "captive.apple.com"
   - "carbon.com"
   - "careersatfb.com"
   - "carekit.org"
@@ -8090,6 +8094,7 @@ domain_suffix_set:
   - "yastat.net"
   - "yastatic-net.ru"
   - "yastatic.net"
+  - "yb-payment.ru"
   - "yccdn.ru"
   - "yclients.com"
   - "ydb.tech"

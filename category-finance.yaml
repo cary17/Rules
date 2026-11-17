@@ -1,8 +1,8 @@
 # NAME: category-finance
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 656
-# TOTAL: 659
+# DOMAIN-SUFFIX: 658
+# TOTAL: 661
 domain_set:
   - "standchartbank.sc.omtrdc.net"
   - "standchartbank.tt.omtrdc.net"
@@ -655,6 +655,8 @@ domain_suffix_set:
   - "yamagatabank.co.jp"
   - "yamaguchibank.co.jp"
   - "yamanashibank.co.jp"
+  - "yandex-bank.net"
+  - "yb-payment.ru"
   - "yokohamabank.co.jp"
   - "yomabank.com"
   - "yoobusiness.ru"

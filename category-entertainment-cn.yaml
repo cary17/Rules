@@ -1,9 +1,9 @@
 # NAME: category-entertainment-cn
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 23
-# DOMAIN-SUFFIX: 903
+# DOMAIN-SUFFIX: 915
 # DOMAIN-REGEX: 1
-# TOTAL: 927
+# TOTAL: 939
 domain_set:
   - "ads3-normal-hl.zijieapi.com"
   - "ads3-normal.zijieapi.com"
@@ -152,6 +152,8 @@ domain_suffix_set:
   - "apple.www.letv.com"
   - "arcaea.cn"
   - "ark.letv.com"
+  - "arknights.com"
+  - "arknights.com.cn"
   - "astral-vector.com"
   - "atianqi.com"
   - "atm.youku.com"
@@ -437,6 +439,7 @@ domain_suffix_set:
   - "hero.com"
   - "heroesports.com"
   - "herogame.com"
+  - "hgto.cc"
   - "hifuntv.com"
   - "hitv.com"
   - "hkgcloudcs.com"
@@ -466,7 +469,13 @@ domain_suffix_set:
   - "huoshanzhibo.com"
   - "huoshanzhibo.net"
   - "huya.com"
+  - "hycdn.cn"
+  - "hycdn.com"
   - "hypercachenode.com"
+  - "hypergryph.cn"
+  - "hypergryph.com"
+  - "hypergryph.com.cn"
+  - "hypergryph.net"
   - "hzdtv.tv"
   - "hzman.net"
   - "i3839.com"
@@ -674,6 +683,7 @@ domain_suffix_set:
   - "novelfmstatic.com"
   - "novelfmvod.com"
   - "nzsiteres.com"
+  - "octavedge.com"
   - "open-douyin.com"
   - "p-log.ykimg.com"
   - "papegames.cn"
@@ -764,6 +774,8 @@ domain_suffix_set:
   - "shuqistat.com"
   - "shyxhy.com"
   - "singworld.net"
+  - "skland.com"
+  - "skland.net"
   - "skydweller.cn"
   - "sl916.com"
   - "smgbb.cn"

@@ -1,9 +1,9 @@
 # NAME: yandex
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 49
+# DOMAIN-SUFFIX: 50
 # DOMAIN-KEYWORD: 2
-# TOTAL: 53
+# TOTAL: 54
 domain_set:
   - "kp-config-smart-tv.akamaized.net"
   - "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com"
@@ -54,6 +54,7 @@ domain_suffix_set:
   - "yastat.net"
   - "yastatic-net.ru"
   - "yastatic.net"
+  - "yb-payment.ru"
   - "yccdn.ru"
   - "ydb.tech"
   - "yndx.net"

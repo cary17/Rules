@@ -1,10 +1,11 @@
 # NAME: microsoft-dev@cn
-# UPDATED: 2026-11-16 05:50:17 +08:00
-# DOMAIN: 1
+# UPDATED: 2026-11-17 10:41:04 +08:00
+# DOMAIN: 2
 # DOMAIN-SUFFIX: 3
-# TOTAL: 4
+# TOTAL: 5
 domain_set:
   - "download.visualstudio.microsoft.com"
+  - "vscode.download.prss.microsoft.com"
 domain_suffix_set:
   - "microsoftreactor.cn"
   - "microsoftreactor.com.cn"

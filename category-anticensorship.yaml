@@ -1,8 +1,8 @@
 # NAME: category-anticensorship
-# UPDATED: 2026-11-16 05:50:17 +08:00
+# UPDATED: 2026-11-17 10:41:04 +08:00
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 121
-# TOTAL: 127
+# DOMAIN-SUFFIX: 122
+# TOTAL: 128
 domain_set:
   - "matsuridayo.github.io"
   - "metacubex.github.io"
@@ -98,6 +98,7 @@ domain_suffix_set:
   - "psiphon.ca"
   - "psiphon3.com"
   - "pwnedpasswords.com"
+  - "remna.dev"
   - "remna.st"
   - "sagernet.org"
   - "shadowlaunch.com"

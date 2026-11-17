@@ -1,8 +1,8 @@
 # NAME: apple@cn
-# UPDATED: 2026-11-16 05:50:17 +08:00
-# DOMAIN: 237
-# DOMAIN-SUFFIX: 61
-# TOTAL: 298
+# UPDATED: 2026-11-17 10:41:04 +08:00
+# DOMAIN: 240
+# DOMAIN-SUFFIX: 62
+# TOTAL: 302
 domain_set:
   - "a1.mzstatic.com"
   - "a2.mzstatic.com"
@@ -70,6 +70,7 @@ domain_set:
   - "communities.apple.com"
   - "configuration.apple.com"
   - "configuration.apple.com.akadns.net"
+  - "configuration.ls.apple.com"
   - "crl-lb.apple.com.akadns.net"
   - "crl.apple.com"
   - "cstat.apple.com"
@@ -153,9 +154,11 @@ domain_set:
   - "misc-assets.itunes.apple.com"
   - "ml.cdn-apple.com"
   - "music.apple.com"
+  - "musicstatus.itunes.apple.com"
   - "musicstatus.music.apple.com"
   - "mvod.itunes.apple.com"
   - "myapp.itunes.apple.com"
+  - "mzstorekit.itunes.apple.com"
   - "np-edge.itunes.apple.com"
   - "ocsp.apple.com"
   - "ocsp2.apple.com"
@@ -277,6 +280,7 @@ domain_suffix_set:
   - "beatsbydre.com"
   - "beatsbydre.com.cn"
   - "beatsep.cn"
+  - "captive.apple.com"
   - "ecgapp.com.cn"
   - "faceshift.cn"
   - "homepod.cn"
