@@ -25,7 +25,6 @@ payload:
     - "DOMAIN-SUFFIX,mitvos.com"
     - "DOMAIN-SUFFIX,miui.com"
     - "DOMAIN-SUFFIX,miwifi.com"
-    - "DOMAIN-SUFFIX,saxyit.com"
     - "DOMAIN-SUFFIX,sentry.d.mi.com"
     - "DOMAIN-SUFFIX,tjqonline.cn"
     - "DOMAIN-SUFFIX,tracking.miui.com"
