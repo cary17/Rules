@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-11-19 07:38:35 +08:00
+# UPDATED: 2026-11-20 07:46:51 +08:00
 # DOMAIN: 616
-# DOMAIN-SUFFIX: 7692
+# DOMAIN-SUFFIX: 7691
 # DOMAIN-REGEX: 6
-# TOTAL: 8314
+# TOTAL: 8313
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -8076,7 +8076,6 @@ domain_suffix_set:
   - "yandexlyceum.ru"
   - "yandexmetrica.com"
   - "yandexwebcache.net"
-  - "yandexwebcache.org"
   - "yango-ads.com"
   - "yango-b2b.com"
   - "yango-team.com"

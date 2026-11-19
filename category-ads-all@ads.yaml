@@ -1,9 +1,9 @@
 # NAME: category-ads-all@ads
-# UPDATED: 2026-11-19 07:38:35 +08:00
+# UPDATED: 2026-11-20 07:46:51 +08:00
 # DOMAIN: 158
-# DOMAIN-SUFFIX: 621
+# DOMAIN-SUFFIX: 622
 # DOMAIN-REGEX: 1
-# TOTAL: 780
+# TOTAL: 781
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -722,6 +722,7 @@ domain_suffix_set:
   - "tce.alicdn.com"
   - "tcss.qq.com"
   - "tdsdk.cpatrk.net"
+  - "tencentads.com"
   - "testads.api.my7v.com"
   - "theta.sogoucdn.com"
   - "tjqonline.cn"

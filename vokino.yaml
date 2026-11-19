@@ -1,10 +1,11 @@
 # NAME: vokino
-# UPDATED: 2026-11-19 07:38:35 +08:00
-# DOMAIN-SUFFIX: 25
-# TOTAL: 25
+# UPDATED: 2026-11-20 07:46:51 +08:00
+# DOMAIN-SUFFIX: 27
+# TOTAL: 27
 domain_suffix_set:
   - "85b6b2.ws"
   - "ashdi.vip"
+  - "bottod.pro"
   - "cdn2cdn.com"
   - "cdn2site.com"
   - "cdnsqu.com"
@@ -24,6 +25,7 @@ domain_suffix_set:
   - "videobase.biz"
   - "vkvideo.cloud"
   - "voidboost.one"
+  - "vokino.co"
   - "vokino.org"
   - "vokino.pro"
   - "vokino.tv"

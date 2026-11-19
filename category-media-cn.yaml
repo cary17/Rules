@@ -1,8 +1,8 @@
 # NAME: category-media-cn
-# UPDATED: 2026-11-19 07:38:35 +08:00
+# UPDATED: 2026-11-20 07:46:51 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 458
-# TOTAL: 459
+# DOMAIN-SUFFIX: 460
+# TOTAL: 461
 domain_set:
   - "ctdsb.clouddiffuse.xyz"
 domain_suffix_set:
@@ -11,6 +11,8 @@ domain_suffix_set:
   - "10jqka.com.cn"
   - "17173.com"
   - "17173cdn.com"
+  - "1y.com"
+  - "1ycdn.com"
   - "21jingji.com"
   - "36dianping.com"
   - "36kr.com"

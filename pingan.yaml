@@ -1,9 +1,24 @@
 # NAME: pingan
-# UPDATED: 2026-11-19 07:38:35 +08:00
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-11-20 07:46:51 +08:00
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
 domain_suffix_set:
+  - "172.com"
+  - "1qianbao.com"
+  - "4008000000.com"
+  - "lu.com"
+  - "lufax.com"
+  - "lufaxcdn.com"
+  - "lujincaifu.com"
+  - "mingyuanfund.com"
+  - "pacfc.com"
+  - "pafoundation.org.cn"
+  - "ph.com.cn"
+  - "pingan.cn"
   - "pingan.com"
   - "pingan.com.cn"
   - "pingan.com.hk"
+  - "yiqianbao.com"
   - "yqb.com"
+  - "yqbimg.net"
+  - "yqbmall.com"

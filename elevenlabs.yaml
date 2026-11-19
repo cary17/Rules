@@ -1,7 +1,8 @@
 # NAME: elevenlabs
-# UPDATED: 2026-11-19 07:38:35 +08:00
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-11-20 07:46:51 +08:00
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
 domain_suffix_set:
   - "elevenlabs.com"
   - "elevenlabs.io"
+  - "elevenlabsusercontent.com"

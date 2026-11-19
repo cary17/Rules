@@ -1,12 +1,14 @@
 # NAME: sohu
-# UPDATED: 2026-11-19 07:38:35 +08:00
-# DOMAIN-SUFFIX: 27
+# UPDATED: 2026-11-20 07:46:51 +08:00
+# DOMAIN-SUFFIX: 29
 # DOMAIN-KEYWORD: 1
-# TOTAL: 28
+# TOTAL: 30
 domain_suffix_set:
   - ".sohu"
   - "17173.com"
   - "17173cdn.com"
+  - "1y.com"
+  - "1ycdn.com"
   - "56.com"
   - "56img.com"
   - "adnet.sohu.com"

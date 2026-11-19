@@ -1,7 +1,7 @@
 # NAME: tencent@ads
-# UPDATED: 2026-11-19 07:38:35 +08:00
-# DOMAIN-SUFFIX: 72
-# TOTAL: 72
+# UPDATED: 2026-11-20 07:46:51 +08:00
+# DOMAIN-SUFFIX: 73
+# TOTAL: 73
 domain_suffix_set:
   - "ad.browser.qq.com"
   - "ad.qq.com"
@@ -66,6 +66,7 @@ domain_suffix_set:
   - "stat.y.qq.com"
   - "tajs.qq.com"
   - "tcss.qq.com"
+  - "tencentads.com"
   - "theta.sogoucdn.com"
   - "tmead.y.qq.com"
   - "tmeadcomm.y.qq.com"
