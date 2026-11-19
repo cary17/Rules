@@ -1,7 +1,13 @@
 # NAME: baishancloud
-# UPDATED: 2026-11-19 07:38:35 +08:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2026-11-20 07:46:51 +08:00
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+DOMAIN-SUFFIX,baishan.com
+DOMAIN-SUFFIX,baishancdnx.cn
+DOMAIN-SUFFIX,baishancloud.com
 DOMAIN-SUFFIX,bsclink.cn
 DOMAIN-SUFFIX,qingcdn.com
+DOMAIN-SUFFIX,saxyit.com
+DOMAIN-SUFFIX,trpcdn.com
 DOMAIN-SUFFIX,trpcdn.net
+DOMAIN-SUFFIX,yundun.com

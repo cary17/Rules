@@ -1,8 +1,8 @@
 # NAME: xiaomi
-# UPDATED: 2026-11-19 07:38:35 +08:00
-# DOMAIN-SUFFIX: 35
+# UPDATED: 2026-11-20 07:46:51 +08:00
+# DOMAIN-SUFFIX: 34
 # DOMAIN-KEYWORD: 1
-# TOTAL: 36
+# TOTAL: 35
 DOMAIN-SUFFIX,ad.mi.com
 DOMAIN-SUFFIX,adv.sec.intl.miui.com
 DOMAIN-SUFFIX,adv.sec.miui.com
@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,misc.in.duokanbox.com
 DOMAIN-SUFFIX,mitvos.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
-DOMAIN-SUFFIX,saxyit.com
 DOMAIN-SUFFIX,sentry.d.mi.com
 DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,tracking.miui.com
