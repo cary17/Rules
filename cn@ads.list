@@ -1,8 +1,8 @@
 # NAME: cn@ads
-# UPDATED: 2026-11-19 07:38:35 +08:00
+# UPDATED: 2026-11-20 07:46:51 +08:00
 # DOMAIN: 18
-# DOMAIN-SUFFIX: 438
-# TOTAL: 456
+# DOMAIN-SUFFIX: 439
+# TOTAL: 457
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
@@ -413,6 +413,7 @@ DOMAIN-SUFFIX,tcbox.baidu.com
 DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,tcss.qq.com
 DOMAIN-SUFFIX,tdsdk.cpatrk.net
+DOMAIN-SUFFIX,tencentads.com
 DOMAIN-SUFFIX,testads.api.my7v.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,tjqonline.cn
