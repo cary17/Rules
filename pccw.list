@@ -1,6 +1,8 @@
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN-WILDCARD,*.hkt
+DOMAIN-WILDCARD,*.pccw
 DOMAIN-SUFFIX,1010.com.hk
 DOMAIN-SUFFIX,esmarthealth.com
 DOMAIN-SUFFIX,hkcsl.com
