@@ -1,8 +1,8 @@
 # NAME: category-dev
-# UPDATED: 2026-11-23 06:41:13 +08:00
+# UPDATED: 2026-11-24 11:26:13 +08:00
 # DOMAIN: 92
-# DOMAIN-SUFFIX: 599
-# TOTAL: 691
+# DOMAIN-SUFFIX: 601
+# TOTAL: 693
 DOMAIN,amp.akamaized.net
 DOMAIN,android.googlesource.com
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -536,6 +536,7 @@ DOMAIN-SUFFIX,redislabs.com
 DOMAIN-SUFFIX,regex101.com
 DOMAIN-SUFFIX,remirepo.net
 DOMAIN-SUFFIX,renderingtoolkit.org
+DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,researchandcare.org
 DOMAIN-SUFFIX,researchkit.cn
@@ -622,6 +623,7 @@ DOMAIN-SUFFIX,timelinestoryteller.com
 DOMAIN-SUFFIX,timestamp.apple.com
 DOMAIN-SUFFIX,tmimgcdn.com
 DOMAIN-SUFFIX,topcoder.com
+DOMAIN-SUFFIX,tortoisegit.org
 DOMAIN-SUFFIX,ubuntu-touch.io
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,ubuntu.net
