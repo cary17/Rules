@@ -1,9 +1,8 @@
 # NAME: cnbc
-# UPDATED: 2026-11-23 06:41:13 +08:00
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2026-11-24 11:26:13 +08:00
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
 domain_suffix_set:
   - "cnbc.com"
+  - "cnbccouncils.com"
   - "cnbcfm.com"
-  - "nbcudigitaladops.com"
-  - "nbcuni.com"

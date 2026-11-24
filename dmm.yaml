@@ -1,8 +1,8 @@
 # NAME: dmm
-# UPDATED: 2026-11-23 06:41:13 +08:00
+# UPDATED: 2026-11-24 11:26:13 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 16
-# TOTAL: 17
+# DOMAIN-SUFFIX: 17
+# TOTAL: 18
 domain_set:
   - "api-p.videomarket.jp"
 domain_suffix_set:
@@ -13,6 +13,7 @@ domain_suffix_set:
   - "dmm.com"
   - "dmmapis.com"
   - "dmmrex.com"
+  - "fanza.jp"
   - "fout.jp"
   - "gmossp-sp.jp"
   - "i-mobile.co.jp"

@@ -1,22 +1,38 @@
 # NAME: nbcuniversal
-# UPDATED: 2026-11-23 06:41:13 +08:00
-# DOMAIN-SUFFIX: 17
-# TOTAL: 17
+# UPDATED: 2026-11-24 11:26:13 +08:00
+# DOMAIN-SUFFIX: 33
+# TOTAL: 33
 domain_suffix_set:
-  - "cnbc.com"
-  - "cnbcfm.com"
+  - "bravotv.com"
   - "dreamworks.com"
-  - "msnbc.com"
+  - "focusfeatures.com"
+  - "hayu.com"
+  - "illumination.com"
   - "nbc.co"
   - "nbc.com"
   - "nbcnews.com"
   - "nbcolympics.com"
   - "nbcsports.com"
+  - "nbcudigitaladops.com"
+  - "nbcumv.com"
   - "nbcuni.com"
+  - "nbcunicareers.com"
   - "nbcuniversal.com"
+  - "nbcuniversalprivacy.com"
   - "peacocktv.com"
   - "s-nbcnews.com"
+  - "telemundo.com"
+  - "udxfpp.com"
+  - "universalbeijingresort.com"
+  - "universalhorrorunleashed.com"
+  - "universalkidsresort.com"
   - "universalorlando.com"
+  - "universalpictures.co.uk"
   - "universalpictures.com"
+  - "universalpicturesathome.com"
   - "universalpicturesinternational.com"
+  - "universalproductsexperiences.com"
   - "universalstudioshollywood.com"
+  - "universalukproject.co.uk"
+  - "uphe.com"
+  - "usj.co.jp"

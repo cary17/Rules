@@ -1,9 +1,9 @@
 # NAME: category-dev
-# UPDATED: 2026-11-23 06:41:13 +08:00
+# UPDATED: 2026-11-24 11:26:13 +08:00
 # DOMAIN: 92
-# DOMAIN-SUFFIX: 599
+# DOMAIN-SUFFIX: 601
 # DOMAIN-REGEX: 1
-# TOTAL: 692
+# TOTAL: 694
 domain_set:
   - "amp.akamaized.net"
   - "android.googlesource.com"
@@ -539,6 +539,7 @@ domain_suffix_set:
   - "regex101.com"
   - "remirepo.net"
   - "renderingtoolkit.org"
+  - "replit.com"
   - "repo.new"
   - "researchandcare.org"
   - "researchkit.cn"
@@ -625,6 +626,7 @@ domain_suffix_set:
   - "timestamp.apple.com"
   - "tmimgcdn.com"
   - "topcoder.com"
+  - "tortoisegit.org"
   - "ubuntu-touch.io"
   - "ubuntu.com"
   - "ubuntu.net"

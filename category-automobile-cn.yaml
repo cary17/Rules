@@ -1,7 +1,7 @@
 # NAME: category-automobile-cn
-# UPDATED: 2026-11-23 06:41:13 +08:00
-# DOMAIN-SUFFIX: 51
-# TOTAL: 51
+# UPDATED: 2026-11-24 11:26:13 +08:00
+# DOMAIN-SUFFIX: 52
+# TOTAL: 52
 domain_suffix_set:
   - "12365auto.com"
   - "1hai.cn"
@@ -23,6 +23,7 @@ domain_suffix_set:
   - "dcdapp.com"
   - "dongchedi.com"
   - "dongchediapp.com"
+  - "faw-vw.com"
   - "faw.cn"
   - "geely.com"
   - "guazi.com"

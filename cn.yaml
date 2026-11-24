@@ -1,9 +1,9 @@
 # NAME: cn
-# UPDATED: 2026-11-23 06:41:13 +08:00
+# UPDATED: 2026-11-24 11:26:13 +08:00
 # DOMAIN: 609
-# DOMAIN-SUFFIX: 8938
+# DOMAIN-SUFFIX: 8943
 # DOMAIN-REGEX: 8
-# TOTAL: 9555
+# TOTAL: 9560
 domain_set:
   - "2mdn-cn.net"
   - "2mdn.net"
@@ -3583,6 +3583,7 @@ domain_suffix_set:
   - "eceshi.com"
   - "ecgapp.com.cn"
   - "echargenet.com"
+  - "echooai.com"
   - "ecitic.com"
   - "ecjobhome.com"
   - "eckwai.com"
@@ -3733,8 +3734,10 @@ domain_suffix_set:
   - "favonis.cloud"
   - "favonis.com"
   - "favonis.space"
+  - "faw-vw.com"
   - "faw.cn"
   - "faxingbao.com"
+  - "fazhipro.com"
   - "fbank.com"
   - "fbstatic.cn"
   - "fcapp.run"
@@ -4727,6 +4730,7 @@ domain_suffix_set:
   - "icbcstandardbank.com"
   - "icbcstandardresources.com"
   - "icbcstandardsecurities.com"
+  - "icc.link"
   - "iccvlog.com"
   - "iceo.com.cn"
   - "ichangtou.com"
@@ -7128,6 +7132,7 @@ domain_suffix_set:
   - "s.union.360.cn"
   - "s0n.cn"
   - "sa.sina.cn"
+  - "saasfz.com"
   - "saasops.tech"
   - "saayaa.com"
   - "saduck.top"
@@ -9554,11 +9559,11 @@ domain_suffix_set:
   - "zzzcaculator.top"
   - "zzzmap.com"
 domain_regex_set:
-  - "^.+-mihayo\\.akamaized\\.net$"
-  - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
   - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
+  - "^.+-mihayo\\.akamaized\\.net$"
   - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
-  - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
   - "^nis.+\\.10010\\.com$"
   - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
-  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
+  - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
