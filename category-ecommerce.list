@@ -1,8 +1,8 @@
 # NAME: category-ecommerce
-# UPDATED: 2026-11-23 06:41:13 +08:00
+# UPDATED: 2026-11-24 11:26:13 +08:00
 # DOMAIN: 38
-# DOMAIN-SUFFIX: 1290
-# TOTAL: 1328
+# DOMAIN-SUFFIX: 1291
+# TOTAL: 1329
 DOMAIN,ad.ozone.ru
 DOMAIN,ads-gate.wildberries.ru
 DOMAIN,ads-media.wildberries.ru
@@ -577,6 +577,7 @@ DOMAIN-SUFFIX,eu-consumer-empowerment.com
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,expertmaker.com
 DOMAIN-SUFFIX,fairmarket.com
+DOMAIN-SUFFIX,fanza.jp
 DOMAIN-SUFFIX,farfetch-apps.com
 DOMAIN-SUFFIX,farfetch-contents.com
 DOMAIN-SUFFIX,farfetch.cn
