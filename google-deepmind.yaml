@@ -3,5 +3,6 @@ payload:
     - "DOMAIN-SUFFIX,antigravity-unleash.goog"
     - "DOMAIN-SUFFIX,deepmind.com"
     - "DOMAIN-SUFFIX,gemini.gstatic.com"
+    - "DOMAIN-SUFFIX,gemma.ai"
     - "DOMAIN-KEYWORD,clients"
     - "DOMAIN-KEYWORD,google"
