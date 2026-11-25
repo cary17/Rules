@@ -2,6 +2,9 @@
   "version": 1,
   "rules": [
     {
+      "domain_suffix": [
+        "vivox.com"
+      ],
       "domain_keyword": [
         "unity"
       ]
