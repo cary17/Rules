@@ -1,9 +1,9 @@
 # NAME: category-dev
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 92
-# DOMAIN-SUFFIX: 601
+# DOMAIN-SUFFIX: 604
 # DOMAIN-REGEX: 1
-# TOTAL: 694
+# TOTAL: 697
 domain_set:
   - "amp.akamaized.net"
   - "android.googlesource.com"
@@ -152,6 +152,7 @@ domain_suffix_set:
   - "bugsnag.com"
   - "builtwithnix.org"
   - "busybox.net"
+  - "cachix.org"
   - "cafe.github.com"
   - "calendarserver.org"
   - "canonical.com"
@@ -188,6 +189,7 @@ domain_suffix_set:
   - "dartlang.org"
   - "dartpad.dev"
   - "datalore.io"
+  - "debian.map.fastlydns.net"
   - "debian.org"
   - "deno.com"
   - "deno.land"
@@ -654,6 +656,7 @@ domain_suffix_set:
   - "visualstudio.com"
   - "visualstudio.eu"
   - "visualstudio.net"
+  - "vivox.com"
   - "vsassets.io"
   - "vscode-cdn.net"
   - "vscode-unpkg.net"

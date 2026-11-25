@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 616
-# DOMAIN-SUFFIX: 7563
+# DOMAIN-SUFFIX: 7564
 # DOMAIN-REGEX: 6
-# TOTAL: 8185
+# TOTAL: 8186
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -3847,6 +3847,7 @@ domain_suffix_set:
   - "geforce.com.tw"
   - "gemfire.net"
   - "gemini.yahoo.com"
+  - "gemma.ai"
   - "genetic-technologies.am"
   - "geneticconstructor.com"
   - "genotek.am"

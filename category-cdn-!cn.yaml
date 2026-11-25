@@ -1,7 +1,7 @@
 # NAME: category-cdn-!cn
-# UPDATED: 2026-11-24 11:26:13 +08:00
-# DOMAIN-SUFFIX: 165
-# TOTAL: 165
+# UPDATED: 2026-11-25 09:35:21 +08:00
+# DOMAIN-SUFFIX: 167
+# TOTAL: 167
 domain_suffix_set:
   - "ak1.net"
   - "aka-ai.com"
@@ -123,10 +123,12 @@ domain_suffix_set:
   - "esm.sh"
   - "every1dns.net"
   - "fastly-edge.com"
+  - "fastly-insights.com"
   - "fastly-terrarium.com"
   - "fastly.com"
   - "fastly.io"
   - "fastly.net"
+  - "fastlydns.net"
   - "fastlylabs.com"
   - "fastlylb.net"
   - "foundationdns.com"

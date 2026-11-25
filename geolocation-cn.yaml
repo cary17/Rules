@@ -1,9 +1,9 @@
 # NAME: geolocation-cn
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 609
-# DOMAIN-SUFFIX: 8942
+# DOMAIN-SUFFIX: 8946
 # DOMAIN-REGEX: 8
-# TOTAL: 9559
+# TOTAL: 9563
 domain_set:
   - "2mdn-cn.net"
   - "2mdn.net"
@@ -2645,6 +2645,7 @@ domain_suffix_set:
   - "chugou360.com"
   - "chuimg.com"
   - "chujingapp.com"
+  - "chunithm.wahlap.com"
   - "chunyu.mobi"
   - "chunyuyisheng.com"
   - "chushi.cool"
@@ -5906,6 +5907,7 @@ domain_suffix_set:
   - "maiche.com"
   - "mail4399.com"
   - "maimai.cn"
+  - "maimai.wahlap.com"
   - "maimemo.com"
   - "maimemostatus.com"
   - "maindown4399.com"
@@ -7859,6 +7861,7 @@ domain_suffix_set:
   - "tfzq.com"
   - "tgbus.com"
   - "tggfl.com"
+  - "tgk-wcaime.wahlap.com"
   - "tgovcloud.com"
   - "tgpro.top"
   - "tgprocs.net"
@@ -8530,6 +8533,7 @@ domain_suffix_set:
   - "vzuu.com"
   - "w.cnzz.com"
   - "wahaha.com.cn"
+  - "wahlap.net"
   - "waifushangcheng.com"
   - "wali.com"
   - "wallstcn.com"
@@ -9558,11 +9562,11 @@ domain_suffix_set:
   - "zzzcaculator.top"
   - "zzzmap.com"
 domain_regex_set:
-  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
-  - "^.+-mihayo\\.akamaized\\.net$"
   - ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
-  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
-  - "^nis.+\\.10010\\.com$"
-  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
+  - "^.+-mihayo\\.akamaized\\.net$"
   - ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$"
+  - "^nis.+\\.10010\\.com$"
+  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
+  - "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$"
+  - "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
   - "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"

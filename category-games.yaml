@@ -1,9 +1,9 @@
 # NAME: category-games
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 97
-# DOMAIN-SUFFIX: 1078
+# DOMAIN-SUFFIX: 1082
 # DOMAIN-REGEX: 4
-# TOTAL: 1179
+# TOTAL: 1183
 domain_set:
   - "a.ppy.sh"
   - "a4e8s8k3.map2.ssl.hwcdn.net"
@@ -263,6 +263,7 @@ domain_suffix_set:
   - "championshipseriesleague.com"
   - "changyou.com"
   - "chillingo.com"
+  - "chunithm.wahlap.com"
   - "chunkbase.com"
   - "clash.com"
   - "clashmini.com"
@@ -578,6 +579,7 @@ domain_suffix_set:
   - "mahjongcup.com"
   - "mahjongcup.net"
   - "mail4399.com"
+  - "maimai.wahlap.com"
   - "maindown4399.com"
   - "makearmanotwar.com"
   - "marioandluigidreamteam.com"
@@ -1008,6 +1010,7 @@ domain_suffix_set:
   - "texasholdemcup.cn"
   - "texasholdemcup.com"
   - "texasholdemcup.net"
+  - "tgk-wcaime.wahlap.com"
   - "tgpro.top"
   - "tgprocs.net"
   - "thedreadwolfrises.com"
@@ -1063,6 +1066,7 @@ domain_suffix_set:
   - "vrzwk.com"
   - "vrzwk.net"
   - "vrzwk.top"
+  - "wahlap.net"
   - "wanmei.com"
   - "wanwan4399.com"
   - "wargaming.com"

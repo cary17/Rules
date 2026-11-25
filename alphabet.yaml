@@ -1,9 +1,9 @@
 # NAME: alphabet
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 99
-# DOMAIN-SUFFIX: 849
+# DOMAIN-SUFFIX: 850
 # DOMAIN-REGEX: 2
-# TOTAL: 950
+# TOTAL: 951
 domain_set:
   - "alt1-mtalk.google.com"
   - "alt2-mtalk.google.com"
@@ -325,6 +325,7 @@ domain_suffix_set:
   - "g.page"
   - "gateway.dev"
   - "gcr.io"
+  - "gemma.ai"
   - "gerritcodereview.com"
   - "get.app"
   - "get.dev"

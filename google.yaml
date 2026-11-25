@@ -1,10 +1,10 @@
 # NAME: google
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 48
-# DOMAIN-SUFFIX: 328
+# DOMAIN-SUFFIX: 329
 # DOMAIN-KEYWORD: 10
 # DOMAIN-REGEX: 2
-# TOTAL: 388
+# TOTAL: 389
 domain_set:
   - "apps5.oingo.com"
   - "beacons.gcp.gvt2.com"
@@ -189,6 +189,7 @@ domain_suffix_set:
   - "g.page"
   - "gateway.dev"
   - "gcr.io"
+  - "gemma.ai"
   - "gerritcodereview.com"
   - "get.app"
   - "get.dev"

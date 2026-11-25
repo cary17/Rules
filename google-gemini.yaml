@@ -1,13 +1,14 @@
 # NAME: google-gemini
-# UPDATED: 2026-11-24 11:26:13 +08:00
-# DOMAIN-SUFFIX: 4
+# UPDATED: 2026-11-25 09:35:21 +08:00
+# DOMAIN-SUFFIX: 5
 # DOMAIN-KEYWORD: 2
-# TOTAL: 6
+# TOTAL: 7
 domain_suffix_set:
   - "ai.studio"
   - "antigravity-unleash.goog"
   - "deepmind.com"
   - "gemini.gstatic.com"
+  - "gemma.ai"
 domain_keyword_set:
   - "clients"
   - "google"
