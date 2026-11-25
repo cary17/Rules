@@ -1,7 +1,7 @@
 # NAME: category-cdn-!cn
-# UPDATED: 2026-11-24 11:26:13 +08:00
-# DOMAIN-SUFFIX: 165
-# TOTAL: 165
+# UPDATED: 2026-11-25 09:35:21 +08:00
+# DOMAIN-SUFFIX: 167
+# TOTAL: 167
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
 DOMAIN-SUFFIX,aka-ai.net
@@ -122,10 +122,12 @@ DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,every1dns.net
 DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-insights.com
 DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlydns.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,foundationdns.com

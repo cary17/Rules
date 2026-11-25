@@ -1,9 +1,9 @@
 # NAME: cn
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 609
-# DOMAIN-SUFFIX: 8943
+# DOMAIN-SUFFIX: 8947
 # DOMAIN-WILDCARD: 2
-# TOTAL: 9554
+# TOTAL: 9558
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,a1.mzstatic.com
@@ -2643,6 +2643,7 @@ DOMAIN-SUFFIX,chuapp.com
 DOMAIN-SUFFIX,chugou360.com
 DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,chujingapp.com
+DOMAIN-SUFFIX,chunithm.wahlap.com
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,chunyuyisheng.com
 DOMAIN-SUFFIX,chushi.cool
@@ -5905,6 +5906,7 @@ DOMAIN-SUFFIX,mahjongcup.net
 DOMAIN-SUFFIX,maiche.com
 DOMAIN-SUFFIX,mail4399.com
 DOMAIN-SUFFIX,maimai.cn
+DOMAIN-SUFFIX,maimai.wahlap.com
 DOMAIN-SUFFIX,maimemo.com
 DOMAIN-SUFFIX,maimemostatus.com
 DOMAIN-SUFFIX,maindown4399.com
@@ -7858,6 +7860,7 @@ DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,tfzq.com
 DOMAIN-SUFFIX,tgbus.com
 DOMAIN-SUFFIX,tggfl.com
+DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
 DOMAIN-SUFFIX,tgovcloud.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
@@ -8529,6 +8532,7 @@ DOMAIN-SUFFIX,vxo7tu.com
 DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,wahaha.com.cn
+DOMAIN-SUFFIX,wahlap.net
 DOMAIN-SUFFIX,waifushangcheng.com
 DOMAIN-SUFFIX,wali.com
 DOMAIN-SUFFIX,wallstcn.com

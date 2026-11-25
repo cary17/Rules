@@ -1,10 +1,11 @@
 # NAME: nixos
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 11
-# TOTAL: 12
+# DOMAIN-SUFFIX: 12
+# TOTAL: 13
 DOMAIN,nix-community.github.io
 DOMAIN-SUFFIX,builtwithnix.org
+DOMAIN-SUFFIX,cachix.org
 DOMAIN-SUFFIX,mynixos.com
 DOMAIN-SUFFIX,nix-community.org
 DOMAIN-SUFFIX,nix.dev

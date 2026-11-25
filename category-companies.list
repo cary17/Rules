@@ -1,8 +1,8 @@
 # NAME: category-companies
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 616
-# DOMAIN-SUFFIX: 7563
-# TOTAL: 8179
+# DOMAIN-SUFFIX: 7564
+# TOTAL: 8180
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -3844,6 +3844,7 @@ DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,geforce.com.tw
 DOMAIN-SUFFIX,gemfire.net
 DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,gemma.ai
 DOMAIN-SUFFIX,genetic-technologies.am
 DOMAIN-SUFFIX,geneticconstructor.com
 DOMAIN-SUFFIX,genotek.am
