@@ -1,11 +1,12 @@
 # NAME: google-deepmind
-# UPDATED: 2026-11-24 11:26:13 +08:00
-# DOMAIN-SUFFIX: 4
+# UPDATED: 2026-11-25 09:35:21 +08:00
+# DOMAIN-SUFFIX: 5
 # DOMAIN-KEYWORD: 2
-# TOTAL: 6
+# TOTAL: 7
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,gemini.gstatic.com
+DOMAIN-SUFFIX,gemma.ai
 DOMAIN-KEYWORD,clients
 DOMAIN-KEYWORD,google

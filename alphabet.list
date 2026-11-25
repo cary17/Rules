@@ -1,8 +1,8 @@
 # NAME: alphabet
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 99
-# DOMAIN-SUFFIX: 849
-# TOTAL: 948
+# DOMAIN-SUFFIX: 850
+# TOTAL: 949
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com
@@ -322,6 +322,7 @@ DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,g.page
 DOMAIN-SUFFIX,gateway.dev
 DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,gemma.ai
 DOMAIN-SUFFIX,gerritcodereview.com
 DOMAIN-SUFFIX,get.app
 DOMAIN-SUFFIX,get.dev

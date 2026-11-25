@@ -1,9 +1,9 @@
 # NAME: google
-# UPDATED: 2026-11-24 11:26:13 +08:00
+# UPDATED: 2026-11-25 09:35:21 +08:00
 # DOMAIN: 48
-# DOMAIN-SUFFIX: 328
+# DOMAIN-SUFFIX: 329
 # DOMAIN-KEYWORD: 10
-# TOTAL: 386
+# TOTAL: 387
 DOMAIN,apps5.oingo.com
 DOMAIN,beacons.gcp.gvt2.com
 DOMAIN,beacons.gvt2.com
@@ -186,6 +186,7 @@ DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,g.page
 DOMAIN-SUFFIX,gateway.dev
 DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,gemma.ai
 DOMAIN-SUFFIX,gerritcodereview.com
 DOMAIN-SUFFIX,get.app
 DOMAIN-SUFFIX,get.dev
