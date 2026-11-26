@@ -1,13 +1,14 @@
 # NAME: category-ai-ru
-# UPDATED: 2026-11-25 09:35:21 +08:00
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2026-11-26 09:07:08 +08:00
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 domain_suffix_set:
   - "aiesa.ru"
   - "alice.yandex.net"
   - "alice.yandex.ru"
   - "alicepro.yandex.ru"
   - "copymonkey.app"
+  - "devmachine.ai"
   - "gerwin.io"
   - "giga.chat"
   - "gptunnel.ru"

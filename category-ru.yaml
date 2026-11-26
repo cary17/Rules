@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-11-25 09:35:21 +08:00
+# UPDATED: 2026-11-26 09:07:08 +08:00
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 925
-# TOTAL: 1149
+# DOMAIN-SUFFIX: 937
+# TOTAL: 1161
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -267,6 +267,7 @@ domain_suffix_set:
   - "adfox.ru"
   - "adfox.yandex.ru"
   - "admetrica.ru"
+  - "admkamyshin.info"
   - "adriver.ru"
   - "ads.sber.ru"
   - "ads.viqeo.tv"
@@ -313,6 +314,7 @@ domain_suffix_set:
   - "bank131.com"
   - "baranky.com"
   - "bargipsy.com"
+  - "barnaul.org"
   - "beeline.tv"
   - "beget.app"
   - "beget.cloud"
@@ -392,6 +394,7 @@ domain_suffix_set:
   - "dert.tech"
   - "dev-my.com"
   - "dev-my.games"
+  - "devmachine.ai"
   - "dodois.com"
   - "dodois.io"
   - "dodopizza.com"
@@ -610,8 +613,11 @@ domain_suffix_set:
   - "kaspersky.ro"
   - "kaspersky.rs"
   - "kaspersky.se"
+  - "kaspiysk.org"
+  - "kchr.info"
   - "keyboardmen.com"
   - "khangar.net"
+  - "khural.org"
   - "kinescopecdn.net"
   - "kinorium.com"
   - "knightspeak.com"
@@ -669,6 +675,7 @@ domain_suffix_set:
   - "ms.vk.com"
   - "ms.vk.ru"
   - "mts-ws.net"
+  - "murom.info"
   - "mvk.com"
   - "my-manager-account.com"
   - "my.com"
@@ -688,6 +695,8 @@ domain_suffix_set:
   - "ngenix.net"
   - "noticias-rt.com"
   - "notimundo.press"
+  - "novoshakhtinsk.org"
+  - "ntagil.org"
   - "obs.mts.ru"
   - "odnoklasniki.by"
   - "odnoklasniki.ua"
@@ -706,6 +715,7 @@ domain_suffix_set:
   - "okolo.app"
   - "opennet.dev"
   - "oskelly.co"
+  - "oskol.city"
   - "ostin.com"
   - "otzovik.com"
   - "ozon.app"
@@ -825,6 +835,7 @@ domain_suffix_set:
   - "ru.ccb.com"
   - "ru.com"
   - "ru.net"
+  - "rubtsovsk.org"
   - "rugpt.io"
   - "ruhub.tv"
   - "runewsrt.com"
@@ -881,6 +892,7 @@ domain_suffix_set:
   - "smena.cafe"
   - "smotreshka.tv"
   - "sn-esp.site"
+  - "sobranie.info"
   - "sokolov.io"
   - "sourcecraft.dev"
   - "spasibo.digital"
