@@ -4,17 +4,20 @@
     {
       "domain_suffix": [
         "inplat.ru",
-        "megafon.com",
-        "megafon.ru",
-        "megafonpro.ru",
+        "megapbx.ru",
+        "megatech-it.ru",
         "mgfn.ru",
-        "report-megafon.ru",
+        "mobileid.ru",
+        "multifon.ru",
         "scartel.ru",
         "xn--80a9a4b.xn--p1ai",
         "xn--80aj3b.xn--p1ai",
         "xn--80arpq.xn--p1ai",
         "yota.ru",
         "yotagamer.ru"
+      ],
+      "domain_keyword": [
+        "megafon"
       ]
     }
   ]
