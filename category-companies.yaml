@@ -1,9 +1,9 @@
 # NAME: category-companies
-# UPDATED: 2026-11-26 09:07:08 +08:00
+# UPDATED: 2026-11-27 09:14:17 +08:00
 # DOMAIN: 616
-# DOMAIN-SUFFIX: 7564
+# DOMAIN-SUFFIX: 7575
 # DOMAIN-REGEX: 6
-# TOTAL: 8186
+# TOTAL: 8197
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -5565,11 +5565,14 @@ domain_suffix_set:
   - "meetfasttrack.com"
   - "meetsmartbook.com"
   - "meetyourdevices.com"
+  - "megafon.cloud"
   - "megafon.com"
   - "megafon.ru"
   - "megafonpro.ru"
   - "megamon.co.kr"
+  - "megapbx.ru"
   - "megasrv.de"
+  - "megatech-it.ru"
   - "melon.com"
   - "memealerts.com"
   - "men.com"
@@ -5598,6 +5601,7 @@ domain_suffix_set:
   - "mfg-inspector.com"
   - "mgfn.ru"
   - "mgmt-azure-api.cn"
+  - "mgts.ru"
   - "michill.jp"
   - "microbit.org"
   - "microsoft-falcon.io"
@@ -5753,6 +5757,7 @@ domain_suffix_set:
   - "mobileads.google.com"
   - "mobilefacebook.com"
   - "mobileicq.com"
+  - "mobileid.ru"
   - "mobilemarketo.com"
   - "mobileme.dk"
   - "mobileview.page"
@@ -5960,6 +5965,7 @@ domain_suffix_set:
   - "mtsdengi.ru"
   - "mtsmedia.ru"
   - "mudbox3d.com"
+  - "multifon.ru"
   - "multiplydiversity.com"
   - "muse.ai"
   - "musickit.net"
@@ -6167,6 +6173,7 @@ domain_suffix_set:
   - "o365weve-dev.com"
   - "o365weve-ppe.com"
   - "o365weve.com"
+  - "o7.com"
   - "oath.cloud"
   - "oath.com"
   - "oauthz.com"
@@ -6252,6 +6259,7 @@ domain_suffix_set:
   - "oneworldmanystories.com"
   - "oninstagram.com"
   - "onkakao.net"
+  - "onlime.ru"
   - "online-deals.net"
   - "online-instagram.com"
   - "onlineapplestore.com"
@@ -6607,6 +6615,7 @@ domain_suffix_set:
   - "rocksdb.net"
   - "rocksdb.org"
   - "rostaxi.org"
+  - "rostelecom-rb.ru"
   - "rostelecom.ru"
   - "route53.cn"
   - "routerboard.com"
@@ -6958,6 +6967,7 @@ domain_suffix_set:
   - "spaceship.com"
   - "spacex.com"
   - "spcc-sp.com"
+  - "spd-mgts.ru"
   - "speedtest.com.hk"
   - "spektral.cc"
   - "splunk.com"
@@ -7694,6 +7704,7 @@ domain_suffix_set:
   - "xn--9trs65b.com"
   - "xn--czrs0t4phtr3a.cn"
   - "xn--d1acpjx3f.xn--p1ai"
+  - "xn--e1aapchhekkk.xn--p1ai"
   - "xn--e1aigb.xn--p1ai"
   - "xn--fiqs8sxootzz.cn"
   - "xn--fiqs8sxootzz.xn--hxt814e"

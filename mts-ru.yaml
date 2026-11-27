@@ -1,11 +1,12 @@
 # NAME: mts-ru
-# UPDATED: 2026-11-26 09:07:08 +08:00
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2026-11-27 09:14:17 +08:00
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
 domain_suffix_set:
   - "a.mts.ru"
   - "dbo-dengi.online"
   - "kion.ru"
+  - "mgts.ru"
   - "mts-link.ru"
   - "mts-ws.net"
   - "mts.ru"
@@ -15,4 +16,5 @@ domain_suffix_set:
   - "mymts.ru"
   - "obs.mts.ru"
   - "on-media.ru"
+  - "spd-mgts.ru"
   - "tvoyodbo.online"

@@ -1,8 +1,8 @@
 # NAME: category-ru
-# UPDATED: 2026-11-26 09:07:08 +08:00
+# UPDATED: 2026-11-27 09:14:17 +08:00
 # DOMAIN: 224
-# DOMAIN-SUFFIX: 937
-# TOTAL: 1161
+# DOMAIN-SUFFIX: 943
+# TOTAL: 1167
 domain_set:
   - "1l-hit.mail.ru"
   - "1l-hit.vkplay.ru"
@@ -487,6 +487,7 @@ domain_suffix_set:
   - "gismeteo.st"
   - "gogettaxi.org"
   - "goicq.org"
+  - "goodline.info"
   - "gorzdrav.org"
   - "goup.ai"
   - "gramotei.online"
@@ -643,6 +644,7 @@ domain_suffix_set:
   - "medsi.com"
   - "medsi.pro"
   - "megabitus.com"
+  - "megafon.cloud"
   - "megafon.com"
   - "megamarket.tech"
   - "mel.fm"
@@ -697,6 +699,7 @@ domain_suffix_set:
   - "notimundo.press"
   - "novoshakhtinsk.org"
   - "ntagil.org"
+  - "o7.com"
   - "obs.mts.ru"
   - "odnoklasniki.by"
   - "odnoklasniki.ua"
@@ -747,6 +750,7 @@ domain_suffix_set:
   - "perekrestok.com"
   - "pixonic.com"
   - "pobeda.page"
+  - "podryad.tv"
   - "polza.ai"
   - "popmechanic.io"
   - "poudobnee.com"
@@ -772,6 +776,7 @@ domain_suffix_set:
   - "rbsuat.com"
   - "rbth.com"
   - "reaviz.com"
+  - "redcom.net"
   - "reg.cloud"
   - "reg.com"
   - "relap.mail.ru"
@@ -1164,5 +1169,6 @@ domain_suffix_set:
   - "youla.io"
   - "yourgood.app"
   - "zapishu.me"
+  - "zsttk.net"
   - "zvuk-b2b.com"
   - "zvuk.com"

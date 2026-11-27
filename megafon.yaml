@@ -1,17 +1,20 @@
 # NAME: megafon
-# UPDATED: 2026-11-26 09:07:08 +08:00
+# UPDATED: 2026-11-27 09:14:17 +08:00
 # DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# DOMAIN-KEYWORD: 1
+# TOTAL: 13
 domain_suffix_set:
   - "inplat.ru"
-  - "megafon.com"
-  - "megafon.ru"
-  - "megafonpro.ru"
+  - "megapbx.ru"
+  - "megatech-it.ru"
   - "mgfn.ru"
-  - "report-megafon.ru"
+  - "mobileid.ru"
+  - "multifon.ru"
   - "scartel.ru"
   - "xn--80a9a4b.xn--p1ai"
   - "xn--80aj3b.xn--p1ai"
   - "xn--80arpq.xn--p1ai"
   - "yota.ru"
   - "yotagamer.ru"
+domain_keyword_set:
+  - "megafon"
