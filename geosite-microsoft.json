@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "aurora-customization-usw2.lithium.com",
         "bj1.api.bing.com",
         "rink.hockeyapp.net",
         "vsmarketplacebadge.apphb.com"
