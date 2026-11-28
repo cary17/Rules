@@ -1,10 +1,11 @@
 # NAME: microsoft
-# UPDATED: 2026-11-27 09:14:17 +08:00
-# DOMAIN: 3
+# UPDATED: 2026-11-28 08:37:02 +08:00
+# DOMAIN: 4
 # DOMAIN-SUFFIX: 348
 # DOMAIN-KEYWORD: 15
-# TOTAL: 366
+# TOTAL: 367
 domain_set:
+  - "aurora-customization-usw2.lithium.com"
   - "bj1.api.bing.com"
   - "rink.hockeyapp.net"
   - "vsmarketplacebadge.apphb.com"
