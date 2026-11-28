@@ -1,8 +1,8 @@
 # NAME: category-companies
-# UPDATED: 2026-11-27 09:14:17 +08:00
-# DOMAIN: 616
+# UPDATED: 2026-11-28 08:37:02 +08:00
+# DOMAIN: 617
 # DOMAIN-SUFFIX: 7575
-# TOTAL: 8191
+# TOTAL: 8192
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,a1.mzstatic.com
@@ -88,6 +88,7 @@ DOMAIN,appleid.cdn-apple.com
 DOMAIN,apps.mzstatic.com
 DOMAIN,apps5.oingo.com
 DOMAIN,apptrailers.itunes.apple.com
+DOMAIN,aurora-customization-usw2.lithium.com
 DOMAIN,avail.googleflights.net
 DOMAIN,azuremigrate.download.prss.microsoft.com
 DOMAIN,azuremigratetest.download.prss.microsoft.com
