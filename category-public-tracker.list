@@ -1,8 +1,8 @@
 # NAME: category-public-tracker
-# UPDATED: 2026-11-27 09:14:17 +08:00
-# DOMAIN: 400
-# DOMAIN-SUFFIX: 31
-# TOTAL: 431
+# UPDATED: 2026-11-28 08:37:02 +08:00
+# DOMAIN: 398
+# DOMAIN-SUFFIX: 34
+# TOTAL: 432
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,10.rarbg.com
@@ -139,7 +139,6 @@ DOMAIN,opentor.org
 DOMAIN,opentracker.acgnx.com
 DOMAIN,opentracker.acgnx.se
 DOMAIN,opentracker.io
-DOMAIN,opentrackr.org
 DOMAIN,oscar.reyesleon.xyz
 DOMAIN,p2p.0g.cx
 DOMAIN,p2p.publictracker.xyz
@@ -312,7 +311,6 @@ DOMAIN,tracker.netmap.top
 DOMAIN,tracker.nighthawk.pw
 DOMAIN,tracker.open-internet.nl
 DOMAIN,tracker.openbittorrent.com
-DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.picotorrent.one
 DOMAIN,tracker.pirateparty.gr
 DOMAIN,tracker.plx.im
@@ -417,6 +415,8 @@ DOMAIN-SUFFIX,megatorrents.kg
 DOMAIN-SUFFIX,mvgroup.org
 DOMAIN-SUFFIX,nnm-club.cc
 DOMAIN-SUFFIX,nnm-club.info
+DOMAIN-SUFFIX,opentracker.xyz
+DOMAIN-SUFFIX,opentrackr.org
 DOMAIN-SUFFIX,peckservers.com
 DOMAIN-SUFFIX,searchtor.to
 DOMAIN-SUFFIX,shnflac.net
@@ -433,4 +433,5 @@ DOMAIN-SUFFIX,tvnihon.com
 DOMAIN-SUFFIX,worldboxingvideoarchive.com
 DOMAIN-SUFFIX,xwt-classics.net
 DOMAIN-SUFFIX,yuwabits.net
+DOMAIN-SUFFIX,zer0day.ch
 DOMAIN-SUFFIX,zone-torrent.net

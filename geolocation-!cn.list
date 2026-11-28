@@ -1,8 +1,8 @@
 # NAME: geolocation-!cn
-# UPDATED: 2026-11-27 09:14:17 +08:00
-# DOMAIN: 249
+# UPDATED: 2026-11-28 08:37:02 +08:00
+# DOMAIN: 250
 # DOMAIN-SUFFIX: 23609
-# TOTAL: 23858
+# TOTAL: 23859
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN,1password.drift.click
@@ -79,6 +79,7 @@ DOMAIN,api.dashly.app
 DOMAIN,api.dashlytrack.app
 DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
+DOMAIN,aurora-customization-usw2.lithium.com
 DOMAIN,b2.mail.ru
 DOMAIN,bbs.boingboing.net
 DOMAIN,beck-online.beck.de
